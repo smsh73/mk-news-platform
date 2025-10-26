@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  mk-ai-platform:
+    build: .
+    ports:
+      - "8501:8501"
+    environment:
+      - GCP_PROJECT_ID=mk-ai-project-473000
+      - GCP_REGION=asia-northeast3
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - DB_INSTANCE_NAME=mk-news-db
+      - DB_NAME=mk_news
+      - DB_USER=postgres
+      - DB_PASSWORD=${DB_PASSWORD}
+    volumes:
+      - ./src:/app/src
+      - ./terraform:/app/terraform
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8501"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s

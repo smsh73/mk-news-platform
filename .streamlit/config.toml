@@ -1,0 +1,19 @@
+[theme]
+primaryColor = "#4285f4"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f8f9fa"
+textColor = "#202124"
+font = "sans serif"
+
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = false
+
+[browser]
+gatherUsageStats = false
+
+[runner]
+magicEnabled = false
+installTracer = false
+fixMatplotlib = false
