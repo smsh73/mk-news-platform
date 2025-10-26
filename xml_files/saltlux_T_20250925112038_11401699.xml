@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11401699</art_id>
+<art_year>2025</art_year>
+<art_no>604740</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-25 07:29:33</service_daytime>
+<title><![CDATA[“손 끝 100g 미세한 무게도 완벽하게 감지”...K 휴머노이드 기술 혁신 수준은]]></title>
+<sub_title><![CDATA[위로보틱스가 공개한 ‘알렉스’
+손목·손가락 움직임 자유로워
+미세한 힘도 감지해 반응 조절
+악수하니 실제 사람과 하는 듯
+
+나사못 조이고 핀셋 정밀조작
+“AI접목, 만능 로봇으로 개발”]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[안선제 기자(ahn.sunje@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-25 07:29:33</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">위로보틱스가 공개한 ‘알렉스’<br>손목·손가락 움직임 자유로워<br>미세한 힘도 감지해 반응 조절<br>악수하니 실제 사람과 하는 듯<br><br>나사못 조이고 핀셋 정밀조작<br>“AI접목, 만능 로봇으로 개발”</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/25/news-p.v1.20250824.5c3b998bb9534ee99d3d2ad8c9d3b315_P1.png' alt=' 김용재 위로보틱스 대표(왼쪽)와 이광규 로봇 이노베이션 허브(RIH) 센터장이 22일 천안 한국기술교육대 다담미래 학습관에서 휴머노이드 로봇 ‘알렉스’와 포즈를 취하고 있다. &lt;안선제 기자&gt;'>
+글로벌 빅테크들이 앞다퉈 뛰어들고 있는 휴머노이드 로봇 시장에 국내 스타트업이 과감하게 출사표를 던졌다. 최근 범용 휴머노이드 ‘알렉스(ALLEX)’를 공개한 위로보틱스가 주인공이다. 지난 22일 충남 천안 한국기술교육대 다담미래학습관에서 만난 김용재 위로보틱스 대표는 “알렉스처럼 사람과 자연스러운 상호작용이 가능한 로봇은 세계적으로도 드물다”고 말했다.
+김 대표의 말처럼 알렉스는 단순한 기계 동작을 넘어 사람과 교감하는 듯한 모습을 보여줬다. 팔목을 내밀자 아프지 않게 손목을 감싸쥐는가 하면 하이파이브와 악수도 매끄럽게 해냈다. 적당한 힘과 유연한 손목 움직임이 실제 사람 같았다.
+알렉스의 손은 15개의 관절(15자유도)을 갖고 있어 정밀한 움직임이 가능했다. 물병 뚜껑을 따거나 얇은 나사못을 조이는 것은 물론, 핀셋으로 쌀알 크기의 미세한 부품을 옮기는 것도 가능하다. 손목뿐 아니라 10개의 손가락 각각이 유연하고 자유롭게 움직였다. 깍지를 낀 채로 양손을 앞으로 쭉 뻗으며 스트레칭을 하는 등 기존 휴머노이드들이 하지 못했던 고난도 동작을 선보였다. 김 대표는 “알렉스의 가장 큰 특징은 사람처럼 무게감(역감)을 느낀다는 것”이라며 “100g 단위의 미세한 무게까지 감지하고 무게 차이에 따라 동작과 반응을 조절할 수 있다”고 말했다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/25/news-p.v1.20250824.5595b443792b40f4bc3de91cb5a361bc_P1.png' alt=''>
+기존 로봇들이 센서를 이용해 힘의 크기와 방향 등을 측정했던 것과 달리 알렉스는 독자 기술 개발을 통해 액추에이터(구동기) 성능을 고도화해 이 같은 기능을 구현했다는 게 김 대표 설명이다. 액추에이터는 전기 에너지를 물리적인 힘과 움직임으로 변환하는 장치로, 로봇의 움직임을 제어하고 원하는 작업을 수행하게 하는 역할을 한다.
+다만 알렉스는 현재 상반신 하드웨어 개발만을 완료한 단계로, 동작 수행을 위해서는 별도의 프로그램 수동 조정이 필요하다. 위로보틱스는 피지컬 인공지능(AI) 스타트업 ‘리얼월드’ 등과 협업해 알렉스가 AI를 통해 스스로 정보를 인지하고 상황에 맞는 행동을 할 수 있도록 할 예정이다. 이동성 강화를 위해 바퀴도 장착한다는 방침이다. 이와 별개로 김 대표는 내년 초까지 하반신 다리 플랫폼까지 공개할 계획이라고 전했다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/25/news-g.v1.20250824.ffe3f10b560c42ae84f96d4eae2e26eb_P1.jpg' alt=''>
+김 대표는 알렉스를 산업용 로봇이 아닌, 가정·식당 등에서 누구나 활용할 수 있는 범용 서비스 로봇으로 구현한다는 목표다. 글로벌 시장조사기관 포천 비즈니스 인사이트는 글로벌 휴머노이드 로봇 시장 규모가 2023년 24억3000만달러에서 2032년 660억달러까지 가파르게 성장할 것으로 전망한 바 있다.
+김 대표는 로봇 분야에서 수십 년간 경력을 쌓아온 베테랑이다. 삼성전자 등에서 연구를 이어오던 그는 여러 글로벌 기업의 러브콜을 받았지만 국내에서 독자 기술을 개발하는 데 의미를 두고 한국에 남아 창업을 택했다. 위로보틱스는 2021년 설립 이후 웨어러블 보조 로봇을 중심으로 제품을 개발해오다 범용 휴머노이드 개발에 도전했다.
+김 대표는 “오랫동안 팔·손·다리를 따로 연구해 왔지만 지금 로봇의 발전이 너무 빠르기 때문에 이를 합쳐 플랫폼화해야 할 시기라고 판단했다”며 “알렉스를 공개한 것은 우리가 쌓아온 기술력을 보여주고, 다양한 기업과 연대해 발전해가자는 의미”라고 설명했다. 실제로 지난 18일 알렉스 공개 이후 연구용 도입과 양산 등의 협업 논의가 잇따르고 있다는 게 그의 설명이다.
+위로보틱스는 현재 정부가 추진하는 K휴머노이드 연합에 참여하고 있기도 하다. 김 대표는 “한국이 현재 중국에 비해 기술이 많이 뒤처져 있고 자금력에서는 미국을 따라가기 어려운 것이 사실이지만 유망 분야를 잘 발굴해 집중 지원하고 국내 연구자들이 많은 경험을 할 수 있도록 도와주면 충분히 따라갈 수 있다”고 말했다. 그는 “인간과 자유로운 상호작용이 가능한 알렉스는 휴머노이드 분야의 새 패러다임이 될 것”이라고도 강조했다.
+김 대표와 알렉스를 함께 개발한 이광규 로봇 이노베이션 허브(RIH) 센터장은 “그간 로봇 지능 발전을 가로막은 것은 하드웨어의 한계였다고 생각한다”며 “이제 알렉스 플랫폼를 기반으로 다양한 AI 기업이 지능 연구를 빠르게 진행해 시너지효과를 낼 수 있을 것”이라고 기대감을 드러냈다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[위로보틱스가 공개한 ‘알렉스’ 손목·손가락 움직임 자유로워 미세한 힘도 감지해 반응 조절 악수하니 실제 사람과 하는 듯  나사못 조이고 핀셋 정밀조작 “AI접목, 만능 로봇으로 개발”글로벌 빅테크들이 앞다퉈 뛰어들고 있는 휴머노이드 로봇 시장에 국내 스타트업이 과감하게 출사표를 던졌다. 최근 범용 휴머노이드 ‘알렉스(ALLEX)’를 공개한 위로보틱스가 주인]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/25/news-p.v1.20250824.5c3b998bb9534ee99d3d2ad8c9d3b315_P1.png]]></image_url>
+<image_caption><![CDATA[ 김용재 위로보틱스 대표(왼쪽)와 이광규 로봇 이노베이션 허브(RIH) 센터장이 22일 천안 한국기술교육대 다담미래 학습관에서 휴머노이드 로봇 ‘알렉스’와 포즈를 취하고 있다. &lt;안선제 기자&gt;]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/25/news-p.v1.20250824.5595b443792b40f4bc3de91cb5a361bc_P1.png]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/25/news-g.v1.20250824.ffe3f10b560c42ae84f96d4eae2e26eb_P1.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11401699]]></article_url>
+</article>
+</saltlux>

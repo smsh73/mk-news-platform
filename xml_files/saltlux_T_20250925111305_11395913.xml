@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11395913</art_id>
+<art_year>2025</art_year>
+<art_no>587804</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-18 13:20:46</service_daytime>
+<title><![CDATA[日, 지자체에 ‘AI 책임자’ 도입…인구감소 속 업무 효율화]]></title>
+<sub_title><![CDATA[책임자 보좌할 전문 보좌관도 채용
+연내 지자체용 AI 이용 안내 작성]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[이승훈 특파원(thoth@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-18 13:20:46</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101002</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">책임자 보좌할 전문 보좌관도 채용<br>연내 지자체용 AI 이용 안내 작성</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/18/news-p.v1.20250818.79d94c7e52b14e0d99d271a4eeb210d4_P1.png' alt=' 일본 총무성 로고'>
+일본 정부가 생성형 인공지능(AI) 활용을 통한 지방 행정 업무 효율화에 본격적으로 나선다.
+18일 니혼게이자이신문(닛케이)은 일본 총무성이 연내 지방자치단체를 위한 생성형 AI 활용 지침을 마련하기로 했다고 보도했다.
+지침에 따르면 지자체는 생성형 AI 활용을 추진하고 관리하는 ‘최고 AI 책임자’(CAIO)와 전문 지식을 갖춘 ‘CAIO 보좌관’을 둬야 한다. 전문 보좌관의 경우 관련 인력 확보가 어려울 경우 복수 지자체가 제휴해 공동으로 활용하는 방안도 가능하다.
+이와 함께 AI를 활용한 행정 업무 사례나 사용 시 유의 사항 등을 담은 활용 지침도 발표한다. 예를 들어 AI를 활용해 주민 민원을 24시간 접수하거나 회의록·기획서 작성 등에 AI를 활용해 업무 시간을 줄인 사례 등이 포함될 전망이다. 또 생성형 AI 학습과 활용에는 주민 개인정보 사용을 금지하도록 명시한다.
+총무성은 각 지자체가 인구 감소와 인력 부족 상황 속에서도 생성형 AI를 안전하게 활용하면 지방 행정 효율을 높일 수 있을 것으로 보고 있다.
+총무성이 지난 6월 발표한 조사 결과에 따르면 인구 50만명 이상인 도시는 약 90%가 생성형 AI를 행정에 도입했으나, 이를 제외한 중소 지자체 중 AI를 도입한 곳은 약 30%에 불과했다.
+소규모 지자체일수록 AI 관련 지식을 가진 인재 확보가 어려워 생성형 AI를 도입하지 못하는 경우가 많은 것으로 나타났다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[책임자 보좌할 전문 보좌관도 채용 연내 지자체용 AI 이용 안내 작성일본 정부가 생성형 인공지능(AI) 활용을 통한 지방 행정 업무 효율화에 본격적으로 나선다. 18일 니혼게이자이신문(닛케이)은 일본 총무성이 연내 지방자치단체를 위한 생성형 AI 활용 지침을 마련하기로 했다고 보도했다. 지침에 따르면 지자체는 생성형 AI 활용을 추진하고 관리하는 ‘최고 A]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101002</code_id>
+<code_nm><![CDATA[국제경제]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101002</small_code_id>
+<small_code_nm><![CDATA[국제경제]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101001</code_id>
+<code_nm><![CDATA[국제정치]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101001</small_code_id>
+<small_code_nm><![CDATA[국제정치]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101003</code_id>
+<code_nm><![CDATA[국제산업]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101003</small_code_id>
+<small_code_nm><![CDATA[국제산업]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101010</code_id>
+<code_nm><![CDATA[아시아/호주]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101010</small_code_id>
+<small_code_nm><![CDATA[아시아/호주]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101007</code_id>
+<code_nm><![CDATA[국제사건/사고]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101007</small_code_id>
+<small_code_nm><![CDATA[국제사건/사고]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/18/news-p.v1.20250818.79d94c7e52b14e0d99d271a4eeb210d4_P1.png]]></image_url>
+<image_caption><![CDATA[ 일본 총무성 로고]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11395913]]></article_url>
+</article>
+</saltlux>

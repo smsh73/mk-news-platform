@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11399267</art_id>
+<art_year>2025</art_year>
+<art_no>597542</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-21 13:52:43</service_daytime>
+<title><![CDATA[꼬인 고무줄도 정교하게 푸는 로봇, 제조현장 협력 더 쉬워져]]></title>
+<sub_title><![CDATA[박대형 KAIST 전산학부 교수팀
+형태 변하는 물체도 움직이는 AI 개발
+물체의 전체 모습 상상해 움직여
+꼬여있는 고무줄도 쉽게 풀어]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[최원석 기자(choi.wonseok@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-21 13:52:43</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101401</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">박대형 KAIST 전산학부 교수팀<br>형태 변하는 물체도 움직이는 AI 개발<br>물체의 전체 모습 상상해 움직여<br>꼬여있는 고무줄도 쉽게 풀어</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250821.bf09c8386ea1472092f43839c105de04_P1.png' alt=' 박대형 KAIST 전산학부 교수팀이 개발한 로봇이 꼬여있는 고무줄을 풀고 있는 모습. [사진=유튜브 화면 갈무리]'>
+고무줄을 집어든 로봇이 막대로 다가가더니 고무줄을 끼운다. 막대 굵기에 맞춰 고무줄을 충분히 늘린 다음 정해진 위치에 딱 맞게 놓는다. 꼬여있는 고무줄도 한 가닥을 잡아 들어올리더니 금방 풀어버린다.
+간단한 행동처럼 보여도 로봇에게는 어려운 일이다. 로봇이 음식도 배달하고 공장에서 물건도 만드는 시대이지만, 지금까지 로봇은 항상 딱딱한 물체들만 다뤄왔다.
+로봇이 잡아도 형태가 변하지 않고, 항상 같은 모양이라서 카메라로 쉽게 인식할 수 있었다. 만약 수시로 모양이 변한다면 인식하거나 다루는 난이도가 훨씬 올라간다.
+이제는 로봇이 꼬인 고무줄을 풀 정도로 정교하게 움직일 수 있게 됐다. 박대형 KAIST 전산학부 교수팀이 고무줄처럼 형태가 변하는 물체도 능숙하게 다룰 수 있는 로봇 인공지능(AI) 기술을 개발했다고 21일 밝혔다.
+꼬인 고무줄을 풀어본 사람이라면 누구나 알듯, 이걸 풀기 어려운 건 어디서부터 꼬였는지를 눈으로도 제대로 확인할 수 없기 때문이다. 모양이 자유롭게 변하는 물체는 시각적으로 정확하게 인식할 수 없다.
+이 같은 ‘변형 물체 조작’은 로봇 공학의 오랜 난제 중 하나다. 움직임을 예측하기 어렵고, 심지어 물체가 접히거나 꼬이면 스스로 일부를 가려버리기 때문에 로봇이 전체 모습을 파악하기 어렵다.
+사람도 일부 만을 눈으로 본 다음, 가려진 부분과 꼬인 모양을 추론하여 풀어나가게 된다.
+연구진이 이번에 개발한 것 역시 같은 원리다. 로봇이 관측한 불완전한 시각 정보만을 갖고 AI를 통해 물체의 전체 형상을 복원한다. 이를 강화학습을 통해 어떻게 움직여야 할지를 알아내 로봇을 움직인다.
+이 기술은 관측한 물체의 부분적인 3차원 정보를 입력받아, 보이지 않는 부분을 포함한 전체 형상을 연속적인 곡면으로 재구성한다. 이를 통해 로봇은 사람처럼 물체의 전체 모습을 상상하고 이해하게 된다.
+이후 물체의 현재 상태와 목표 상태 간의 차이를 구분하고, 필요한 최적의 행동을 찾아내 물체를 움직인다.
+실제 실험 결과, 로봇은 고무줄 끼우기, 풀기 작업을 90% 이상의 성공률로 수행했고, 특히 양방향으로 꼬여있는 고무줄을 푸는 것도 기존 기술 대비 25% 더 높은 성공률을 기록했다.
+이번 연구 논문의 제1저자인 송민석 연구원은 “로봇이 불완전한 정보만으로도 변형 물체의 전체 모습을 이해하고, 이를 바탕으로 복잡한 조작을 수행할 수 있다는 걸 보여줬다”며 “제조, 물류, 의료 등 다양한 분야에서 인간과 협력하거나 인간을 대신해 정교한 작업을 수행하는 로봇 기술 발전에 크게 기여할 것”이라고 했다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250821.1791f611af5d410ea9e04e69bf8b43ea_P1.jpg' alt=' 박대형 KAIST 전산학부 교수(오른쪽)와 논문 제1저자인 송민석 연구원이 로봇이 고무줄을 끼우는 모습을 보고 있다. [사진=KAIST]'>
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[박대형 KAIST 전산학부 교수팀 형태 변하는 물체도 움직이는 AI 개발 물체의 전체 모습 상상해 움직여 꼬여있는 고무줄도 쉽게 풀어고무줄을 집어든 로봇이 막대로 다가가더니 고무줄을 끼운다. 막대 굵기에 맞춰 고무줄을 충분히 늘린 다음 정해진 위치에 딱 맞게 놓는다. 꼬여있는 고무줄도 한 가닥을 잡아 들어올리더니 금방 풀어버린다. 간단한 행동처럼 보여도 로]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101401</code_id>
+<code_nm><![CDATA[과학일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101401</small_code_id>
+<small_code_nm><![CDATA[과학일반]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250821.bf09c8386ea1472092f43839c105de04_P1.png]]></image_url>
+<image_caption><![CDATA[ 박대형 KAIST 전산학부 교수팀이 개발한 로봇이 꼬여있는 고무줄을 풀고 있는 모습. [사진=유튜브 화면 갈무리]]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250821.1791f611af5d410ea9e04e69bf8b43ea_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 박대형 KAIST 전산학부 교수(오른쪽)와 논문 제1저자인 송민석 연구원이 로봇이 고무줄을 끼우는 모습을 보고 있다. [사진=KAIST]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11399267]]></article_url>
+</article>
+</saltlux>

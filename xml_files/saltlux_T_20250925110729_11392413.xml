@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11392413</art_id>
+<art_year>2025</art_year>
+<art_no>577008</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-13 09:13:35</service_daytime>
+<title><![CDATA[난자 냉동, ‘3일 주사’로 가능… 美스타트업 ‘가메토’ 4400만 달러 투자 유치]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[원호섭 기자(wonc@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-13 09:13:35</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/13/news-p.v1.20250813.57477f7d7e3148e180bf10da6661df40_P1.png' alt=' 가메토의 기술, 줄기세포를 난소 보조 세포로 변환시켜 기존 시험관 아기 시술이 가진 부작용을 줄인다. [그림=가메토]'>
+미국 바이오테크 기업 가메토(Gameto Inc)가 여성 난임 치료와 난자 냉동 과정을 혁신하는 기술 개발을 위해 4400만 달러(약 610억 원)를 추가로 투자받았다.
+12일(현지시간) 블룸버그에 따르면 이번 투자 라운드는 오버워터벤처스가 주도했으며 가메토는 이를 바탕으로 자사 핵심 제품 ‘퍼틸로(Fertilo)’의 미국 식품의약청(FDA) 승인 임상시험을 가속할 계획이다.
+현재 난자 냉동과 시험관 아기 시술(IVF) 과정에서 여성은 난소에서 다수의 난자를 얻기 위해 2주 이상 하루 2차례의 호르몬 주사를 맞는다. 이 과정은 메스꺼움, 두통, 기분 변화, 극심한 피로 등 부작용을 유발하며, 일부 환자는 여러 차례 시술을 반복해야 한다.
+가메토의 퍼틸로는 줄기세포를 난소 보조세포로 변환해 이 문제를 줄였다. 환자는 단 3일간 주사를 맞고 난자를 채취한 뒤, 나머지 성숙 과정은 실험실에서 변환된 보조 세포가 대신 진행한다. 멕시코와 페루에서는 이미 이 기술로 태어난 아기가 5명에 달한다.
+퍼틸로는 기존에 일부 환자에게만 사용되던 체외 성숙(IVM, In-Vitro Maturation) 기술을 개선한 것이다. IVM은 호르몬 주사에 반응이 좋지 않거나 암 치료로 호르몬 요법이 어려운 경우 사용되지만, 성공률이 낮아 널리 쓰이지 않았다. 가메토는 변환 세포를 이용해 IVM의 난자 성숙률과 임신 성공률을 크게 끌어올렸다고 주장한다.
+디나 라덴코빅 터너 가메토 CEO는 “모든 여성에게 ‘젊은 난소’를 제공해, 한 주기마다 단 1개의 성숙 난자만 생성되는 자연적 한계를 극복하는 것이 목표”라고 설명했다.
+퍼틸로는 현재 미국에서 2026년 말까지 임상시험이 진행 중이며, 멕시코·페루·호주에서는 이미 상용화됐다. 또 9개국에서 규제 승인을 받았다. 가메토는 이 기술을 폐경 증상 완화와 난소 건강 유지에도 응용하기 위한 기술도 개발 중이다. 2020년 설립된 가메토는 지금까지 총 1억2700만 달러를 투자받았다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[미국 바이오테크 기업 가메토(Gameto Inc)가 여성 난임 치료와 난자 냉동 과정을 혁신하는 기술 개발을 위해 4400만 달러(약 610억 원)를 추가로 투자받았다. 12일(현지시간) 블룸버그에 따르면 이번 투자 라운드는 오버워터벤처스가 주도했으며 가메토는 이를 바탕으로 자사 핵심 제품 ‘퍼틸로(Fertilo)’의 미국 식품의약청(FDA) 승인 임상시험]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101508</code_id>
+<code_nm><![CDATA[빅데이터]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101508</small_code_id>
+<small_code_nm><![CDATA[빅데이터]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/13/news-p.v1.20250813.57477f7d7e3148e180bf10da6661df40_P1.png]]></image_url>
+<image_caption><![CDATA[ 가메토의 기술, 줄기세포를 난소 보조 세포로 변환시켜 기존 시험관 아기 시술이 가진 부작용을 줄인다. [그림=가메토]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11392413]]></article_url>
+</article>
+</saltlux>

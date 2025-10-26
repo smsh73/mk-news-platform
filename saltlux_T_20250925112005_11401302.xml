@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11401302</art_id>
+<art_year>2025</art_year>
+<art_no>603770</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-24 13:08:24</service_daytime>
+<title><![CDATA[에스원, 물류센터 분실·사고 막는 솔루션 내놔]]></title>
+<sub_title><![CDATA[오배송 시 영상 검색하는 ‘물류 추적 솔루션’
+AI로 사고 예방하는 ‘SVMS 안전모니터링’]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[이호준 기자(lee.hojoon@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-24 13:08:24</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100402</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">오배송 시 영상 검색하는 ‘물류 추적 솔루션’<br>AI로 사고 예방하는 ‘SVMS 안전모니터링’</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/24/news-p.v1.20250823.4f0a23757cb84b1db8a99b7844963d17_P1.jpg' alt=' BGF로지스 직원과 에스원 근무자가 남사센터에서 물류추적시스템을 확인하고 있다. [사진제공=에스원]'>
+물류센터 컨베이어벨트 위를 빠르게 지나가는 수많은 상자들. 매일 수십만 건의 화물이 입·출고되는 이 공간에서 작은 실수 하나는 대형 사고나 막대한 손실로 직결될 수 있다.
+국가물류통합정보센터에 따르면, 국내 택배 물량은 2021년 36억3000만개에서 2023년 51억5000만개로 2년간 42% 증가하며 가파른 상승세를 보이고 있다. 이러한 택배 물량 증가는 물류센터 규모 확대로 이어졌다. 전국 물류센터 등록면적은 2021년 4,363만㎡에서 2023년 약 6,457만㎡로 2년간 48% 확대된 것으로 나타났다.
+반면, 같은 기간 물류업 종사자 수는 78만8000명에서 85만1000명으로 8% 증가에 그쳐 관리 인력이 물류시설 확장 속도를 따라가지 못하고 있다. 이로 인해 물류센터 현장에서는 배송 물품 관리에 어려움을 겪고 있다.
+과거에는 물량이 많지 않아 작업자 실수로 인한 오배송이나 분실 등의 문제가 발생하더라도 CCTV 영상 확인과 작업자 면담을 통해 원인을 파악하고 문제를 해결할 수 있었다. 하지만 최근 물류 처리량은 증가한 반면 인력은 부족해지면서, 기존 방식만으로는 대응이 불가능한 상황에 이르렀다.
+또한 물류센터 내 인명 사고도 심각한 수준으로 늘어나고 있다. 2020년 경기도의 한 물류창고 화재로 38명이 사망하고 10명이 부상당했으며 2022년부터 2024년까지 수도권 다수 센터에서 컨베이어벨트 사고와 지게차 충돌, 상하차 작업 중 추락 사망 사고가 반복적으로 발생했다.
+이처럼 물류센터 내에서 배송 오류, 인명사고 등 복합적인 문제들이 발생하고 있는 상황에서 CCTV 운영만으로는 관리에 한계가 있을 수 밖에 없다. 급변하는 물류환경에 효과적으로 대응하기 위한 새로운 솔루션이 요구되고 있다.
+에스원은 이러한 물류업계를 지원하기 위해 오배송이나 분실 발생 시 즉시 관련 영상을 검색해 문제 해결을 돕는 ‘물류 추적 솔루션’과 AI 알고리즘을 활용해 사건 사고 예방을 돕는 ‘SVMS 안전모니터링’을 제공한다.
+한국소비자원 조사에 따르면 전체 배송사고 중 상품 분실이 30.3%를 차지할 정도로 물류 과정에서의 손실 문제가 심각한 상황이다. 분실 사고는 주로 포장 누락이나 라벨부착 오류 등 물류센터 내부 문제로 인해 발생하며, 이는 오배송으로 이어져 환불·재배송 처리는 물론 기업 신뢰도 저하까지 야기하고 있다.
+물류 추적 솔루션은 이러한 문제를 해결하기 위한 시스템으로, 배송 물품 오배송이나 분실로 인해 발생할 수 있는 손실을 최소화해준다.
+해당 솔루션은 배송 물품이 컨베이어벨트를 지나가며 바코드가 찍힐 때마다 그 모습을 CCTV로 자동 촬영한다. 예를 들어 택배 상자가 분류 작업대를 지날 때, 포장 작업을 할 때 등 각 단계마다 촬영이 이뤄진다.
+촬영된 영상은 해당 택배의 송장번호와 연결되어 저장되기 때문에, 문제 발생 시 송장번호만 PC에 입력하면 해당 상품이 물류센터에서 어떤 과정을 거쳤는지 처음부터 끝까지 영상으로 확인할 수 있다. 이를 통해 포장 누락이나 라벨 오류 등의 원인을 신속하게 파악해 손실을 최소화해준다.
+실제로 BGF로지스 검단물류센터에 해당 솔루션을 도입한 결과, 오배송/분실로 인해 발생했던 2년간 물류 손실률이 약 30% 감소했다. 월 1000만원 이상, 연간 1억원 이상의 손실을 솔루션 도입만으로 줄인 셈이다.
+물류센터에서 발생할 수 있는 사고 예방을 위한 솔루션도 있다. SVMS 안전모니터링 솔루션은 AI 알고리즘을 통해 화재, 위험구역 무단 진입, 쓰러짐 등을 실시간으로 자동 감지하고, 관제센터와 관리자에게 즉시 알림을 전송한다. 이를 통해 사건사고를 사전에 예방하거나 신속한 대응을 통해 중대재해로 확산을 방지한다.
+한편, 에스원과 BGF로지스는 지난 19일 에스원 본사에서 ‘물류 추적 시스템 도입을 위한 업무협약(MOU)’을 체결했다. 에스원은 올해 내로 BGF로지스가 운영중인 19개 상온센터 및 협력 물류센터에 물류 추적 솔루션을 구축하고, 저온센터 1개소도 시범 운영할 계획이다. 향후에는 전국의 BGF로지스 물류센터에 시스템을 구축해 나아가기로 했다.
+에스원 관계자는 “물류센터들이 오배송·분실로 인한 영업손실과 작업자 안전사고를 줄이기 위한 대책 마련에 고심하고 있다”며 “효율성과 안전성을 동시에 확보할 수 있는 물류센터 전용 솔루션 보급을 통해 물류업계의 고민을 함께 해결해 나가겠다”고 밝혔다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[오배송 시 영상 검색하는 ‘물류 추적 솔루션’ AI로 사고 예방하는 ‘SVMS 안전모니터링’물류센터 컨베이어벨트 위를 빠르게 지나가는 수많은 상자들. 매일 수십만 건의 화물이 입·출고되는 이 공간에서 작은 실수 하나는 대형 사고나 막대한 손실로 직결될 수 있다. 국가물류통합정보센터에 따르면, 국내 택배 물량은 2021년 36억3000만개에서 2023년 51]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100402</code_id>
+<code_nm><![CDATA[중견/중소기업]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100402</small_code_id>
+<small_code_nm><![CDATA[중견/중소기업]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/24/news-p.v1.20250823.4f0a23757cb84b1db8a99b7844963d17_P1.jpg]]></image_url>
+<image_caption><![CDATA[ BGF로지스 직원과 에스원 근무자가 남사센터에서 물류추적시스템을 확인하고 있다. [사진제공=에스원]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11401302]]></article_url>
+</article>
+</saltlux>

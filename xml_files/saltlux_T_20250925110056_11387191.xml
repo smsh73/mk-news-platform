@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11387191</art_id>
+<art_year>2025</art_year>
+<art_no>562580</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-07 06:45:05</service_daytime>
+<title><![CDATA[트럼프 “반도체에 관세 100%”...위기의 한국 반도체]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[임성현 특파원(einbahn@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-07 06:45:05</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100101</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/07/news-p.v1.20250806.f33916adfb384e2899f4bd5c5764f256_P1.png' alt=' 도널드 트럼프 미국 대통령. [UPI=연합뉴스]'>
+도널드 트럼프 대통령이 6일(현지시간) “반도체에 관세 100%를 부과하겠다”고 밝혔다.
+이날 트럼프 대통령은 백악관에서 애플의 대규모 미국 투자 계획을 밝힌 자리에서 이같이 말했다.
+그러면서 “미국에서 생산하는 기업에는 부과하지 않을 것”이라고 말했다. 이날 애플 팀쿡 최고경영자(CEO)는 미국에 1000억달러 규모의 추가 투자에 나설 것이라고 밝혔다. 앞서 발표한 5000억달러 투자와 합하면 총 6000억달러에 달하는 규모다. 결국 반도체 관세를 피하기 위한 대규모 투자인 셈이다.
+7일부터 각국에 대한 상호관세가 발효된 가운데 남은 품목관세중 반도체와 의약품 관세가 구체화하면서 반도체 강국인 한국에도 작지 않은 영향이 미칠 전망이다. 삼성전자와 SK하이닉스는 미국에 잇따라 생산거점 건설 계획을 내놨지만 추가 투자에 내몰릴 수 있다. 한국은 상호관세 협상에선 유럽(EU), 일본 등과 같은 15%로 합의하고 자동차 관세를 15%로 낮추면서 선방했다는 평가를 받았지만 반도체 관세가 또다른 악재로 부상한 것이다.
+앞서 트럼프 대통령은 의약품에는 최대 250% 관세를 부과할 것이라고 밝힌바 있다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[도널드 트럼프 대통령이 6일(현지시간) “반도체에 관세 100%를 부과하겠다”고 밝혔다. 이날 트럼프 대통령은 백악관에서 애플의 대규모 미국 투자 계획을 밝힌 자리에서 이같이 말했다. 그러면서 “미국에서 생산하는 기업에는 부과하지 않을 것”이라고 말했다. 이날 애플 팀쿡 최고경영자(CEO)는 미국에 1000억달러 규모의 추가 투자에 나설 것이라고 밝혔다. ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100101</code_id>
+<code_nm><![CDATA[경제일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100101</small_code_id>
+<small_code_nm><![CDATA[경제일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101002</code_id>
+<code_nm><![CDATA[국제경제]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101002</small_code_id>
+<small_code_nm><![CDATA[국제경제]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/07/news-p.v1.20250806.f33916adfb384e2899f4bd5c5764f256_P1.png]]></image_url>
+<image_caption><![CDATA[ 도널드 트럼프 미국 대통령. [UPI=연합뉴스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11387191]]></article_url>
+</article>
+</saltlux>

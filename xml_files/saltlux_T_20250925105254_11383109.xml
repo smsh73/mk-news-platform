@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11383109</art_id>
+<art_year>2025</art_year>
+<art_no>550237</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-01 15:03:16</service_daytime>
+<title><![CDATA[“25% 관세 다음으로 증세가 무섭네” 코스피 올들어 두번째 급락]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김제림 기자(jaelim@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-01 15:03:16</reg_dt>
+<mod_dt>2025-08-01 15:26:29</mod_dt>
+<art_org_class>MK100502</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/01/news-p.v1.20250801.81544442c71e477e8cfad3e1d34bd8c8_P1.jpeg' alt=' 한국거래소 전경[출처=연합뉴스]'>
+8월 1일 코스피는 트럼프 대통령이 상호관세 25% 행정명령을 발표한 4월 7일 이후 올해 최대 낙폭을 기록했다. 이날 2시50분 기준 코스피는 전일 대비 117포인트(3.6%) 하락한 3128을 기록하고 있다. 4월 7일 5.57% 하락한 이후 두번째로 큰 낙폭이다.
+지난달 30일만해도 연중 최고치를 기록한 코스피가 갑작스런 조정을 맞게 된 이유는 여러가지가 있지만 전날 장마감 후 발표한 세제개편안이 결정적이란 분석이 나온다. 대주주 양도세 기준을 50억원에서 10억원으로 하향하면서 투심에 찬물을 부은 것이다. 실제로 관세 영향을 많이 받는 수출주가 포진해있는 코스피보다 개인 투자자들의 비중이 큰 코스닥이 더 큰 폭으로 빠졌다. 코스닥은 1일 오후 2시50분 기준 3.9% 하락폭을 기록하고 있다. 그외 기대를 모았던 배당소득분리과세 혜택 축소, 법인세 인상, 증권거래세 등 종합적인 증세 패키지가 정부의 증시 부양 의지에 의구심을 품게 했다는 지적이 나온다.
+이날 달러당 원화값도 장중 1400원선이 깨지면서 외국인 매도를 더욱 심화시키고 있다. 오후 2시 50분 기준 외국인은 코스피에서 6800억원을 순매도했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[8월 1일 코스피는 트럼프 대통령이 상호관세 25% 행정명령을 발표한 4월 7일 이후 올해 최대 낙폭을 기록했다. 이날 2시50분 기준 코스피는 전일 대비 117포인트(3.6%) 하락한 3128을 기록하고 있다. 4월 7일 5.57% 하락한 이후 두번째로 큰 낙폭이다. 지난달 30일만해도 연중 최고치를 기록한 코스피가 갑작스런 조정을 맞게 된 이유는 여러가]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100502</code_id>
+<code_nm><![CDATA[시황]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100502</small_code_id>
+<small_code_nm><![CDATA[시황]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/01/news-p.v1.20250801.81544442c71e477e8cfad3e1d34bd8c8_P1.jpeg]]></image_url>
+<image_caption><![CDATA[ 한국거래소 전경[출처=연합뉴스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11383109]]></article_url>
+</article>
+</saltlux>

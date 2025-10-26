@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11398237</art_id>
+<art_year>2025</art_year>
+<art_no>594415</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-20 14:45:03</service_daytime>
+<title><![CDATA[“소액투자엔 세금 환급”…증권거래세법 개정안 내놓은 김미애 의원]]></title>
+<sub_title><![CDATA[1억원 미만 투자자에 거래세 환급
+연간결과 손해 본 투자자에도 적용
+金 “통행세 세금의 불공평성 개선”]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김명환 기자(teroo@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-20 14:45:03</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100701</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">1억원 미만 투자자에 거래세 환급<br>연간결과 손해 본 투자자에도 적용<br>金 “통행세 세금의 불공평성 개선”</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/20/news-p.v1.20250530.ccb7d398ed614abba8edb0452db08791_P1.png' alt=' 김미애 국민의힘 의원 [연합뉴스]'>
+김미애 국민의힘 의원(부산 해운대을, 재선)이 소액 투자자와 손실을 본 투자자에게 세 부담을 완화하기 위한 ‘증권거래세법 일부개정법률안’을 대표 발의한다고 20일 밝혔다.
+현행 증권거래세는 주식 거래 시 이익 여부와 상관없이 거래금액에 일정 세율을 곱해 부과된다. 이에 따라 연간 거래금액이 소액인 개인 투자자들도 손해를 보면서 세금을 내야 하는 불합리한 상황이 발생한다. 이에 일반 투자자들의 주식시장 참여 위축으로 이어질 수 있다는 지적은 꾸준히 제기돼 왔다.
+개정안은 △연간 주식 양도금액이 1억 원 미만인 소액 투자자 △연간 손익통산 결과 손실을 본 투자자에 대해 증권거래세를 환급할 수 있도록 규정한다. 환급 절차는 대통령령으로 정해 효율적이고 간소화된 방식으로 운영된다. 개정안이 국회를 통과하면 2026년 1월 1일부터 시행된다. 개정된 내용은 시행 이후 발생하는 주식 양도부터 적용된다.
+김미애 의원은 “증권거래세는 투자자가 손실을 보더라도 무조건 부과되는 ‘통행세’ 성격의 세금으로 일반 국민에게 불공평하다는 지적이 많았다”며 “개정안을 통해 소액 투자자와 손실 투자자의 부담을 줄이고 건전한 투자 환경을 조성해 자본시장을 활성화하는 계기가 되길 기대한다”고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[1억원 미만 투자자에 거래세 환급 연간결과 손해 본 투자자에도 적용 金 “통행세 세금의 불공평성 개선”김미애 국민의힘 의원(부산 해운대을, 재선)이 소액 투자자와 손실을 본 투자자에게 세 부담을 완화하기 위한 ‘증권거래세법 일부개정법률안’을 대표 발의한다고 20일 밝혔다. 현행 증권거래세는 주식 거래 시 이익 여부와 상관없이 거래금액에 일정 세율을 곱해 부]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100701</code_id>
+<code_nm><![CDATA[정치일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00302</middle_code_id>
+<middle_code_nm><![CDATA[정치]]></middle_code_nm>
+<small_code_id>MK100701</small_code_id>
+<small_code_nm><![CDATA[정치일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100706</code_id>
+<code_nm><![CDATA[국회]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00302</middle_code_id>
+<middle_code_nm><![CDATA[정치]]></middle_code_nm>
+<small_code_id>MK100706</small_code_id>
+<small_code_nm><![CDATA[국회]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100707</code_id>
+<code_nm><![CDATA[정당]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00302</middle_code_id>
+<middle_code_nm><![CDATA[정치]]></middle_code_nm>
+<small_code_id>MK100707</small_code_id>
+<small_code_nm><![CDATA[정당]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/20/news-p.v1.20250530.ccb7d398ed614abba8edb0452db08791_P1.png]]></image_url>
+<image_caption><![CDATA[ 김미애 국민의힘 의원 [연합뉴스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11398237]]></article_url>
+</article>
+</saltlux>

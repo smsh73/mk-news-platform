@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11388454</art_id>
+<art_year>2025</art_year>
+<art_no>566167</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-08 09:40:08</service_daytime>
+<title><![CDATA[Kakao reports earnings surprise in Q2 on strong platform growth]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-08 09:40:08</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK400109</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/08/news-p.v1.20250808.e96e5bbfdb444939be0963e755a33ae6_P1.jpg' alt=' (Yonhap News)'>
+South Korea’s Kakao Corp. posted better-than-expected second-quarter earnings driven by strong performance in its platform segment.
+Kakao announced Thursday that second-quarter revenue rose 1 percent from a year earlier to 2.03 trillion won ($1.46 billion), while operating profit surged 39 percent to 185.9 billion won.
+Both figures significantly exceeded market expectations, which forecast revenue of 1.95 trillion won and operating profit of 126.8 billion won, down 2.6 percent and 5.3 percent, respectively during the cited period.
+Weaker results in content areas such as games and entertainment were offset by robust growth in platform businesses including advertising and commerce.
+Platform revenue for the quarter increased 10 percent year-on-year to 1.06 trillion won. Revenue from Talk Biz, Kakao’s advertising and commerce segment built around its KakaoTalk messaging platform, rose 7 percent to 542.1 billion won.
+Talk Biz commerce, which includes gifting and group-buying services, climbed 10 percent to 221.2 billion won. Other platform units such as mobility and payments recorded 434.8 billion won in revenue, up 21 percent from a year earlier.
+During a conference call held the same day, Chief Executive Officer (CEO) Chung Shin-a outlined the company’s plans for the second half of the year, which include new service launches and a major platform overhaul centered on artificial intelligence as a key growth driver.
+“This year marks the start of Kakao’s full-scale AI transformation,” said Chung said.
+She unveiled plans to roll out a range of AI services in the second half, including on-device AI.
+The new AI service will operate within KakaoTalk, providing intelligent recommendations tailored to user intent across various sections of the app. The goal is to enable users to complete a wide range of tasks entirely within the messaging platform.
+On the company’s collaboration with OpenAI, Chung said a live demo will be revealed at the If Kakao conference in September, with public access available by the next earnings announcement at the latest.
+Kakao also plans to build an AI agent platform ecosystem.
+“Initially, the agent will connect with a few in-house Kakao services through KakaoTalk, but we plan to expand integration to additional verticals within the Kakao group and with external partners,” Chung said.
+In the second half, Kakao will present its progress on a proprietary inference AI model that will power its AI agent services.
+The company also plans a broader overhaul of KakaoTalk, beginning in September.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[South Korea’s Kakao Corp. posted better-than-expected second-quarter earnings driven by strong performance in its platform segment. Kakao announced Thursday that second-quarter revenue rose 1 percent ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK400109</code_id>
+<code_nm><![CDATA[Bio&Tech]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00308</middle_code_id>
+<middle_code_nm><![CDATA[English]]></middle_code_nm>
+<small_code_id>MK400109</small_code_id>
+<small_code_nm><![CDATA[Bio&Tech]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/08/news-p.v1.20250808.e96e5bbfdb444939be0963e755a33ae6_P1.jpg]]></image_url>
+<image_caption><![CDATA[ (Yonhap News)]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11388454]]></article_url>
+</article>
+</saltlux>

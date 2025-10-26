@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11388026</art_id>
+<art_year>2025</art_year>
+<art_no>565307</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-07 19:29:31</service_daytime>
+<title><![CDATA[‘삼성의 본진’ 메모리도 반등 채비…엔비디아 납품 여부가 관건]]></title>
+<sub_title><![CDATA[HBM3E 엔비디아 납품 촉각
+HBM4 6세대 공정으로 속도전
+서버용 소캠, 3분기 양산 착수
+
+고부가 메모리 전략 본격화
+시장 점유율 회복 여부 주목]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[박소라 기자(park.sora@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-07 19:29:31</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100301</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">HBM3E 엔비디아 납품 촉각<br>HBM4 6세대 공정으로 속도전<br>서버용 소캠, 3분기 양산 착수<br><br>고부가 메모리 전략 본격화<br>시장 점유율 회복 여부 주목</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/07/news-p.v1.20250731.d909b578c65d4a3194e8548b93953224_P1.png' alt=' 삼성전자 HBM3E'>
+삼성전자가 애플에 차세대 이미지센서를 공급하며 시스템반도체와 파운드리 사업에서 반등 계기를 마련한 가운데 전통적 수익원인 메모리반도체 부문에서도 회복 흐름이 뚜렷하다. 하반기에는 고대역폭메모리(HBM)3E 공급 확대, HBM4 인증 가속화, 서버용 소캠(SoCAM) 양산 등 주요 사업에서 반등이 본격화할지 주목된다.
+HBM 부문은 삼성전자가 AMD에 이어 언제쯤 엔비디아에 HBM3E를 납품할지가 반등의 분기점이 될 전망이다. 삼성전자는 당초 3분기 중 HBM3E 12단 제품의 엔비디아 인증을 완료할 것으로 예상됐지만, 현재는 4분기 공급 개시를 목표로 인증 작업을 진행 중이다.
+삼성전자는 특히 HBM4에서 기술 우위를 기반으로 반전을 노리고 있다. 경쟁사들이 1b(5세대) D램 공정을 적용한 반면, 삼성전자는 한 세대 앞선 1c(6세대) 공정을 기반으로 HBM4 개발을 진행 중이다. 이미 엔비디아에 샘플을 제출했고, 연말까지 인증을 마친다는 계획이다. 양산 체제도 내부적으로 정비된 상태로 알려졌다.
+다만 기술 경쟁력 확보를 위해 선제적으로 진행한 설비투자와 공정 전환으로 인해 삼성전자의 HBM4 원가가 경쟁사 대비 높을 수 있다는 분석도 나온다.
+삼성전자는 차세대 HBM으로 불리는 새로운 D램 모듈 ‘소캠’에서도 시장 선점을 노리고 있다. 소캠은 기존 D램보다 집적도와 전력 효율을 높인 인공지능(AI) 서버 전용 패키지다. 이 시장은 아직 뚜렷한 선도 업체가 없는 만큼, 삼성전자는 선제적 양산을 통해 주도권을 확보한다는 계획이다.
+삼성전자는 지난 2분기 실적 콘퍼런스콜에서도 3분기 중 본격적으로 소캠 양산에 돌입할 예정이라고 밝혔다. 삼성전자는 이를 통해 고성능 메모리 포트폴리오를 넓히는 동시에 AI 서버 수요에도 유연하게 대응할 수 있을 것으로 기대된다.
+시장은 삼성전자가 메모리 전 부문에서 본격 반등 흐름에 올라탈 수 있을지 주목하고 있다.
+HBM3E의 공급 본격화, HBM4의 조기 인증, 소캠을 포함한 서버용 고부가가치 제품 확장 등 실적 개선 동력은 충분하지만 가격 하락 압박과 원가 구조의 비효율성, 경쟁사 대비 낮은 점유율은 여전히 극복해야 할 과제다.
+삼성전자는 지난 2분기 실적 발표에서 “HBM3E 공급 증가로 수급 변화가 예상되고, 당분간 시장 가격에도 영향이 있을 것”이라며 향후 단가 하락 가능성을 인정한 바 있다. 엔비디아와의 협상 구도에서도 후발 주자로서 유리한 조건을 확보하기 어려운 점도 고려해야 한다는 게 업계 시각이다.
+김동원 KB증권 리서치센터장은 “삼성전자는 핵심 고객사에 대한 HBM3E 12단 공급과 HBM4 샘플 인증을 모두 순조롭게 진행할 것으로 보인다”며 “내년부터 HBM 시장이 공급자 중심에서 수요자 중심으로 전환될 것으로 예상되는 만큼, 세계 1위 D램 생산능력을 갖춘 삼성이 수혜를 입을 것”이라고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[HBM3E 엔비디아 납품 촉각 HBM4 6세대 공정으로 속도전 서버용 소캠, 3분기 양산 착수  고부가 메모리 전략 본격화 시장 점유율 회복 여부 주목삼성전자가 애플에 차세대 이미지센서를 공급하며 시스템반도체와 파운드리 사업에서 반등 계기를 마련한 가운데 전통적 수익원인 메모리반도체 부문에서도 회복 흐름이 뚜렷하다. 하반기에는 고대역폭메모리(HBM)3E 공]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100301</code_id>
+<code_nm><![CDATA[기업 경영]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100301</small_code_id>
+<small_code_nm><![CDATA[기업 경영]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100308</code_id>
+<code_nm><![CDATA[자동차]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100308</small_code_id>
+<small_code_nm><![CDATA[자동차]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/07/news-p.v1.20250731.d909b578c65d4a3194e8548b93953224_P1.png]]></image_url>
+<image_caption><![CDATA[ 삼성전자 HBM3E]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11388026]]></article_url>
+</article>
+</saltlux>

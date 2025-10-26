@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11386962</art_id>
+<art_year>2025</art_year>
+<art_no>562067</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-06 17:55:33</service_daytime>
+<title><![CDATA[[팩토리 팝콘]"반도체 관세, 내주 발표" 트럼프, 이번엔 얼마나]]></title>
+<sub_title><![CDATA[15% 예상 빗나갈까 우려<br>한국이 생산하는 반도체<br>中·대만으로 대부분 수출<br>美 가는 물량은 7% 그쳐<br>국내 생산 촉진하려는 美<br>미국산인지 아닌지 따라<br>관세 더 부과할 가능성도]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[이덕주 기자(mrdjlee@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250807</pub_date>
+<pub_edition>16</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>15</pub_page>
+<reg_dt>2025-08-06 17:55:33</reg_dt>
+<mod_dt>2025-08-06 19:28:43</mod_dt>
+<art_org_class>MK100305</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[◆ 팩토리 팝콘 ◆
+<img src='https://wimg.mk.co.kr/news/cms/202508/07/20250807_01160115000002_S00.jpg' alt=''>
+
+도널드 트럼프 미국 대통령이 다음주 반도체 품목관세 발표를 예고하면서 반도체 기업들이 긴장하고 있다.
+트럼프 대통령은 5일(현지시간) CNBC와 인터뷰하면서 "반도체에 관해 발표할 예정"이라면서 "우리는 반도체를 미국에서 생산하기를 원한다"고 말했다.  시장에서는 일단 15% 품목관세를 예상한다. 그럼에도 불구하고 한국 반도체 기업들은 반도체 관세와 관련해 여전히 불확실성이 크다고 설명한다. 시장에서는 예상보다 높은 관세가 부여되거나, 의약품처럼 초기에는 낮지만 단계적으로 관세가 높아질 수도 있다고 본다.
+한 반도체 업계 관계자는 "한국 반도체 수출 중 미국으로 직접 향하는 것은 7%에 불과하고 대부분 중국, 대만 등으로 간다"면서 "이것만으로는 타격이 크지 않을 수도 있다"고 설명했다. 한국에서 생산된 반도체들이 대부분 중국·대만으로 향하는 것은 이곳에 전자제품 제조공장이나 반도체 패키징 업체들이 있기 때문이다. 
+SK하이닉스는 문제가 더 복잡하다. 2028년 가동될 예정인 미국 인디애나주의 HBM 패키징 시설은 한국의 D램을 수입해 생산하는데, 이 과정에서 반도체 관세가 부과될 것으로 예상되기 때문이다.  다른 반도체 업계 관계자는 "최종 제품에 들어가는 반도체가 미국에서 생산된 것인지에 따라 관세가 다르게 부과될 수도 있다"면서 "전자산업은 공급망이 복잡하기 때문에 종합적인 접근이 필요하다"고 설명했다. 
+이덕주 기자]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[도널드 트럼프 미국 대통령이 다음주 반도체 품목관세 발표를 예고하면서 반도체 기업들이 긴장하고 있다.
+트럼프 대통령은 5일(현지시간) CNBC와 인터뷰하면서 "반도체에 관해 발표할 예정"이라면서 "우리는 반도체를 미국에서 생산하기를 원한다"고 말했다.  시장에서는 일단 15% 품목관세를 예상한다. 그럼에도 불구하고 한국 반도체 기업들은 반도체 관세와 관련해 여전히 불확실성이 크다고 설명한다. 시장에서는 예상보다 높은 관세가 부여되거나, 의약품처럼 초기에]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100305</code_id>
+<code_nm><![CDATA[전기·전자·통신]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100305</small_code_id>
+<small_code_nm><![CDATA[전기·전자·통신]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/07/20250807_01160115000002_S00.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11386962]]></article_url>
+</article>
+</saltlux>

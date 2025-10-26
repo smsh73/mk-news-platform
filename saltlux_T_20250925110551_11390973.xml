@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11390973</art_id>
+<art_year>2025</art_year>
+<art_no>572836</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-11 17:40:30</service_daytime>
+<title><![CDATA[K제조업 누빌 최고의 피지컬AI 만들 것]]></title>
+<sub_title><![CDATA[장병탁 투모로로보틱스 대표<br>행동으로 학습하는 로봇 선도<br>'클립-RT' 美학술지 논문 게재<br>신체가진 인공지능 개발 나서<br>작업형 휴머노이드 현장 실증<br>"AI 중심 디지털서 피지컬로"]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[이윤식 기자(leeyunsik@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250812</pub_date>
+<pub_edition>16</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>15</pub_page>
+<reg_dt>2025-08-11 17:40:30</reg_dt>
+<mod_dt>2025-08-21 15:36:39</mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/12/20250812_01160115000002_L00.jpg' alt='장병탁 대표가 휴머노이드를 구현하기 위한 피지컬 AI에 대해 설명하고 있다.  이승환 기자'>
+
+지난 5일 찾은 서울 강남구 투모로로보틱스 휴머노이드 AI연구소에서는 K로봇 대표 기업인 레인보우로보틱스의 'RB-Y1'과 로보티즈의 'AI워커'를 비롯한 휴머노이드 로봇들이 컴퓨터에 연결돼 있었다. 장병탁 투모로로보틱스 대표(서울대 AI연구원장)는 "피지컬 AI를 구현하기 위해 다양한 휴머노이드 로봇 모델에 작업을 시키고 이를 자사 로봇 파운데이션 모델인 '클립(CLIP)-RT'로 수집·학습하고 있다"고 설명했다.
+투모로로보틱스는 휴머노이드 로봇의 두뇌 격인 로봇 파운데이션 모델을 개발하는 인공지능(AI) 기업이다. 2019년부터 서울대 AI연구원장을 역임하고 있는 장 대표가 2022년 4월 설립했다. 창업 키워드는 '임보디드 AI', 즉 신체를 가진 인공지능이다. 장 대표는 "AI가 세상을 온전히 이해하려면 물리 세계를 직접 경험해야 한다"고 말했다.
+그는 "AI가 텍스트나 이미지만 이해한다고 세상을 아는 것이 아니다"면서 "물리 세계에서 작동하고, 학습하고, 적응하는 능력이 AI 완성도를 높인다"고 설명했다.
+투모로로보틱스는 창업 초기 물류 자동화 솔루션에 집중했다. 현재 국내 물류기업과 함께 휴머노이드 기반 물류 자동화 개념검증(PoC)을 진행하고 있다. 국내 물류센터에 투입된 로봇은 택배 분류 업무를 돕고, 이 과정에서 수집한 데이터를 통해 AI 모델을 학습시키고 있다.
+
+<img src='https://wimg.mk.co.kr/news/cms/202508/12/20250812_01160115000002_S01.jpg' alt=''>
+
+투모로로보틱스에서 가장 주목하는 기술은 CLIP-RT다. 이는 미국 오픈AI의 CLIP 모델을 기반으로 하며 로봇이 시각과 언어뿐만 아니라 물리적 궤적까지 인식하고 학습할 수 있도록 고도화한 로봇 파운데이션 모델이다. 해당 모델은 올해 국제로보틱스학회 학술지에 논문이 채택돼 주목받고 있다. 학술지에는 미국 4건, 중국 3건, 일본 1건과 함께 국내에서는 유일하게 CLIP-RT가 실렸다.
+장 대표는 올해 산업통상자원부 주도로 결성된 'K-휴머노이드 연합'에서 위원장을 맡고 있다. AI와 로봇을 함께 연구하는 기업이 많지 않은 현실에서 장 대표는 20여 개 기업 등을 모아 연합의 초석을 마련했다.
+K-휴머노이드 연합은 국내 제조 기반과 정보통신기술(ICT) 인프라스트럭처를 바탕으로 범용 휴머노이드 생태계를 조성하는 게 목표다. 장 대표는 "한국은 제조업 포트폴리오가 다양하고 ICT가 세계적 수준"이라며 "이런 강점을 결합하면 휴머노이드 분야에서 세계를 선도할 가능성이 충분하다"고 강조했다.
+투모로로보틱스 역시 K-휴머노이드 연합 출범 이후 국내 주요 로봇기업과 협력 관계를 시작했다. 로보티즈와 는 업무협약을 맺고 음성·비전 인식·자연어 처리 기술이 적용된 제어 소프트웨어와 서비스 시나리오 기반 응용 프로그램을 개발하기로 했다.
+장 대표는 피지컬 AI 분야에 대해 한국이 세계 시장을 선도할 수 있는 영역이라고 강조했다. 그는 "거대언어모델(LLM) 분야는 미국 빅테크가 이미 선도하고 있으며 중국도 빠르게 따라붙고 있다"면서 "반면 피지컬 AI는 아직 어느 나라, 어느 기업도 절대 우위를 점하지 못했기 때문에 피지컬 AI에 유리한 산업 생태계를 갖춘 한국이 앞서 나갈 수 있다"고 말했다.
+장 대표는 "앞으로 피지컬 AI와 관련해 기술 발전을 저해하지 않으면서 개인정보를 보호하는 균형 있는 정책을 만들어야 한다"고 지적했다.
+[이윤식 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[지난 5일 찾은 서울 강남구 투모로로보틱스 휴머노이드 AI연구소에서는 K로봇 대표 기업인 레인보우로보틱스의 'RB-Y1'과 로보티즈의 'AI워커'를 비롯한 휴머노이드 로봇들이 컴퓨터에 연결돼 있었다. 장병탁 투모로로보틱스 대표(서울대 AI연구원장)는 "피지컬 AI를 구현하기 위해 다양한 휴머노이드 로봇 모델에 작업을 시키고 이를 자사 로봇 파운데이션 모델인 '클립(CLIP)-RT'로 수집·학습하고 있다"고 설명했다.
+투모로로보틱스는 휴머노이드 로봇의 두]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/12/20250812_01160115000002_L00.jpg]]></image_url>
+<image_caption><![CDATA[장병탁 대표가 휴머노이드를 구현하기 위한 피지컬 AI에 대해 설명하고 있다.  이승환 기자]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/12/20250812_01160115000002_S01.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11390973]]></article_url>
+</article>
+</saltlux>

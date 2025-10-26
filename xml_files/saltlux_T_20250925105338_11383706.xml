@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11383706</art_id>
+<art_year>2025</art_year>
+<art_no>551831</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-02 15:38:59</service_daytime>
+<title><![CDATA[“피해자가 칼 들고 먼저 공격”…동거녀 살해 60대 중국인 구속심사]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[이상현 매경 디지털뉴스룸 기자(lee.sanghyun@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-02 15:38:59</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100801</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/02/news-p.v1.20250802.fef2cdd24c6b42f08069375d94bc8b0d_P1.jpeg' alt=' 2일 서울 양천구 서울남부지방법원에서 열리는 구속 전 피의자심문(영장실질심사)을 받기 위해 동거하던 50대 여성을 살해한 혐의를 받는 60대 남성 김모씨가서울 금천경찰서를 나서고 있다. [사진 = 뉴스1]'>
+서울 구로구 가리봉동에서 동거하던 여성을 살해한 60대 중국 국적 남성의 구속 여부가 이르면 2일 결정된다.
+법조계에 따르면 서울남부지법의 김성은 영장당직판사는 이날 오후 살인 혐의로 구속영장이 청구된 김모씨의 구속 전 피의자 심문(영장실질심사)을 열었다.
+법원에 도착한 김씨는 취재진에게 “(피해자가) 칼을 갖고 나를 공격했다”고 주장했다. ‘피해자에게 미안한 마음이 있느냐’는 질문에는 “네”라고 답변했다.
+김씨는 지난달 31일 오전 3시 17분께 마사지 업소를 개조해 만든 가리봉동 주거지에서 동거하던 50대 여성을 흉기로 찔러 살해한 혐의를 받는다.
+그는 체포 후 경찰 조사에서 ‘이별 통보를 하자 피해자가 먼저 공격해왔다’는 취지로 주장한 것으로 알려졌다.
+김씨는 앞서 2023년 6월 피해자를 폭행해 다치게 한 혐의로 벌금형을 받은 전력이 있다. 여기에 피해자가 범행 닷새 전에도 김씨를 신고했으나, 유의미한 조치가 이뤄지지 않아 논란이 일었다.
+경찰은 피해자가 ‘말다툼이 있었으나 해결됐다’는 취지로 언급해 사건을 종결한 것이라고 해명했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[서울 구로구 가리봉동에서 동거하던 여성을 살해한 60대 중국 국적 남성의 구속 여부가 이르면 2일 결정된다. 법조계에 따르면 서울남부지법의 김성은 영장당직판사는 이날 오후 살인 혐의로 구속영장이 청구된 김모씨의 구속 전 피의자 심문(영장실질심사)을 열었다. 법원에 도착한 김씨는 취재진에게 “(피해자가) 칼을 갖고 나를 공격했다”고 주장했다. ‘피해자에게 미]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100801</code_id>
+<code_nm><![CDATA[사회일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100801</small_code_id>
+<small_code_nm><![CDATA[사회일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100804</code_id>
+<code_nm><![CDATA[사건·사고]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100804</small_code_id>
+<small_code_nm><![CDATA[사건·사고]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100805</code_id>
+<code_nm><![CDATA[법원·검찰·경찰]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100805</small_code_id>
+<small_code_nm><![CDATA[법원·검찰·경찰]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/02/news-p.v1.20250802.fef2cdd24c6b42f08069375d94bc8b0d_P1.jpeg]]></image_url>
+<image_caption><![CDATA[ 2일 서울 양천구 서울남부지방법원에서 열리는 구속 전 피의자심문(영장실질심사)을 받기 위해 동거하던 50대 여성을 살해한 혐의를 받는 60대 남성 김모씨가서울 금천경찰서를 나서고 있다. [사진 = 뉴스1]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11383706]]></article_url>
+</article>
+</saltlux>

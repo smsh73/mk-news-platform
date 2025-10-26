@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11385404</art_id>
+<art_year>2025</art_year>
+<art_no>557277</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-05 09:58:15</service_daytime>
+<title><![CDATA[산업용 로봇 피지컬AI 개발사 테파로보틱스, 20억 투자 유치]]></title>
+<sub_title><![CDATA[80만회 자체 데이터 기반
+현실세계 작동 인공지능
+학습·검증 완료 상용화 추진]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[이한나 기자(azure@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-05 09:58:15</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100403</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">80만회 자체 데이터 기반<br>현실세계 작동 인공지능<br>학습·검증 완료 상용화 추진</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/05/news-p.v1.20250805.f7f24ddda28140a7a169507f14a57dda_P2.png' alt=' 테파로보틱스 산업용 로봇 연구 시설  &lt;제공=테파로보틱스&gt;'>
+산업용 로봇을 위한 피지컬 AI 스타트업 ‘테파로보틱스(대표 박정혁)’가 20억원 규모의 프리A 시리즈 투자를 유치했다고 5일 밝혔다. 이번 투자에는 퓨처플레이가 후속 투자자로 참여하고, IBK벤처투자와 산은캐피탈이 신규 투자자로 함께했다.
+테파로보틱스는 세계 1위 산업용 로봇 제조사 화낙(FANUC) 한국 지사에서 다관절 로봇 제어·프로그래밍을 담당했던 백종현 CTO와 일본 도쿄대학에서 인공지능으로 박사학위를 취득한 박정혁 대표가 2023년 공동 창업했다. ‘효율적인 공장 자동화’를 미션으로 산업용 로봇에 피지컬 AI를 접목해 왔다.
+피지컬 AI는 현실 세계에서 움직이며 작업을 수행하는 인공지능으로, 인식 AI(이미지·음성 인식)나 생성 AI(텍스트·이미지 생성)를 넘어선 다음 단계 기술이다. 젠슨 황 엔비디아 CEO가 CES 2025에서 피지컬 AI를 미래 전략 축으로 제시하며 더욱 주목받고 있다.
+산업용 로봇은 연간 약 60만 대가 전 세계에 보급되고 있고 피지컬 AI의 영향력을 극대화할 수 있는 핵심 플랫폼이지만, 높은 폐쇄성과 복잡한 제어 환경 탓에 연구개발 난이도가 높은 것이 특징이다.
+테파로보틱스 박정혁 대표는 “피지컬 AI 개발에는 현실 데이터 확보가 가장 중요한데 우리는 자체적으로 수집한 80만 회분의 현실 데이터를 기반으로 오픈소스 로보틱스 파운데이션 모델(RFM)을 파인튜닝 하여 유효성을 검증 완료했다”면서 “현재 산업용 로봇에 이 데이터를 학습한 자체 모델을 적용해서 고객과 현장 도입을 조율 중인 상태로 데이터를 지속적으로 확보해 대규모 피지컬 AI를 만들 것이다”라고 밝혔다.
+투자를 이끈 퓨처플레이 전아람 수석심사역은 “산업용 로봇은 고속·고정밀 환경에서 완벽히 대응해야 한다”면서 “테파로보틱스는 산업에 대한 깊은 이해와 독자적 데이터 생성 파이프라인을 바탕으로, 실제 양산 환경에서 피지컬 AI를 작동시키는 드문 팀이고 글로벌 빅테크와 경쟁할 수 있는 원천 기술을 갖췄다”고 밝혔다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[80만회 자체 데이터 기반 현실세계 작동 인공지능 학습·검증 완료 상용화 추진산업용 로봇을 위한 피지컬 AI 스타트업 ‘테파로보틱스(대표 박정혁)’가 20억원 규모의 프리A 시리즈 투자를 유치했다고 5일 밝혔다. 이번 투자에는 퓨처플레이가 후속 투자자로 참여하고, IBK벤처투자와 산은캐피탈이 신규 투자자로 함께했다. 테파로보틱스는 세계 1위 산업용 로봇 제]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100403</code_id>
+<code_nm><![CDATA[벤쳐/벤쳐캐피탈]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100403</small_code_id>
+<small_code_nm><![CDATA[벤쳐/벤쳐캐피탈]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100408</code_id>
+<code_nm><![CDATA[창업]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100408</small_code_id>
+<small_code_nm><![CDATA[창업]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/05/news-p.v1.20250805.f7f24ddda28140a7a169507f14a57dda_P2.png]]></image_url>
+<image_caption><![CDATA[ 테파로보틱스 산업용 로봇 연구 시설  &lt;제공=테파로보틱스&gt;]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11385404]]></article_url>
+</article>
+</saltlux>

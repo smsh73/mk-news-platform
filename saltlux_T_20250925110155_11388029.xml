@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11388029</art_id>
+<art_year>2025</art_year>
+<art_no>565311</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-07 19:30:35</service_daytime>
+<title><![CDATA[“평범한 사건 아냐”…한국인 남성 미얀마서 피살, 현지 경찰 조사중]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[김혜진 매경 디지털뉴스룸 기자(heyjiny@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-07 19:30:35</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100804</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/07/news-p.v1.20250807.5e479bd3e964458d9434e93b63e62b60_P1.png' alt=' 미얀마 양곤의 마양곤 경찰서 모습[사진 = DVB 홈페이지 캡처, 연합뉴스]'>
+미얀마 최대 도시 양곤에서 한국인 남성이 자신의 사무실에서 피살돼 현지 경찰이 조사에 나섰다.
+7일(현지시간) 현지 매체 DVB에 따르면 지난 2일 양곤의 마양곤 지역에 있는 한 건물 사무실에서 한국인 남성 A씨가 숨진 채 발견됐다.
+이 건물 주민은 매체에 “범인이 사무실에 침입해 남성을 살해한 것으로 보인다”며 “부하 직원들이 현장에서 시신을 발견했고 현재 경찰이 수사를 진행 중”이라고 설명했다.
+이어 “살인범이 어떻게 들어와서 돈을 훔쳤는지 모르겠다. 여자 직원들도 조사하고 있는 상태”라며 “평범한 사건이 아니다”라고 덧붙였다.
+미얀마는 2021년 2월 군사 쿠데타 이후 전국 곳곳이 내전에 휘말리면서 치안이 매우 불안한 상태다. DVB에 따르면 미얀마에서는 지난해 967건의 살인 사건이 신고됐으며, 이 중 151건이 양곤 지역에서 발생했다.
+군사정권 내무부 관계자는 “경찰이 무장한 군 병력의 호위 없이는 현장에 출동하기 어려워 대다수 범죄자가 달아날 수 있게 되면서 범죄가 늘고 있다”고 이 매체에 말했다.
+이번 사건과 관련해 한국 외교부는 “우리 공관은 해당 사안을 인지하고 있으며, 미얀마 수사 당국에 신속한 수사를 요청하는 등 필요한 영사 조력을 제공하고 있다”고 했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[미얀마 최대 도시 양곤에서 한국인 남성이 자신의 사무실에서 피살돼 현지 경찰이 조사에 나섰다. 7일(현지시간) 현지 매체 DVB에 따르면 지난 2일 양곤의 마양곤 지역에 있는 한 건물 사무실에서 한국인 남성 A씨가 숨진 채 발견됐다. 이 건물 주민은 매체에 “범인이 사무실에 침입해 남성을 살해한 것으로 보인다”며 “부하 직원들이 현장에서 시신을 발견했고 현]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100804</code_id>
+<code_nm><![CDATA[사건·사고]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100804</small_code_id>
+<small_code_nm><![CDATA[사건·사고]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101007</code_id>
+<code_nm><![CDATA[국제사건/사고]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101007</small_code_id>
+<small_code_nm><![CDATA[국제사건/사고]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/07/news-p.v1.20250807.5e479bd3e964458d9434e93b63e62b60_P1.png]]></image_url>
+<image_caption><![CDATA[ 미얀마 양곤의 마양곤 경찰서 모습[사진 = DVB 홈페이지 캡처, 연합뉴스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11388029]]></article_url>
+</article>
+</saltlux>

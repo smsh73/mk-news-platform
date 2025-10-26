@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11402926</art_id>
+<art_year>2025</art_year>
+<art_no>608674</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-26 11:18:35</service_daytime>
+<title><![CDATA[Samsung pushes AI Home evolution with unified ecosystem at IFA 2025]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-26 11:18:35</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK400111</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/26/news-p.v1.20250826.398b0c3ac2a74a768a1a0da4c322f0ec_P1.png' alt=' (Samsung Electronics)'>
+Samsung Electronics will showcase its vision for an artificial intelligence (AI) home at IFA 2025 in Berlin, Germany, from September 5th to 9th, 2025, under the theme “AI Home - Future Living, Now.” The company plans to unveil its ecosystem strategy centered on AI at Europe’s largest consumer electronics trade show.
+Samsung Electronics said on Monday that it will reveal its latest “Micro RGB TV” with advanced display technology, new Bespoke AI-powered appliances designed for European consumers, and mobile devices that expand the Galaxy AI ecosystem. All of these products are powered by AI and will be connected to SmartThings, Samsung’s Internet of Things (IoT) platform, to deliver a more convenient AI home experience.
+Ahead of the exhibition’s opening, Samsung will hold a press conference on September 4th to present how it plans to realize “Ambient AI,” a concept highlighted at its Galaxy Unpacked event in July, within its AI Home lineup.
+“Samsung’s vision for the AI Home is to analyze multimodal information through connected devices, understand users better, and automatically provide what they need as part of everyday life,” Kim Cheolgi, executive vice president and head of Samsung Digital Appliances (DA) business division, said. “We expect IFA to be an important opportunity to demonstrate this.”
+Samsung’s AI ecosystem strategy is centered on openness and collaboration, with Samsung devices at its core, and the company announced that it will roll out a One UI software update for AI-powered appliances released since 2024. Previously exclusive to Galaxy smartphones and other mobile devices, One UI, will now expand to Samsung TVs and home appliances.
+This update will unify user experiences across devices, with apps such as Gallery and Bixby providing the same interface on mobile devices, TVs, and appliances. It also upgrades existing AI functions in appliances. Refrigerators with an AI Home touchscreen, for example, will support a “Now Brief” feature starting from 2026 onwards, offering personalized recommendations based on location, time, and user habits. Users will also be able to activate Bixby by double-tapping the refrigerator screen, in addition to the traditional “Hi Bixby” voice command.
+As software becomes central to both TVs and appliances, security has grown more important. Alongside the One UI expansion, Samsung has extended its Knox security platform to more appliances. Knox Matrix, based on blockchain technology, will now cover a wider range of products, including Wi-Fi-enabled refrigerators and washing machines, offering threat detection and protection for SmartThings-connected devices.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[Samsung Electronics will showcase its vision for an artificial intelligence (AI) home at IFA 2025 in Berlin, Germany, from September 5th to 9th, 2025, under the theme “AI Home - Future Living, Now.” T]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK400111</code_id>
+<code_nm><![CDATA[Biz]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00308</middle_code_id>
+<middle_code_nm><![CDATA[English]]></middle_code_nm>
+<small_code_id>MK400111</small_code_id>
+<small_code_nm><![CDATA[Biz]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/26/news-p.v1.20250826.398b0c3ac2a74a768a1a0da4c322f0ec_P1.png]]></image_url>
+<image_caption><![CDATA[ (Samsung Electronics)]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11402926]]></article_url>
+</article>
+</saltlux>

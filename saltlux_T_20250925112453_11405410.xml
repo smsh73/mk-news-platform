@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11405410</art_id>
+<art_year>2025</art_year>
+<art_no>616430</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-28 17:47:12</service_daytime>
+<title><![CDATA[SKT에 1348억원 역대 최대 과징금]]></title>
+<sub_title><![CDATA[개인정보위 "해킹 보안 소홀"<br>SKT "소명 반영 안 돼 유감"]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김규식 기자(dorabono@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250829</pub_date>
+<pub_edition>17</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>1</pub_page>
+<reg_dt>2025-08-28 17:47:12</reg_dt>
+<mod_dt>2025-08-28 23:06:12</mod_dt>
+<art_org_class>MK101505</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[해킹 사고로 이용자 2324만여 명의 유심 정보가 유출된 SK텔레콤이 개인정보보호위원회로부터 역대 최대 규모의 과징금 처분을 받았다.
+개인정보위는 28일 SK텔레콤에 과징금 1347억9100만원과 과태료 960만원을 부과했다고 밝혔다. 또 사고 재발 방지를 위해 개인정보보호책임자(CPO)가 회사 전반의 개인정보 처리 업무를 총괄할 수 있도록 거버넌스 체계를 정비하라는 시정명령을 내렸다.
+개인정보위 조사에 따르면 신원 미상의 해커는 2021년 8월 SK텔레콤 내부망에 침투해 다수 서버에 악성 프로그램을 설치했고, 올해 4월 홈가입자서버에 저장된 전화번호, 가입자식별번호 등 25종, 총 9.82GB 규모의 개인정보를 외부로 유출했다. 개인정보위는 SK텔레콤이 인터넷망과 내부망을 분리하지 않고 운영해 해커 침투를 허용했고, 침입 탐지 로그를 확인하지 않는 등 기본 조치를 소홀히 했다고 밝혔다. SK텔레콤은 "무거운 책임을 느낀다"면서도 "조사·의결 과정에서 입장을 충분히 소명했음에도 반영 안돼 유감"이라고 밝혔다. 
+[김규식 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[해킹 사고로 이용자 2324만여 명의 유심 정보가 유출된 SK텔레콤이 개인정보보호위원회로부터 역대 최대 규모의 과징금 처분을 받았다.
+개인정보위는 28일 SK텔레콤에 과징금 1347억9100만원과 과태료 960만원을 부과했다고 밝혔다. 또 사고 재발 방지를 위해 개인정보보호책임자(CPO)가 회사 전반의 개인정보 처리 업무를 총괄할 수 있도록 거버넌스 체계를 정비하라는 시정명령을 내렸다.
+개인정보위 조사에 따르면 신원 미상의 해커는 2021년 8월 SK텔]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101505</code_id>
+<code_nm><![CDATA[보안/해킹]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101505</small_code_id>
+<small_code_nm><![CDATA[보안/해킹]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11405410]]></article_url>
+</article>
+</saltlux>

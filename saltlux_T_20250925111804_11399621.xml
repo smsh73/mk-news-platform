@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11399621</art_id>
+<art_year>2025</art_year>
+<art_no>598778</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-21 17:32:06</service_daytime>
+<title><![CDATA[스마트폰이 AI로 보이스피싱 걸러준다]]></title>
+<sub_title><![CDATA[갤럭시폰, 의심전화 알림 도입<br>모르는 번호로 전화 걸려오면<br>AI가 대화 내용 분석해 경고<br>스팸 의심 메시지는 자동 차단<br>아이폰, AI가 수신 후 내용요약<br>사용자가 전화 받을지 선택 가능]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김규식 기자(dorabono@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250822</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>14</pub_page>
+<reg_dt>2025-08-21 17:32:06</reg_dt>
+<mod_dt>2025-08-21 18:45:17</mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/22/20250822_01110114000002_M00.jpg' alt=''>
+
+이사를 준비하던 직장인 김 모씨(40)는 최근 모르는 번호로 걸려온 전화를 받았다. "고객님, 대출을 신청해주셔서 연락드렸습니다"라는 상대방 얘기에 순간 '대출 문의한 사실을 어떻게 알았지'라는 의문이 스쳤다. 때마침 스마트폰이 한 차례 진동하며 노란색 알림을 띄웠다. '보이스피싱 의심'이라는 문구였다. 김씨가 말을 아끼자 상대방은 "고객님 지금 바쁘세요? 제가 먼저 진행해 드리겠습니다. 직장인이신가요?"라며 대화를 이어갔다. 이때 세 차례 진동과 함께 빨간색 경고창이 화면을 덮었다. '경고 보이스피싱 감지됨'이라는 알림이 뜨자 김씨는 곧바로 전화를 끊었다.
+이 기능은 삼성전자가 최근 출시한 갤럭시 Z 폴드7·플립7에 처음 적용한 '보이스피싱 의심 전화 알림'이다. 모르는 번호와 연결되면 스마트폰이 대화 내용을 실시간 분석해 보이스피싱 의심 여부를 탐지한 뒤 '의심' '경고' 등 두 단계로 사용자에게 알린다. 사기가 의심되면 노란색 경고를, 위험이 확실하면 빨간색 경고를 띄운다.
+삼성전자는 경찰청과 국립과학수사연구원에서 받은 보이스피싱 데이터 3만여 건을 딥러닝으로 학습시켜 이 기능을 구현했다. '계좌에 이상 거래가 발생했다' 등의 전형적 수법은 물론이고 최신 변형 패턴까지 걸러낸다는 게 회사 설명이다. 이 기능은 별도 애플리케이션(앱)을 설치할 필요 없이 기본 전화 앱 설정에서 활성화하면 된다. 삼성전자 관계자는 "현재는 갤럭시 Z 폴드7·플립7에 적용돼 있으며, 앞으로 One UI 8 이상을 탑재한 갤럭시 스마트폰 전반으로 확대할 것"이라고 설명했다.
+삼성전자는 스팸 문자 차단에도 힘을 쏟고 있다. 지난해 9월 방송통신위원회·한국인터넷진흥원(KISA)과 협업해 '악성 메시지 차단' 기능을 선보였고, 올해 3월 출시된 갤럭시 S25 시리즈부터는 한 단계 강화된 '인텔리전스로 차단' 기능을 추가했다. 이는 월평균 500만건에 달하는 신고 데이터를 인공지능(AI)이 학습해 기기 안에서 의심 메시지를 자동으로 분류·차단하는 방식이다. 메시지 앱 설정에서 '스팸 및 차단 번호 관리' 메뉴와 '악성 메시지 차단' 메뉴를 활성화한 후 사용할 수 있다. 지난달까지 이 기능으로 걸러낸 메시지는 1억건을 돌파했다. 삼성전자는 또 KISA 인증 기업이 발송한 문자에 '안심마크'를 표시하고, 모르는 번호로 전화가 걸려오면 '스팸으로 의심됨' '사기 전화일 수 있음' 등 안내 문구를 띄우는 기능도 지원 중이다. 김정식 삼성전자 MX사업부 부사장은 "갤럭시 사용자들이 안심할 수 있는 모바일 환경을 위해 보이스피싱과 스팸 차단 기술을 지속해서 강화할것"이라고 말했다.
+애플도 올가을 배포할 예정인 iOS 26에서 새로운 보이스피싱 차단 기능을 내놓는다. 방식은 삼성과 다르다. 모르는 번호가 걸려오면 아이폰이 대신 전화를 받고 발신자에게 용건을 묻는다. 발신자가 대답하면 이를 문자로 변환해 화면에 띄워주고, 사용자는 내용을 보고 전화를 받을지 거절할지 선택한다. 예를 들어 화면에 '세금 환급 건으로 연락드렸습니다'라는 문구가 표시되면 '중단' 버튼을 눌러 통화하지 않을 수 있다. 이 기능은 문자메시지에도 적용된다. iOS26으로 갱신하면 모르는 번호로 전송된 스팸 문자는 전용 공간에 저장되고 90일 이후에 자동 삭제된다. 정보기술(IT) 업계 관계자는 "갤럭시가 AI로 통화 중 보이스피싱을 실시간 탐지하는 방식을 택했다면 애플은 기기가 먼저 전화를 받고 내용을 요약해 보여주는 사전 스크리닝 방식"이라며 "삼성전자는 AI 기술을 적극적으로 보이스피싱 예방에 적용하지만 애플은 다소 신중한 모습"이라고 설명했다. 
+[김규식 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[이사를 준비하던 직장인 김 모씨(40)는 최근 모르는 번호로 걸려온 전화를 받았다. "고객님, 대출을 신청해주셔서 연락드렸습니다"라는 상대방 얘기에 순간 '대출 문의한 사실을 어떻게 알았지'라는 의문이 스쳤다. 때마침 스마트폰이 한 차례 진동하며 노란색 알림을 띄웠다. '보이스피싱 의심'이라는 문구였다. 김씨가 말을 아끼자 상대방은 "고객님 지금 바쁘세요? 제가 먼저 진행해 드리겠습니다. 직장인이신가요?"라며 대화를 이어갔다. 이때 세 차례 진동과 함께]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/22/20250822_01110114000002_M00.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11399621]]></article_url>
+</article>
+</saltlux>

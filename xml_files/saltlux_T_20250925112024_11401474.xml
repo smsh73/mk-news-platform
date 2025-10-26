@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11401474</art_id>
+<art_year>2025</art_year>
+<art_no>604211</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-24 17:26:32</service_daytime>
+<title><![CDATA[[iR52 장영실상] 300층 낸드 불량까지 잡는 레이저]]></title>
+<sub_title><![CDATA[넥스틴 '3D 웨이퍼 검사 장비']]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[최원석 기자(choi.wonseok@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250825</pub_date>
+<pub_edition>16</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>17</pub_page>
+<reg_dt>2025-08-24 17:26:32</reg_dt>
+<mod_dt>2025-08-24 19:02:11</mod_dt>
+<art_org_class>MK101401</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[◆ IR52 장영실상 ◆
+<img src='https://wimg.mk.co.kr/news/cms/202508/25/20250825_01160117000002_L00.jpg' alt='왼쪽부터 이행삼 이사, 정준희 수석연구원, 신은지 책임연구원, 권오형 선임연구원. 
+ 넥스틴'>
+
+반도체 검사 장비 전문기업 넥스틴이 개발한 3D 웨이퍼 검사 장비인 'IRIS'가 34주 차 IR52 장영실상을 수상했다. 낸드플래시는 300층 이상으로 높게 쌓아 올려 품질을 검사하기가 쉽지 않은데, 이 기술을 활용하면 쉽고 빠르게 결함을 찾아낼 수 있다. 삼성전자와 SK하이닉스 등 국내 반도체 업체가 품질 경쟁력을 유지하는 데 도움이 될 전망이다.
+3D 낸드플래시는 메모리 셀을 여러 층으로 쌓아 만드는데, 층을 많이 쌓을수록 많은 데이터를 저장할 수 있다. SK하이닉스는 321층까지 쌓아 최고 기록을 가지고 있고, 삼성전자는 400단 이상의 낸드플래시 양산 계획을 갖고 있다. 문제는 층수가 높아질수록 품질 검사가 어렵다는 점이다. 공정 중 실시간으로 검사하기도 어렵기 때문에 기존에는 웨이퍼를 임의로 하나 골라 잘라서 단면을 확인하는 방법밖에 없었다.
+넥스틴이 10년간 200억원 이상을 투자해 개발한 IRIS는 가시광선보다 파장이 긴 근적외선 레이저를 이용해 반도체 웨이퍼에 손상을 주지 않고도 결함을 찾아낸다. 여러 단층에서 다양한 시그널이 올라오기 때문에 노이즈를 잡아내기 어려운데, IRIS는 노이즈를 제어하면서도 결함 위치를 정밀하게 찾는다. 이는 IRIS에 탑재된 다중초점광학현미경 기술 덕분이다. 다른 검사 장비보다 검사 속도가 6배 빠르며, 결함의 위치 정밀도는 2배 이상 정확하다. 
+세계 광학 검사 장비 시장 규모는 7조원 이상으로, 넥스틴은 향후 결함의 원인까지 예측할 수 있는 스마트 검사 장비까지 개발할 계획이다. 
+권오형 넥스틴 선임연구원은 "앞으로 로직 반도체나 고대역폭메모리(HBM) 등 다양한 반도체 구조와 공정에도 대응할 수 있는 검사 플랫폼으로 확장해나갈 것"이라고 했다.
+
+주최 : 과학기술정보통신부 
+주관 : 매일경제신문사 한국산업기술진흥협회
+
+[최원석 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[반도체 검사 장비 전문기업 넥스틴이 개발한 3D 웨이퍼 검사 장비인 'IRIS'가 34주 차 IR52 장영실상을 수상했다. 낸드플래시는 300층 이상으로 높게 쌓아 올려 품질을 검사하기가 쉽지 않은데, 이 기술을 활용하면 쉽고 빠르게 결함을 찾아낼 수 있다. 삼성전자와 SK하이닉스 등 국내 반도체 업체가 품질 경쟁력을 유지하는 데 도움이 될 전망이다.
+3D 낸드플래시는 메모리 셀을 여러 층으로 쌓아 만드는데, 층을 많이 쌓을수록 많은 데이터를 저장할 수]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101401</code_id>
+<code_nm><![CDATA[과학일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101401</small_code_id>
+<small_code_nm><![CDATA[과학일반]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/25/20250825_01160117000002_L00.jpg]]></image_url>
+<image_caption><![CDATA[왼쪽부터 이행삼 이사, 정준희 수석연구원, 신은지 책임연구원, 권오형 선임연구원. 
+ 넥스틴]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11401474]]></article_url>
+</article>
+</saltlux>

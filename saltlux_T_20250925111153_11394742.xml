@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11394742</art_id>
+<art_year>2025</art_year>
+<art_no>584574</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-16 06:20:59</service_daytime>
+<title><![CDATA[“AI? 굳이 다 잘할 필요 없어”...제조·IT·바이오 최강 성능 보여주겠단 K대기업]]></title>
+<sub_title><![CDATA[임우형 LG AI연구원장 인터뷰
+핵심분야 자원 집중해야 승산
+최근 발표 LG AI ‘엑사원 4.0’
+탐색·추론 동시에 가성비 갖춰]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김동은 기자(bridge@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-16 06:20:59</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100305</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">임우형 LG AI연구원장 인터뷰<br>핵심분야 자원 집중해야 승산<br>최근 발표 LG AI ‘엑사원 4.0’<br>탐색·추론 동시에 가성비 갖춰</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/16/news-p.v1.20250813.80e6d0a4d5fc4b9fbe65db825a955c7c_P1.jpg' alt=' 임우형 LG AI 연구원장'>
+“인공지능(AI) 개발 경쟁의 승패는 누가 AI를 더 잘 활용하느냐에서 판가름 날 것입니다.”
+지난달 LG AI연구원을 이끌 공동연구원장으로 선임된 임우형 신임 연구원장(상무)은 한국에서 가장 각광받는 AI 연구자 가운데 한 명이다. LG그룹의 AI 전환을 이끌고 있는 그는 최근 동급 최강의 성능을 가진 ‘엑사원 4.0’을 공개해 세계를 놀라게 만들었다.
+지난 12일 매일경제신문과 만난 임 원장은 “한국이 미국·중국 업체들처럼 모든 영역에서 가장 뛰어난 AI를 개발하는 건 현실적으로 어려울 수도 있다”고 답했다. 이어 그는 “하지만 AI를 통해 사업을 더 잘되게 만들고, 고객에게 더 좋은 서비스를 제공하는 등 실질적 효용을 만들어내는 ‘응용 분야’에서는 한국이 최고가 될 가능성이 충분하다”고 덧붙였다.
+AI가 필요한 분야로는 제조업, 정보기술(IT), 바이오 등 각종 산업을 비롯해 교육, 공공 서비스, 가정용 등 무수히 많다. 하지만 이 같은 업무 전부를 세계 최고 수준으로 해내는 AI가 필요하진 않다. 한 분야에 특화된 전문성을 가진 AI가 더 우수한 성능을 발휘할 수도 있기 때문이다.
+그는 “한국의 AI 관련 인력 규모가 미국과 중국에 비해 작지만, 질적 수준은 충분히 경쟁력이 있다”며 “꼭 필요한 분야에 자원을 선택·집중해 기술을 키워가면 글로벌 시장에서도 충분히 승산이 있다”고 설명했다.
+LG AI연구원이 지난 7월 발표한 엑사원 4.0이 좋은 예다. 엑사원 4.0은 대규모언어모델(LLM)과 추론 AI를 결합한 하이브리드 AI다. LLM은 빠른 답변에 강점을 갖고 있고, 추론 AI는 깊이 있는 사고를 할 수 있다는 점이 장점인데 엑사원 4.0은 상황에 따라 두 방식을 유연하게 오간다. 임 원장은 “두 개 모델을 하나로 통합해 사용자가 비용을 절감하고 운영 효율성을 높일 수 있도록 만드는 데 중점을 뒀다”고 설명했다. 이러한 특징 때문에 엑사원 4.0은 실제 기업 현장 등에서 운영하는 데 최적화됐으며 동일한 매개변수(AI 모델 구조를 결정하는 내부 설정 숫자)를 갖고 있는 미국과 중국, 유럽의 경쟁 모델들보다 뛰어난 성능을 자랑한다.
+서울 마곡에 자리 잡은 LG AI연구원은 정규직 300여 명 중 70%가 AI 연구 인력인 국내 최고 수준의 AI 연구 거점이다. 2020년 12월 출범한 뒤 LG그룹의 AI 개발 및 활용 수준을 두세 단계 끌어올렸다는 평가를 받는다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/16/news-p.v1.20250813.61cf53cc3a0240a7bfecbd3eefefa30d_P1.jpg' alt=''>
+LG AI연구원이 개발한 AI는 우선 LG그룹 내부 계열사에서 활용한다. 실제로 LG전자 노트북 ‘그램’에 탑재된 온디바이스 AI 기능과 LG유플러스가 선보인 AI 통화 서비스 ‘익시오’가 연구원의 작품이다. AI를 활용한 고객센터, 제품 수요 및 원자재 가격 예측, 생산·물류 스케줄 최적화 등 각 계열사의 업무 효율성을 높이기 위한 프로젝트도 다수 진행했다.
+임 원장은 LG AI연구원의 다음 개발 목표에 대해 “복잡한 그래프와 철학적인 개념이 포함된 텍스트를 이해하고, 스스로 계획을 세우고 실행할 수 있는 에이전트형 AI를 만드는 것”이라고 밝혔다.
+최근 LG AI연구원은 정부의 ‘소버린 AI’ 개발 사업 5개 후보 중 하나로 선정됐다. 임 원장은 “소버린 AI의 목표는 AI가 필요할 때면 언제 어디서든 원하는 수준으로 제어할 수 있는 AI 기술을 확보하는 것”이라며 “5개 팀 가운데 꼭 1등을 차지해 LG그룹은 물론 한국이 AI 강국으로 도약하는 데 기여할 것”이라고 다짐했다.
+임 원장은 학창 시절부터 컴퓨터 프로그래밍을 좋아해 대학에서 로봇·기계제어를 공부하고 대학원에서는 음성인식을 전공했다. 2007년 박사 학위를 취득한 후 통신용 소프트웨어와 멀티미디어 소프트웨어 개발 등 업무를 거쳐 2019년 LG그룹에 합류했다. 그는 “우리가 개발한 AI 서비스를 통해 국민들의 생활을 윤택하게 만들고, AI 기술을 수출해 대한민국 경제가 발전할 수 있도록 돕는 게 궁극적인 목표”라고 포부를 밝혔다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[임우형 LG AI연구원장 인터뷰 핵심분야 자원 집중해야 승산 최근 발표 LG AI ‘엑사원 4.0’ 탐색·추론 동시에 가성비 갖춰“인공지능(AI) 개발 경쟁의 승패는 누가 AI를 더 잘 활용하느냐에서 판가름 날 것입니다.” 지난달 LG AI연구원을 이끌 공동연구원장으로 선임된 임우형 신임 연구원장(상무)은 한국에서 가장 각광받는 AI 연구자 가운데 한 명이]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100305</code_id>
+<code_nm><![CDATA[전기·전자·통신]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100305</small_code_id>
+<small_code_nm><![CDATA[전기·전자·통신]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/16/news-p.v1.20250813.80e6d0a4d5fc4b9fbe65db825a955c7c_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 임우형 LG AI 연구원장]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/16/news-p.v1.20250813.61cf53cc3a0240a7bfecbd3eefefa30d_P1.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11394742]]></article_url>
+</article>
+</saltlux>

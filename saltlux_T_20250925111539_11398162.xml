@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11398162</art_id>
+<art_year>2025</art_year>
+<art_no>594057</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-20 13:17:52</service_daytime>
+<title><![CDATA[“소프트웨어 협력 기반 강화”…현대차그룹, SDV 시대 앞당긴다]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[박소현 매경 디지털뉴스룸 기자(mink1831@naver.com)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-20 13:17:52</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100308</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/20/news-p.v1.20250820.141f38acd79242f6b29ca2040f620346_P1.jpg' alt=' 현대차·기아 AVP본부장 송창현 사장이 발표하는 모습 [사진제공=현대차그룹]'>
+현대자동차그룹이 ‘소프트웨어를 중심으로 진화하는 자동차(SDV)’ 시대를 앞당기기 위해 핵심 협력사들과 최신 기술표준 및 소프트웨어 개발체계를 공유하는 등 협력을 다졌다.
+20일 현대차그룹은 경기도 판교 소재 소프트웨어드림센터 사옥에서 현대모비스, 현대케피코, 보쉬, 콘티넨탈, HL만도 등 국내외 주요 제어기 분야 협력사 총 58개사의 엔지니어링 핵심 인력이 참석한 가운데 ‘플레오스(Pleos) SDV 스탠다드 포럼’을 개최했다고 밝혔다.
+SDV는 하드웨어가 완성되는 시점에 기능이 고정되는 기존 차량과 달리 차량 출고 후에도 지속적인 소프트웨어 업데이트와 기능 확장이 가능한 플랫폼으로 정의되고 있다. 이번 포럼은 그룹이 본격적인 SDV 양산을 준비하는 과정에서 하드웨어 중심 공급망 한계를 극복하고 소프트웨어 기반 유연한 협력 체계로 전환하기 위한 전략의 일환이다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/20/news-p.v1.20250820.2629fdec58ae41e6854c0cc3f679927f_P1.jpg' alt=' 플레오스 SDV 스탠다드 포럼 행사 포스터 이미지 [사진제공=현대차그룹]'>
+SDV가 양산에 이르기 위해서는 완성차 제조사뿐만 아니라 부품사, 소프트웨어 개발사, 보안·진단·검증 분야까지 포함한 전 분야의 개발 환경이 소프트웨어 중심으로 재편돼야 하며, 이를 뒷받침할 표준과 협력 체계가 필요하다. 현대차그룹은 협력사들과 소프트웨어 중심의 협력 체계를 사전에 구축함으로써 산업 생태계의 전환 속도를 한층 가속화한다는 계획이다.
+포럼에서는 차세대 전기·전자 아키텍처, 차량용 운영체제(OS), 외부 디바이스 표준화 구조 등 최신 기술 표준과 통합 소프트웨어 개발체계가 공개됐다. 해당 체계는 사양 정의부터 검증·관리까지 전 과정을 포괄하며, 완성차와 협력사가 개발 데이터를 실시간 연계·공유할 수 있도록 설계됐다.
+현대차·기아 AVP본부장 송창현 사장은 “SDV 구현을 위해 핵심 파트너 간 긴밀한 협력과 표준화된 개발 체계 확산이 필수”라며 “앞으로도 SDV 양산 공급망 체계를 구축하고 소프트웨어 중심 협력 네트워크를 확대하겠다”고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[현대자동차그룹이 ‘소프트웨어를 중심으로 진화하는 자동차(SDV)’ 시대를 앞당기기 위해 핵심 협력사들과 최신 기술표준 및 소프트웨어 개발체계를 공유하는 등 협력을 다졌다. 20일 현대차그룹은 경기도 판교 소재 소프트웨어드림센터 사옥에서 현대모비스, 현대케피코, 보쉬, 콘티넨탈, HL만도 등 국내외 주요 제어기 분야 협력사 총 58개사의 엔지니어링 핵심 인력]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100308</code_id>
+<code_nm><![CDATA[자동차]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100308</small_code_id>
+<small_code_nm><![CDATA[자동차]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/20/news-p.v1.20250820.141f38acd79242f6b29ca2040f620346_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 현대차·기아 AVP본부장 송창현 사장이 발표하는 모습 [사진제공=현대차그룹]]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/20/news-p.v1.20250820.2629fdec58ae41e6854c0cc3f679927f_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 플레오스 SDV 스탠다드 포럼 행사 포스터 이미지 [사진제공=현대차그룹]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11398162]]></article_url>
+</article>
+</saltlux>

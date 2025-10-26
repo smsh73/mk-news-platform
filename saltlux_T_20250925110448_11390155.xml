@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11390155</art_id>
+<art_year>2025</art_year>
+<art_no>570307</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-11 07:13:55</service_daytime>
+<title><![CDATA[Korea targets SMRs as future growth engine]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-11 07:13:55</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK400103</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250811.5ebe334183c44dfca9f0bc24d76839e6_P1.jpg' alt=' (Doosan Enerbility)'>
+Small modular reactors (SMRs) — compact nuclear power plants designed to deliver low-cost, eco-friendly electricity — are drawing growing interest as soaring power demand from artificial intelligence (AI) data centers strains existing grids.
+The data centers require vast, steady power supplies, prompting a search for alternatives to conventional energy sources. With lingering concerns over the safety of traditional nuclear plants, such as the Fukushima disaster in Japan, SMRs are emerging as a potential solution.
+Compared to large-scale reactors, SMRs promise higher safety, faster construction times, and the flexibility to be sited closer to cities.
+The modular approach allows components to be built in factories, lowering project costs and enabling multiple units to be linked for output comparable to conventional nuclear plants.
+“SMRs are proven to be 100 to 1,000 times safer than conventional nuclear power plants,” said Kim Moo-hwan, professor of the Division of Advanced Nuclear Engineering (DANE) at Pohang University of Science and Technology (POSTECH). “Their one-tenth scale allows them to be placed closer to where they are needed,” he said.
+Professor Kim added that various designs — from sodium-cooled to high-temperature gas-cooled — are now competing, and only those providing safety and reliability in the next few years will survive.
+The market outlook is robust.
+Precedence Research forecasts the global SMR market will grow at an annual average of 8.9 percent from $6.88 billion in 2025 to $16.13 billion by 2034. The World Economic Forum projects a 22 percent annual growth rate until 2040.
+Korea, already a major exporter of nuclear power plant technology, is seen as well-positioned to capitalize on the market.
+Doosan Enerbility Co. is preparing to enter the SMR foundry business, aiming to mass-produce reactors by applying optimal manufacturing processes honed over four decades of supplying core nuclear equipment such as reactors and steam generators.
+In a model similar to the semiconductor industry’s split between design houses and foundries, Doosan Enerbility plans to serve global SMR developers as a contract manufacturer.
+Doosan Enerbility is producing prototypes, installing dedicated manufacturing equipment, and building facilities to make its first SMR units. It aims for an annual capacity of 20 reactors and future orders for 62 main SMR components.
+The company signed a feasibility study with U.S.-based Nuscale Power in 2019 and has since partnered on equity investment and reactor module material production.
+HD Hyundai is also moving in, partnering with U.S. firm TerraPower to develop core equipment for fourth-generation sodium-cooled fast reactors (SFRs), a type of SMR.
+The reactor vessel — housing the nuclear core and coolant — is among the key components under development.
+HD Hyundai Heavy Industries Co. plans to tap expertise gained from building vacuum vessels for the International Thermonuclear Experimental Reactor (ITER) and Korea’s fusion research projects.
+Professor Kim called for diversification into other designs as Korea focuses on only one water-cooled SMR model.
+Industry experts say competitiveness will also depend on creating dedicated SMR development zones, passing special legislation, and concentrating support for R&D, demonstration projects, and manufacturing.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[Small modular reactors (SMRs) — compact nuclear power plants designed to deliver low-cost, eco-friendly electricity — are drawing growing interest as soaring power demand from artificial intelligence ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK400103</code_id>
+<code_nm><![CDATA[Companies]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00308</middle_code_id>
+<middle_code_nm><![CDATA[English]]></middle_code_nm>
+<small_code_id>MK400103</small_code_id>
+<small_code_nm><![CDATA[Companies]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250811.5ebe334183c44dfca9f0bc24d76839e6_P1.jpg]]></image_url>
+<image_caption><![CDATA[ (Doosan Enerbility)]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11390155]]></article_url>
+</article>
+</saltlux>

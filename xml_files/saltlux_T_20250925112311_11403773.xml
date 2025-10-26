@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11403773</art_id>
+<art_year>2025</art_year>
+<art_no>611161</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-27 09:50:47</service_daytime>
+<title><![CDATA[Extreme weather reveals loopholes in Korea’s solar assessments]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-27 09:50:47</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK400111</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/27/news-p.v1.20250827.37eeb67f77c0498bbe75cdad2409b1c3_P1.png' alt=' (News1)'>
+As the South Korean government pushes to expand the usage of solar power, damage to solar facilities from wildfires and heavy rains has surged in 2025 to date, raising questions over the effectiveness of environmental impact reviews.
+Data submitted to People Power Party lawmaker Cho Eun-hee showed 313 reported cases of solar facility damage as of early August, more than ten times the previous year’s 29 cases and well above the 212 reported in 2023.
+The increase follows a string of natural disasters ranging from spring wildfires to summer downpours. By land category, paddy fields accounted for the largest share with 155 cases, followed by dry fields with 43 and forest land with 19. In terms of damage type, flooding was most common at 174 cases followed by 109 cases of operational shutdowns due to wildfire damage and seven cases of soil loss. Small facilities under 100 kilowatts made up more than half of the incidents in 2025, totaling 181 cases.
+Critics say the surge highlights gaps in the current review system. Cho stressed that environmental and safety assessments should not be applied loosely in pursuit of renewable energy targets. “As the weather gets more extreme, risk assessments and stricter management standards are needed for high-risk sites to prevent disaster damage,” she said.
+The Ministry of Environment currently mandates full reviews only for solar plants of 100 megawatts or larger. Smaller facilities, which account for most of the damage, only undergo simplified reviews. Even then, approval is almost guaranteed, with 1,868 of 1,909 small-scale applications filed over the past five years approved, a rate of 98 percent.
+The risks are already playing out, exemplified by a 500-kilowatt solar plant in Hadong in southern Korea that was destroyed by a landslide in July 2025. The facility had been exempted from a full review because of its smaller scale.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[As the South Korean government pushes to expand the usage of solar power, damage to solar facilities from wildfires and heavy rains has surged in 2025 to date, raising questions over the effectiveness]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK400111</code_id>
+<code_nm><![CDATA[Biz]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00308</middle_code_id>
+<middle_code_nm><![CDATA[English]]></middle_code_nm>
+<small_code_id>MK400111</small_code_id>
+<small_code_nm><![CDATA[Biz]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/27/news-p.v1.20250827.37eeb67f77c0498bbe75cdad2409b1c3_P1.png]]></image_url>
+<image_caption><![CDATA[ (News1)]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11403773]]></article_url>
+</article>
+</saltlux>

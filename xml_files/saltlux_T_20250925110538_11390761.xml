@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11390761</art_id>
+<art_year>2025</art_year>
+<art_no>572353</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-11 16:03:30</service_daytime>
+<title><![CDATA["데이터만 넣으면 심층분석 뚝딱… JP모건 3천명 애널들도 활용 중"]]></title>
+<sub_title><![CDATA[데이비드 마이어 데이터브릭스 부사장<br>복잡한 코딩 없이도 자유자재로 쓸수 있는 AI민주화가 목표<br>자연어로 질문 던지면 데이터 시각화 물론 예측 분석까지 해줘]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[고민서 기자(esms46@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250812</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>02</pub_section>
+<pub_page>2</pub_page>
+<reg_dt>2025-08-11 16:03:30</reg_dt>
+<mod_dt>2025-08-11 18:50:36</mod_dt>
+<art_org_class>MK300108</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/12/20250812_01110202000001_L00.jpg' alt=''>
+
+"누구나 자신이 보유한 데이터를 기반으로 인공지능(AI) 에이전트를 구축하고, 이를 마치 직원처럼 활용하는 시대가 열리고 있죠. 우리는 그 상상이 현실이 될 수 있도록 복잡한 코드 없이도 AI를 만들고 실행할 수 있는 인프라스트럭처를 지속적으로 고도화해나가고 있습니다."
+데이비드 마이어 데이터브릭스 제품총괄 부사장은 최근 매일경제와의 인터뷰에서 "한국을 포함한 많은 기업들이 AI 및 데이터 인프라 측면에서 고립된 데이터 환경과 비용 및 품질에 대한 우려, 숙련된 인재 부족 등의 어려움에 직면해 있다"며 이같이 밝혔다. 
+그러면서 "데이터브릭스는 급변하는 시장 환경 속에서 고객 수요에 가장 잘 부합하는 솔루션을 제공할 수 있도록 지속적으로 제품과 서비스를 조정해나가고 있다"고 강조했다.
+데이터브릭스는 미국 샌프란시스코에 본사를 둔 글로벌 데이터 및 AI 기업이다. 현재 전 세계 1만여 개 조직이 데이터브릭스의 '데이터 인텔리전스 플랫폼'을 통해 데이터를 통합 관리·분석하고, AI를 쉽고 안전하게 구축·운영하고 있다.
+현재 데이터브릭스가 내세우고 있는 핵심 메시지는 'AI의 민주화'다. 복잡한 개발 지식이 없는 사람들도 일상적인 업무 속에서 AI 기능을 손쉽게 적용하고, 비즈니스 문제를 해결하는 데 직접 활용할 수 있는 기반을 마련하겠다는 것이다.
+그 일환으로 최근 데이터브릭스는 '비코드(code-free)' 기반의 다양한 AI 솔루션을 선보이며 AI 대중화에 속도를 내고 있다. 대표적인 예가 지난 6월 공개된 '데이터브릭스 원'이다. 데이터브릭스 원은 비기술 사용자도 자연어를 통해 데이터를 분석하고 AI 기능을 직관적으로 활용할 수 있도록 설계된 통합 사용자 인터페이스(UI)다. 예를 들어 사용자는 '올해 가장 빠르게 성장한 지역은?' 같은 질문을 자연어로 입력하는 것만으로도 관련 데이터를 기반으로 한 시각화 결과를 받아 볼 수 있고, 예측 분석 및 핵심 요인 분석과 같은 고급 분석 등을 코딩 없이 수행할 수 있다.
+또 데이터브릭스는 최근 여러 데이터 소스를 손쉽게 연결하고 처리할 수 있는 '레이크플로 디자이너'를 선보였다. 코딩 없이도 마우스로 구성 요소를 끌어다 놓거나 자연어로 명령을 입력해 복잡한 데이터 처리 흐름을 만들 수 있다.
+마이어 부사장은 "과거에는 데이터브릭스 고객사 내 구성원 중 단 2~3%만이 우리 솔루션을 실제로 활용할 만큼 기술 장벽이 높았다"며 "그래서 데이터와 AI 기술을 더 많은 사람들이 쉽고 정확하게 활용할 수 있도록 하는 것이 우리의 전략이 됐다"고 말했다.
+이어 그는 "데이터브릭스의 데이터 인텔리전스 플랫폼은 기업이 사용하는 다양한 형식의 데이터를 한곳에 모아 통합적으로 관리할 수 있도록 설계돼 있으며, 그 중심에는 '유니티 카탈로그'라는 일종의 시스템의 두뇌가 있다"면서 "이 유니티 카탈로그는 사용량이 많아질수록 이용 방식, 데이터 품질, 자산 간 관계를 자동으로 분석해 고객에게 더 유용한 정보와 관리 기준을 제안하는 지능형 구조"라고 설명했다.
+한편 데이터브릭스는 국내 시장에서 금융과 제조업을 핵심 산업군으로 보고 있다. 마이어 부사장은 "특히 지난해에는 금융보안원의 클라우드 서비스 제공 업체(CSP) 안전성 평가를 완료해 한국 금융 고객이 데이터와 AI 자산의 가치를 극대화할 수 있도록 지원하는 발판을 마련했다"며 "이 같은 노력을 바탕으로 데이터브릭스는 현재 한국에서 라이나생명, AIA생명, BC카드 등의 금융권 고객사와의 협업을 통해 데이터 및 AI 혁신을 돕고 있다"고 전했다. 
+해외 대표 고객사로는 JP모건이 있다. 마이어 부사장은 "데이터브릭스의 솔루션을 채택한 JP모건의 경우 3000명이 넘는 애널리스트가 다양한 분석 기법과 언어를 사용해 데이터에 쉽게 접근하고 분석하는 것이 가능해졌다"고 설명했다.
+[고민서 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA["누구나 자신이 보유한 데이터를 기반으로 인공지능(AI) 에이전트를 구축하고, 이를 마치 직원처럼 활용하는 시대가 열리고 있죠. 우리는 그 상상이 현실이 될 수 있도록 복잡한 코드 없이도 AI를 만들고 실행할 수 있는 인프라스트럭처를 지속적으로 고도화해나가고 있습니다."
+데이비드 마이어 데이터브릭스 제품총괄 부사장은 최근 매일경제와의 인터뷰에서 "한국을 포함한 많은 기업들이 AI 및 데이터 인프라 측면에서 고립된 데이터 환경과 비용 및 품질에 대한 우려]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK300108</code_id>
+<code_nm><![CDATA[U-World (IT)]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK300108</small_code_id>
+<small_code_nm><![CDATA[U-World (IT)]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/12/20250812_01110202000001_L00.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11390761]]></article_url>
+</article>
+</saltlux>

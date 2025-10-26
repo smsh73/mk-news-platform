@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11387452</art_id>
+<art_year>2025</art_year>
+<art_no>563443</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-07 11:07:51</service_daytime>
+<title><![CDATA[[속보] 경찰, 이춘석 ‘차명 주식거래 의혹’ 전담 수사팀 편성]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[이상현 매경 디지털뉴스룸 기자(lee.sanghyun@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-07 11:07:51</reg_dt>
+<mod_dt>2025-08-07 11:15:03</mod_dt>
+<art_org_class>MK100701</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/07/news-p.v1.20250807.9bd5f7db567341f58add51e47196d848_P1.jpg' alt=' 차명 주식거래 의혹을 받는 이춘석 의원이 지난 5일 국회 본회의에 출석해 방송법 개정안에 대한 기표를 한 뒤 투표함으로 이동하고 있다. [사진 출처 = 연합뉴스]'>
+주식 차명거래 의혹으로 더불어민주당을 탈당한 이춘석 의원과 관련해 경찰이 전담수사팀을 꾸렸다.
+7일 경찰에 따르면 서울경찰청 금융범죄수사대는 안용식 금융범죄수사대장을 팀장으로 하고 변호사, 회계사 등 법률·자금 추적 전문인력 등을 포함한 총 25명 규모의 전담수사팀을 편성했다.
+경찰 관계자는 “법과 원칙에 따라 엄정하게 수사를 진행할 예정”이라고 설명했다.
+이 의원은 지난 4일 국회 본회의장에서 휴대전화를 이용해 보좌관으로 추정되는 타인 명의 주식 거래창에서 주문을 넣는 모습이 포착되면서 차명거래 의혹이 불거졌다. 이후 그는 민주당을 탈당하고 국회 법제사법위원장 사임서를 당에 제출했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[주식 차명거래 의혹으로 더불어민주당을 탈당한 이춘석 의원과 관련해 경찰이 전담수사팀을 꾸렸다. 7일 경찰에 따르면 서울경찰청 금융범죄수사대는 안용식 금융범죄수사대장을 팀장으로 하고 변호사, 회계사 등 법률·자금 추적 전문인력 등을 포함한 총 25명 규모의 전담수사팀을 편성했다. 경찰 관계자는 “법과 원칙에 따라 엄정하게 수사를 진행할 예정”이라고 설명했다.]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100701</code_id>
+<code_nm><![CDATA[정치일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00302</middle_code_id>
+<middle_code_nm><![CDATA[정치]]></middle_code_nm>
+<small_code_id>MK100701</small_code_id>
+<small_code_nm><![CDATA[정치일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100801</code_id>
+<code_nm><![CDATA[사회일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100801</small_code_id>
+<small_code_nm><![CDATA[사회일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100804</code_id>
+<code_nm><![CDATA[사건·사고]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100804</small_code_id>
+<small_code_nm><![CDATA[사건·사고]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100805</code_id>
+<code_nm><![CDATA[법원·검찰·경찰]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100805</small_code_id>
+<small_code_nm><![CDATA[법원·검찰·경찰]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/07/news-p.v1.20250807.9bd5f7db567341f58add51e47196d848_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 차명 주식거래 의혹을 받는 이춘석 의원이 지난 5일 국회 본회의에 출석해 방송법 개정안에 대한 기표를 한 뒤 투표함으로 이동하고 있다. [사진 출처 = 연합뉴스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11387452]]></article_url>
+</article>
+</saltlux>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11384089</art_id>
+<art_year>2025</art_year>
+<art_no>553323</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-03 17:55:44</service_daytime>
+<title><![CDATA[뜨거워지는 데이터센터 공기 대신 액체로 식힌다]]></title>
+<sub_title><![CDATA[LG유플 평촌2센터 가보니<br>액체냉각, GPU 열관리 효과적<br>기존 공기냉각 대비 효율 6배]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[안선제 기자(ahn.sunje@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250804</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>18</pub_page>
+<reg_dt>2025-08-03 17:55:44</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101509</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/04/20250804_01110118000005_L00.jpg' alt='LG유플러스 직원이 지난달 31일 평촌2센터 내 액체 냉각 기술 데모룸에서 '직접 칩 냉각' 방식을 테스트하고 있다. LG유플러스'>
+
+지난달 31일 방문한 LG유플러스 평촌2센터 내 데모룸. 이곳은 '열과의 전쟁' 최전선이었다. 이곳에서는 LG유플러스 데이터센터에 적용될 액체 냉각 기술 검증(PoC) 테스트가 이뤄지고 있었다.
+데모룸에서는 '직접 칩 냉각(D2C)'과 '액침냉각' 등 2가지 액체 냉각 방식이 시연됐다. 직접 칩 냉각 시스템은 그래픽처리장치(GPU) 위에 부착된 판에 찬 물을 직접 흘려 열을 식히는 방식이다. 
+냉각수가 통과하는 파랑 관과 열을 흡수한 온수가 흐르는 빨강 관을 만져보니 온도 차가 확연했다. 그 옆에는 서버 전체가 통째로 액체에 담긴 탱크도 전시돼 있었다. 액체는 물처럼 보이지만 실제로는 끈적한 기름(절연유)이다. 절연유는 온도가 40~45도까지 올라가면 배출된다. 정숙경 AIDC 사업담당은 "현재 데모룸에서는 두 방식의 조합을 포함해 어떤 구성이 가장 실제 운영에 적합한지를 다각도로 테스트하고 있다"고 말했다.
+열 관리는 데이터센터 운영의 핵심 요소다. 인공지능(AI) 연산에 사용되는 GPU는 일반 서버용 중앙처리장치(CPU)보다 3배 이상 많은 열을 발생시키며, 데이터센터가 사용하는 전체 에너지 중 40% 이상이 이 열을 식히기 위해 사용된다. 액체 냉각은 기존 공기 냉각식 대비 효율을 획기적으로 끌어올릴 수 있어 각광받고 있다. 또한 차가운 바깥 공기를 활용한 고효율 냉방 시스템을 적용해 서버가 있는 전산실 내부 온도도 365일 24시간 22~24도로 일정하게 유지되고 있다.
+LG유플러스는 직접 칩 냉각 방식을 2027년까지 평촌2센터와 파주센터(준공 예정)에 본격 도입할 계획이다. 이를 통해 전력 및 공간 효율성이 기존 대비 6배 이상 향상될 것으로 기대된다.  이날 LG유플러스는 전력, 공조 등 첨단 인프라도 함께 공개했다. 지하 3층~지상 9층인 이 시설은 축구장 6개 규모로 최대 23만대의 서버를 수용할 수 있다.  
+[안선제 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[지난달 31일 방문한 LG유플러스 평촌2센터 내 데모룸. 이곳은 '열과의 전쟁' 최전선이었다. 이곳에서는 LG유플러스 데이터센터에 적용될 액체 냉각 기술 검증(PoC) 테스트가 이뤄지고 있었다.
+데모룸에서는 '직접 칩 냉각(D2C)'과 '액침냉각' 등 2가지 액체 냉각 방식이 시연됐다. 직접 칩 냉각 시스템은 그래픽처리장치(GPU) 위에 부착된 판에 찬 물을 직접 흘려 열을 식히는 방식이다. 
+냉각수가 통과하는 파랑 관과 열을 흡수한 온수가 흐르는 빨강]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101509</code_id>
+<code_nm><![CDATA[데이터산업]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101509</small_code_id>
+<small_code_nm><![CDATA[데이터산업]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/04/20250804_01110118000005_L00.jpg]]></image_url>
+<image_caption><![CDATA[LG유플러스 직원이 지난달 31일 평촌2센터 내 액체 냉각 기술 데모룸에서 '직접 칩 냉각' 방식을 테스트하고 있다. LG유플러스]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11384089]]></article_url>
+</article>
+</saltlux>

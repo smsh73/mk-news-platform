@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11396784</art_id>
+<art_year>2025</art_year>
+<art_no>589935</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-19 09:55:59</service_daytime>
+<title><![CDATA[빈 살만의 ‘아람코’ 뚫은 한국 AI 반도체...리야드에 단독 법인 설립]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[이동인 기자(moveman@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-19 09:55:59</reg_dt>
+<mod_dt>2025-08-19 10:40:37</mod_dt>
+<art_org_class>MK100301</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[인공지능(AI) 반도체 기업 리벨리온은 사우디아라비아 수도 리야드에 현지 단독 법인을 설립하고 중동 시장 공략에 나선다고 19일 밝혔다.
+앞서 리벨리온은 작년 7월 사우디 국영석유기업 아람코의 기업벤처캐피털(CVC) 와에드 벤처스로부터 전략적 투자를 유치했으며 이후 아람코와 AI반도체 공급을 전제로 업무협약을 체결했다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/19/news-p.v1.20250819.f813f653151a4515bb9cccff87e3e787_P1.jpg' alt=' 지난해 리벨리온 박성현 대표와 아람코 디지털정보기술부문 나빌 알 누하임(Nabil Al-Nuaim) 부사장(오른쪽)이 양해 각서에 서명하고 있는 모습. 리벨리온'>
+이후 아람코의 데이터센터에 랙 단위 제품을 공급하고 실증을 통해 성능과 호환성을 입증했다. 리벨리온은 아람코 및 현지 파트너사와 협력을 강화해 향후 대규모 도입과 장기 파트너십을 확보한다는 계획이다.
+리벨리온은 사우디 주요 통신사와도 파트너십을 논의 중이며 중소 ICT 기업들과 협력해 사업 포트폴리오 다변화에도 나서고 있다.
+최근 사우디를 비롯한 중동에서 ‘소버린 AI’(국가 자립 인공지능) 수요가 급증하고 있는 점도 리벨리온이 주목하는 이유다.
+최근 사우디 휴메인은 2030년까지 대규모 데이터센터 구축 계획을 발표했으며, 오픈AI와 G42, 오라클 역시 아랍에미리트 아부다비에 대규모 데이터센터 캠퍼스를 조성하고 있다.
+박성현 리벨리온 대표는 “이번 법인 설립은 급성장하는 소버린 AI 수요에 대응하고 의미 있는 성과를 만들어가는 본격적인 출발점이 될 것”이라고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[인공지능(AI) 반도체 기업 리벨리온은 사우디아라비아 수도 리야드에 현지 단독 법인을 설립하고 중동 시장 공략에 나선다고 19일 밝혔다. 앞서 리벨리온은 작년 7월 사우디 국영석유기업 아람코의 기업벤처캐피털(CVC) 와에드 벤처스로부터 전략적 투자를 유치했으며 이후 아람코와 AI반도체 공급을 전제로 업무협약을 체결했다. 이후 아람코의 데이터센터에 랙 단위 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100301</code_id>
+<code_nm><![CDATA[기업 경영]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100301</small_code_id>
+<small_code_nm><![CDATA[기업 경영]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100305</code_id>
+<code_nm><![CDATA[전기·전자·통신]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100305</small_code_id>
+<small_code_nm><![CDATA[전기·전자·통신]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/19/news-p.v1.20250819.f813f653151a4515bb9cccff87e3e787_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 지난해 리벨리온 박성현 대표와 아람코 디지털정보기술부문 나빌 알 누하임(Nabil Al-Nuaim) 부사장(오른쪽)이 양해 각서에 서명하고 있는 모습. 리벨리온]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11396784]]></article_url>
+</article>
+</saltlux>

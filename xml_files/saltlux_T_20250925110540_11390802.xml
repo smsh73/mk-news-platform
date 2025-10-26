@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11390802</art_id>
+<art_year>2025</art_year>
+<art_no>572415</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-11 16:10:21</service_daytime>
+<title><![CDATA[스마트 팩토리 도입 비용 年 19억 절감 [COST ZERO]]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[이호준 기자(lee.hojoon@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250812</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>03</pub_section>
+<pub_page>1</pub_page>
+<reg_dt>2025-08-11 16:10:21</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK300105</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[최근 반도체 업계는 글로벌 수요 둔화, 재고 증가, 원자재 가격 상승 등으로 인해 심각한 경영난을 겪고 있다. 특히 중국과의 경쟁 심화로 인해 단가 인하 압박이 커지면서 수익성이 악화하고 있어 기업들은 비용 절감을 통한 경쟁력 확보가 필수적인 상황이다.
+경북에 있는 반도체 제조업체 A사는 이러한 위기를 극복하기 위해 전사적인 비용 절감 전략을 도입했다. 
+매경기업비용절감센터는 빅데이터 기반 비용 진단 솔루션을 활용해 A사의 비용 지출을 분석한 결과, 10개 항목에서 과다 지출이 발생하고 있음을 확인했다. 이에 대해 맞춤형 비용 절감 전략을 제시했으며, 그중 하나로 생산 공정의 디지털 전환을 통한 운영 효율화를 추진했다.
+공급업체 계약 및 가격 협상 최적화를 통해 원자재 비용 절감에도 성공했다. 기존에는 개별 부서가 각각 구매를 진행하면서 공급업체와 협상력이 약해지는 문제가 있었으나, 매경기업비용절감센터의 조언에 따라 구매 프로세스를 통합해 각 부서가 개별적으로 진행하던 구매 업무를 일원화했다. 이를 통해 주요 원자재의 단가를 낮추고 대량 구매 혜택을 극대화할 수 있었다.
+반도체 생산 라인은 개별 공정별로 운영되면서 불필요한 에너지 소비와 장비 가동률 저하 등 문제가 있었다. 이에 A사는 사물인터넷(IoT) 센서를 활용한 스마트 팩토리 시스템을 도입해 실시간으로 데이터를 수집하고 분석함으로써 생산 공정을 최적화했다.
+또한, 인공지능(AI) 기반 예측 분석을 적용해 장비 유지보수 일정을 최적화하고 불필요한 가동을 줄여 에너지 소비를 절감했다. 그 결과 장비 가동률이 향상되었으며, 공정당 에너지 사용량이 대폭 감소했다.
+이러한 전략들을 포함한 8개 항목의 최적화를 실행한 결과, A사는 연간 약 18억8000만원의 절감 효과를 달성했으며, 절감된 비용은 신기술 개발 및 연구개발(R&D) 투자로 이어져 기업의 장기적인 경쟁력을 높이는 데 활용됐다.
+이처럼 매경기업비용절감센터는 기업의 비용 구조를 분석하고 개선 영역을 진단하며, 비용 항목별 절감 가능 금액과 실행할 수 있는 전략을 구체적으로 제시하는 컨설팅 서비스를 제공하고 있다.  
+[이호준 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[최근 반도체 업계는 글로벌 수요 둔화, 재고 증가, 원자재 가격 상승 등으로 인해 심각한 경영난을 겪고 있다. 특히 중국과의 경쟁 심화로 인해 단가 인하 압박이 커지면서 수익성이 악화하고 있어 기업들은 비용 절감을 통한 경쟁력 확보가 필수적인 상황이다.
+경북에 있는 반도체 제조업체 A사는 이러한 위기를 극복하기 위해 전사적인 비용 절감 전략을 도입했다. 
+매경기업비용절감센터는 빅데이터 기반 비용 진단 솔루션을 활용해 A사의 비용 지출을 분석한 결과, 1]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK300105</code_id>
+<code_nm><![CDATA[중소기업 Mart]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK300105</small_code_id>
+<small_code_nm><![CDATA[중소기업 Mart]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11390802]]></article_url>
+</article>
+</saltlux>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11388859</art_id>
+<art_year>2025</art_year>
+<art_no>567139</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-08 15:08:06</service_daytime>
+<title><![CDATA[“AI 무단 도용 기사만 12만건”…일본 언론, 퍼플렉시티에 200억대 소송]]></title>
+<sub_title><![CDATA[요미우리 신문, 日법원에 소장 제출
+WSJ·뉴욕포스트도 저작권 소송 제기]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[한지연 기자(han.jiyeon@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-08 15:08:06</reg_dt>
+<mod_dt>2025-08-08 15:32:42</mod_dt>
+<art_org_class>MK101002</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">요미우리 신문, 日법원에 소장 제출<br>WSJ·뉴욕포스트도 저작권 소송 제기</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/08/rcv.YNA.20250709.PRU20250709433701009_P1.jpg' alt=' 로이터연합뉴스'>
+일본 일간지 요미우리신문이 자사의 기사를 무단 사용했단 이유로 미국 인공지능(AI) 스타트업 퍼플렉시티에 200억원대의 손해배상 소송을 제기했다.
+8일 NHK 등 일본 현지 언론에 따르면 요미우리신문의 지주사인 요미우리신문홀딩스는 전날인 7일 퍼플렉시티가 자사의 저작권법상 복제권과 공중송신권(저작물을 유·무선으로 제공하는 권리)를 침해했다며 도쿄지방법원에 소장을 제출했다. 자사 기사 사용을 중단하고, 21억6800만엔(204억3900만원)의 손해배상을 하라는 내용이다. 손해배상 요구액은 추후 더 늘어날 수 있다.
+요미우리신문은 퍼플렉시티가 올해 2월부터 6월까지만 자사 기자의 약 12만건을 무단으로 사용했다고 주장했다. 퍼플렉시티는 2022년 설립된 생성형 AI 기반 검색 스타트업으로, 사용자가 질문을 하면 온라인 기사와 해당 이미지들을 사용해 답변을 제공한다.
+요미우리신문에 따르면 이번 소송은 생성형 AI와 관련한 저작권 침해에 대해 일본 주요 미디어 기업이 제기한 첫 소송이다. 요미우리 신문은 기사 무단 도용을 허용하는 ‘무임 승차’가 계속되면 언론이 객관적 자료에 근거한 정확한 보도를 하기 힘들게 만들 수 있다고 우려했다.
+앞서 미국 월스트리트저널(WSJ)와 뉴욕포스트도 퍼플렉시티에 저작권 침해에 따른 손해배상을 지난 12월 미국 뉴욕에서 제기했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[요미우리 신문, 日법원에 소장 제출 WSJ·뉴욕포스트도 저작권 소송 제기일본 일간지 요미우리신문이 자사의 기사를 무단 사용했단 이유로 미국 인공지능(AI) 스타트업 퍼플렉시티에 200억원대의 손해배상 소송을 제기했다. 8일 NHK 등 일본 현지 언론에 따르면 요미우리신문의 지주사인 요미우리신문홀딩스는 전날인 7일 퍼플렉시티가 자사의 저작권법상 복제권과 공중]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101002</code_id>
+<code_nm><![CDATA[국제경제]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101002</small_code_id>
+<small_code_nm><![CDATA[국제경제]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101010</code_id>
+<code_nm><![CDATA[아시아/호주]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101010</small_code_id>
+<small_code_nm><![CDATA[아시아/호주]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/08/rcv.YNA.20250709.PRU20250709433701009_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 로이터연합뉴스]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11388859]]></article_url>
+</article>
+</saltlux>

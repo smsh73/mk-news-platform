@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11386914</art_id>
+<art_year>2025</art_year>
+<art_no>562023</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-06 17:38:13</service_daytime>
+<title><![CDATA[LG CNS, 자카르타에 데이터센터 짓는다]]></title>
+<sub_title><![CDATA[인니 재계 3위 시나르마스와<br>지상 11층 규모로 공동 건설<br>LG CNS, 1000억원 매출 전망<br>냉각·전력·통신망 구축 총괄<br>"AI 인프라 수출 본격화할 것"]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김규식 기자(dorabono@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250807</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>17</pub_page>
+<reg_dt>2025-08-06 17:38:13</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101509</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/07/20250807_01110117000002_L00.jpg' alt='인도네시아 자카르타 멘텡 지역에 조성될 AI데이터센터 조감도.  LG CNS'>
+
+LG CNS가 국내 기업 최초로 해외 인공지능(AI) 데이터센터 구축사업을 수주했다. 구광모 LG그룹 회장이 미래 성장동력으로 제시한 'AI·바이오·클린테크(ABC)' 전략이 본격적인 성과로 이어지고 있다는 평가다.
+LG CNS는 인도네시아 재계 3위 시나르마스 그룹과 합작해 설립한 법인 'LG 시나르마스 테크놀로지 솔루션'을 통해 현지법인 KMG와 AI데이터센터 구축 계약을 체결했다고 6일 밝혔다. 사업지는 자카르타 중심부 멘텡 지역이며 총 사업 규모는 약 1000억원이다. 프로젝트는 연면적 4만6281㎡(축구장 약 6.5개)에 지상 11층 규모 하이퍼스케일급 데이터센터를 2026년 말까지 완공하는 것을 골자로 한다. 단일 센터에 서버 10만대 이상을 수용할 수 있으며 초기 전력 용량은 30메가와트(㎿)로 향후 220㎿까지 단계적으로 확장한다.
+LG CNS는 "지난해 KMG와 체결한 컨설팅·설계 계약을 성공적으로 수행한 데 이어 이번 본 사업 수주로 기술력을 다시 한 번 입증했다"고 밝혔다. 이번 프로젝트에서는 냉각 시스템, 전력설비, 통신망 등 데이터센터 인프라 전반을 총괄하며 설계부터 시공, 운영까지 전 과정을 책임진다.
+
+<img src='https://wimg.mk.co.kr/news/cms/202508/07/20250807_01110117000002_M01.jpg' alt=''>
+
+AI데이터센터는 기존 데이터센터보다 훨씬 높은 전력 밀도와 냉각 효율을 요구한다. 고성능 그래픽처리장치(GPU) 서버가 밀집하면서 발생하는 열을 효율적으로 제어해야 하기 때문이다. LG CNS는 공기 순환 방식과 액체 냉각을 결합한 하이브리드 냉각 기술을 적용하고, AI 서버 발열 구조에 맞춰 전력공급 라인과 냉각장비 배치를 정밀하게 설계할 예정이다.
+또한 정전이나 전력 장애 발생 시에도 중단 없이 운영할 수 있도록 예비 전력 체계를 갖춰 데이터센터의 가동 연속성을 극대화한다. 입주 기업들은 통신 회선을 자유롭게 선택하거나 복수 회선을 구성할 수 있는 '망중립' 환경에서 유연한 운영이 가능하다. LG CNS는 향후 AI 전용 GPU팜, 고밀도 서버 클러스터 등 고부가가치 설비를 갖춘 맞춤형 데이터센터 서비스도 순차적으로 제공할 계획이다.
+AI데이터센터가 들어설 멘텡 지역은 인도네시아 국가 네트워크망과 해저 케이블망을 연결하기에 유리한 입지로, 향후 동남아 네트워크 허브로 성장할 가능성도 높은 것으로 평가된다. LG CNS는 이번 수주를 기점으로 동남아에서 시작해 중동·북미 등 글로벌 AI 인프라 시장으로 본격 확장하는 방안을 추진하고 있다. 실제로 AI데이터센터 시장은 최근 '황금 알을 낳는 거위'로 떠오르고 있다. 글로벌 시장조사업체 포천 비즈니스 인사이트에 따르면 올해 AI데이터센터 시장 규모는 약 177억달러(약 24조6225억원)로 추산되며 2032년까지 연평균 26.8%의 고성장을 이어가 936억달러(약 130조2069억원)로 확대될 전망이다.
+LG CNS의 수출 비중도 매년 확대되고 있다. 금융감독원 공시시스템에 따르면 LG CNS 전체 매출 중 수출 비중은 2023년 18.6%(1조432억원)에서 2024년 21.9%(1조3093억원), 2025년 1분기 기준 22.3%(2697억원)까지 높아졌다. 글로벌 데이터센터 수요가 급증하는 가운데 LG CNS는 클라우드와 AI를 아우르는 통합 솔루션을 앞세워 고성능 AI 인프라 구축을 선도하고 있다.
+LG그룹은 바이오와 클린테크 분야에서도 미래 먹거리를 확보하기 위한 행보를 지속하고 있다. 최근에는 미국 바이오기업 스트랜드 테라퓨틱스에 투자해 mRNA 기반 항암 치료제 개발을 지원했고, AI 기반 암 진단 모델 '엑사원 패스 2.0'을 공개했다. 
+[김규식 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[LG CNS가 국내 기업 최초로 해외 인공지능(AI) 데이터센터 구축사업을 수주했다. 구광모 LG그룹 회장이 미래 성장동력으로 제시한 'AI·바이오·클린테크(ABC)' 전략이 본격적인 성과로 이어지고 있다는 평가다.
+LG CNS는 인도네시아 재계 3위 시나르마스 그룹과 합작해 설립한 법인 'LG 시나르마스 테크놀로지 솔루션'을 통해 현지법인 KMG와 AI데이터센터 구축 계약을 체결했다고 6일 밝혔다. 사업지는 자카르타 중심부 멘텡 지역이며 총 사업 규모]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101509</code_id>
+<code_nm><![CDATA[데이터산업]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101509</small_code_id>
+<small_code_nm><![CDATA[데이터산업]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/07/20250807_01110117000002_L00.jpg]]></image_url>
+<image_caption><![CDATA[인도네시아 자카르타 멘텡 지역에 조성될 AI데이터센터 조감도.  LG CNS]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/07/20250807_01110117000002_M01.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11386914]]></article_url>
+</article>
+</saltlux>

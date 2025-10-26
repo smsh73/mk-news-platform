@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11401996</art_id>
+<art_year>2025</art_year>
+<art_no>605623</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-25 11:27:45</service_daytime>
+<title><![CDATA[WIRobotics’ humanoid robot ALLEX grabs industry attention]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-25 11:27:45</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK400109</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/25/news-p.v1.20250825.d7e6c48f7ee64380a9e63d608ab33ef6_P1.png' alt=' (Ahn Sun-je)'>
+A South Korean startup has boldly entered the humanoid robot market, a field in which global big tech companies are fiercely competing.
+The company in question is WIRobotics Inc., which recently unveiled its general-purpose humanoid ALLEX.
+“Robots like ALLEX, which are capable of natural interaction with humans, are rare even globally,” WIRobotics founder and chief executive officer Kim Yong-jae said. He sat down for an interview with Maeil Business Newspaper at Korea University of Technology and Education (Korea Tech) in Cheonan, South Chungcheong Province, on Friday.
+ALLEX went beyond mechanical movements, showing gestures that felt almost human. When offered a wrist, it gently clasped it without causing discomfort and executed high-fives and handshakes. The appropriate strength and fluid wrist movements were strikingly lifelike.
+Its hand, equipped with 15 joints, enables highly precise movements. It can open a bottle cap, tighten thin screws, and even pick up rice-grain-sized components with tweezers. Each of its 10 fingers moved flexibly alongside the wrist.
+The humanoid robot even demonstrated complex actions that previous humanoids struggled with, such as interlacing its fingers and stretching both arms forward.
+“ALLEX’s key feature is its ability to feel weight, like a human,” Kim said. “It can detect subtle weight differences that are as small as 100 grams.”
+Unlike traditional robots that rely solely on sensors to measure force and direction, ALLEX achieves this via enhanced actuator technology that was developed in-house. Actuators are devices that convert electrical energy into physical force and motion.
+WIRobotics is currently still in the prototype stage with ALLEX, with only the robot’s upper body hardware completed. Its movements require manual control via a separate program.
+The company plans to collaborate with physical AI startups such as RLWRLD to equip ALLEX with AI capabilities, enabling it to perceive its environment and respond autonomously. It also plans to add wheels for improved mobility and unveil a lower-body platform in early 2026.
+Kim’s ultimate goal is to make ALLEX a versatile service robot for homes and restaurants, rather than a specialized industrial robot. A veteran in robotics with decades of experience, he conducted research at Samsung Electronics Co. and received offers from several global corporations but chose to stay in Korea to pursue independent technological development, founding WIRobotics in 2021. The company has now taken on the challenge of humanoid robotics after initially focusing on wearable assistive robots.
+“I studied arms, hands, and legs separately for a long time, but with the rapid pace of robotics development, I realized the time to integrate them into a full platform is now,” Kim said.
+“Unveiling ALLEX was our way of inviting collaboration with other companies to drive progress.”
+Since ALLEX’s launch on August 18th, 2025, WIRobotics has received multiple inquiries for research adoption and mass production partnerships.
+The company is also participating in the government-led K-Humanoid Alliance.
+“Korea currently lags behind China and the United States in this field,” Kim said. “But with the right focus and support in promising areas, we can absolutely catch up.”
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[A South Korean startup has boldly entered the humanoid robot market, a field in which global big tech companies are fiercely competing. The company in question is WIRobotics Inc., which recently unvei]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK400109</code_id>
+<code_nm><![CDATA[Bio&Tech]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00308</middle_code_id>
+<middle_code_nm><![CDATA[English]]></middle_code_nm>
+<small_code_id>MK400109</small_code_id>
+<small_code_nm><![CDATA[Bio&Tech]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/25/news-p.v1.20250825.d7e6c48f7ee64380a9e63d608ab33ef6_P1.png]]></image_url>
+<image_caption><![CDATA[ (Ahn Sun-je)]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11401996]]></article_url>
+</article>
+</saltlux>

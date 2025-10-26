@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11403018</art_id>
+<art_year>2025</art_year>
+<art_no>609173</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-26 13:43:21</service_daytime>
+<title><![CDATA[“머스크 암살하는 법 알려드립니다”…암살·폭탄제조법 다 말해준다는 ‘그록’]]></title>
+<sub_title><![CDATA[마약제조법도 안내…공유 버튼 통해 대화 37만건 노출]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[안선제 기자(ahn.sunje@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-26 13:43:21</reg_dt>
+<mod_dt>2025-08-26 14:13:45</mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">마약제조법도 안내…공유 버튼 통해 대화 37만건 노출</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/26/news-p.v1.20250402.bc453622cd2f471b8e073eb01dbca465_P1.jpg' alt=' 일론머스크와 그록. &lt;AFP 연합뉴스&gt;'>
+일론 머스크가 세운 인공지능(AI) 기업 xAI의 모델 ‘그록’이 암살, 폭탄 제조 등 심각한 위험을 초래할 수 있는 답변을 내놓았던 사실이 드러났다.
+25일(현지시간) 영국 더타임스와 포브스 등 외신에 따르면 최근 그록은 사용자 요청에 따라 자살 방법을 제안하거나 폭탄 제조법을 설명한 사례가 있었으며, 심지어 머스크를 암살하는 구체적이고 실행 가능한 방안을 제시했던 정황까지 포착됐다.
+또한 펜타닐이나 메스암페타민(필로폰) 같은 마약 제조법, 불법 해킹용 악성코드 제작법 등을 안내한 기록 역시 확인됐다.
+xAI는 그동안 원칙적으로 폭력이나 인명 피해를 조장하거나 생화학무기·대량파괴무기 개발에 그록을 활용할 수 없도록 규정해왔다. 그러나 실제 운영 과정에서 이 규정이 제대로 지켜지지 않은 것이다.
+더 큰 문제는 이러한 대화가 ‘공유’ 버튼을 누른 경우 외부에 노출됐었다는 점이다. 공유 버튼을 누르면 이메일이나 소셜미디어로 보낼 수 있는 페이지가 만들어지는데, 이 페이지가 구글 등 검색엔진에 색인되면서 의도치 않게 대화 내용이 공개된 것이다.
+포브스에 따르면 이 방식으로 노출된 그록의 대화는 37만 건 이상에 달한다. 공개된 대화에는 단순한 업무 관련 대화뿐 아니라 본인 이름과 개인정보, 비밀번호를 직접 언급한 사례까지 포함돼 있었다.
+이같은 색인 노출 문제는 그록 최초의 문제는 아니다. 과거 오픈AI의 챗GPT도 한때 공유 버튼을 제공했으나 일부 이용자들이 의도치 않게 버튼을 눌러 대화가 공개되는 사례가 잇따르자 기능을 제거한 일이 있었다. 당시 챗GPT 대화 약 10만 건이 구글 등의 검색엔진을 통해 노출됐던 것으로 알려졌다.
+다행히 그록의 위험한 답변 생성 문제는 현재 어느정도 조치가 완료된 상태로 파악된다. 지금은 그록에 머스크 암살 방법을 묻더라도 폭력적 질문은 정책 위반임을 안내하고, 필요한 경우 상담 등의 도움을 제안하는 방식으로 답변이 바뀌었다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[마약제조법도 안내…공유 버튼 통해 대화 37만건 노출일론 머스크가 세운 인공지능(AI) 기업 xAI의 모델 ‘그록’이 암살, 폭탄 제조 등 심각한 위험을 초래할 수 있는 답변을 내놓았던 사실이 드러났다. 25일(현지시간) 영국 더타임스와 포브스 등 외신에 따르면 최근 그록은 사용자 요청에 따라 자살 방법을 제안하거나 폭탄 제조법을 설명한 사례가 있었으며, ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/26/news-p.v1.20250402.bc453622cd2f471b8e073eb01dbca465_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 일론머스크와 그록. &lt;AFP 연합뉴스&gt;]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11403018]]></article_url>
+</article>
+</saltlux>

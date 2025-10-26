@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11406010</art_id>
+<art_year>2025</art_year>
+<art_no>618223</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-29 13:14:11</service_daytime>
+<title><![CDATA[엔비디아, 핵융합 스타트업 투자... ‘태양 에너지’ 상용화 속도]]></title>
+<sub_title><![CDATA[구글 투자한 커먼웰스퓨전시스템즈
+누적 투자 30억 달러, 2030년 상용화 속도]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[원호섭 기자(wonc@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-29 13:14:11</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">구글 투자한 커먼웰스퓨전시스템즈<br>누적 투자 30억 달러, 2030년 상용화 속도</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/29/news-p.v1.20250829.7549730ab0604af99941d8d2fba37a27_P1.png' alt=' CFS가 개발 중인 핵융합로 스파크(SPARC) 상상도 [사진=커먼웰스퓨전시스템즈]'>
+엔비디아가 차세대 청정에너지로 꼽히는 핵융합 발전 상용화에 발을 담갔다.
+미국 매사추세츠주 데번스에 본사를 둔 커먼웰스퓨전시스템즈(Commonwealth Fusion Systems, CFS)는 28일(현지시간) 엔비디아의 벤처투자 부문인 엔벤처스(NVentures)를 포함해 총 8억6300만 달러의 신규 투자를 받았다고 밝혔다. 이번 라운드에는 기존 투자자인 코슬라벤처스와 구글도 참여했다. 이로써 CFS의 누적 투자금은 약 30억 달러에 달한다. 블룸버그에 따르면 이는 전 세계 핵융합 산업 투자금의 3분의 1 수준이다.
+CFS는 태양의 원리와 같은 핵융합을 이용해 전기를 생산하는 발전소를 건설하는 스타트업이다. 현재 약 65% 완성된 실증 시스템을 구축 중이다. 밥 뭄가르드 CEO는 “2027년까지 핵심 기술 검증에 도달할 것”이라며 “이번 투자가 상용화에 한 걸음 더 다가서게 했다”라고 말했다.
+회사가 건설 중인 첫 상업용 발전소는 버지니아주에 들어설 예정이다. 이 지역은 세계 최대 규모의 데이터센터 집적지로 전력 수요 급증이 심각한 상황이다. 지난 6월 구글은 해당 발전소에서 생산될 전력의 절반을 장기 구매하기로 계약하며 조기 상업화 가능성에 힘을 실었다. 발전소의 설계 용량은 400메가와트(MW), 완공 시기는 2030년대 초로 예상된다.
+엔비디아의 참여는 AI와 에너지 산업 간 접점 확대라는 점에서도 의미가 크다. 엔비디아는 AI 반도체 수요 확대에 따라 전 세계 데이터센터 전력 소비 급증의 중심에 서 있으며 안정적이고 친환경적인 에너지 공급원 확보가 절실하다. 뭄가르드 CEO는 “지금은 막대한 에너지가 필요한 시기이며, 핵융합은 그 해법이 될 수 있다”라고 강조했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[구글 투자한 커먼웰스퓨전시스템즈 누적 투자 30억 달러, 2030년 상용화 속도엔비디아가 차세대 청정에너지로 꼽히는 핵융합 발전 상용화에 발을 담갔다. 미국 매사추세츠주 데번스에 본사를 둔 커먼웰스퓨전시스템즈(Commonwealth Fusion Systems, CFS)는 28일(현지시간) 엔비디아의 벤처투자 부문인 엔벤처스(NVentures)를 포함해 총 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101508</code_id>
+<code_nm><![CDATA[빅데이터]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101508</small_code_id>
+<small_code_nm><![CDATA[빅데이터]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/29/news-p.v1.20250829.7549730ab0604af99941d8d2fba37a27_P1.png]]></image_url>
+<image_caption><![CDATA[ CFS가 개발 중인 핵융합로 스파크(SPARC) 상상도 [사진=커먼웰스퓨전시스템즈]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11406010]]></article_url>
+</article>
+</saltlux>

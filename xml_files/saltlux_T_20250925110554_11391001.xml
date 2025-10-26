@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11391001</art_id>
+<art_year>2025</art_year>
+<art_no>572877</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-11 17:48:06</service_daytime>
+<title><![CDATA[시중은행, 동남아 QR결제 시장 '눈독']]></title>
+<sub_title><![CDATA[3년 새 거래금액 10배 증가<br>7억명 잠재고객 확보 기대]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[한상헌 기자(aries@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250812</pub_date>
+<pub_edition>17</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>12</pub_page>
+<reg_dt>2025-08-11 17:48:06</reg_dt>
+<mod_dt>2025-08-11 23:13:40</mod_dt>
+<art_org_class>MK100203</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/12/20250812_01170112000001_S00.jpg' alt=''>
+
+은행권이 스마트폰으로 QR코드를 스캔해 결제하는 QR결제 사업에 적극 나서면서 거래액이 늘고 있다. 
+11일 금융권에 따르면 하나은행이 글로벌 지급결제 네트워크 사업을 위해 2021년 분사한 핀테크 자회사 GLN의 올해 상반기 기준 QR결제액은 318억원이다. 2022년 반기 결제액인 32억원에 비해 10배가량 증가했다. GLN은 주로 동남아 국가를 대상으로 QR결제 사업을 진행하고 있다. 결제액 중 60% 이상이 태국에서 결제되고 있다. 이어 라오스(24.1%), 일본(11.6%), 베트남(2%) 등이다. 
+은행권에선 동남아 QR결제 사업을 새로운 수익 모델로 보고 있다. 동남아를 여행하는 국내 관광객뿐만 아니라 7억명에 달하는 동남아 현지 고객을 확보할 수 있기 때문이다. 
+또 QR코드를 통해 결제하기 위해선 현금을 충전해야 하는데, 이 충전금은 은행 입장에선 그대로 저원가성 조달 방식이 된다. 올해 상반기 기준 GLN의 선불충전금 잔액은 58억6800만원으로 전년 같은 기간보다 15% 늘었다. KB국민은행도 작년 캄보디아 중앙은행과 국가 간 QR코드 기반 지급결제 시스템 구축·운영을 위한 업무협약을 체결했다. 우리은행도 베트남우리은행을 통해 베트남 국영 결제 중계망 사업자와 협력해 태국에서 QR결제 서비스를 제공하고 있다. 신한카드는 유니온페이와 손잡고 중화권 공략을 위해 위챗페이 연동 QR결제 서비스를 지원하고 있다.
+[한상헌 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[은행권이 스마트폰으로 QR코드를 스캔해 결제하는 QR결제 사업에 적극 나서면서 거래액이 늘고 있다. 
+11일 금융권에 따르면 하나은행이 글로벌 지급결제 네트워크 사업을 위해 2021년 분사한 핀테크 자회사 GLN의 올해 상반기 기준 QR결제액은 318억원이다. 2022년 반기 결제액인 32억원에 비해 10배가량 증가했다. GLN은 주로 동남아 국가를 대상으로 QR결제 사업을 진행하고 있다. 결제액 중 60% 이상이 태국에서 결제되고 있다. 이어 라오스(]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100203</code_id>
+<code_nm><![CDATA[은행]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100203</small_code_id>
+<small_code_nm><![CDATA[은행]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/12/20250812_01170112000001_S00.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11391001]]></article_url>
+</article>
+</saltlux>

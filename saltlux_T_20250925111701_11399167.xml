@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11399167</art_id>
+<art_year>2025</art_year>
+<art_no>597021</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-21 11:29:36</service_daytime>
+<title><![CDATA[일본은 엔화 스테이블코인 곧 출시, 한국은 아직 준비중?[엠블록레터]]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>25</media_code>
+<writers><![CDATA[전성아 엠블록컴퍼니 기자(jeon.seonga@m-block.io)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-21 11:29:36</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100201</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250820.6852ab90f0274f818949918bd4b9556f_P1.png' alt=''>
+[엠블록레터] 안녕하세요 엠블록레터의 승아입니다. 저는 지난주 긴 여름휴가를 다녀왔어요. 오랜만에 가족들과 시간을 보내고, 친구들과 함께 이곳 저곳을 여행하고 오니 몸은 피곤한데 에너지는 잔뜩 충전되더라구요. 정말 달콤한 시간이었어요. 예전에는 친구들과 투자 이야기를 할 때면 코인을 잘 모르거나 부정적인 견해를 가지고 있는 경우가 대부분이었는데요, 요즘은 너도나도 이더리움 전망부터 코인베이스의 주가까지 대화의 화두가 디지털자산이 되니 꽤 흥미로운 경험이었어요. 덕분에 휴가 중에도 틈틈이 디지털자산 시장을 살필 수 있었답니다. (너는 투자 잘하겠다는 친구들의 초롱초롱한 눈망울엔 답을 할 수 없었지만요)
+근데 이게 웬걸 끄떡도 없던 이더리움 가격이 거래소 앱에 들어갈 때마다 고공행진에, 스테이블코인 관련 소식도 우르르 쏟아지더라구요. 특히 스테이블코인에 대한 전 세계적인 속도가 매서운데요, 승아와 함께 국내 현황부터 해외 사례까지 꼼꼼히 살펴보아요.
+<strong><div style="border-top: 4px solid #ed6d01;border-bottom: 1px solid #ed6d01;font-size: 18px;padding: 10px 0;margin:30px 0;"> 한국: 단기 국채 발행할까 말까? 준비자산을 둘러싼 치열한 공방</div></strong><img src='https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250820.a3fc4f73bda6438f939ffec000dad81d_P1.jpg' alt=' &lt;출처: 연합뉴스&gt;'>
+한국은 CBDC냐 원화 스테이블코인이냐를 두고 신경전을 벌이던 지난날과 달리, 이제 한국은 원화 스테이블코인 도입 자체는 기정사실로 받아들이고 있어요. 다만 세부 설계, 특히 ‘원화 스테이블코인의 준비자산으로 단기 국채를 편입할 수 있느냐’를 두고 연구기관과 금융당국 간 뚜렷한 의견차를 보이고 있어요.
+스테이블코인의 핵심은 ‘1코인 = 1달러(혹은 1원)’라는 신뢰예요. 발행사가 법정화폐나 단기 국채 등 현금성 자산을 담보로 잡아두기 때문에 사용자는 언제든 동일 가치로 교환할 수 있다고 믿게 돼요. 동시에 발행사들은 이 준비금을 안정적인 자산에 투자해 이자 수익을 얻고요. 실제로 글로벌 시장에서 압도적 점유율을 보이는 테더와 서클은 준비금 대부분을 미국 국채, 금, 달러, 비트코인 등에 묶어두고 있어요. 테더는 무려 1200억달러 규모의 미국 단기 국채를 보유 중인데, 한국·독일 등 주요국보다 많은 수준이에요. 전세계에서 미국 국채를 많이 산 국가와 기업을 줄세우면 무려 19번째랍니다.
+이런 맥락에서 한국도 ‘원화기반 스테이블코인 발행을 위해 단기 국채를 발행해야 한다’는 이야기가 나왔어요. 하지만 자본시장연구원과 한국은행은 정반대의 입장을 내고 있어요.
+- 자본시장연구원: 스테이블코인의 성공적 정착을 위해선 반드시 단기국채 발행이 필요하다고 주장해요. 국채는 국가 신용을 담보로 하므로 안정성과 유동성을 동시에 확보할 수 있고, 단순한 은행 예금보다 효율적이기 때문이에요. “원화 스테이블코인과 단기 국채는 동전의 양면”이라며 단기 국채 도입 없이는 발행 여건 자체가 부족하다고 강조하고 있어요.
+- 한국은행: 단기 국채 시장이 발달하지 않은 한국에서의 무리한 발행은 통화정책의 안정성을 해칠 수 있다고 경고해요. 만기 집중으로 재정 부담이 커지고, 수요가 부족한 경우 기업어음, 양도성 예금증서 등 단기금리의 변동성을 키울 수 있다는 거예요. 대안으로 통화정책 집행 과정에서 유동성을 흡수하거나 공급할 목적으로 발행되는 ‘통화안정증권(=통안증권)’을 준비자산으로 활용하는 방안을 제시했어요.
+<strong><div style="border-top: 4px solid #ed6d01;border-bottom: 1px solid #ed6d01;font-size: 18px;padding: 10px 0;margin:30px 0;">일본: 금융 갈라파고스는 잊어라! 제도 정비와 실행의 단계</div></strong><img src='https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250820.fc7ac6a6ad004b26b4ca321a692ea08c_P1.jpeg' alt=' 2021년 1월부터 일본 최초의 ERC-20 선불 결제 수단인 일본 엔화 연동 스테이블코인 ‘JPYC’를 발행했던 JPYC의 팀의 구성원들이에요. 가운데 노란색 티셔츠를 입은 사람이 JPYC의 CEO인 노리타카 오카베 . CTO가 16살에 입사했을 만큼 직원을 성별, 나이, 경력으로 판단하지 않는 자유로운 문화를 가지고 있었어요.&lt;출처:KrASIA,2021&gt;'>
+한국은 원화 스테이블코인 도입을 논의중인 것과 달리, 일본은 이미 제도 정비를 마치고 올 가을 엔화 스테이블코인 발행을 예정하고 있어요. 일본은 2023년 자금결제법을 개정해 스테이블코인을 ‘통화 표시 자산’으로 정의했고 은행·자금이동업자·신탁회사가 스테이블코인을 발행할 수 있는 길을 열었어요. 그 첫 주자가 바로 엔화 스테이블코인 ‘JPYC’이에요.(많은 기사가 JPYC가 아닌 JYPC로 작성되어 있어요. 정식 명칭은 JPYC!)
+JPYC는 2019년 설립된 도쿄의 핀테크 기업인데요, 회사의 이름을 따 스테이블코인을 명명했어요. JPYC는 일본 금융청에 스테이블코인을 발행할 수 있는 권한인 ‘자금이동업자’ 등록을 마치고 ‘1JPYC=1엔’ 가치를 유지하는 엔화 연동 스테이블코인을 발행할 예정이랍니다. 그동안 200종류 이상의 서류를 당국에 제출하고 각종 리스크 관리 체계를 갖추며 부단히 노력해왔어요. 준비자산은 은행 예금과 일본 국채인데요, 발행액의 101%를 상시 보유할 의무를 갖고 있어요.
+JPYC는 국제 송금, 기업 간 결제, 디파이 서비스에서 사용될 수 있는데요. JPYC의 노리타카 오카베 CEO가 말한 “스테이블코인은 국채를 빨아들이는 진공청소기”라는 말처럼 시장에서는 일본 국채 수요 확대를 기대하고 있어요. 이렇게 되면 일본 국채 시장에 새로운 비은행 수요층을 가능성이 높아요. JPYC는 향후 3년간 1조엔(약 9조 4152억원) 발행을 목표로 하고 있는데요, 이미 기관 투자자들의 관심도 높다고 해요. 아이티센 등 한국의 발빠른 기업들도 JPYC와 파트너십을 체결하거나 투자하며 엔화 스테이블코인 시장에 발을 담그고 있어요. JPYC가 엔화 스테이블코인 발행의 첫 포문을 열었지만 앞으로도 은행, 신탁회사 등 다양한 발행주체가 등장할 것 같아요.
+<strong><div style="border-top: 4px solid #ed6d01;border-bottom: 1px solid #ed6d01;font-size: 18px;padding: 10px 0;margin:30px 0;"> 미국: 스테이블코인 패권의 중심지가 사다리 걷어 차는 중</div></strong><img src='https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250820.02fe4e2147bb46c88792058a6d2b8f5f_P1.jpg' alt=' 지불용 스테이블코인의 발행, 유통, 보관에 관한 ‘지니어스법’에 서명한 트럼프 대통령의 모습 &lt;출처:AFP연합뉴스&gt;'>
+전 세계 스테이블코인 시장은 사실상 미국이 쥐고 있어요. 현재 유통되는 스테이블코인의 대부분이 달러 기반이고, 그 준비자산은 미국 단기 국채와 현금으로 구성돼 있죠. 테더(USDT)와 서클(USDC)이 전체 시장의 90% 이상을 차지하는데, 준비금 보고서에 따르면 각각 약 1268억달러, 1000억달러 이상의 미국 국채를 보유하고 있어요. 미국 입장에서 스테이블코인 확대는 곧 국채 수요 증가로 이어지기 때문에 환영할 수밖에 없는 흐름이에요.
+최근 중국을 비롯한 주요국들이 36조 달러에 달하는 미국의 막대한 부채 리스크를 줄이기 위해 미국 국채 비중을 줄여가는 와중에, 스테이블코인은 새로운 국채 수요처로 부상하고 있어요.
+GENIUS 법안은 발행사가 반드시 단기 국채나 현금성 자산으로 100% 이상을 담보해야 한다는 규제를 담고 있는데, 이 덕분에 스테이블코인이 안정성을 확보하는 동시에 미국 국채 수요까지 늘려주는 순환 구조가 만들어지죠. 트럼프 대통령이 크립토 산업을 놓을 수 없는 이유가 바로 이거랍니다.
+미국의 스테이블코인 발행사들은 패권을 꽉 잡고 있음에도 불구하고 저변을 넓히기 위해 부단히 노력하고 있어요. 서클은 단순히 USDC를 발행하는 데 그치지 않고, 국제 결제망 CPN(Circle Payment Network)을 내세우며 SWIFT를 대체하려는 야심찬 시도까지 하고 있죠. 이미 글로벌 대형 은행들이 파트너로 합류했고, 한국 4대 은행과도 접촉하면서 아시아 확장에 박차를 가하는 중이에요.
+결국 스테이블코인은 미국 입장에서 달러 패권의 연장선이에요. 탈달러화 움직임이 거세지고 있지만, 디지털 시대에 맞춘 달러 결제·유통망이 스테이블코인을 통해 구축된다면, 달러의 위상은 오히려 더 강화될 수 있는 거죠.
+스테이블코인은 더 이상 실험이 아니라, 글로벌 금융의 한 축으로 자리잡아가고 있어요. 일본은 제도 정비를 끝내고 엔화 스테이블코인을 발행하려 하고, 미국은 민간 발행사를 중심으로 국채 수요와 달러 패권을 강화하는 선순환을 만들어가고 있죠. 반면 한국은 여전히 ‘도입할까 말까’,‘준비자산은 뭘로 할까’라는 논쟁 속에 머물러 있어요. 물론 신중함도 필요하지만, 머뭇거리는 사이 글로벌 스테이블코인 질서는 이미 미국과 타 선두주자 국가들을 중심으로 재편되고 있다는 사실을 간과해선 안돼요.
+전성아 엠블록 연구원(jeon.seonga@m-block.io), 김용영 엠블록 에디터(yykim@m-block.io)
+<img src='https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250820.2e4d9bf51f8a4870b1308a1e6baa56f7_P1.png' alt=''>
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[[엠블록레터] 안녕하세요 엠블록레터의 승아입니다. 저는 지난주 긴 여름휴가를 다녀왔어요. 오랜만에 가족들과 시간을 보내고, 친구들과 함께 이곳 저곳을 여행하고 오니 몸은 피곤한데 에너지는 잔뜩 충전되더라구요. 정말 달콤한 시간이었어요. 예전에는 친구들과 투자 이야기를 할 때면 코인을 잘 모르거나 부정적인 견해를 가지고 있는 경우가 대부분이었는데요, 요즘은 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100201</code_id>
+<code_nm><![CDATA[금융정책·일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100201</small_code_id>
+<small_code_nm><![CDATA[금융정책·일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101002</code_id>
+<code_nm><![CDATA[국제경제]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101002</small_code_id>
+<small_code_nm><![CDATA[국제경제]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101005</code_id>
+<code_nm><![CDATA[국제금융]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101005</small_code_id>
+<small_code_nm><![CDATA[국제금융]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101504</code_id>
+<code_nm><![CDATA[인터넷/SNS]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101504</small_code_id>
+<small_code_nm><![CDATA[인터넷/SNS]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250820.6852ab90f0274f818949918bd4b9556f_P1.png]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250820.a3fc4f73bda6438f939ffec000dad81d_P1.jpg]]></image_url>
+<image_caption><![CDATA[ &lt;출처: 연합뉴스&gt;]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250820.fc7ac6a6ad004b26b4ca321a692ea08c_P1.jpeg]]></image_url>
+<image_caption><![CDATA[ 2021년 1월부터 일본 최초의 ERC-20 선불 결제 수단인 일본 엔화 연동 스테이블코인 ‘JPYC’를 발행했던 JPYC의 팀의 구성원들이에요. 가운데 노란색 티셔츠를 입은 사람이 JPYC의 CEO인 노리타카 오카베 . CTO가 16살에 입사했을 만큼 직원을 성별, 나이, 경력으로 판단하지 않는 자유로운 문화를 가지고 있었어요.&lt;출처:KrASIA,2021&gt;]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250820.02fe4e2147bb46c88792058a6d2b8f5f_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 지불용 스테이블코인의 발행, 유통, 보관에 관한 ‘지니어스법’에 서명한 트럼프 대통령의 모습 &lt;출처:AFP연합뉴스&gt;]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250820.2e4d9bf51f8a4870b1308a1e6baa56f7_P1.png]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11399167]]></article_url>
+</article>
+</saltlux>

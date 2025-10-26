@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11402150</art_id>
+<art_year>2025</art_year>
+<art_no>606231</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-25 14:11:33</service_daytime>
+<title><![CDATA[KT, 국내 최초 국정원 보안인증 양자키분배 장비 개발]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김규식 기자(dorabono@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-25 14:11:33</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101502</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[KT가 자체 개발한 ‘양자키분배(QKD·Quantum Key Distribution)’ 기술을 적용한 장비가 국내 제조 장비 최초로 국가정보원 보안검증을 통과했다. KT는 25일 미래네트워크연구소가 보유한 원천 기술을 국내 전송장비 제조사 코위버에 이전해 개발한 양자키분배 장비가 한국표준과학연구원(KRISS), 한국전자통신연구원(ETRI) 등 과기정통부 산하 기관의 보안 기능 시험을 거쳐 국정원 보안인증을 획득했다고 밝혔다. 이는 순수 국내 기술로 양자암호 인프라 생태계를 마련한 첫 사례라는 점에서 의미가 크다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/25/news-p.v1.20250825.176fd9d8dc5d4c19a6445e0aefd0ebf7_P1.jpg' alt=' KT가 개발한 양자키분배 기술이 적용된 장비가 국내 제조 장비 중 최초로 국가정보원 보안검증을 통과했다고 25일 밝혔다.'>
+양자키분배는 양자역학의 ‘중첩’ 원리를 이용해 0과 1의 정보를 동시에 지니는 상태에서 암호키를 생성·전달함으로써 도청이나 해킹을 원천 차단하는 기술이다. 양자암호통신망 구현에서 가장 높은 난이도를 요구하는 핵심 분야로 기존 보안기술 대비 압도적인 안전성을 제공한다는 평가를 받는다.
+이번에 인증을 획득한 장비는 중앙 노드 1대와 여섯 개의 분산 노드를 1:6 방식으로 연결해 양자암호망을 구성한다. 기존 일대일 방식 대비 비용을 30% 이상 절감할 수 있어 국가기관, 지자체 등 대규모 통신 보안을 필요로 하는 곳에 효율적으로 적용할 수 있다. 특히 국가·공공기관은 정보보호시스템과 네트워크 장비에 대해 국정원 보안적합성 검증을 의무적으로 받아야 하므로 이번 인증을 통해 KT는 해당 기관에 보다 안정적이고 신속하게 양자암호통신 서비스를 제공할 수 있게 됐다.
+KT는 코위버와의 협력 외에도 다양한 국내 기업과 기술을 공유하며 양자암호통신 저변을 확대해왔다. 현재 관련 핵심 특허 15건을 보유하고 있으며 이를 토대로 순수 국내 기술력을 바탕으로 한 생태계 확산에 주력하고 있다. KT 관계자는 “사이버 공격 위협이 갈수록 심화되는 상황에서 이번 인증은 국내 양자암호통신 시장 활성화를 이끄는 출발점”이라며 “앞으로도 독자 기술을 활용해 안전한 통신 서비스를 제공하고 국가 보안 역량 강화에 기여하겠다”고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[KT가 자체 개발한 ‘양자키분배(QKD·Quantum Key Distribution)’ 기술을 적용한 장비가 국내 제조 장비 최초로 국가정보원 보안검증을 통과했다. KT는 25일 미래네트워크연구소가 보유한 원천 기술을 국내 전송장비 제조사 코위버에 이전해 개발한 양자키분배 장비가 한국표준과학연구원(KRISS), 한국전자통신연구원(ETRI) 등 과기정통부 산]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101502</code_id>
+<code_nm><![CDATA[통신]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101502</small_code_id>
+<small_code_nm><![CDATA[통신]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101505</code_id>
+<code_nm><![CDATA[보안/해킹]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101505</small_code_id>
+<small_code_nm><![CDATA[보안/해킹]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/25/news-p.v1.20250825.176fd9d8dc5d4c19a6445e0aefd0ebf7_P1.jpg]]></image_url>
+<image_caption><![CDATA[ KT가 개발한 양자키분배 기술이 적용된 장비가 국내 제조 장비 중 최초로 국가정보원 보안검증을 통과했다고 25일 밝혔다.]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11402150]]></article_url>
+</article>
+</saltlux>

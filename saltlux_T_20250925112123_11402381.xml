@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11402381</art_id>
+<art_year>2025</art_year>
+<art_no>606846</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-25 17:18:51</service_daytime>
+<title><![CDATA[코스콤, 대학생 대상 ‘2025 IT 기획 공모전’ 개최]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[최아영 매경 디지털뉴스룸 기자(cay@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-25 17:18:51</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100509</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/25/news-p.v1.20250825.4bdbe953e2e143bfa537a1e5cc1bd271_P1.jpg' alt=' [사진 = 코스콤]'>
+코스콤은 다음달 대학생을 대상으로 ‘2025 대학생 IT 기획 공모전’을 연다고 25일 밝혔다.
+이번 공모전은 ‘Connect, Create, Compete – 금융의 미래를 연결하다’라는 슬로건으로, 차세대 금융 인공지능(AI) 에이전트를 위한 MCP(Model Context Protocol) 서버 개발을 주제로 진행된다.
+참가자들은 ▲실시간 금융 데이터·시세분석 ▲개인화 자산, 소비, 포트폴리오 관련 ▲금융 규제, 컴플라이언스 관련 ▲차세대 금융발전에 기여할 자유주제 중 하나를 선택할 수 있다.
+참가 대상은 국내 4년제 대학 학부 재학생 및 휴학생이다. 개인 또는 4명 이하 팀 단위로 참여할 수 있다. 대학원생은 제외된다.
+심사는 예선심사와 본선심사로 진행된다. 예선에서는 서류심사를 통해 최대 10개 팀을 선발하며, 예선을 통과한 팀은 본선 프로젝트에 참여할 수 있다. 예선심사 통과팀에는 소정의 활동비가 지급된다.
+시상 규모는 총 2600만원이다. ▲대상(1개팀 이내·1000만원) ▲최우수상(2개팀 이내·각 500만원) ▲우수상(3개팀 이내·각 200만원)이 수여된다. 우수상 이상 수상자 전원에게는 ‘코스콤 사장상’이 함께 수여된다.
+김혜원 코스콤 AX·R&D 본부장은 “이번 공모전을 통해 다양한 AI 기술들이 접목된 참신한 아이디어를 발굴하고 대학생들의 톡톡 튀는 발상이 실제 금융산업 혁신으로 이어지길 기대한다”며 “코스콤은 청년 인재들이 금융의 미래를 연결하고 성장할 수 있도록 적극 지원할 것”이라고 말했다.
+참가 신청 및 세부 사항은 코스콤 홈페이지 또는 공모전 홈페이지를 통해 확인할 수 있다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[코스콤은 다음달 대학생을 대상으로 ‘2025 대학생 IT 기획 공모전’을 연다고 25일 밝혔다. 이번 공모전은 ‘Connect, Create, Compete – 금융의 미래를 연결하다’라는 슬로건으로, 차세대 금융 인공지능(AI) 에이전트를 위한 MCP(Model Context Protocol) 서버 개발을 주제로 진행된다. 참가자들은 ▲실시간 금융 데이터]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100509</code_id>
+<code_nm><![CDATA[증권계동향]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100509</small_code_id>
+<small_code_nm><![CDATA[증권계동향]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/25/news-p.v1.20250825.4bdbe953e2e143bfa537a1e5cc1bd271_P1.jpg]]></image_url>
+<image_caption><![CDATA[ [사진 = 코스콤]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11402381]]></article_url>
+</article>
+</saltlux>

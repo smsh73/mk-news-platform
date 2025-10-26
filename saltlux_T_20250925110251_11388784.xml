@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11388784</art_id>
+<art_year>2025</art_year>
+<art_no>566933</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-08 13:50:27</service_daytime>
+<title><![CDATA[오픈렛저 “11조弗 이상 데이터경제, 블록체인으로 기여자에 보상” [매일코인]]]></title>
+<sub_title><![CDATA[SLM을 위한 데이터 구축]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[최근도 기자(recentdo@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-08 13:50:27</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100502</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/08/news-p.v1.20250808.530f6bad55ff4c468e30e079c8ee5768_P1.png' alt=''>
+<strong><div style="border-top: 4px solid #ed6d01;border-bottom: 1px solid #ed6d01;font-size: 18px;padding: 10px 0;margin:30px 0;">탈중앙화 AI 프로젝트 오픈렛저(Open Ledger)</div></strong>“오픈렛저는 데이터, 연산, 모델 기여를 추적 가능하게 만들어 재사용 시마다 보상이 이뤄지도록 한다.”
+람 쿠마르(Ram Kumar) 오픈렛저 핵심 기여자는 최근 매일경제와의 인터뷰에서 “전 세계 데이터 경제는 11탈중앙화 AI 프로젝트 오픈렛저조 달러 이상의 가치가 있지만, 그 대부분의 보상은 플랫폼과 사업자에게 돌아가고 있다”면서 이같이 말했다.
+인공지능(AI) 모델을 만들기 위해선, 좋은 데이터, AI 개발자, 서비스를 위한 인프라가 모두 필요하다.
+오픈렛저는 탈중앙화고 개방적인 형태로 플랫폼을 구축해 AI를 잘모르거나, 좋은 데이터가 없어도 AI모델을 개발할 수 있는 인프라를 구축한다.
+쿠마르는 “오픈렛저는 개발자, 연구자, 커뮤니티가 AI 모델과 데이터셋을 구축하고, 검증하고, 수익화할 수 있도록 지원한다”고 설명했다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/08/news-p.v1.20250808.a9fcd3a62782424188ee3c8a8bdc990c_P1.png' alt=''>
+<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">SLM을 위한 데이터 구축</div></MKSUBTITLE>
+오픈렛저는 범용적인 LLM(Large Language Model)보다 SLM(Specialized Language Model)의 중요성에 주목했다.
+일반적인 질문을 넘어 의료, 법학, 금융 등으로 들어갈수록 더 전문적이고 신뢰할 수 있는 데이터 기반으로 학습한 AI가 필요하기 때문이다.
+특히 모든 분야에 높은 전문성을 갖는 범용모델을 개발하는 건 필요한 분야의 전문적인 모델을 만드는 것 대비 효율이 크게 떨어진다.
+또한 기존 LLM 개발은 플랫폼 운영자가 모든걸 독점한 것도 오픈렛저를 개발한 이유다.
+쿠마르는 “블록체인은 모든 기여를 온체인에 기록해 소유권과 보상 분배를 투명하고 탈중앙 방식으로 누구나 검증 가능하게 만든다”고 말했다.
+<strong><div style="border-top: 4px solid #ed6d01;border-bottom: 1px solid #ed6d01;font-size: 18px;padding: 10px 0;margin:30px 0;">기여에 대한 보상으로 황금데이터 수집</div></strong><img src='https://wimg.mk.co.kr/news/cms/202508/08/news-p.v1.20250808.47d923abd057453ab8c5bdb0d03b8712_P1.png' alt=''>
+오픈렛저에는 △데이터넷(Datanets) △모델펙토리(Model Factory) △오픈로라(OpenLoRA) 등의 핵심 제품이 있다.
+먼저 데이터넷은 분야별로 전문 데이터 기여자들이 만드는 데이터 풀이다.
+블록체인에 모두 기록되어 투명하게 과정이 추적된다.
+이들이 제공한 데이터는 기여 증명(PoA, Proof of Attribution)를 통해 보상이 결정된다.
+쿠마르는 “PoA는 훈련, 추론, 파인튜닝 과정에서 데이터나 모델이 어떻게 활용되었는지를 추적하는 암호화된 증거를 온체인에 기록한다”면서 “기여자는 자신의 기여가 재사용될 때마다 정당한 크레딧을 받는다”고 설명했다.
+그는 또 “오픈렛저의 데이터는 재사용될때마다 계속 보상을 받을 수 있도록 설계됐다”면서 “유튜브에서 인기 있는 사운드 클립이나 영상 포맷이 반복적으로 리믹스되는 것과 유사하다”고 말했다.
+<strong><div style="border-top: 4px solid #ed6d01;border-bottom: 1px solid #ed6d01;font-size: 18px;padding: 10px 0;margin:30px 0;">손쉽고 저렴한 AI 모델 제작</div></strong><img src='https://wimg.mk.co.kr/news/cms/202508/08/news-p.v1.20250808.bce3f3482edd4694a3d7c7d3de2ed059_P1.png' alt=''>
+모델펙토리는 코딩 지식 없이도 전문 AI 모델을 만들 수 있게하는 도구다.
+데이터넷에서 선택한 데이터를 갖고 딥시크, LLaMa, Mistral 등의 모델 중에 선택해서 모델을 만들 수 있다.
+여기에 서비스 비용을 낮춰주는 OpenLoRA가 덧붙여지는 구조다.
+-OpenLoRA는 loRA의 블록체인 버전. 모델을 개발한뒤에 이를 학습시켜야 하는데, 전체 LLM에다가 학습시키면 비용이 많이 들기 때문에 필요한 만큼만 학습시키는 것이다.
+쿠마르는 “전체 모델을 다시 훈련시키는 대신, 기존 모델 위에 LoRA 어댑터를 적용해 연산 비용을 줄였다”면서 “이는 제한된 GPU 자원에서도 많은 경량 AI 모델을 미세조정하게 해준다”고 말했다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/08/news-p.v1.20250808.be7df3a1ed284a91911b660b52c3bafd_P1.png' alt=''>
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[탈중앙화 AI 프로젝트 오픈렛저(Open Ledger)“오픈렛저는 데이터, 연산, 모델 기여를 추적 가능하게 만들어 재사용 시마다 보상이 이뤄지도록 한다.” 람 쿠마르(Ram Kumar) 오픈렛저 핵심 기여자는 최근 매일경제와의 인터뷰에서 “전 세계 데이터 경제는 11탈중앙화 AI 프로젝트 오픈렛저조 달러 이상의 가치가 있지만, 그 대부분의 보상은 플랫폼과]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100502</code_id>
+<code_nm><![CDATA[시황]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100502</small_code_id>
+<small_code_nm><![CDATA[시황]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100514</code_id>
+<code_nm><![CDATA[펀드]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100514</small_code_id>
+<small_code_nm><![CDATA[펀드]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/08/news-p.v1.20250808.530f6bad55ff4c468e30e079c8ee5768_P1.png]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/08/news-p.v1.20250808.a9fcd3a62782424188ee3c8a8bdc990c_P1.png]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/08/news-p.v1.20250808.47d923abd057453ab8c5bdb0d03b8712_P1.png]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/08/news-p.v1.20250808.bce3f3482edd4694a3d7c7d3de2ed059_P1.png]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/08/news-p.v1.20250808.be7df3a1ed284a91911b660b52c3bafd_P1.png]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11388784]]></article_url>
+</article>
+</saltlux>

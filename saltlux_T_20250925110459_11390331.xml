@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11390331</art_id>
+<art_year>2025</art_year>
+<art_no>570842</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-11 10:28:55</service_daytime>
+<title><![CDATA[“당근 고액거래 이젠 안심”...농협은행이 돈 맡아 관리]]></title>
+<sub_title><![CDATA[당근 부동산 계약금, 은행이 보관
+거래 완료 후 판매자에 지급키로]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[이소연 기자(lee.soyeon2@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-11 10:28:55</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100203</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">당근 부동산 계약금, 은행이 보관<br>거래 완료 후 판매자에 지급키로</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250811.a4bda1419094477abdf21604acea6ad7_P1.jpg' alt=' NH농협은행, 당근페이와 업무협약 체결. &lt;NH농협은행&gt;'>
+NH농협은행이 지역생활 커뮤니티 서비스회사인 ‘당근’과 손잡고 고액 거래 자금을 안전하게 관리하는 서비스를 선보인다. 플랫폼 거래 시 사기를 우려해 거액 송금을 꺼렸던 금융소비자들에게 안전장치가 추가로 생긴 셈이다.
+11일 농협은행에 따르면 농협은행과 당근은 이날 ‘안전한 디지털 생태계 조성’을 위한 업무협약을 체결했다. 이번 협약을 통해 양사는 ▲당근 이용자 보호를 위한 디지털 금융서비스제공 ▲당근페이 기업 간 거래(B2B) 정산 프로세스 고도화를 위한 기술 협력 ▲제휴사업 확대 및 공동 마케팅을 추진한다.
+당근은 동네 중고거래로 시작해 부동산·중고차·구인구직 등 생활 전반으로 영역을 확대한 지역 기반 플랫폼이다. 이용자는 부동산 직거래 코너에서 집주인·세입자 간 직접 계약을 진행할 수도 있다.
+문제는 당근 부동산 직거래 관련 사기 범행도 늘고있다는 점이다. 농협은행은 당근의 부동산 서비스에 ‘안심거래 앱 프로그래밍 인터페이스(API·서로 다른 소프트웨어나 서비스가 기능·데이터를 주고받을 수 있게 해주는 연결 규격)’를 연계한다. 이 서비스는 입출금 통제가 가능한 가상계좌 기반 에스크로형 자금 정산 방식이다.
+이를 통해 플랫폼은 부동산 계약금 등 고액 자금을 은행이 안전하게 분리 보관한 뒤 구매자가 정상 거래 여부를 확인한 후에만 판매자에게 대금을 지급할 수 있다. 금액 한도 제한이 없는 점이 특징이다.
+농협은행 관계자는 “앞으로도 플랫폼사, 전사적 자원 관리(ERP) 기업, 공공기관 등과 임베디드 금융을 지속적으로 확대한다는 방침”이라고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[당근 부동산 계약금, 은행이 보관 거래 완료 후 판매자에 지급키로NH농협은행이 지역생활 커뮤니티 서비스회사인 ‘당근’과 손잡고 고액 거래 자금을 안전하게 관리하는 서비스를 선보인다. 플랫폼 거래 시 사기를 우려해 거액 송금을 꺼렸던 금융소비자들에게 안전장치가 추가로 생긴 셈이다. 11일 농협은행에 따르면 농협은행과 당근은 이날 ‘안전한 디지털 생태계 조성’]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100203</code_id>
+<code_nm><![CDATA[은행]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100203</small_code_id>
+<small_code_nm><![CDATA[은행]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250811.a4bda1419094477abdf21604acea6ad7_P1.jpg]]></image_url>
+<image_caption><![CDATA[ NH농협은행, 당근페이와 업무협약 체결. &lt;NH농협은행&gt;]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11390331]]></article_url>
+</article>
+</saltlux>

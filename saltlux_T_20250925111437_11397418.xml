@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11397418</art_id>
+<art_year>2025</art_year>
+<art_no>591937</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-19 16:55:49</service_daytime>
+<title><![CDATA[동두천에서는 캠핑용 배터리가?…배터리 발화 추정 화재 로 6명 부상]]></title>
+<sub_title><![CDATA[집안에서 캠핑용 배터리 충전]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[이대현 기자(lee.deahyun@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-19 16:55:49</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100804</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/19/news-p.v1.20250819.b2e044ceea1f45409723a9f8720e633d_P1.jpg' alt=' 불탄 배터리. 경기도북부소방재난본부 제공'>
+<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">집안에서 캠핑용 배터리 충전</div></MKSUBTITLE>
+지난 17일 서울 마포구에서 배터리 발화로 추정되는 화재로 2명이 숨진 데 이어 경기 동두천에서도 유사한 원인의 불이 발생해 배터리 안전성에 대한 우려가 커지고 있다.
+19일 경찰과 소방 당국에 따르면 이날 오전 5시 15분께 동두천시 송내동의 20층짜리 아파트 1층에서 불이 났다.
+이 불로 해당 세대에서 1명이 구조됐고 나머지 일가족 3명은 자력 대피했다. 총 42명의 입주민도 아파트 밖과 옥상 등으로 몸을 피했다. 이 중 6명은 호흡곤란 등 증세까지 있어 부상자로 분류됐다. 사망·중상자는 없었다.
+출동한 소방 당국은 장비 33대와 인력 70명을 동원, 약 25분 만에 불을 껐다.
+신고자는 해당 세대 거주자로, ‘펑’ 하는 소리에 잠에서 깨 방 안에서 충전 중이던 배터리에서 불이 나는 것을 보고 가정용 소화기로 진화를 시도했으나, 불은 꺼지지 않고 집 안을 태웠고 연기가 단지 전체로 번졌다.
+불이 난 집 안에서는 가로 15cm, 세로 50cm 정도 크기의 캠핑용 배터리를 충전 중이었던 것으로 알려졌다. 해당 배터리는 리튬계 배터리로 추정되지만, 정확한 규격과 종류는 확인되지 않았다.
+세대 거주자는 “캠핑용 배터리를 전날 중고 거래 앱에서 구매했고 방에서 충전 중이었다”고 진술한 것으로 전해졌다.
+소방 관계자는 “현재까지 배터리 발화 이외 다른 요인은 발견되지 않아 유력한 화재 원인으로 보고 있다”고 설명했다.
+앞서 지난 17일에도 서울 마포구 창전동의 아파트에서도 배터리가 원인으로 추정되는 불이 나 20대 아들과 60대 어머니가 숨지고 아버지를 포함한 주민 16명이 다치는 사고가 발생했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[집안에서 캠핑용 배터리 충전지난 17일 서울 마포구에서 배터리 발화로 추정되는 화재로 2명이 숨진 데 이어 경기 동두천에서도 유사한 원인의 불이 발생해 배터리 안전성에 대한 우려가 커지고 있다. 19일 경찰과 소방 당국에 따르면 이날 오전 5시 15분께 동두천시 송내동의 20층짜리 아파트 1층에서 불이 났다. 이 불로 해당 세대에서 1명이 구조됐고 나머지 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100804</code_id>
+<code_nm><![CDATA[사건·사고]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100804</small_code_id>
+<small_code_nm><![CDATA[사건·사고]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/19/news-p.v1.20250819.b2e044ceea1f45409723a9f8720e633d_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 불탄 배터리. 경기도북부소방재난본부 제공]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11397418]]></article_url>
+</article>
+</saltlux>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11404729</art_id>
+<art_year>2025</art_year>
+<art_no>614069</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-28 09:19:38</service_daytime>
+<title><![CDATA[보이스피싱, 이제는 가상자산까지 노린다…1년 새 6배 넘게 폭증]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[박성렬 매경 디지털뉴스룸 인턴기자(salee6909@naver.com)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-28 09:19:38</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100801</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/28/news-p.v1.20250828.657dce1a8a064d43bf2192d3825cd3e5_P1.png' alt=' 비트코인 [사진 = AFP 연합뉴스]'>
+현금 대신 가상자산을 노리는 보이스피싱 범죄가 급격히 늘고 있다.
+28일 국민의힘 송석준 의원이 경찰청으로부터 제출받은 자료에 따르면, 올해 1월부터 7월까지 가상자산을 노린 보이스피싱 피해 건수는 420건으로 집계됐다. 지난해 같은 기간(64건)보다 6.6배 급증한 수치다. 이미 지난해 전체 발생 건수(130건)도 7개월 만에 넘어섰다.
+피해 사례도 구체적으로 공개됐다.
+지난 4월 20대 남성 A씨는 서울중앙지검 검사를 사칭한 전화에서 ‘본인 명의 대포통장이 적발돼 자산 검수가 필요하다’는 말에 속아 1억9000만 원 상당의 테더(달러 기반 스테이블코인)를 구매했다. 이후 범인이 지정한 지갑 주소로 전송했고, 코인은 그대로 사라졌다.
+60대 여성 B씨도 지난해 10월 카드 배송원 사칭범에게 연락받았다.
+카드사 고객센터, 금융감독원, 검사가 순차적으로 연결되더니 역시 ‘본인 명의 대포통장이 적발돼 자산 검수를 해야 한다’며 1억9000만원의 비트코인을 사게 했다.
+보이스피싱범이 알려주는 지갑 주소로 전송된 비트코인도 결국 사라졌다.
+젊은 세대에게 친숙하다고 여겨지는 가상자산이 실제 범죄에서는 연령을 가리지 않고 범죄 수법으로 악용돼 피해자를 양산하고 있다.
+계좌이체·대면 편취 등으로 현금을 가로챈 후 중간에 수거책, 송금책, 환전책 등이 가상자산으로 자금세탁을 하는 사례도 증가하고 있다고 송 의원은 밝혔다.
+송 의원은 “계좌이체를 이용한 보이스피싱에서 가상자산을 활용하는 신종 수법으로 범죄가 빠르게 진화하고 있다”며 수사·금융 당국이 협력해 피해 예방 체계를 강화하고, 제도적 보완책을 서둘러 마련해야 한다고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[현금 대신 가상자산을 노리는 보이스피싱 범죄가 급격히 늘고 있다. 28일 국민의힘 송석준 의원이 경찰청으로부터 제출받은 자료에 따르면, 올해 1월부터 7월까지 가상자산을 노린 보이스피싱 피해 건수는 420건으로 집계됐다. 지난해 같은 기간(64건)보다 6.6배 급증한 수치다. 이미 지난해 전체 발생 건수(130건)도 7개월 만에 넘어섰다. 피해 사례도 구체]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100801</code_id>
+<code_nm><![CDATA[사회일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100801</small_code_id>
+<small_code_nm><![CDATA[사회일반]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/28/news-p.v1.20250828.657dce1a8a064d43bf2192d3825cd3e5_P1.png]]></image_url>
+<image_caption><![CDATA[ 비트코인 [사진 = AFP 연합뉴스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11404729]]></article_url>
+</article>
+</saltlux>

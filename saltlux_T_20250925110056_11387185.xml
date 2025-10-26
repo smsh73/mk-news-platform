@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11387185</art_id>
+<art_year>2025</art_year>
+<art_no>562547</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-07 06:24:49</service_daytime>
+<title><![CDATA[[속보] 삼성전자, 애플 차세대 칩 미국 파운드리 공장서 생산]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[이상현 매경 디지털뉴스룸 기자(lee.sanghyun@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-07 06:24:49</reg_dt>
+<mod_dt>2025-08-07 06:32:45</mod_dt>
+<art_org_class>MK100301</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/07/news-p.v1.20250807.3c4b97a0c1624a5298d4664ac630f66f_P1.jpg' alt=' 삼성전자 미국 오스틴 사업장. [사진 출처 = 삼성전자, 연합뉴스]'>
+삼성전자가 애플의 차세대 칩을 미국 파운드리(반도체 위탁생산) 공장에서 생산하기로 했다.
+애플은 7일 보도자료를 통해 “애플은 미국 텍사스주 오스틴에 위치한 삼성의 반도체 공장에서 삼성과 협력해 전 세계에서 처음으로 사용되는 혁신적인 새로운 칩 제조 기술을 개발하고 있다”고 밝혔다.
+이어 “이 기술을 미국에 먼저 도입함으로써 이 시설은 전 세계로 출하되는 아이폰을 포함한 애플 제품의 전력 효율성과 성능을 최적화하는 칩을 공급하게 될 것”이라고 설명했다.
+업계에서는 이번 삼성전자의 칩이 차세대 아이폰 등에 들어가는 이미지센서로 추정하고 있다.
+박유악 키움증권 연구원은 지난달 보고서를 통해 “내년 애플 아이폰18용 이미지센서(CIS) 양산, 테슬라 등 신규 거래선 확보를 통해 (삼성전자 반도체 부문이) 영업적자의 폭을 축소시켜 나갈 전망”이라고 분석한 바 있다.
+삼성전자는 이와 관련, “고객사명과 세부 사항은 확인할 수 없다”고 전했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[삼성전자가 애플의 차세대 칩을 미국 파운드리(반도체 위탁생산) 공장에서 생산하기로 했다. 애플은 7일 보도자료를 통해 “애플은 미국 텍사스주 오스틴에 위치한 삼성의 반도체 공장에서 삼성과 협력해 전 세계에서 처음으로 사용되는 혁신적인 새로운 칩 제조 기술을 개발하고 있다”고 밝혔다. 이어 “이 기술을 미국에 먼저 도입함으로써 이 시설은 전 세계로 출하되는 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100301</code_id>
+<code_nm><![CDATA[기업 경영]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100301</small_code_id>
+<small_code_nm><![CDATA[기업 경영]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100305</code_id>
+<code_nm><![CDATA[전기·전자·통신]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100305</small_code_id>
+<small_code_nm><![CDATA[전기·전자·통신]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/07/news-p.v1.20250807.3c4b97a0c1624a5298d4664ac630f66f_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 삼성전자 미국 오스틴 사업장. [사진 출처 = 삼성전자, 연합뉴스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11387185]]></article_url>
+</article>
+</saltlux>

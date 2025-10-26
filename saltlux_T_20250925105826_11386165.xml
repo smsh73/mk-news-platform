@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11386165</art_id>
+<art_year>2025</art_year>
+<art_no>559747</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-06 07:30:50</service_daytime>
+<title><![CDATA[Korea picks five companies to develop homegrown AI model]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-06 07:30:50</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK400103</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/06/news-p.v1.20250806.b478e24f4b1340c490c0b8e64fa059b4_P1.png' alt=' (Yonhap News)'>
+The South Korean government has selected five tech companies to spearhead the development of a sovereign artificial intelligence (AI) tailored to the Korean language and culture.
+The Ministry of Science and ICT on Tuesday announced that Naver Cloud, Upstage, SK telecom Co., NC AI Co., and LG AI Research were chosen to lead a project to build an independent AI foundation model.
+The five teams will share in 200 billion won ($144 million) in state support, including data access, computing power, and personnel funding.
+The project seeks to build a general-purpose AI foundation model that can match 95 percent or more of the performance of global leaders such as OpenAI‘s GPT.
+The goal is to strengthen Korea‘s AI self-sufficiency and fuel industry-wide AI transformation (AX) through domestically developed models.
+The selection was based on a comprehensive review of technical expertise, development plans, experience, and potential contributions to the broader AI ecosystem.
+Each team will receive 2.8 billion won, with 10 billion won allocated for joint data procurement and 20 billion won worth of high-quality broadcast training data.
+They will gain access to rich public datasets from national institutions such as the National Archives, the National Institute of Korean History, and Statistics Korea.
+Funding will also support the recruitment of overseas AI talent, including coverage of salaries and research costs.
+The project will follow a staged evaluation process. A first-round review will be held in December to assess the teams‘ initial models.
+The number of teams will then be reduced from five to four, with one team cut every six months. By early 2027, only two final teams will remain in the race to complete the country‘s first culturally optimized foundation AI model.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[The South Korean government has selected five tech companies to spearhead the development of a sovereign artificial intelligence (AI) tailored to the Korean language and culture. The Ministry of Scien]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK400103</code_id>
+<code_nm><![CDATA[Companies]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00308</middle_code_id>
+<middle_code_nm><![CDATA[English]]></middle_code_nm>
+<small_code_id>MK400103</small_code_id>
+<small_code_nm><![CDATA[Companies]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/06/news-p.v1.20250806.b478e24f4b1340c490c0b8e64fa059b4_P1.png]]></image_url>
+<image_caption><![CDATA[ (Yonhap News)]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11386165]]></article_url>
+</article>
+</saltlux>

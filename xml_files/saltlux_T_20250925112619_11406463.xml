@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11406463</art_id>
+<art_year>2025</art_year>
+<art_no>619394</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-29 22:07:18</service_daytime>
+<title><![CDATA[미국 “삼성·SK, 미국 반도체장비 중국으로 반출시 건별 허가받아야”]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[김혜진 매경 디지털뉴스룸 기자(heyjiny@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-29 22:07:18</reg_dt>
+<mod_dt>2025-08-30 06:24:08</mod_dt>
+<art_org_class>MK100801</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/30/news-p.v1.20250811.4872cb12a9d047e58034bbcb7b38767c_P1.png' alt=' 반도체 기판 위에 미국과 중국의 국기가 놓여있는 모습. [사진 = 로이터 연합뉴스]'>
+미국 도널드 트럼프 행정부는 삼성전자와 SK하이닉스의 중국내 공장에 미국산 반도체 장비를 공급할 경우 건별로 허가를 받도록 할 방침이다.
+29일(현지시간) 미 연방 관보에 따르면 미국 상무부는 글로벌 반도체 제조업체인 삼성전자와 SK하이닉스, 인텔이 중국 내 생산시설에 미국산 반도체 제조 장비를 공급할 때 일일이 허가를 받을 필요가 없도록 한 포괄허가를 폐지할 것이라고 밝혔다.
+이에 따라 삼성전자와 SK하이닉스가 앞으로 중국내 반도체 공장에 미국 반도체 생산 장비를 공급할 경우 미국 정부로부터 매번 건별로 승인을 받아야 한다.
+미 관보는 이 같은 조치가 관보 게시일(미 동부시간 29일)로부터 120일 후부터 실행된다고 밝혔다.
+앞서 미국 상무부는 바이든 행정부 때인 지난 2022년 10월 중국의 반도체 기술 확보를 막고자 미국기업이 중국의 반도체 생산기업에 반도체 장비를 수출하는 것을 금지하고, 현지 공장을 운영하는 다국적 기업의 경우 건별로 허가를 받도록 했다.
+다만, 삼성전자와 SK하이닉스 등 일부에 대해선 중국 내 반도체공장을 미 수출관리 규정에 따른 ‘검증된 최종 사용자’(VEU)로 지정해 별도 허가 절차나 기간 제한 없이 미국산 장비를 공급할 수 있도록 한 바 있다.
+이번 관보에서 미 상무부는 VEU 명단에서 삼성, SK하이닉스, 인텔의 중국 공장을 삭제하기로 했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[미국 도널드 트럼프 행정부는 삼성전자와 SK하이닉스의 중국내 공장에 미국산 반도체 장비를 공급할 경우 건별로 허가를 받도록 할 방침이다. 29일(현지시간) 미 연방 관보에 따르면 미국 상무부는 글로벌 반도체 제조업체인 삼성전자와 SK하이닉스, 인텔이 중국 내 생산시설에 미국산 반도체 제조 장비를 공급할 때 일일이 허가를 받을 필요가 없도록 한 포괄허가를 폐]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100801</code_id>
+<code_nm><![CDATA[사회일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100801</small_code_id>
+<small_code_nm><![CDATA[사회일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101002</code_id>
+<code_nm><![CDATA[국제경제]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101002</small_code_id>
+<small_code_nm><![CDATA[국제경제]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101003</code_id>
+<code_nm><![CDATA[국제산업]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101003</small_code_id>
+<small_code_nm><![CDATA[국제산업]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/30/news-p.v1.20250811.4872cb12a9d047e58034bbcb7b38767c_P1.png]]></image_url>
+<image_caption><![CDATA[ 반도체 기판 위에 미국과 중국의 국기가 놓여있는 모습. [사진 = 로이터 연합뉴스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11406463]]></article_url>
+</article>
+</saltlux>

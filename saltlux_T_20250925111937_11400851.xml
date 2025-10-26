@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11400851</art_id>
+<art_year>2025</art_year>
+<art_no>602029</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-22 20:23:23</service_daytime>
+<title><![CDATA[우리은행, 24억원 상당 금융사고 발생…대출기업 기계담보 무단 매각]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[류영상 매경 디지털뉴스룸 기자(ifyouare@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-22 20:23:23</reg_dt>
+<mod_dt>2025-08-22 21:36:26</mod_dt>
+<art_org_class>MK100201</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/22/news-p.v1.20250822.4b7ead7967d441daa5748079f86a8b76_P1.jpg' alt=' [사진 = 연합뉴스]'>
+우리은행에서 24억원 규모의 금융사고가 또 다시 발생했다.
+이번 사고는 지난 6월 초 인도네시아 현지 법인인 우리소다라은행에서 1078억원 규모의 금융사고가 적발된 뒤 두 달 만에 재발한 것이다.
+우리은행은 22일 홈페이지를 통해 담보권이 설정된 기계 기구를 외부인이 임의 매각하는 사고가 발생했다고 공시했다.
+사고 금액은 24억2280만원이며, 사고 기간은 지난 2023년 3월부터 올해 5월까지 약 2년 동안이다.
+우리은행 측은 “외부인을 수사기관에 고소하고 담보물을 매각해 (손실 금액을) 회수할 것”이라고 말했다.
+한편 올해 들어 은행권 금융사고가 연이어 터지면서 사고금액이 총 1000억원에 육박하는 것으로 나타났다.
+KB국민·신한·하나·우리·NH농협 등 5대 시중은행이 공시한 10억원 이상 대규모 금융사고는 16건으로, 사고금액은 952억341만원이었다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[우리은행에서 24억원 규모의 금융사고가 또 다시 발생했다. 이번 사고는 지난 6월 초 인도네시아 현지 법인인 우리소다라은행에서 1078억원 규모의 금융사고가 적발된 뒤 두 달 만에 재발한 것이다. 우리은행은 22일 홈페이지를 통해 담보권이 설정된 기계 기구를 외부인이 임의 매각하는 사고가 발생했다고 공시했다. 사고 금액은 24억2280만원이며, 사고 기간은]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100201</code_id>
+<code_nm><![CDATA[금융정책·일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100201</small_code_id>
+<small_code_nm><![CDATA[금융정책·일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100203</code_id>
+<code_nm><![CDATA[은행]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100203</small_code_id>
+<small_code_nm><![CDATA[은행]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100804</code_id>
+<code_nm><![CDATA[사건·사고]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100804</small_code_id>
+<small_code_nm><![CDATA[사건·사고]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/22/news-p.v1.20250822.4b7ead7967d441daa5748079f86a8b76_P1.jpg]]></image_url>
+<image_caption><![CDATA[ [사진 = 연합뉴스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11400851]]></article_url>
+</article>
+</saltlux>

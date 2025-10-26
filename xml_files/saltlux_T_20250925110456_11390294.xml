@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11390294</art_id>
+<art_year>2025</art_year>
+<art_no>570669</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-11 09:55:07</service_daytime>
+<title><![CDATA[“또 먹통이네”... 두 달 전 해킹당한 예스24 접속 오류 “원인 파악 중”]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[변덕호 매경 디지털뉴스룸 기자(ddoku120@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-11 09:55:07</reg_dt>
+<mod_dt>2025-08-11 10:04:08</mod_dt>
+<art_org_class>MK100106</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/11/rcv.YNA.20250612.PYH2025061210300001300_P1.jpg' alt=' 서울 영등포구 예스24 본사 모습. 연합뉴스'>
+두달 전 해킹을 당해 서비스를 전면 중단했던 국내 최대 규모 인터넷서점 예스24가 다시 먹통이 됐다.
+11일 오전 9시 현재 예스24의 홈페이지 접속이 되지 않고 있으며 전자책 등도 이용할 수 없는 상태다.
+이와 관련 예스24 관계자는 “조금 전에 이런 문제가 있다는 것을 인지해서 원인을 파악 중”이라고 설명했다.
+앞서 예스24는 두 달 전인 지난 6월 랜섬웨어 해킹을 당해 앱과 인터넷 통신망이 마비되면서 닷새 만에 서비스를 재개한 바 있다.
+당시 예스24는 뒤늦게 랜섬웨어 공격 사실을 인정했다. 그러나 랜섬웨어 공격으로 개인정보 유출은 없었다고 밝혔으나, 이후 “개인정보 유출 확인 시 개별 연락을 드리겠다”고 번복해 비판받았다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250811.bd661be95dce47f18d23648320db3b48_P1.jpeg' alt=' 접속 불가능한 상태에 빠진 예스24. [사진 = PC화면 캡처]'>
+거짓 입장으로 은폐 논란까지 불거졌다. 예스24는 “현재 예스24 권민석 최고보안책임자 및 관련 부서가 한국인터넷진흥원(KISA)과 협력해 원인 분석 및 복구 작업에 총력을 다하고 있다”고 밝혔다.
+그러나 KISA는 해킹 상황을 파악하기 위해 10일과 11일 예스24 본사로 사고 분석 전문 직원들을 2차례 파견했지만, 첫날 방문에서 간단한 구두 설명만 들었을 뿐 예스24가 기술 지원에 협조하지 않았다고 반박했다.
+이번 접속장애도 해커의 소행일 수 있다는 분석이 나온다.
+지난 7일 과학기술정보통신부와 KISA가 발표한 올해 상반기 사이버 위협 동향 보고서에 따르면 “예스24 사건의 가장 중요한 문제점은 랜섬웨어 감염에 대비해 주요 데이터를 외부 저장소, 클라우드 등에 저장하는 오프 사이트 백업 체계가 구축되지 않았다는 것”이라고 지적했다.
+이어 “결국 공격자(해커)와 협상으로 시스템이 정상화된 것에 대해 외부 보안 전문가들의 많은 아쉬움과 재감염 위험 등 걱정스러운 목소리를 냈다”고 덧붙였다.
+시스템 정상화가 근본적인 대책 마련과 시스템 구축이 아닌 협상을 통해 이뤄졌기 때문에 같은 문제가 재발할 수 있을 가능성이 적잖았다는 분석도 나온다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[두달 전 해킹을 당해 서비스를 전면 중단했던 국내 최대 규모 인터넷서점 예스24가 다시 먹통이 됐다. 11일 오전 9시 현재 예스24의 홈페이지 접속이 되지 않고 있으며 전자책 등도 이용할 수 없는 상태다. 이와 관련 예스24 관계자는 “조금 전에 이런 문제가 있다는 것을 인지해서 원인을 파악 중”이라고 설명했다. 앞서 예스24는 두 달 전인 지난 6월 랜]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100106</code_id>
+<code_nm><![CDATA[생활경제]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100106</small_code_id>
+<small_code_nm><![CDATA[생활경제]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/11/rcv.YNA.20250612.PYH2025061210300001300_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 서울 영등포구 예스24 본사 모습. 연합뉴스]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250811.bd661be95dce47f18d23648320db3b48_P1.jpeg]]></image_url>
+<image_caption><![CDATA[ 접속 불가능한 상태에 빠진 예스24. [사진 = PC화면 캡처]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11390294]]></article_url>
+</article>
+</saltlux>

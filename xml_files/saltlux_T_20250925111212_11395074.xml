@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11395074</art_id>
+<art_year>2025</art_year>
+<art_no>585524</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-17 10:38:57</service_daytime>
+<title><![CDATA[“남친 사귀려면 허락 받아야”…서울대 ‘갑질’ 교수 해임, 대법서 확정]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[방영덕 매경 디지털뉴스룸 기자(byd@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-17 10:38:57</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100801</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/17/news-p.v1.20250817.144ee1c5f9944289bb8b1a936a6537b4_P1.jpeg' alt=' [사진출처 = 연합뉴스]'>
+대학원생들에게 부당한 지시를 하는 등 이른바 ‘갑질’을 한 교수에 대한 해임 처분은 정당하다는 대법원 판단이 나왔다.
+17일 법조계에 따르면 대법원 3부(주심 노경필 대법관)는 최근 서울대 교수 A씨가 교원소청심사위원회를 상대로 낸 해임처분 취소 청구 기각 결정 취소 소송에서 원고 패소한 원심 판결을 확정했다.
+A씨는 대학원생 성추행, 논문 중복 게재 등의 사유로 2019년 8월 해임됐다.
+대학원생들에게 “지도교수 옆에 그림자처럼 붙어서 서빙하는 등 예의에 신경 써달라”는 내용의 이메일을 보내고, “남자친구를 사귀려면 허락을 받아야 한다”는 등의 사생활 간섭 발언, 연구실 청소 등 강의 및 연구와 무관한 업무 지시를 한 것도 징계사유가 됐다.
+A씨는 해임 처분에 불복해 교원소청심사위를 상대로 소청심사를 청구했지만 기각되자, 기각 결정을 취소해달라며 소송을 제기했다.
+1심 재판부는 A씨의 징계 사유 중 성추행 부분을 인정하지 않으면서 “해임의 주된 사유가 성추행이었던 것으로 보이고, 나머지 징계 사유들은 그 경위나 정도에 비춰볼 때 상대적으로 가벼워 보인다”며 A씨의 손을 들어줬다.
+그러나 2심은 “징계 사유 중 성추행 부분을 인정할 수 없지만, 나머지 징계 사유만으로도 해임 처분의 타당성을 인정하기에는 충분하다”고 1심을 뒤집고 원고 패소 판결했다.
+2심은 “(A씨의 행위는) 교수와 대학원생 사이 수직적·권력적 관계에서 비롯된 것으로 우월적 지위를 이용한 직권의 남용 내지 갑질”이라며 “우리 사회는 이 같은 유형의 비위에 대해 더 이상 관용을 베풀지 않고 엄격한 책임을 묻고 있다”고 지적했다.
+대법원 역시 2심 판단에 법리를 오해한 잘못이 없다며 판결을 확정했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[대학원생들에게 부당한 지시를 하는 등 이른바 ‘갑질’을 한 교수에 대한 해임 처분은 정당하다는 대법원 판단이 나왔다. 17일 법조계에 따르면 대법원 3부(주심 노경필 대법관)는 최근 서울대 교수 A씨가 교원소청심사위원회를 상대로 낸 해임처분 취소 청구 기각 결정 취소 소송에서 원고 패소한 원심 판결을 확정했다. A씨는 대학원생 성추행, 논문 중복 게재 등의]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100801</code_id>
+<code_nm><![CDATA[사회일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100801</small_code_id>
+<small_code_nm><![CDATA[사회일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100805</code_id>
+<code_nm><![CDATA[법원·검찰·경찰]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100805</small_code_id>
+<small_code_nm><![CDATA[법원·검찰·경찰]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100808</code_id>
+<code_nm><![CDATA[교육]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100808</small_code_id>
+<small_code_nm><![CDATA[교육]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/17/news-p.v1.20250817.144ee1c5f9944289bb8b1a936a6537b4_P1.jpeg]]></image_url>
+<image_caption><![CDATA[ [사진출처 = 연합뉴스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11395074]]></article_url>
+</article>
+</saltlux>

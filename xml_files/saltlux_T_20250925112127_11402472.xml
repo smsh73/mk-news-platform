@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11402472</art_id>
+<art_year>2025</art_year>
+<art_no>606949</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-25 17:54:02</service_daytime>
+<title><![CDATA["AI 데이터센터 시장 휩쓸겠다" SK하이닉스 321단 낸드 양산]]></title>
+<sub_title><![CDATA[세계 최고층…기술한계 돌파]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[박소라 기자(park.sora@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250826</pub_date>
+<pub_edition>16</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>15</pub_page>
+<reg_dt>2025-08-25 17:54:02</reg_dt>
+<mod_dt>2025-08-25 20:12:40</mod_dt>
+<art_org_class>MK100305</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[SK하이닉스가 한 번에 더 많은 데이터를 저장할 수 있는 차세대 낸드플래시 반도체 개발에 성공했다. 회사는 세계 최초로 300단을 넘어서는 321단 제품을 양산하면서 초고집적 경쟁에서 기술 리더십을 입증했다.
+SK하이닉스는 321단 2테라비트(Tb) QLC(쿼드러플 레벨 셀) 낸드 플래시 제품의 개발을 완료하고 양산에 돌입한다고 25일 밝혔다. 낸드플래시는 스마트폰, PC, 데이터센터 서버 등에 들어가는 저장 장치 핵심 부품이다. 한 셀(Cell)에 얼마나 많은 정보를 담을 수 있느냐에 따라 성능과 가격이 갈린다.
+가장 단순한 SLC(1비트)에서 시작해 MLC(2비트), TLC(3비트), QLC(4비트) 순으로 발전해왔는데 비트 수가 많을수록 같은 크기에 더 많은 데이터를 저장할 수 있다.
+이번에 SK하이닉스가 내놓은 QLC는 한 셀에 4비트를 담는 방식으로 구현 난도가 높아 글로벌 업체들이 쉽게 넘지 못한 기술 장벽이었다.
+신제품은 기존 대비 2배 용량인 2Tb다. 대용량화 과정에서 발생하는 속도 저하를 막기 위해 칩 내부에서 병렬 처리를 담당하는 단위인 '플레인(Plane)'을 4개에서 6개로 늘려 성능을 끌어올렸다. 그 결과 데이터 전송 속도가 2배 빨라졌고, 쓰기 성능은 최대 56%, 읽기 성능은 18% 향상됐다. 전력 효율도 23% 이상 개선돼 인공지능(AI) 데이터센터용 메모리로 적합하다는 평가다.
+SK하이닉스는 우선 PC용 솔리드스테이트드라이브(SSD)에 신제품을 적용하고, 이후 데이터센터용 eSSD와 스마트폰용 유니버설 플래시 스토리지(UFS)로 활용처를 확대할 계획이다. 
+여기에 독자적인 32단 다이 패키징(32DP) 기술까지 더해 집적도를 2배 높임으로써 초고용량 eSSD 시장까지 공략한다는 전략이다. 
+정우표 SK하이닉스 NAND개발담당 부사장은 "데이터센터 시장의 고성능 요구에 발맞춰 풀스택 AI 메모리 프로바이더로 도약하겠다"고 말했다.  
+[박소라 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[SK하이닉스가 한 번에 더 많은 데이터를 저장할 수 있는 차세대 낸드플래시 반도체 개발에 성공했다. 회사는 세계 최초로 300단을 넘어서는 321단 제품을 양산하면서 초고집적 경쟁에서 기술 리더십을 입증했다.
+SK하이닉스는 321단 2테라비트(Tb) QLC(쿼드러플 레벨 셀) 낸드 플래시 제품의 개발을 완료하고 양산에 돌입한다고 25일 밝혔다. 낸드플래시는 스마트폰, PC, 데이터센터 서버 등에 들어가는 저장 장치 핵심 부품이다. 한 셀(Cell)에 얼]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100305</code_id>
+<code_nm><![CDATA[전기·전자·통신]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100305</small_code_id>
+<small_code_nm><![CDATA[전기·전자·통신]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11402472]]></article_url>
+</article>
+</saltlux>

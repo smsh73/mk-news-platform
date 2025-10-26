@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11398885</art_id>
+<art_year>2025</art_year>
+<art_no>596032</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-21 08:43:20</service_daytime>
+<title><![CDATA[[영상] “삼성, 보이스피싱 방지에 진심이네”...갤럭시 스마트폰에 도입한 ‘이것’]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[방영덕 매경 디지털뉴스룸 기자(byd@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-21 08:43:20</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100301</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250821.e6d11645c9f24b6b9cccb2a60092bc8a_P2.png' alt=' [사진출처 = 삼성전자]'>
+삼성전자가 딥러닝 기반 AI 기술을 활용한 새로운 보안 기능을 갤럭시 스마트폰에 도입하며 사용자 보호 강화에 나섰다. 날로 고도화되는 보이스피싱 기술 등에 대응하기 위해서다.
+21일 삼성전자는 갤럭시 스마트폰에 기본으로 탑재된 전화 앱에 ‘보이스피싱 의심 전화 알림’ 기능을 새롭게 도입했다고 밝혔다.
+경찰청에 따르면 올해 상반기 기준 보이스피싱 발생 건수는 약 1만 2000건이고 피해액 약 6400억원에 달한다.
+이 기능은 모르는 번호와 통화할 경우 AI 기반으로 보이스피싱 의심 여부를 실시간으로 탐지해 ‘의심(보이스피싱 의심)’, ‘경고(보이스피싱 감지)’ 등 2단계에 걸쳐 사용자에게 알림을 제공한다.
+갤럭시 스마트폰은 통화 내용을 토대로 보이스피싱이 의심되면 ‘의심’, ‘경고’ 알림을 통화 중에 사용자에게 보내게 된다.
+삼성전자에 따르면 첫번째 알림은 노란색의 ‘보이스피싱으로 의심’이라는 문구와 소리·진동이 각 1회 발생돼 주의 경고를 하고, 두 번째는 좀 더 강력한 빨간색의 ‘경고:보이스 피싱 감지됨’이라는 문구와 함께 소리·진동이 각 3회씩 발생돼 사용자에게 경고 알림을 제공한다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250821.95fc3b696fc54fb0b25c9feb1ceafc92_P1.gif' alt=' [출처 = 삼성전자]'>
+삼성전자는 경찰청과 국립과학수사연구원에서 2024년부터 제공된 보이스피싱 데이터 약 3만개를 기반으로 딥러닝 학습을 거쳐, 기기 내(On-Device) AI 기술로 보이스피싱 여부를 탐지하는 솔루션을 개발했다.
+‘보이스피싱 의심 전화 알림’ 기능을 활성화하려면 전화 앱의 ‘설정’에서 ‘보이스피싱 의심 전화 알림’ 메뉴를 선택하고, 기능을 활성화(ON)할 수 있다.
+이 기능은 지난 7월 출시된 갤럭시 Z 폴드7·Z 플립7에 적용 중이며, 추후 One UI 8 이상이 적용된 스마트폰으로 확산 적용될 예정이다.
+삼성전자는 작년 9월 방송통신위원회 및 한국인터넷진흥원(KISA)과 협업해 개발한 ‘악성 메시지 차단 기능’을 One UI 6.1 이상이 적용된 국내 갤럭시 스마트폰에 제공해 왔다.
+이 기능은 한국인터넷진흥원(KISA)에서 제공받은 발신 번호·위험 링크(URL), 스팸내용(키워드) 기준으로 악성 스팸 메시지를 사전에 차단해, 갤럭시 사용자의 금융 사기·불법 광고·개인정보 탈취 등 각종 사이버 범죄의 피해를 예방하고 있다.
+또, 삼성전자는 ‘악성 메시지 차단’ 기능에 더해 AI가 딥러닝 기반으로 스팸을 필터링해 차단해 주는 ‘인텔리전스로 차단’ 기능도 새롭게 올해 3월부터 갤럭시 S25 시리즈에 처음 적용했다.
+이 기능은 월평균 약 500만건의 KISA에 신고된 데이터를 기반으로 학습했으며 갤럭시 스마트폰 기기 자체의 AI가 필터링해 악성으로 의심되는 메시지를 자동으로 분류하고 차단한다. 국내 뿐 아니라 해외 발신 스팸 메시지 신고 내용도 학습했다.
+‘인텔리전스로 차단’ 기능은 One UI 7.0이 적용된 스마트폰부터 사용 가능하며, 메시지 앱 설정에서 ‘스팸 및 차단 번호 관리’ 메뉴와 ‘악성 메시지 차단’ 메뉴를 활성화한 후 사용할 수 있다.
+삼성전자 갤럭시 스마트폰에서는 2022년 10월부터 KISA가 인증한 기업이 발송한 문자를 안심하고 확인할 수 있도록 문자 메시지 수신 화면에 안심마크를 함께 표시해 준다.
+올해 2월부터는 모르는 번호로 전화가 오는 경우 전화번호를 기반으로 ‘스팸으로 의심됨’, ‘사기 전화일 수 있음’ 등의 수신 화면을 제공하고 있다.
+김정식 삼성전자 MX사업부 부사장은 “삼성전자는 지속적으로 보이스피싱과 악성 메시지 차단을 위한 기술을 강화하며, 갤럭시 사용자들에게 더욱 안전한 모바일 환경을 제공하기 위해 최선을 다할 것”이라고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[삼성전자가 딥러닝 기반 AI 기술을 활용한 새로운 보안 기능을 갤럭시 스마트폰에 도입하며 사용자 보호 강화에 나섰다. 날로 고도화되는 보이스피싱 기술 등에 대응하기 위해서다. 21일 삼성전자는 갤럭시 스마트폰에 기본으로 탑재된 전화 앱에 ‘보이스피싱 의심 전화 알림’ 기능을 새롭게 도입했다고 밝혔다. 경찰청에 따르면 올해 상반기 기준 보이스피싱 발생 건수는]]></summary>
+</wms_article_summary>
+<stock_codes>
+<stock_code>005930</stock_code>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100301</code_id>
+<code_nm><![CDATA[기업 경영]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100301</small_code_id>
+<small_code_nm><![CDATA[기업 경영]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100305</code_id>
+<code_nm><![CDATA[전기·전자·통신]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100305</small_code_id>
+<small_code_nm><![CDATA[전기·전자·통신]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101501</code_id>
+<code_nm><![CDATA[모바일]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101501</small_code_id>
+<small_code_nm><![CDATA[모바일]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250821.e6d11645c9f24b6b9cccb2a60092bc8a_P2.png]]></image_url>
+<image_caption><![CDATA[ [사진출처 = 삼성전자]]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250821.95fc3b696fc54fb0b25c9feb1ceafc92_P1.gif]]></image_url>
+<image_caption><![CDATA[ [출처 = 삼성전자]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11398885]]></article_url>
+</article>
+</saltlux>

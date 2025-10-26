@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11401379</art_id>
+<art_year>2025</art_year>
+<art_no>604105</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-24 16:07:14</service_daytime>
+<title><![CDATA[한국전력공사, 불안했는데…ESS 화재 원천차단 기술 성과]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[최예빈 기자(yb12@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250825</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>03</pub_section>
+<pub_page>3</pub_page>
+<reg_dt>2025-08-24 16:07:14</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK300199</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/25/20250825_01110303000002_L00.jpg' alt='한국전력공사 전경.'>
+
+태양광·풍력 등 재생에너지 설비가 급속히 확대되면서 재생에너지 특유의 변동성을 보완하기 위한 에너지저장장치(ESS)의 역할도 확대되고 있다. 그러나 심각한 안전 문제가 불거진 가운데 한국전력공사가 세계 최초로 개발한 지능형 배터리 열화관리 시스템(BiMS)은 ESS 산업의 안전 관리 수준을 획기적으로 끌어올릴 기술로 주목받는다.
+한전은 2014년 세계 최초로 전력망에 연계해 상업 운전하는 주파수 조정용 ESS를 시작으로 총 376㎿의 ESS를 운영하며 계통운영 환경 변화에 적극적으로 대응해왔다고 밝혔다. 그러나 ESS가 급격히 보급되는 과정에서 운영 기술의 성숙도가 충분하지 못해 여러 문제점이 발생했다.
+특히 리튬이온배터리의 화재 위험성이 크게 드러나면서, 지난 6월까지 국내에서 총 58건의 ESS 화재 사고가 발생했다. 이러한 상황은 ESS 산업 전반에 대한 신뢰를 저해하고, 재생에너지 확대에 필수적인 ESS 보급을 지연시키는 결과를 초래했다.
+기존 제조사 중심의 배터리 관리 시스템으로는 화재의 근본 원인인 배터리 셀 내부 단락, 과충전, 냉각 시스템 결함 등 다양한 위험 요소를 사전에 정확히 파악하고 열폭주를 예방하는 데 한계가 있었다. 이에 한전은 제조사의 해결 방안을 기다리지 않고, 사용자 입장에서 문제를 해결할 수 있는 독자적인 기술 개발에 착수했다.
+이러한 배경 아래 한전은 2020년 재생에너지 확대에 대비한 1GW 계통안정화용 ESS(KG-ESS) 추가 사업을 계획하면서, 설비의 안전한 운영을 위해 한전 전용의 실시간 배터리 진단 기술인 BiMS 연구개발 계획을 동시에 수립했다. BiMS는 기존의 단편적인 제조사 중심 진단에서 벗어나, 운영자 중심의 입체적인 진단을 통해 배터리의 정확한 상태를 실시간으로 모니터링하고 이상 징후를 조기에 탐지해 사고를 예방하는 것을 목표로 개발됐다.
+BiMS는 크게 △배터리 관리 시스템 △열화 셀 검출 시스템 △배터리 수명예측 시스템 등 3가지 핵심 기능으로 구성된다. BiMS에 구축된 배터리 모델은 ESS로부터 제공되는 전압·전류·온도 등 운전 데이터를 활용해 배터리 상태 및 스트레스 추정 결과를 도출한다. 또 Modbus 통신을 활용해 56㎿급 ESS를 기준으로 약 15만셀의 데이터를 실시간으로 수집할 수 있다. 실시간으로 수집한 데이터는 별도의 서버에 저장된 뒤 배터리 열화 경향을 시각적으로 제공하는 데 활용된다.
+특히 BiMS는 기존 자동제어 시스템에 영향을 주지 않고 독립적으로 설치·운영할 수 있는 구조로 설계됐다. 이에 따라 기존 시스템의 안정성과 연동성을 해치지 않으면서도, 운영자는 ESS 설비 상태를 실시간으로 모니터링하며 고장 예측, 수명 추정, 유지보수 계획까지 독립적으로 수립할 수 있다는 장점도 있다.
+BiMS는 ESS의 특성상 단 하나의 배터리 이상으로도 설비 전체 사고가 발생할 수 있다는 점을 반영해 셀 단위로 이상이 의심되는 배터리의 위치와 열화도를 진단한다. 셀 단위에서의 이상 징후를 감지하는 이러한 세분화된 접근 방식은 연쇄적인 고장으로 이어질 수 있는 초기 문제를 식별하는 데 결정적인 역할을 한다. 
+[최예빈 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[태양광·풍력 등 재생에너지 설비가 급속히 확대되면서 재생에너지 특유의 변동성을 보완하기 위한 에너지저장장치(ESS)의 역할도 확대되고 있다. 그러나 심각한 안전 문제가 불거진 가운데 한국전력공사가 세계 최초로 개발한 지능형 배터리 열화관리 시스템(BiMS)은 ESS 산업의 안전 관리 수준을 획기적으로 끌어올릴 기술로 주목받는다.
+한전은 2014년 세계 최초로 전력망에 연계해 상업 운전하는 주파수 조정용 ESS를 시작으로 총 376㎿의 ESS를 운영하며 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK300199</code_id>
+<code_nm><![CDATA[테마기획]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00402</middle_code_id>
+<middle_code_nm><![CDATA[기획·연재]]></middle_code_nm>
+<small_code_id>MK300199</small_code_id>
+<small_code_nm><![CDATA[테마기획]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/25/20250825_01110303000002_L00.jpg]]></image_url>
+<image_caption><![CDATA[한국전력공사 전경.]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11401379]]></article_url>
+</article>
+</saltlux>

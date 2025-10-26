@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11405367</art_id>
+<art_year>2025</art_year>
+<art_no>616383</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-28 17:38:46</service_daytime>
+<title><![CDATA[1348억 과징금 물게 된 SK텔레콤…형평성 논란 나와, 왜?]]></title>
+<sub_title><![CDATA[2300만명 개인정보 유출…역대 최대 과징금
+개보위 “정보 보호·관리 조치 장기간 소홀해”
+과거 구글은 692억원 불과…과도하단 지적]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[이가람 매경 디지털뉴스룸 기자(r2ver@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-28 17:38:46</reg_dt>
+<mod_dt>2025-08-29 13:40:23</mod_dt>
+<art_org_class>MK100309</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">2300만명 개인정보 유출…역대 최대 과징금<br>개보위 “정보 보호·관리 조치 장기간 소홀해”<br>과거 구글은 692억원 불과…과도하단 지적</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/29/news-p.v1.20250828.228826dea2c0451da8545d33a1782227_P1.png' alt=' 서울시내 한 SK텔레콤 직영점에 위약금 환급 신청 방법과 보상 헤택을 알리는 안내문이 설치돼 있다. [사진 = 연합뉴스]'>
+SK텔레콤이 초유의 유심(USIM·가입자식별장치) 해킹 사태와 관련해 개인정보보호위원회로부터 역대급 과징금 처분을 받았다. 이에 통신시장에서는 비례의 원칙을 어겼다는 지적과 보안 투자를 강조한 판단이라는 엇갈린 반응이 나오고 있다.
+28일 통신업계에 따르면 개보위는 전날 전체회의를 열고 SK텔레콤에게 과징금 1347억9100만원과 과태료 960만원을 부과했다. 개보위 출범 이후 내려진 과징금 처분 규모 중 가장 크다.
+개보위는 SK텔레콤이 보안 조치와 시스템 접근 권한 관리, 정보 암호화 처리 등을 소홀히 해 2324만4649명의 휴대전화번호, 가입자식별번호(IMSI), 유심인증키(Ki·OPc) 등 25종의 정보가 유출됐다고 봤다.
+개인정보보호법상 과징금은 매출액의 3% 이내에서 부과할 수 있다. 지난해 SK텔레콤의 무선통신사업 매출액(12조7700억원)을 고려하면 최대 과징금이 3800억원에 육박할 것으로 추정됐지만, 유심 무상 교체를 비롯한 피해 복구 노력에 1348억원으로 감경돼 최악을 면했다.
+하지만 전문가들은 형평성에 어긋나는 결정이라고 평가했다. 과거 글로벌 플랫폼 구글·메타가 이용자 동의 없이 개인정보를 영리 목적으로 악용한 사례와 비교하면, 해킹 공격의 피해자이고 사후 수습을 통해 피해를 예방한 SK텔레콤에게 과도한 제재를 가했다는 설명이다.
+<strong><div style="border-top: 4px solid #ed6d01;border-bottom: 1px solid #ed6d01;font-size: 18px;padding: 10px 0;margin:30px 0;">고의 위반 구글·메타보다 해킹 피해 SK텔레콤에 과중</div></strong><img src='https://wimg.mk.co.kr/news/cms/202508/29/news-p.v1.20250828.33a4fbc6cef54448afcaddf5b5433fd6_P1.png' alt=' [사진 = 연합뉴스]'>
+실제로 개보위는 2022년 구글과 메타에 각각 692억원와 308억원의 과징금을 부과했다. 구글과 메타는 광고 사업에 이용해 매출을 끌어올리고자 이용자들의 활동 내역과 개인정보를 무단으로 활용했다. 구글과 메타가 정보 유출의 주체였다.
+외부 공격으로 피해를 본 기업의 과징금 규모는 이보다 작았다. 카카오톡 오픈채팅방 이용자 정보 유출을 겪은 카카오의 과징금은 151억원 수준이었다. LG유플러스는 30만명의 개인정보 유출 사고로 68억원의 과징금을 낸 바 있다.
+김태오 창원대 법학과 교수는 “헌법상 과잉금지의 원칙에 반할 수 있다”며 “과징금이란 법 위반으로 얻은 부당이득을 환수하기 위한 수단인데, 이번 사고로 SK텔레콤이 얻은 이익이 없음에도 매출 기준으로 과징금을 부과한 것이 제도의 본질과 맞지 않는다”고 말했다.
+그러면서 “해킹으로 유출된 사안에 대한 제재가 고의로 영리 목적으로 이용한 경우보다 더 무겁다는 것은 상식과 논리에 안 맞는다”며 “개인정보가 중요한 것은 맞으나 제재는 적정 수준이어야 하고 위법의 중대성에 비례한 정도여야 한다”고 강조했다.
+김승주 고려대 정보보호대학원 교수도 자신의 사회관계망서비스(SNS)에 “과징금은 부과하지 말라는 것이 아니다. 그 규모가 타당한지 아닌지를 따져봐야 한다”며 “구글의 과징금을 넘어서는 과징금을 해킹 피해 기업에 부과하는 것이 옳은가”라고 적었다.
+개인정보보호법 손질의 필요성도 대두되고 있다. 신용정보보호법은 신용 정보의 목적 외 개인정보 이용·제공에 대해서는 매출의 3%까지 과징금을 물리지만, 해킹으로 인한 개인정보 유출에 대해서는 상한액이 정해져 있다. 그러나 개인정보보호법에서는 차이를 두지 않는다.
+<strong><div style="border-top: 4px solid #ed6d01;border-bottom: 1px solid #ed6d01;font-size: 18px;padding: 10px 0;margin:30px 0;">개보위 “장기간 허술한 관리…최고 등급 중대 사안”</div></strong><img src='https://wimg.mk.co.kr/news/cms/202508/29/news-p.v1.20250828.0f37082168754ef6b8ec17fa5436148d_P1.png' alt=' 고학수 개인정보보호위원회 위원장이 28일 서울 종로구 정부서울청사에서 열린 제18회 전체회의 안건 관련 브리핑에 참석하고 있다. [사진 = 연합뉴스]'>
+반면 개인정보 유출 사건이 지속적으로 발생 중인 만큼 기업들의 경각심을 끌어올리고 보안 투자를 강화하라는 메시지를 전달한 측면에서 정당한 조치라는 분석도 제기된다. 법조계에서는 대기업인 SK텔레콤의 망·보안·관리 부실로 사전 경고 신호조차 감지하지 못한 것은 심각한 문제라고 비판했다.
+개보위는 SK텔레콤 해킹 사태를 매우 중대로 분류했다. 중대성 판정의 최고 등급이다. 개보위는 이번 과징금 처분으로 개인정보보호를 경시하는 기업·기관의 관행이 깨지기를 기대하고 있다.
+고학수 개보위원장은 “위원들마다 관점이 조금씩은 달랐지만 SK텔레콤이 오랜 기간을 두고 허술한 상태를 유지하고 있었다는 전반적인 답답함을 공유했다”며 “이번 사건을 계기로 대규모 개인정보를 보유·처리하는 사업자들이 관련 예산과 인력의 투입을 단순한 비용 지출이 아닌 필수적인 투자로 인식하길 바란다”고 강조했다.
+SK텔레콤 관계자는 “이번 결과에 무거운 책임감을 느낀다. 모든 경영활동에서 개인정보보호를 핵심 가치로 삼고 개인정보보호 강화를 위해 만전을 기할 것”이라면서도 “개보위 조사 및 의결 과정에서 SK텔레콤의 조치 사항을 충분히 소명했음에도 결과에 반영되지 않은 점은 유감이며 향후 의결서 수령 후 내용을 면밀히 검토해 입장을 정할 예정”이라고 전했다.
+사실상 행정소송 가능성을 시사한 셈인데, 승소하기는 쉽지 않을 전망이다. 개보위가 한국인터넷진흥원(KISA)과 함께 SK텔레콤 해킹 사고 집중 조사 태스크포스(TF)를 구성하고 조사를 진행했기 때문이다. 이 TF에는 개보위 조사관 4인과 변호사 및 회계사 3인, KISA 조사관 7인 등 이례적으로 많은 인력이 투입됐다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[2300만명 개인정보 유출…역대 최대 과징금 개보위 “정보 보호·관리 조치 장기간 소홀해” 과거 구글은 692억원 불과…과도하단 지적SK텔레콤이 초유의 유심(USIM·가입자식별장치) 해킹 사태와 관련해 개인정보보호위원회로부터 역대급 과징금 처분을 받았다. 이에 통신시장에서는 비례의 원칙을 어겼다는 지적과 보안 투자를 강조한 판단이라는 엇갈린 반응이 나오고 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+<stock_code>017670</stock_code>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100309</code_id>
+<code_nm><![CDATA[통신]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100309</small_code_id>
+<small_code_nm><![CDATA[통신]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100801</code_id>
+<code_nm><![CDATA[사회일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100801</small_code_id>
+<small_code_nm><![CDATA[사회일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101502</code_id>
+<code_nm><![CDATA[통신]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101502</small_code_id>
+<small_code_nm><![CDATA[통신]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/29/news-p.v1.20250828.228826dea2c0451da8545d33a1782227_P1.png]]></image_url>
+<image_caption><![CDATA[ 서울시내 한 SK텔레콤 직영점에 위약금 환급 신청 방법과 보상 헤택을 알리는 안내문이 설치돼 있다. [사진 = 연합뉴스]]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/29/news-p.v1.20250828.33a4fbc6cef54448afcaddf5b5433fd6_P1.png]]></image_url>
+<image_caption><![CDATA[ [사진 = 연합뉴스]]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/29/news-p.v1.20250828.0f37082168754ef6b8ec17fa5436148d_P1.png]]></image_url>
+<image_caption><![CDATA[ 고학수 개인정보보호위원회 위원장이 28일 서울 종로구 정부서울청사에서 열린 제18회 전체회의 안건 관련 브리핑에 참석하고 있다. [사진 = 연합뉴스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11405367]]></article_url>
+</article>
+</saltlux>

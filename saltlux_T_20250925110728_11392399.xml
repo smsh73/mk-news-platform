@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11392399</art_id>
+<art_year>2025</art_year>
+<art_no>576976</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-13 09:01:58</service_daytime>
+<title><![CDATA[“한국전력, 실적 개선에도 추가상승 여력 부족…투자의견↓]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[최아영 매경 디지털뉴스룸 기자(cay@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-13 09:01:58</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100503</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/13/news-p.v1.20250626.2475817741c14b51b827d1fabcbbe3c4_P1.jpg' alt=' [사진출처 = 연합뉴스]'>
+SK증권은 13일 한국전력에 대해 실적이 개선됐다며 목표주가를 기존 3만원에서 4만원으로 상향 조정했다. 다만 추가상승 여력이 부족하다며 투자의견을 기존 ‘매수’에서 ‘중립’으로 하향했다.
+한국전력의 올해 2분기 연결 기준 매출액은 21조 9501억원으로 전년동기대비 7.2% 증가했다. 같은 기간 영업이익은 2조 1359억원으로 70.8% 증가했으나 시장 전망치를 소폭 하회했다. 당기순이익은 1조 1764억원으로 8개분기 연속 흑자를 이어갔다.
+수출부진에 따른 산업용 전력판매가 감소한 영향으로 전력판매량은 127테라와트시(TWh), 전기 요금 인상의 효과가 지속되면서 전력판매단가는 킬로와트시(kWh)당 165원까지 상승했다. 천연가스와 유가 하락의 영향과 원자력발전 비중 확대에 힘입어 전력 조달비용 부담이 완화되며 스프레드가 확대됐다고 설명했다.
+최근 한국전력의 주가는 원자력 사업에 대한 기대감으로 상승했다. 트럼프 행정부의 원전 발전용량 4배를 증가시키는 우호적인 정책 환경에서 국내 원자력산업의 해외진출 가능성이 높아졌다. 그러나 과거 회사 주가순자산비율이 최대 0.6배에 거래가 됐다는 점을 고려하면 주가에 기대감이 충분히 반영됐다는 분석이다.
+나민식 SK증권 연구원은 “전력 직접 구매는 분기 실적 단위에서 급격한 변화를 초래하는 요인은 아니지만, 장기적으로 전력 판매량에 부정적인 영향을 미칠 것”이라며 “에너 지고속도로의 경우 향후 사업추진 방법에 따라 한전의 설비투자비용 증가 요인으로 작용할 것”이라고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[SK증권은 13일 한국전력에 대해 실적이 개선됐다며 목표주가를 기존 3만원에서 4만원으로 상향 조정했다. 다만 추가상승 여력이 부족하다며 투자의견을 기존 ‘매수’에서 ‘중립’으로 하향했다. 한국전력의 올해 2분기 연결 기준 매출액은 21조 9501억원으로 전년동기대비 7.2% 증가했다. 같은 기간 영업이익은 2조 1359억원으로 70.8% 증가했으나 시장 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+<stock_code>015760</stock_code>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100503</code_id>
+<code_nm><![CDATA[기업정보]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100503</small_code_id>
+<small_code_nm><![CDATA[기업정보]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/13/news-p.v1.20250626.2475817741c14b51b827d1fabcbbe3c4_P1.jpg]]></image_url>
+<image_caption><![CDATA[ [사진출처 = 연합뉴스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11392399]]></article_url>
+</article>
+</saltlux>

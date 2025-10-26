@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11392733</art_id>
+<art_year>2025</art_year>
+<art_no>578318</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-13 14:15:56</service_daytime>
+<title><![CDATA[한은, 6월 통화량 4307조...전월 대비 27조 증가]]></title>
+<sub_title><![CDATA[6월 광의통화(M2) 평잔 4307조5000억]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[곽은산 기자(kwak.eunsan@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-13 14:15:56</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100101</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">6월 광의통화(M2) 평잔 4307조5000억</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/13/news-p.v1.20250813.f44293408b1545aab05c37583c46f3e7_P1.jpg' alt=' 통화 및 유동성 지표 추이. [한국은행]'>
+시중에 풀린 통화량이 27조원 넘게 증가하면서 역대 최대인 4300조원으로 늘어났다. 주식형 증권을 중심으로 수익증권이 늘어난 영향이다.
+한국은행이 13일 발표한 6월 통화 및 유동성에 따르면 6월 광의통화(M2·평잔)는 4307조5000억원으로, 전월 대비 27조1000억원 증가했다. 증가율은 0.6%다.
+전년 동월 대비로는 6.7% 증가해 5월(6.5%)보다 소폭 상승하며 장기 평균(6.8%) 수준을 유지했다.
+M2는 현금과 요구불예금, 수시입출식 저축성 예금 등 협의통화(M1)에 MMF(머니마켓펀드), 2년 미만 정기 예·적금, 수익증권, 환매조건부채권(RP) 등을 포함하는 넓은 의미의 통화 지표다. 통상 시중에 풀린 통화량을 뜻한다.
+상품별로 수익증권 8조1000억원 늘었다. 증시 회복세에 주식형 증권을 중심으로 증가했다. 금전신탁은 정기예금 ABCP(자산담보기업어음) 발행자금 유입 확대 등에 기인해 8조2000억원 늘며 증가세를 뒷받침했다.
+다만 시장형 상품은 예금취급기관들의 예·적금 중심 자금 조달 영향으로 1조4000억원 감소했다.
+주체별로는 기타금융기관이 19조6000억원 증가해 가장 크게 늘었다. 가계 및 비영리단체는 12조3000억원 증가했다. 기타 부문은 2000억원 늘었다.
+기업 부문은 외화예수금 및 MMF 감소 등으로 7조원 감소했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[6월 광의통화(M2) 평잔 4307조5000억시중에 풀린 통화량이 27조원 넘게 증가하면서 역대 최대인 4300조원으로 늘어났다. 주식형 증권을 중심으로 수익증권이 늘어난 영향이다. 한국은행이 13일 발표한 6월 통화 및 유동성에 따르면 6월 광의통화(M2·평잔)는 4307조5000억원으로, 전월 대비 27조1000억원 증가했다. 증가율은 0.6%다. 전년]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100101</code_id>
+<code_nm><![CDATA[경제일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100101</small_code_id>
+<small_code_nm><![CDATA[경제일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100102</code_id>
+<code_nm><![CDATA[정책]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100102</small_code_id>
+<small_code_nm><![CDATA[정책]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/13/news-p.v1.20250813.f44293408b1545aab05c37583c46f3e7_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 통화 및 유동성 지표 추이. [한국은행]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11392733]]></article_url>
+</article>
+</saltlux>

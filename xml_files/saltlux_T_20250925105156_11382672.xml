@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11382672</art_id>
+<art_year>2025</art_year>
+<art_no>548831</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-01 08:08:20</service_daytime>
+<title><![CDATA[“인간 뛰어 넘는 초지능 AI는 새로운 위험”…저커버그가 오픈소스 공개 안하는 이유]]></title>
+<sub_title><![CDATA[오픈소스 전략 수정 시사
+“돈 벌기 위한 것” 지적도]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[원호섭 기자(wonc@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-01 08:08:20</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">오픈소스 전략 수정 시사<br>“돈 벌기 위한 것” 지적도</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/01/news-p.v1.20250731.86898b698c824c16af6a38bd3bbc4300_P1.jpg' alt=''>
+마크 저커버그 메타 최고경영자(CEO)가 인간의 지적 능력을 뛰어넘는 ‘초지능’ 등 고성능 인공지능(AI) 기술을 앞으로 오픈소스로 공개하지 않을 수 있다고 밝혔다. 대규모 언어모델(LLM) ‘라마’를 앞세워 오픈소스 AI 생태계를 주도해 왔던 메타가 폐쇄형 모델 도입 가능성을 처음으로 밝힌 것이어서 주목된다.
+저커버그 CEO는 30일(현지시간) 발표한 연례 서한에서 “초지능 AI 개발이 가시권에 들어왔다”며 “이는 인간의 역량을 극대화하는 새로운 시대를 열 기술”이라고 말했다. 메타는 올해 천문학적인 성과급과 함께 실리콘밸리 상위 0.1% AI 인재 수십 명을 영입한 뒤 ‘초지능랩’을 조직했다. 저커버그 CEO는 “앞으로 몇 년 안에 AI는 기존 시스템을 전반적으로 향상시키는 것은 물론, 지금은 상상조차 어려운 새로운 것들의 창조와 발견을 가능하게 할 것”이라고 말했다.
+저커버그 CEO는 이어 초지능 모델의 부작용을 언급하며 메타의 AI 전략 변화를 시사했다. 그는 “초지능의 혜택은 널리 퍼져야 하고, 전 세계가 함께 나눠야 할 기술이지만 동시에 새로운 위험을 만들 수 있다”며 “어떤 모델을 오픈소스로 공개할지는 신중히 결정할 것”이라고 강조했다.
+이 같은 발언은 메타가 지금까지 유지해온 오픈소스 중심 전략에 변화가 생겼음을 의미한다. 메타는 그동안 라마 등 주요 AI 모델들을 누구나 사용할 수 있도록 공개해왔다. 폐쇄형 모델을 유지해온 오픈AI, 구글, 앤스로픽, 딥시크, xAI 등과 다른 노선이었다. 구조와 내부 작동 방식 등을 기업이 독점적으로 관리하는 폐쇄형과 달리 오픈소스 모델은 소스코드를 모두 공개해 개발자가 자유롭게 활용할 수 있어 기술 확산과 창의적인 응용에 유리하지만 수익성과 안전성 측면에서 불리한 면도 있다.
+초지능 기술이 가시권에 들어섰다고 판단한 메타는 고성능 모델에 대해서는 폐쇄형 전략을 도입하는 방안을 검토하고 있다. 너무 강력한 AI는 안전에 위협이 될 수 있다는 이유에서다. 초지능이 악의적으로 활용될 경우 기존 AI와는 차원이 다른 위험이 발생할 수 있다. 예를 들어 사이버 공격을 자동화하거나 보안 시스템을 무력화하는 해킹 도구로 쓰일 수 있고, 극단적으로는 인간의 통제를 벗어날 가능성까지 제기된다.
+오픈AI도 올해 초 오픈소스 모델 출시를 앞두고 안전성 우려가 제기되자 시기를 무기한 연기한 바 있다. 샘 올트먼 오픈AI CEO는 최근 “AI 개발자들도 핵폭탄을 만든 맨해튼 프로젝트 과학자들처럼 ‘우리가 뭘 만든 거지?’라는 질문을 던지게 될 것”이라며 AI 기술의 위험성을 경고하기도 했다.
+AI 업계는 그동안 오픈소스와 폐쇄형 전략을 놓고 양분돼 있었지만 이제는 두 전략을 병행하는 쪽으로 방향을 잡고 있다. 메타 역시 “기존 오픈소스 모델은 계속 공개하겠지만, 초지능에 가까운 모델은 폐쇄형으로 개발할 수 있다”고 밝혔다.
+일각에서는 메타의 전략 변경이 돈을 벌기 위한 것이라는 분석도 나온다. 정보기술(IT) 전문 매체 테크크런치는 “AI 기술을 공개하지 않으면 기업이 이를 상품화하는 과정에서 더 많은 통제권을 가질 수 있다”며 “메타는 여전히 광고 수익에 의존하고 있다”고 전했다.
+한편 저커버그 CEO는 이날 메타가 추구하는 초지능의 방향성도 함께 제시했다. 그는 “우리 삶에 더 깊은 영향을 미칠 것은 모든 사람이 자신만의 ‘개인용 초지능’을 갖게 되는 순간”이라며 “다른 기업들이 초지능을 업무 생산성 향상 도구로 본다면, 메타는 이를 개인의 창작과 표현을 돕는 도구로 삼겠다”고 말했다.
+특히 메타가 개발 중인 증강현실(AR) 안경에 초지능을 결합하겠다는 계획도 내놨다. 저커버그 CEO는 “온종일 사람과 시선, 청각을 공유하며 상호작용하는 AR 기기가 주요 컴퓨팅 수단이 될 것”이라며 “2020년대 후반은 초지능 기술의 방향을 결정짓는 시기가 될 것”이라고 덧붙였다. [실리콘밸리 원호섭 특파원]
+<div style="margin: 30px 0;padding: 20px;background: #fff1f1;font-size: 17px;display:block;">용어 설명 : 초지능(Superintelligence)
+초지능은 인간의 지적 능력을 뛰어넘는 수준의 인공지능을 의미한다. 특정 과제에만 특화된 ‘좁은 AI’나 인간 수준의 ‘범용 AI(AGI)‘보다 한 단계 높은 개념으로, 과학·기술·전략·창의성 등 전 분야에서 인간보다 우수한 판단과 문제 해결 능력을 갖춘 AI를 뜻한다.
+</div>
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[오픈소스 전략 수정 시사 “돈 벌기 위한 것” 지적도마크 저커버그 메타 최고경영자(CEO)가 인간의 지적 능력을 뛰어넘는 ‘초지능’ 등 고성능 인공지능(AI) 기술을 앞으로 오픈소스로 공개하지 않을 수 있다고 밝혔다. 대규모 언어모델(LLM) ‘라마’를 앞세워 오픈소스 AI 생태계를 주도해 왔던 메타가 폐쇄형 모델 도입 가능성을 처음으로 밝힌 것이어서 주목]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/01/news-p.v1.20250731.86898b698c824c16af6a38bd3bbc4300_P1.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11382672]]></article_url>
+</article>
+</saltlux>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11391077</art_id>
+<art_year>2025</art_year>
+<art_no>572959</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-11 18:01:56</service_daytime>
+<title><![CDATA["국산 서버로 보안·자립 두마리 토끼 잡는다"]]></title>
+<sub_title><![CDATA[이중연 KTNF 대표 인터뷰<br>서버도 국가안보서 접근해야<br>부품·펌웨어·조립도 국내서]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[이덕주 기자(mrdjlee@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250812</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>14</pub_page>
+<reg_dt>2025-08-11 18:01:56</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101505</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/12/20250812_01110114000004_L00.jpg' alt=''>
+
+"서버는 국가안보의 일부로 생각해야 합니다. 위험한 세력이 펌웨어나 하드웨어 차원에서 백도어를 만든다면 해킹을 막을 방법이 없습니다."
+7일 서울 강서구 마곡 본사에서 매일경제와 인터뷰한 이중연 KTNF 대표는 이렇게 말했다. 이 대표가 2001년 설립한 KTNF는 '국산 서버' 외길을 걸어온 기업이다. 기업 전산실이나 데이터센터에 사용되는 서버를 국내에서 생산하고 서버에 들어가는 펌웨어를 직접 설계한다. 국내 기업을 위한 서버를 제조자개발생산(ODM) 방식으로 마곡 제조라인에서 직접 만든다.
+이 대표는 하드웨어를 국내에서 제조하고 공급망을 국내에 두는 것에 대한 필요성으로 이스라엘 정보기관 모사드가 무선호출기(삐삐)로 헤즈볼라를 공격한 것을 예로 들었다. 그는 "모사드는 대만에서 생산된 삐삐를 헤즈볼라가 사용한다는 것을 알고 거기에 소형 폭탄을 설치했다"면서 "국가안보 차원에서 서버의 중요성은 삐삐에 비해 훨씬 더 크다"고 설명했다. 전쟁으로 해외와 교류가 끊어진 상태에서 서버를 국내에서 직접 생산하는 것은 전력이나 통신망만큼이나 중요하다는 것이다. 특히 국가안보 분야에서 사용되는 서버는 국내에서 생산된 부품을 활용해 제조해야 한다는 것이다.
+그런 측면에서 이 대표는 국내 조달시장에서 국산 서버의 기준이 다소 느슨하다고 주장했다. 그는 "미국의 '바이 아메리카 법'을 보면 서버 장비의 부품 51% 이상이 미국산이어야 하고 조립도 미국에서 이뤄져야만 한다"면서 "반면 한국은 국산으로 팔리는 서버 중에서 중국 ODM 회사 제품을 가져와 재조립하는 형태의 '택갈이'를 한 것도 많다"고 안타까워했다. KTNF는 한국에서 유일하게 x86 기반 서버를 부품부터 펌웨어, 조립까지 하는 기업이라는 것이 그의 설명이다.
+국산 서버는 현 정부의 소버린 인공지능(AI) 기조에도 중요하다. AI 모델을 개발하고 이것이 작동되는 반도체를 한국에서 만드는 것도 중요하지만, 이것이 탑재될 서버 컴퓨터를 직접 만들 능력이 있어야 소버린 AI가 달성된다는 것이다. 
+[이덕주 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA["서버는 국가안보의 일부로 생각해야 합니다. 위험한 세력이 펌웨어나 하드웨어 차원에서 백도어를 만든다면 해킹을 막을 방법이 없습니다."
+7일 서울 강서구 마곡 본사에서 매일경제와 인터뷰한 이중연 KTNF 대표는 이렇게 말했다. 이 대표가 2001년 설립한 KTNF는 '국산 서버' 외길을 걸어온 기업이다. 기업 전산실이나 데이터센터에 사용되는 서버를 국내에서 생산하고 서버에 들어가는 펌웨어를 직접 설계한다. 국내 기업을 위한 서버를 제조자개발생산(ODM)]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101505</code_id>
+<code_nm><![CDATA[보안/해킹]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101505</small_code_id>
+<small_code_nm><![CDATA[보안/해킹]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/12/20250812_01110114000004_L00.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11391077]]></article_url>
+</article>
+</saltlux>

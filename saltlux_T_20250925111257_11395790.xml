@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11395790</art_id>
+<art_year>2025</art_year>
+<art_no>587353</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-18 11:07:43</service_daytime>
+<title><![CDATA[치열한 AI 경쟁의 다음은 ‘로봇’…한국 제조업 경쟁력 이 통하게 하려면 [데스크칼럼]]]></title>
+<sub_title><![CDATA[AI, LLM 넘어 물리세계 확산
+일상과 산업 현장 바꾸기 시작
+피지컬 AI, 제조업 경쟁력 좌우
+韓 제조 데이터 양과 질 우수
+통합플랫폼 구축, 적극 활용을]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[노현 기자(ocarina@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-18 11:07:43</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">AI, LLM 넘어 물리세계 확산<br>일상과 산업 현장 바꾸기 시작<br>피지컬 AI, 제조업 경쟁력 좌우<br>韓 제조 데이터 양과 질 우수<br>통합플랫폼 구축, 적극 활용을</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/18/news-p.v1.20250818.b345713de71e45c78233b51e2140c15d_P1.jpg' alt=' 젠슨 황 엔비디아 CEO가 세계 최대 가전·IT 전시회 ‘CES 2025’ 개막을 하루 앞둔 지난 1월 6일(현지시간)  미국 라스베이거스 만달레이 호텔에서 키노트를 진행하고 있다.  AFP연합뉴스'>
+“또 다른 아이폰 모멘트가 찾아왔다.”
+2023년 3월 초, 뱅크오브아메리카는 오픈AI의 챗GPT가 몰고 온 생성형 인공지능(AI) 열풍을 이같이 표현했다. 생성형 AI의 등장을 ‘제2의 스마트폰 혁명’에 빗댄 것이다. 챗GPT가 공개 100일 만에 1억명의 회원을 모았다는 소식이 알려진 직후였다.
+우리는 당시의 예측이 현실화되는 과정을 목격하고 있다. 실리콘밸리 벤처캐피털(VC) ‘멘로벤처스’에 따르면 올해 상반기 기준 전 세계 AI 서비스 사용자 수는 약 18억명이며 이 중 3분의 1은 AI 서비스를 매일 이용한다.
+생성형 AI가 세상을 뒤흔든 지 불과 2년여 만에 또 다른 거대한 변화가 도래하고 있다. ‘피지컬 AI’다. 피지컬 AI는 물리적 세계를 인식·이해하고 물리적 세계와 직접 상호작용하는 행동형 AI를 말한다.
+대표적인 예가 휴머노이드 로봇이다. 최근 공개된 휴머노이드들은 인간처럼 걷고 뛰며 물건을 집고 나른다. 테슬라의 ‘옵티머스’는 사람과 캐치볼을 하고, 피겨AI의 휴머노이드는 사람 대신 자동차를 조립한다. 중국 기업들의 휴머노이드는 군무는 물론 축구·마라톤에 격투기까지 해낸다. 빨래를 개고 간단한 식사까지 차리는 등 살림 솜씨도 수준급이다. 로봇이 연구실을 넘어 일상과 산업 현장에 뛰어드는 순간이 시작된 것이다. 이를 두고 젠슨 황 엔비디아 최고경영자(CEO)는 “로봇의 챗GPT 모멘트가 임박했다”고 말했다. 중국 로봇기업 유니트리의 왕싱싱 CEO는 “이르면 1~3년 내 로봇산업의 챗GPT 모멘트가 올 것”이라는 전망을 내놓기도 했다.
+언어 모델에 집중하던 AI 경쟁은 이제 현실을 움직이는 기술로 옮겨가고 있다. 자율주행차만 해도 그렇다. 테슬라와 웨이모, 화웨이, 바이두 등은 이미 수백만 ㎞의 주행 데이터를 확보했다. 드론 분야에서는 중국 DJI가 글로벌 시장의 70% 이상을 장악하고 있다.
+제조업 의존도가 높은 한국에 피지컬 AI는 특히 중요하다. 저출산과 고령화로 인한 노동력 부족을 극복하고 관세 전쟁과 중국발 공급과잉, 글로벌 공급망 불확실성의 일상화 속에서 제조업 경쟁력을 유지하기 위해서는 피지컬 AI를 활용해야 한다. 한국은 피지컬 AI 후발 주자이지만 강점을 잘 활용하면 반전을 모색할 수 있다.
+한국의 가장 큰 장점은 제조 데이터다. 반도체와 배터리, 통신, 정밀 제조 등 피지컬 AI의 기반이 될 하드웨어 기술과 인프라스트럭처 분야에서 글로벌 경쟁력을 갖추고 있으며, 이를 바탕으로 축적한 제조 데이터는 양과 질 모두 세계 최고 수준이다.
+문제는 현장 데이터를 수집하고 활용하는 데 제약이 많다는 것이다. 제도와 정책을 차근차근 개선해 나가되, 당장 시급한 현안부터 해결해야 한다. 대표적인 것이 시뮬레이터 플랫폼이다. 디지털 트윈을 통해 데이터를 생성하고, 이를 바탕으로 AI가 가상 공간에서 물리 법칙을 학습하고 훈련할 수 있도록 시뮬레이터와 파운데이션 모델을 아우르는 플랫폼을 만들어야 한다는 게 업계 지적이다. 이는 피지컬 AI의 안전 확보에도 도움이 된다. 발생 가능한 다양한 변수들을 가상세계에서 충분히 학습하고 대비할 수 있기 때문에, 오작동이나 오판단이 인명 피해와 사회 혼란으로 이어질 가능성을 크게 낮출 수 있다.
+소버린 AI 측면에서도 필요성이 크다. 대규모언어모델(LLM)들이 상당수 오픈소스로 공개되는 것과 달리 피지컬 AI는 데이터 수집에 높은 비용이 들기 때문에 오픈소스로 공개될 가능성이 상대적으로 낮다. 피지컬 AI 플랫폼 구축은 개별 기업이 하기 어려운 만큼 정부가 적극 나설 필요가 있다. 전략적으로, 과감하게 투자해야 한다.
+[노현 디지털테크부 부장]
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[AI, LLM 넘어 물리세계 확산 일상과 산업 현장 바꾸기 시작 피지컬 AI, 제조업 경쟁력 좌우 韓 제조 데이터 양과 질 우수 통합플랫폼 구축, 적극 활용을“또 다른 아이폰 모멘트가 찾아왔다.” 2023년 3월 초, 뱅크오브아메리카는 오픈AI의 챗GPT가 몰고 온 생성형 인공지능(AI) 열풍을 이같이 표현했다. 생성형 AI의 등장을 ‘제2의 스마트폰 혁명]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/18/news-p.v1.20250818.b345713de71e45c78233b51e2140c15d_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 젠슨 황 엔비디아 CEO가 세계 최대 가전·IT 전시회 ‘CES 2025’ 개막을 하루 앞둔 지난 1월 6일(현지시간)  미국 라스베이거스 만달레이 호텔에서 키노트를 진행하고 있다.  AFP연합뉴스]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11395790]]></article_url>
+</article>
+</saltlux>

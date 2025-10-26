@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11390765</art_id>
+<art_year>2025</art_year>
+<art_no>572368</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-11 16:03:37</service_daytime>
+<title><![CDATA["자율주행, 극한환경서 더 필요 … 국방·광산·농업이 블루오션 될 것"]]></title>
+<sub_title><![CDATA[크리스틴 문 블루스페이스닷에이아이 대표<br>3D센서 기반 자율주행 넘어<br>주변물체 움직임 예측기술로<br>지도 없어도 주행하게 할 것]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[원호섭 기자(wonc@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250812</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>02</pub_section>
+<pub_page>3</pub_page>
+<reg_dt>2025-08-11 16:03:37</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK300108</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/12/20250812_01110203000002_M00.jpg' alt=''>
+
+"자율주행의 진짜 시장은 사람이 많은 도시보다 사람이 가기 힘든 곳입니다. 지도 없이도, 그래픽처리장치(GPU) 없이도 자율주행을 구현할 수 있는 기술을 개발해 국방, 광산, 농업 분야에 적용을 준비하고 있습니다."
+미국 실리콘밸리 자율주행 스타트업 블루스페이스닷에이아이(BlueSpace.ai)의 공동창업자 크리스틴 문(한국명 홍수연) 대표는 자율주행 기술이 '로보택시'에 머무르지 않고 사회 다양한 분야로 빠르게 확산하고 있다고 이야기한다.
+문 대표는 최근 실리콘밸리 본사에서 진행한 매일경제 인터뷰에서 "눈에 보이는 자율주행은 웨이모, 테슬라의 로보택시지만 이보다 극한 환경에서 이 기술을 활용하려는 도전이 빠르게 이어지고 있다"며 "이러한 분야에서는 기술 상용화와 수익이라는 두 마리 토끼를 잡으려는 노력이 현실화하고 있다"고 말했다. 블루스페이스닷에이아이는 데이터 학습, 정밀 지도를 기반으로 한 기술이 아닌 지도와 GPU 없이 활용할 수 있는 자율주행 기술을 개발해 국방, 광산, 농업 등 다양한 분야에 적용해 나가고 있다.
+블루스페이스닷에이아이는 2019년 스탠퍼드 AI 랩 출신이 창업한 자율주행 스타트업 드라이브닷에이아이에서 일하던 엔지니어들이 만든 스타트업이다. 드라이브닷에이아이는 2019년 자율주행차 개발에 나섰던 애플에 인수됐다. 문 대표는 이 과정에서 애플에 남지 않고 창업을 결심했다. 문 대표는 드라이브닷에이아이 창업자였던 조엘 파자얌팔릴 최고경영자(CEO)와 손잡고 2019년 블루스페이스닷에이아이를 설립했다. 블루스페이스가 주목한 분야는 자율주행 기술에서 해결되지 않았던 '페인 포인트(Pain Point)'를 공략하는 것이었다. 문 대표는 "웨이모와 크루즈가 보여주는 자율주행은 '캔디'와 같다. 없어도 당장 큰일 나지 않는다"며 "하지만 국방, 광산, 농업처럼 사람이 가기 힘든 분야에서는 자율주행이 당장 필요했다"고 설명했다. 인명 피해가 예상되는 전장이나 일할 사람이 부족한 광산, 농업 분야는 자율주행 기술 적용이 필요하지만 기존 기술로 접근하기는 쉽지 않았다.
+블루스페이스닷에이아이가 선택한 방식은 '4차원 예측 인지(4D Predictive Perception)' 기술이다. 일반적인 3D 센서가 위치 정보를 제공하는 데 비해 이들은 속도와 방향을 추가한 4D 데이터를 활용해 물리 기반 시뮬레이션을 구축한다. 이를 통해 자차와 주변 물체의 움직임을 실시간으로 예측하고, 맵이나 사전 학습 없이도 자율주행을 가능하게 한다. 블루스페이스닷에이아이는 성과로 기술력을 입증해 나가고 있다. 지난해 미국 국방부에서 160만달러의 계약을 수주해 모하비 사막에서 GPS 없이 자율주행 차량을 운용하는 실증을 마쳤다.   
+[실리콘밸리 원호섭 특파원]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA["자율주행의 진짜 시장은 사람이 많은 도시보다 사람이 가기 힘든 곳입니다. 지도 없이도, 그래픽처리장치(GPU) 없이도 자율주행을 구현할 수 있는 기술을 개발해 국방, 광산, 농업 분야에 적용을 준비하고 있습니다."
+미국 실리콘밸리 자율주행 스타트업 블루스페이스닷에이아이(BlueSpace.ai)의 공동창업자 크리스틴 문(한국명 홍수연) 대표는 자율주행 기술이 '로보택시'에 머무르지 않고 사회 다양한 분야로 빠르게 확산하고 있다고 이야기한다.
+문 대표는 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK300108</code_id>
+<code_nm><![CDATA[U-World (IT)]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK300108</small_code_id>
+<small_code_nm><![CDATA[U-World (IT)]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/12/20250812_01110203000002_M00.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11390765]]></article_url>
+</article>
+</saltlux>

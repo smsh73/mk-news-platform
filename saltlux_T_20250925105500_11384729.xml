@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11384729</art_id>
+<art_year>2025</art_year>
+<art_no>555422</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-04 14:06:00</service_daytime>
+<title><![CDATA[쿠콘, 현대해상에 외국인 보험 청약 서류 간소화 지원]]></title>
+<sub_title><![CDATA[보험 가입시 증명서 발급 및 제출 필요 없어]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김태성 기자(kts@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-04 14:06:00</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101501</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">보험 가입시 증명서 발급 및 제출 필요 없어</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/04/news-p.v1.20250804.cc4a4438fade47caa8b0967c8bfc5076_P1.png' alt=''>
+비즈니스 데이터 플랫폼 기업 쿠콘은 현대해상에 외국인 보험가입자를 위한 청약 관련 서류 등록 간소화 체계를 구축했다고 4일 밝혔다.
+이를 통해 현대해상 외국인 고객은 보험 가입 시 더 이상 증명서를 직접 발급받아 스캔해 제출할 필요가 없어졌다. 알림톡으로 전송된 링크를 통해 본인 인증만 거치면 필요한 서류가 자동 제출되며, 이후 보험사 내부 심사도 한층 신속하게 진행된다.
+등록 간소화는 쿠콘의 ‘위-체크(We-Check)’ 서비스 덕택에 가능해졌다. 위-체크는 별도의 앱 설치 없이 모바일에서 공공기관의 증명서를 실시간으로 조회하고 제출할 수 있는 서비스다. 현대해상은 여기에 ‘외국인등록 사실증명 조회’ 응용프로그램 인터페이스(API)를 함께 도입해 고객 편의는 물론 내부 심사 프로세스의 효율성까지 크게 높였다.
+김종현 쿠콘 대표는 “이번 협업은 고객 경험 개선은 물론 보험사의 내부 업무 프로세스까지 혁신한 대표적인 디지털 전환 사례”라며 “앞으로도 다양한 금융기관과 협력해 실질적인 업무 혁신과 ESG 경영을 지원하는 데이터 플랫폼으로 역할을 강화해 나가겠다”고 밝혔다.
+한편 현대해상은 외국인등록 사실증명 조회 API 외에도 ▲대법원 증명서 열람(가족관계증명서 등) ▲헬스케어 패키지 ▲자동차 사양정보 조회 등 쿠콘의 다양한 API 서비스를 도입하며, 고객 중심의 디지털 생태계를 적극 확장해 나가고 있다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[보험 가입시 증명서 발급 및 제출 필요 없어비즈니스 데이터 플랫폼 기업 쿠콘은 현대해상에 외국인 보험가입자를 위한 청약 관련 서류 등록 간소화 체계를 구축했다고 4일 밝혔다. 이를 통해 현대해상 외국인 고객은 보험 가입 시 더 이상 증명서를 직접 발급받아 스캔해 제출할 필요가 없어졌다. 알림톡으로 전송된 링크를 통해 본인 인증만 거치면 필요한 서류가 자동 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101501</code_id>
+<code_nm><![CDATA[모바일]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101501</small_code_id>
+<small_code_nm><![CDATA[모바일]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101504</code_id>
+<code_nm><![CDATA[인터넷/SNS]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101504</small_code_id>
+<small_code_nm><![CDATA[인터넷/SNS]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101509</code_id>
+<code_nm><![CDATA[데이터산업]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101509</small_code_id>
+<small_code_nm><![CDATA[데이터산업]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/04/news-p.v1.20250804.cc4a4438fade47caa8b0967c8bfc5076_P1.png]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11384729]]></article_url>
+</article>
+</saltlux>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11387552</art_id>
+<art_year>2025</art_year>
+<art_no>564008</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-07 13:55:08</service_daytime>
+<title><![CDATA[카카오페이 ‘자연어 결제시대’…“AI 챗봇 통해 결제 기능 개발”]]></title>
+<sub_title><![CDATA[AI 챗봇과 자연어로 소통
+결제 기능 개발에 나서]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[박나은 기자(nasilver@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-07 13:55:08</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100205</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">AI 챗봇과 자연어로 소통<br>결제 기능 개발에 나서</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/07/news-p.v1.20250807.496e495047b5438d8609d0d1182b1039_P1.png' alt=''>
+카카오페이가 인공지능(AI) 챗봇과 자연어로 소통하며 결제 기능을 개발할 수 있는 기술을 선보인다고 7일 밝혔다.
+카카오페이는 ‘결제 MCP(Model Context Protocol)’와 ‘에이전트 툴킷(Agent Toolkit)’을 공개했다. 결제 MCP는 AI 에이전트와 결제 API를 안전하게 연동하기 위한 기술이다. AI 에이전트와 결제 시스템의 안전하고 유연한 연동을 지원해 개발자들이 혁신적인 AI 결제 서비스를 구축할 수 있도록 돕는다.
+이와 함께 카카오페이는 에이전트 툴킷을 개발해 개발자들이 AI 챗봇과 자연어로 소통하며 손쉽게 결제 기능을 구현할 수 있도록 편의성을 대폭 높였다.
+‘툴(Tool)’은 MCP에서 AI가 호출할 수 있는 개별 기능을 의미한다. 카카오페이 에이전트 툴킷은 결제 테스트, 결제 준비, 승인, 취소, 상태 조회 등 기본적인 결제 기능을 포함해 총 7가지 핵심 결제 API를 툴 형태로 제공한다.
+이를 통해 AI 에이전트는 결제 고유번호를 기반으로 결제 상태를 조회하거나, “5천 원짜리 커피 결제 링크 생성해 줘”와 같은 자연어 명령만으로도 결제 링크를 생성하는 등 다양한 결제 관련 시나리오를 처리할 수 있다.
+복잡한 프로세스 없이 AI에 결제 기능을 연동할 수 있어 개발자의 부담을 줄이고, 사용자는 더 자연스러운 방식으로 결제 서비스를 경험할 수 있게된 셈이다.
+카카오페이는 에이전트 툴킷(Agent Toolkit)을 활용한 AI 에이전트와 결제 시스템이 연동된 시연도 함께 공개했다. 사용자가 “결제 링크 생성해 줘”, “결제 취소해 줘”와 같은 자연어로 결제 관련 요청을 하면 AI 에이전트가 실시간으로 결제 링크 생성부터 상태 조회, 취소까지 안내하는 모습까지 담았다.
+카카오페이는 “이번에 공개한 MCP 및 에이전트 툴킷은 결제 AI 시대를 준비하는 첫 걸음”이라며 “앞으로도 기술적 안정성을 바탕으로 사용자의 신뢰를 최우선으로 하며, AI 시대의 지속적인 혁신을 이어갈 계획”이라고 밝혔다.
+한편 이번에 공개된 기술에 대한 자세한 정보는 카카오페이 기술 블로그 및 개발자 센터에서 확인할 수 있다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[AI 챗봇과 자연어로 소통 결제 기능 개발에 나서카카오페이가 인공지능(AI) 챗봇과 자연어로 소통하며 결제 기능을 개발할 수 있는 기술을 선보인다고 7일 밝혔다. 카카오페이는 ‘결제 MCP(Model Context Protocol)’와 ‘에이전트 툴킷(Agent Toolkit)’을 공개했다. 결제 MCP는 AI 에이전트와 결제 API를 안전하게 연동하기 위]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100205</code_id>
+<code_nm><![CDATA[저축은행·기타]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100205</small_code_id>
+<small_code_nm><![CDATA[저축은행·기타]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/07/news-p.v1.20250807.496e495047b5438d8609d0d1182b1039_P1.png]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11387552]]></article_url>
+</article>
+</saltlux>

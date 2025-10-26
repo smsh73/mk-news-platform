@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11391940</art_id>
+<art_year>2025</art_year>
+<art_no>575834</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-12 17:10:37</service_daytime>
+<title><![CDATA[[필동정담] 기상천외한 수출통행세]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[심윤희 기자(allegory@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250813</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>31</pub_page>
+<reg_dt>2025-08-12 17:10:37</reg_dt>
+<mod_dt>2025-08-12 20:50:32</mod_dt>
+<art_org_class>MK101303</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[1696년 영국. 재정난에 시달리던 정부는 기상천외한 세금을 고안했다. 바로 창문 개수에 따라 세금을 매기는 '창문세'다. 잘사는 집일수록 비싼 유리창이 많다는 데 착안한 세금이었다. 결과는 참담했다. 부유층은 세금을 피하려 창문을 벽돌로 막았고, 집안은 어둡고 답답해졌다. '햇빛과 공기에 물리는 세금'이라는 오명을 남기고 폐지됐다.
+황당한 과세는 이뿐이 아니다. 18세기 영국은 신사들의 필수품인 모자에 '모자세'를, 러시아 표트르 대제는 서구화를 이유로 '수염세'를 매겼다. 난로 개수에 부과하는 '벽난로세', 필수품인 소금에 부과한 '소금세'도 있었다. 모두 정부가 세수 확대와 정치적 목적을 위해 과세 권한을 과도하게 행사한 사례다.
+최근 미국에서도 기묘한 과세가 등장했다. 미국의 인공지능(AI) 반도체기업 엔비디아와 AMD가 중국에 AI반도체를 수출하는 조건으로 매출의 15%를 미국 정부에 내기로 한 것이다. 수출허가와 맞바꾼, 일종의 '수출 통행세'다. 두 회사가 낼 금액만 최소 20억달러로 추정된다. 물론 아르헨티나나 인도네시아가 국내 물가안정을 위해 농산물·자원 수출에 '수출세'를 매긴 전례가 있지만, 이는 의회가 만든 정식 세금이었다. 트럼프발 '수출세'는 대통령과 기업 최고경영자 간 '거래'로 세율이 정해졌다는 점에서 전례가 없다. 의회의 입법 절차 없이 행정부가 기업 수익 일부를 거둬들이는 것은 위헌 논란을 피하기 어렵다.
+더 큰 문제는 안보 원칙의 훼손이다. 애초 미국이 AI 반도체 대중 수출을 제한한 이유는 첨단 기술 유출 방지였다. 그러나 거액의 '통행료'를 받는 조건으로 이를 풀었다는 것은 안보 원칙을 흥정의 대상으로 전락시킨 것이다. 월스트리트저널은 "트럼프가 미국을 국가자본주의로 이끌고 있다"면서 민간기업 의사결정에 개입하는 모습이 중국 사회주의와 닮았다고 꼬집었다.
+창문세가 햇빛을 가리고, 소금세가 민심을 들끓게 했듯, 수출통행세는 권력의 실리 챙기기가 경제를 '거래의 장터'로 변질시킬 수 있음을 보여준다. 
+[심윤희 논설위원]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[1696년 영국. 재정난에 시달리던 정부는 기상천외한 세금을 고안했다. 바로 창문 개수에 따라 세금을 매기는 '창문세'다. 잘사는 집일수록 비싼 유리창이 많다는 데 착안한 세금이었다. 결과는 참담했다. 부유층은 세금을 피하려 창문을 벽돌로 막았고, 집안은 어둡고 답답해졌다. '햇빛과 공기에 물리는 세금'이라는 오명을 남기고 폐지됐다.
+황당한 과세는 이뿐이 아니다. 18세기 영국은 신사들의 필수품인 모자에 '모자세'를, 러시아 표트르 대제는 서구화를 이유]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101303</code_id>
+<code_nm><![CDATA[칼럼]]></code_nm>
+<large_code_id>3</large_code_id>
+<large_code_nm><![CDATA[오피니언]]></large_code_nm>
+<middle_code_id>30003</middle_code_id>
+<middle_code_nm><![CDATA[매경칼럼]]></middle_code_nm>
+<small_code_id>MK101303</small_code_id>
+<small_code_nm><![CDATA[칼럼]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>mki019240</code_id>
+<code_nm><![CDATA[특별칼럼]]></code_nm>
+<large_code_id>3</large_code_id>
+<large_code_nm><![CDATA[오피니언]]></large_code_nm>
+<middle_code_id>30003</middle_code_id>
+<middle_code_nm><![CDATA[매경칼럼]]></middle_code_nm>
+<small_code_id>mki019240</small_code_id>
+<small_code_nm><![CDATA[특별칼럼]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11391940]]></article_url>
+</article>
+</saltlux>

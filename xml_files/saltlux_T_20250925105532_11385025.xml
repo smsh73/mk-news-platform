@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11385025</art_id>
+<art_year>2025</art_year>
+<art_no>556388</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-04 17:57:26</service_daytime>
+<title><![CDATA["사장님, 여름엔 ○○ 잘 팔려요"…日 맥주회사 회의에 뜬 AI 임원]]></title>
+<sub_title><![CDATA[기린홀딩스 자체개발 가상AI<br>마케팅·법무 12개 전문 분야<br>객관적 데이터로 경영 조언]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[이승훈 특파원(thoth@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250805</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>10</pub_page>
+<reg_dt>2025-08-04 17:57:26</reg_dt>
+<mod_dt>2025-08-04 18:44:25</mod_dt>
+<art_org_class>MK101007</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/05/20250805_01110110000006_M00.jpg' alt='게티이미지뱅크'>
+
+일본 맥주회사 기린홀딩스가 경영전략회의에 인공지능(AI)으로 생성한 가상 임원을 참여시킨다.
+4일 니혼게이자이신문(닛케이)은 기린홀딩스가 마케팅이나 법무 등 12개 전문 분야에 능숙한 AI 임원과 함께 사장 등 경영 임원이 참여하는 경영전략회의를 진행한다고 보도했다.
+기린은 지난달 개최한 경영전략회의부터 AI 임원을 참여시켰다. 내부적으로는 '코어메이트(CoreMate)'라고 불린다.
+이 AI 모델은 미국 마이크로소프트와 구글 등이 제공하는 AI 모델을 기반으로 기린홀딩스가 독자적으로 개발했다. 과거 10년분의 이사회나 경영전략회의 회의록 등을 모두 학습시켰다. 여기에 사내 자료나 시장 조사 데이터 등 외부 최신 정보도 계속해서 입력하고 있다.
+AI 임원인 코어메이트는 회의 안건에 대해 전문적인 논점이나 의견을 생성하고 PC를 통해 경영진에게 제시한다. 이에 따라 경험이나 직감에만 의존하지 않고 경영진이 객관적인 데이터를 바탕으로 신속한 경영 판단을 내릴 수 있도록 돕는다. 예를 들면 ESG(환경·책임·투명경영)와 관련해서 AI 임원은 "기후 변동을 근거로 원료와 물 조달의 어려움에 대해 어떻게 대응할 것인지도 논의해야 한다"고 조언하게 된다.
+[도쿄 이승훈 특파원]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[일본 맥주회사 기린홀딩스가 경영전략회의에 인공지능(AI)으로 생성한 가상 임원을 참여시킨다.
+4일 니혼게이자이신문(닛케이)은 기린홀딩스가 마케팅이나 법무 등 12개 전문 분야에 능숙한 AI 임원과 함께 사장 등 경영 임원이 참여하는 경영전략회의를 진행한다고 보도했다.
+기린은 지난달 개최한 경영전략회의부터 AI 임원을 참여시켰다. 내부적으로는 '코어메이트(CoreMate)'라고 불린다.
+이 AI 모델은 미국 마이크로소프트와 구글 등이 제공하는 AI 모델을]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101007</code_id>
+<code_nm><![CDATA[국제사건/사고]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101007</small_code_id>
+<small_code_nm><![CDATA[국제사건/사고]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/05/20250805_01110110000006_M00.jpg]]></image_url>
+<image_caption><![CDATA[게티이미지뱅크]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11385025]]></article_url>
+</article>
+</saltlux>

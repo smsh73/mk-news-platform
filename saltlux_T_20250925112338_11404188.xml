@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11404188</art_id>
+<art_year>2025</art_year>
+<art_no>612745</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-27 15:36:47</service_daytime>
+<title><![CDATA[SK쉴더스 “2분기 랜섬웨어 피해 1500건…일상 위협 확산”]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김규식 기자(dorabono@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-27 15:36:47</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101505</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[전 세계 랜섬웨어 공격이 올 2분기에만 1500건을 넘어 일상생활을 직접 위협하는 수준으로 확산되고 있다. SK쉴더스는 27일 발표한 ‘한국랜섬웨어대응얼라이언스(KARA) 2분기 보고서’에서 피해 건수가 1556건으로 집계됐다고 밝혔다. 이는 지난해 같은 기간보다 17% 늘어난 수치다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/27/news-p.v1.20250827.db21de6346cd4fcc8f53bc2b4c5a9427_P1.png' alt=''>
+보고서는 특히 킬린 등 신생 조직이 빠르게 세력을 넓히며 월평균 피해 건수를 두 배로 늘렸고, 가상사설망·방화벽·윈도우 취약점을 노린 아키라, 플레이 등도 활발히 활동했다고 분석했다.
+피해는 연구·교육 현장과 소비자 서비스, 공공기관으로까지 이어졌다. 매스웍스는 공격으로 주요 플랫폼이 마비돼 전 세계 연구자와 학생들이 불편을 겪었고, 국내에서는 예스24가 여러 차례 공격을 받아 도서 검색과 전자책 열람, 공연 예매 서비스가 전면 중단됐다. 미국의 지방정부와 해외 병원들도 공격을 당해 행정과 진료가 차질을 빚었다.
+보고서는 의료·제조·공공기관을 겨냥하는 아이엔씨 조직의 활동을 최대 위협으로 지목했다. 소스코드가 다크웹에 유출돼 모방 범죄와 변종 확산 가능성이 크다는 것이다. SK쉴더스는 신속한 보안 패치와 권한 관리, 이상 징후 탐지에 더해 실시간 대응이 가능한 관리형 보안 서비스 도입이 필수라고 강조했다. 김병무 SK쉴더스 사이버보안부문장은 “랜섬웨어 공격이 소비자와 밀접한 서비스와 공공기관으로까지 확산되며 일상을 직접적으로 위협하고 있다”고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[전 세계 랜섬웨어 공격이 올 2분기에만 1500건을 넘어 일상생활을 직접 위협하는 수준으로 확산되고 있다. SK쉴더스는 27일 발표한 ‘한국랜섬웨어대응얼라이언스(KARA) 2분기 보고서’에서 피해 건수가 1556건으로 집계됐다고 밝혔다. 이는 지난해 같은 기간보다 17% 늘어난 수치다. 보고서는 특히 킬린 등 신생 조직이 빠르게 세력을 넓히며 월평균 피해 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101505</code_id>
+<code_nm><![CDATA[보안/해킹]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101505</small_code_id>
+<small_code_nm><![CDATA[보안/해킹]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/27/news-p.v1.20250827.db21de6346cd4fcc8f53bc2b4c5a9427_P1.png]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11404188]]></article_url>
+</article>
+</saltlux>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11390918</art_id>
+<art_year>2025</art_year>
+<art_no>572736</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-11 17:21:31</service_daytime>
+<title><![CDATA[삼성·SK하이닉스 날아오를까…2분기 엔비디아 실적 관전 포인트는]]></title>
+<sub_title><![CDATA[AI 반도체 ‘큰손’ 엔비디아 27일 실적 발표]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[방영덕 매경 디지털뉴스룸 기자(byd@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-11 17:21:31</reg_dt>
+<mod_dt>2025-08-11 17:22:34</mod_dt>
+<art_org_class>MK100301</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">AI 반도체 ‘큰손’ 엔비디아 27일 실적 발표</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250811.84d737d149904ac0b4ce6e42069521a0_P1.png' alt=' 젠슨 황 엔비디아 CEO [사진출처 =로이터 연합뉴스]'>
+연일 최고가를 갈아치우고 있는 엔비디아의 2분기 실적에 반도체업계의 관심이 쏠리고 있다. 사상 최대 실적이란 엔비디아 훈풍에 힘입어 ‘반도체 사이클’이 되살아나며 국내 반도체 기업들 역시 날개를 달 수 있을지 주목된다.
+11일 반도체업계에 따르면 AI 반도체 ‘큰손’인 엔비디아는 오는 27일 2분기 실적 발표를 앞두고 있다.
+금융투자업계에서는 엔비디아의 실적이 시장 예상치를 웃돌 것으로 내다보고 있다. 월가는 이번 실적 발표에서 엔비디아가 457억 달러의 매출과 주당 1달러의 순이익을 내놓을 것으로 전망한다. AI 반도체 수요 증가에 따른 매출 성장세가 이어질 것이란 분석에서다.
+글로벌 투자은행(IB) 골드만삭스는 지난 7일(현지시간) 보고서를 통해 엔비디아에 대해 ‘매수’ 의견을 유지하면서 목표가를 기존 185달러에서 200달러로 올리기도 했다.
+특히 이번 실적 발표에는 지난 4월 엔비디아가 선보인 신형 AI 가속기 블랙웰의 매출이 반영된다. 또 내년에 출시할 차세대 AI 칩인 루빈의 선주문량 역시 파악 가능할 것으로 보인다.
+업계에 따르면 내년도 엔비디아의 AI 반도체 주력 제품이 블랙웰에서 루빈으로 옮겨가면서 HBM 시장의 주류는 HBM3E에서 HBM4로 세대교체될 전망이다.
+<strong><div style="border-top: 4px solid #ed6d01;border-bottom: 1px solid #ed6d01;font-size: 18px;padding: 10px 0;margin:30px 0;">엔비디아 테스트 못넘은 삼성전자…HBM3E 납품은 언제쯤?</div></strong><img src='https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250701.08d7154b96524bee85a102223a16b620_P1.jpg' alt=' 삼성전자의 HBM3E. 삼성전자'>
+삼성전자, SK하이닉스 등 국내 반도체 기업들에 관련 언급 여부 역시 주목을 받는다.
+현재 삼성전자의 경우 1년 이상 5세대 HBM(HBM3E) 납품 여부를 두고 엔비디아의 퀄 테스트 문턱을 넘지 못하고 있다. 하지만 블랙웰에서 6세대 HBM(HBM4)를 탑재하는 루빈으로의 전환이 생각보다 빠르다는 것을 이번 실적 발표에서 확인할 경우 삼성전자의 HBM 사업은 날개를 달 수 있을 전망이다.
+반도체 업계 관계자는 “엔비디아의 AI 가속기 흥행 여부에 따라 삼성전자의 숙원인 HBM3E 품질 테스트 통과 시점도 달라질 전망이다”고 내다봤다.
+일부 증권사들은 삼성전자의 엔비디아 공급망으로의 진입 시기가 앞당겨질 것으로 예상해 삼성전자 목표주가를 9만원까지 상향 조정했다. 앞서 미국 모건스탠리 등은 삼성전자 HBM3E의 엔비디아 퀄 테스트 통과 시기를 8월로 관측했으며 삼성전자는 2분기 콘퍼런스 콜에서 “HBM4 제품을 개발 완료해 이미 주요 고객사들에게 샘플을 출하했다”고 밝혔다.
+SK하이닉스는 올해 상반기 HBM3E 12단 제품을 엔비디아에 독점 공급했고, 이미 6세대 HBM4 12단 제품 샘플도 엔비디아에 납품했다.
+젠슨 황 엔비디아 최고경영자(CEO)는 지난 5월 대만 타이베이에서 열린 아시아 최대 IT·컴퓨팅 전시회 ‘컴퓨텍스 2025’에서 SK하이닉스 부스에 방문해 “HBM4를 잘 지원해달라”고 당부한 것으로 알려졌다.
+<strong><div style="border-top: 4px solid #ed6d01;border-bottom: 1px solid #ed6d01;font-size: 18px;padding: 10px 0;margin:30px 0;">중국 수출 재개한 저사양칩 H20…영향은</div></strong><img src='https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250811.559565bfe79247b5a4117d6e7ae56803_P1.jpg' alt=' [사진출처 = SK하이닉스]'>
+지난달부터 이뤄진 엔비디아의 AI칩 H20의 중국 수출 재개가 삼성전자와 SK하이닉스에 미치는 영향 또한 주목 받는다. H20은 엔비디아가 바이든 미국 행정부 때부터 중국 수출 통제 조치에 맞춰 개발한 저사양 AI칩이다.
+업계에서는 이번 엔비디아의 H20 수출 재개로 삼성전자의 HBM 대량 납품 가능성이 커졌다고 보고 있다. 필요한 HBM 물량이 늘어나면 공급망 다변화 차원에서라도 엔비디아가 삼성전자의 HBM3E 납품을 앞당길 수 있단 분석이다.
+리서치업체 번스타인은 올해 초 수출 통제 조치가 시행되기 전 상황을 기준으로 엔비디아가 올해 중국에 약 150만개의 H20 칩을 판매해 약 230억달러(약 32조원)의 매출을 올릴 것으로 추정했다.
+엔비디아가 현재 판매하고 있는 H20 업그레이드 버전(H20e)에는 SK하이닉스의 HBM3E 8단이 탑재되는 것으로 알려졌다.
+한편, 엔비디아와 AMD는 중국에 반도체를 수출하는 대가로 중국 매출의 15%를 미국 정부에 납부하기로 하는 계약을 맺은 것으로 전해졌다.
+파이낸셜타임스(FT)에 따르면 엔비디아와 AMD가 중국 시장에 대한 반도체 수출 허가를 받는 조건으로 중국 매출의 15%를 미국 정부에 지급하기로 합의했다고 보도했다. 이와 관련 엔비디아는 “우리는 미국 정부가 세계 시장 참여를 위해 설정한 규칙을 준수한다”고만 밝혔다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[AI 반도체 ‘큰손’ 엔비디아 27일 실적 발표연일 최고가를 갈아치우고 있는 엔비디아의 2분기 실적에 반도체업계의 관심이 쏠리고 있다. 사상 최대 실적이란 엔비디아 훈풍에 힘입어 ‘반도체 사이클’이 되살아나며 국내 반도체 기업들 역시 날개를 달 수 있을지 주목된다. 11일 반도체업계에 따르면 AI 반도체 ‘큰손’인 엔비디아는 오는 27일 2분기 실적 발표를]]></summary>
+</wms_article_summary>
+<stock_codes>
+<stock_code>005930</stock_code>
+<stock_code>000660</stock_code>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100301</code_id>
+<code_nm><![CDATA[기업 경영]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100301</small_code_id>
+<small_code_nm><![CDATA[기업 경영]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100305</code_id>
+<code_nm><![CDATA[전기·전자·통신]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100305</small_code_id>
+<small_code_nm><![CDATA[전기·전자·통신]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100307</code_id>
+<code_nm><![CDATA[기업일반·재계동향]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100307</small_code_id>
+<small_code_nm><![CDATA[기업일반·재계동향]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250811.84d737d149904ac0b4ce6e42069521a0_P1.png]]></image_url>
+<image_caption><![CDATA[ 젠슨 황 엔비디아 CEO [사진출처 =로이터 연합뉴스]]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250701.08d7154b96524bee85a102223a16b620_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 삼성전자의 HBM3E. 삼성전자]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250811.559565bfe79247b5a4117d6e7ae56803_P1.jpg]]></image_url>
+<image_caption><![CDATA[ [사진출처 = SK하이닉스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11390918]]></article_url>
+</article>
+</saltlux>

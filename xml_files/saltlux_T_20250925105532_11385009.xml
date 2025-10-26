@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11385009</art_id>
+<art_year>2025</art_year>
+<art_no>556374</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-04 17:52:54</service_daytime>
+<title><![CDATA[네이버·업스테이지·SKT·엔씨·LG …'국가대표 AI' 후보 5곳 선발]]></title>
+<sub_title><![CDATA[정부 주도 'AI플랫폼 모델' 개발 참여기업 선정<br>GPU·데이터·인재 등 지원<br>2년 내로 최종 2개팀 확정]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김규식 기자(dorabono@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250805</pub_date>
+<pub_edition>16</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>2</pub_page>
+<reg_dt>2025-08-04 17:52:54</reg_dt>
+<mod_dt>2025-08-04 19:36:40</mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/05/20250805_01160102000001_L00.jpg' alt=''>
+
+한국을 대표할 인공지능(AI) 파운데이션 모델을 개발할 정예팀 5곳이 최종 선정됐다. 
+글로벌 빅테크 기술에 대한 의존을 줄이고 독자 기술로 AI 생태계를 구축하겠다는 '소버린 AI' 전략 실행이 본격화한다.
+4일 과학기술정보통신부는 '독자 AI 파운데이션 모델 프로젝트' 수행 주체로 네이버클라우드, 업스테이지, SK텔레콤, NC AI, LG AI연구원 컨소시엄을 선정했다고 발표했다. 지난 6월 공모에 15개 팀이 신청했고, 서면평가를 통해 10개 팀을 추린 뒤 지난달 말 발표 평가를 거쳐 최종 5개 팀이 선정됐다. 정부는 이들 정예팀에 대해 6개월 단위 평가를 거쳐 2027년 상반기까지 최종 2개 팀을 선발한다. 
+이번 평가에선 단순한 기술력을 넘어 AI 모델을 초기 설계부터 사전 학습까지 독자적으로 수행할 수 있는 '프롬 스크래치' 역량, 오픈소스 공개 가능성, 생태계 확장성, 글로벌 수준(최신 모델 대비 95% 이상) 성능 달성 계획, 결과물 50% 이상 공개 등을 종합적으로 심사했다. 네이버클라우드는 '옴니 모델'을 기반으로 텍스트, 음성, 이미지, 영상 등 다양한 데이터를 통합 생성하는 범용 AI를 개발하고, AI 에이전트 마켓플레이스 구축을 추진한다. 업스테이지는 '솔라 WBL'을 통해 3년 내 사용자 1000만명 확보를 목표로 법률·의료·국방 등 분야에 AI 서비스를 확산한다. SK텔레콤은 '포스트 트랜스포머' 모델로 기업과 소비자 간 거래(B2C)와 제조·로봇 등 기업 간 거래(B2B) 서비스 전반에 AI를 접목한다. NC AI는 2000억개 파라미터 규모의 대형언어모델과 '도메인옵스' 플랫폼을 통해 산업 맞춤형 AI 전환을 지원한다. LG AI연구원은 'K-엑사원'을 고도화하고 서비스·인재 양성·풀스택 생태계까지 통합해 추진한다.
+선발된 5개 정예팀은 국가기록원, 국사편찬위원회, 통계청, 특허청, 방송사 등 기관 데이터를 공동 구매하거나 개별 구축할 수 있다. 각 팀은 초기 그래픽처리장치(GPU) 500장을, 향후 단계 평가에 따라 최대 1000장을 지원받는다. 정부는 추가경정예산에서 확보한 1576억원을 GPU 등 컴퓨팅 자원 지원에 투입한다. AI 인재의 경우 업스테이지 컨소시엄만 도움을 희망해 정부 지원 대상에 포함됐다. 유치하고자 하는 해외 우수 연구자(팀)의 인건비, 연구비 등 필요 비용을 정부가 매칭해 지급한다.
+한편 최종 후보에 들지 못한 카카오와 KT 컨소시엄은 오픈AI, 마이크로소프트 등 글로벌 빅테크 기업과의 협력 이력이 작용한 것으로 알려졌다. 정부가 독자 기술 기반의 자립형 모델 개발 역량을 핵심 기준으로 삼은 만큼 이미 외부 기술과 협력을 선언한 사업 구조는 한계로 평가돼왔다.
+[김규식 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[한국을 대표할 인공지능(AI) 파운데이션 모델을 개발할 정예팀 5곳이 최종 선정됐다. 
+글로벌 빅테크 기술에 대한 의존을 줄이고 독자 기술로 AI 생태계를 구축하겠다는 '소버린 AI' 전략 실행이 본격화한다.
+4일 과학기술정보통신부는 '독자 AI 파운데이션 모델 프로젝트' 수행 주체로 네이버클라우드, 업스테이지, SK텔레콤, NC AI, LG AI연구원 컨소시엄을 선정했다고 발표했다. 지난 6월 공모에 15개 팀이 신청했고, 서면평가를 통해 10개 팀을]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/05/20250805_01160102000001_L00.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11385009]]></article_url>
+</article>
+</saltlux>

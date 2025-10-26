@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11402168</art_id>
+<art_year>2025</art_year>
+<art_no>606281</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-25 14:23:38</service_daytime>
+<title><![CDATA[SK하이닉스, 321단 QLC 낸드 양산...“최고 집적도로 AI 데이터센터 공략”]]></title>
+<sub_title><![CDATA[“원가경쟁 우위 극대화 목표”
+PC용 SSD를 시작으로 데이터센터까지 확대]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[방영덕 매경 디지털뉴스룸 기자(byd@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-25 14:23:38</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100301</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">“원가경쟁 우위 극대화 목표”<br>PC용 SSD를 시작으로 데이터센터까지 확대</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/25/news-p.v1.20250825.419a1e7bb95e4119b6772e47a9a110b9_P1.jpg' alt=' SK하이닉스가 25일 양산에 돌입한 321단 QLC 낸드 플래시 제품. [사진출처 = SK하이닉스]'>
+SK하이닉스는 321단 2Tb(테라비트) QLC 낸드 플래시 제품 개발을 완료하고 양산에 돌입한다고 25일 밝혔다.
+낸드플래시는 전원이 꺼져도 데이터가 저장되는 비휘발성 메모리 반도체를 말한다.한 개의 셀(Cell)에 몇 개의 정보(비트 단위)를 저장하느냐에 따라 SLC(1개)-MLC(2개)-TLC(3개)-QLC(4개)-PLC(5개) 등으로 규격이 나뉜다. QLC는 셀 하나에 4개 정보를 담았다는 뜻이다.
+SK하이닉스는 “세계 최초로 300단 이상 낸드를 QLC 방식으로 구현해 기술적 한계를 다시 한번 돌파했다”며 “현존하는 낸드 제품 중 최고의 집적도를 가진 이 제품으로 글로벌 고객사 인증을 거쳐 내년 상반기부터 인공지능(AI) 데이터센터 시장을 본격 공략하겠다”고 말했다.
+적층은 셀을 수직으로 쌓아 올려 데이터 용량을 늘리는 기술로, 낸드 경쟁력의 핵심 요소로 꼽힌다.
+SK하이닉스는 이번 제품의 원가경쟁력 우위를 극대화하기 위해 용량을 기존 제품 대비 2배 늘린 2Tb로 개발했다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/25/news-p.v1.20250825.10c3b56ce7354886879e398042ab1562_P1.png' alt=' SK 하이닉스 공장 전경 [연합뉴스 자료사진]'>
+일반적으로 낸드는 용량이 커질수록 하나의 셀에 더 많은 정보를 저장하고, 메모리 관리가 복잡해져 데이터 처리 속도가 느려지는 문제가 발생한다.
+이같은 문제를 해결하기 위해 SK하이닉스는 낸드 내부에서 독립적으로 동작할 수 있는 그룹의 단위인 플레인(Plane)을 4개에서 6개로 늘려 더 많은 병렬 작업이 가능하도록 했다.
+<strong><div style="border-top: 4px solid #ed6d01;border-bottom: 1px solid #ed6d01;font-size: 18px;padding: 10px 0;margin:30px 0;">이전 제품 대비 데이터전송 속도 100% 향상</div></strong>이에 따라 이번 제품은 이전 QLC 제품 대비 데이터 전송 속도는 100% 빨라졌고, 쓰기 성능은 최대 56%, 읽기 성능은 18% 개선됐다.
+데이터 쓰기 전력 효율도 23% 이상 증가해 저전력이 요구되는 AI 데이터센터 등의 분야에서도 경쟁력을 확보했다.
+SK하이닉스는 우선 PC용 SSD에 321단 낸드를 적용한 후, 데이터센터용과 스마트폰용 제품으로 적용 영역을 확대해 나간다는 전략이다.
+아울러 낸드 32개를 한 번에 적층하는 독자적 패키징 기술을 바탕으로 기존 대비 2배 높은 집적도를 구현해 AI 서버용 초고용량 eSSD 시장까지 본격 공략할 방침이다.
+정우표 SK하이닉스 부사장(NAND개발 담당)은 “이번 제품 양산 돌입으로 고용량 제품 포트폴리오를 대폭 강화하고 가격 경쟁력까지 확보하게 됐다”며 “폭발적으로 성장하는 AI 수요와 데이터센터 시장의 고성능 요구에 발맞춰 풀스택 AI 메모리 프로바이더(Full Stack AI Memory Provider)로서 더 큰 도약을 이뤄내겠다”고 밝혔다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[“원가경쟁 우위 극대화 목표” PC용 SSD를 시작으로 데이터센터까지 확대SK하이닉스는 321단 2Tb(테라비트) QLC 낸드 플래시 제품 개발을 완료하고 양산에 돌입한다고 25일 밝혔다. 낸드플래시는 전원이 꺼져도 데이터가 저장되는 비휘발성 메모리 반도체를 말한다.한 개의 셀(Cell)에 몇 개의 정보(비트 단위)를 저장하느냐에 따라 SLC(1개)-MLC]]></summary>
+</wms_article_summary>
+<stock_codes>
+<stock_code>000660</stock_code>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100301</code_id>
+<code_nm><![CDATA[기업 경영]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100301</small_code_id>
+<small_code_nm><![CDATA[기업 경영]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100305</code_id>
+<code_nm><![CDATA[전기·전자·통신]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100305</small_code_id>
+<small_code_nm><![CDATA[전기·전자·통신]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100307</code_id>
+<code_nm><![CDATA[기업일반·재계동향]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100307</small_code_id>
+<small_code_nm><![CDATA[기업일반·재계동향]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/25/news-p.v1.20250825.419a1e7bb95e4119b6772e47a9a110b9_P1.jpg]]></image_url>
+<image_caption><![CDATA[ SK하이닉스가 25일 양산에 돌입한 321단 QLC 낸드 플래시 제품. [사진출처 = SK하이닉스]]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/25/news-p.v1.20250825.10c3b56ce7354886879e398042ab1562_P1.png]]></image_url>
+<image_caption><![CDATA[ SK 하이닉스 공장 전경 [연합뉴스 자료사진]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11402168]]></article_url>
+</article>
+</saltlux>

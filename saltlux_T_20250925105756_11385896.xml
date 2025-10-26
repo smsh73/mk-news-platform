@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11385896</art_id>
+<art_year>2025</art_year>
+<art_no>559163</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-05 17:53:57</service_daytime>
+<title><![CDATA["SGI서 A4용지 30억장 분량 개인정보 빼냈다"]]></title>
+<sub_title><![CDATA[해커, 13.2TB 데이터 보유 주장<br>SGI "고객정보 유출 정황 없어"]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김규식 기자(dorabono@mk.co.kr), 박창영 기자(hanyeahwest@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250806</pub_date>
+<pub_edition>16</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>16</pub_page>
+<reg_dt>2025-08-05 17:53:57</reg_dt>
+<mod_dt>2025-08-05 19:59:30</mod_dt>
+<art_org_class>MK101505</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[SGI서울보증이 지난달 겪은 전산시스템 장애와 관련해 랜섬웨어 해커 조직이 13.2테라바이트(TB)에 달하는 내부 데이터를 탈취했다고 주장하고 나섰다. 이에 대해 SGI서울보증은 현재까지 고객정보를 포함해 대용량 내부정보 유출 정황은 없다고 밝히며 해커 측 주장을 일축했다.
+5일 보안업계에 따르면 아랍에미리트 보안업체 핵마낙은 사회관계망서비스(SNS) 엑스(X)에 SGI서울보증 사이버 공격은 '건라(Gunra)'라는 해커 조직의 소행이며 이들이 13.2TB 분량의 오라클 데이터베이스를 탈취했다고 주장하고 있다고 게시했다. 해당 게시물은 건라가 운영하는 다크웹 사이트에서 직접 인용된 것으로 해커 조직은 이번 공격을 자신들의 실적이라며 홍보하고 있다.
+건라는 이번 공격에 사용된 것으로 알려진 랜섬웨어 명칭과 동일한 이름으로 최근 금융기관을 노리는 공격을 반복하고 있는 신흥 위협 그룹으로 분류된다. 13.2TB에 해당하는 자료는 A4용지 30억장으로 약 400㎞ 높이의 종이탑을 쌓을 수 있다. 만약 실제로 개인정보가 포함된 자료가 유출됐다면 최악의 보안사고로 기록될 가능성이 높다.
+앞서 SGI서울보증은 지난달 14일 전산망 일부가 마비되는 장애를 겪었으며 사흘 후인 지난달 17일 핵심 시스템을 복구했다고 밝혔다. 회사는 자체 백업 데이터를 활용해 신속히 시스템을 정상화했으며 해커로부터 금전 요구나 정보 유출 관련 접촉은 없었다고 강조했다.
+SGI서울보증은 핵마낙 주장에 대해 이날 보도자료를 통해 "시스템 장애 발생 직후부터 관계 보안기관과 함께 사고 원인과 정보 유출 가능성에 대해 면밀히 조사해왔다"며 "현재까지 고객정보를 포함한 내부 데이터가 외부로 유출된 정황은 확인되지 않았다"고 밝혔다.
+아울러 SGI서울보증은 "향후 유출 사실이 확인되면 관계 기관과 신속하고 투명하게 정보를 공유하고 관련 법령과 정보보호 지침에 따라 대응할 것"이라며 "민감정보 유출로 정보 주체의 손해가 발생할 경우 이에 대해 전액 보상할 방침"이라고 덧붙였다.
+[김규식 기자 / 박창영 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[SGI서울보증이 지난달 겪은 전산시스템 장애와 관련해 랜섬웨어 해커 조직이 13.2테라바이트(TB)에 달하는 내부 데이터를 탈취했다고 주장하고 나섰다. 이에 대해 SGI서울보증은 현재까지 고객정보를 포함해 대용량 내부정보 유출 정황은 없다고 밝히며 해커 측 주장을 일축했다.
+5일 보안업계에 따르면 아랍에미리트 보안업체 핵마낙은 사회관계망서비스(SNS) 엑스(X)에 SGI서울보증 사이버 공격은 '건라(Gunra)'라는 해커 조직의 소행이며 이들이 13.2]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101505</code_id>
+<code_nm><![CDATA[보안/해킹]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101505</small_code_id>
+<small_code_nm><![CDATA[보안/해킹]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11385896]]></article_url>
+</article>
+</saltlux>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11398367</art_id>
+<art_year>2025</art_year>
+<art_no>594918</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-20 16:03:51</service_daytime>
+<title><![CDATA[AI가 대출 이상거래 탐지 … 비대면 금융 안전성 높여]]></title>
+<sub_title><![CDATA[대상 / 어니스트AI]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김혜란 기자(kim.hyeran@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250821</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>02</pub_section>
+<pub_page>2</pub_page>
+<reg_dt>2025-08-20 16:03:51</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK300199</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/21/20250821_01110202000002_L00.jpg' alt=''매경 핀테크 어워드 2025'에서 대상을 수상한 어니스트AI 임직원들이 기념사진을 찍고 있다.   어니스트AI'>
+
+기존 신용평가 시스템의 사각지대를 보완하는 각종 정보를 인공지능(AI)을 통해 찾아내는 솔루션 '렌딩인텔리전스(Lending Intelligence)'를 개발·공급하는 핀테크 회사 '어니스트AI'가 '매경 핀테크 어워드 2025'에서 대상을 수상했다.
+렌딩인텔리전스는 금융기관의 여신 비즈니스 프로세스에 탑재돼 리스크를 측정하고 수익성을 예측해 의사결정을 좀 더 잘할 수 있게 돕는다. 
+다양한 AI 모델을 활용해 기존 신용평가모델(CSS)이 탐지하지 못하는 신파일러(금융거래 이력 부족자), 비정형 소득 패턴, 허위 정보 제출 시도 등을 AI가 탐지할 수 있도록 설계됐다. 이를 통해 금융기관이 대출 과정에서 겪는 리스크를 최소화하는 것은 물론, 더 많은 사람에게 대출 등 금융서비스를 제공하는 것을 목표로 한다.
+최근 어니스트AI는 렌딩인텔리전스를 제주은행에도 공급하기로 했다. 제주은행은 소상공인 대출, 직장인 신용대출, 신용카드 발급 등 주요 비대면 금융서비스에 렌딩인텔리전스를 적용한다. 이를 통해 제주은행은 각 상품의 리스크를 줄이는 동시에 보다 많은 고객에게 안정적이고 폭넓은 금융 기회를 제공할 수 있게 된다.
+어니스트AI는 솔루션을 구독형 소프트웨어(SaaS) 방식으로 제공해 금융기관이 초기 비용 부담 없이 최신 AI 기술을 활용할 수 있도록 했다. SaaS는 프로그램을 설치하지 않고 인터넷 접속만으로 사용하며, 사용 기간 동안 요금을 지불하는 방식이다.
+어니스트AI의 또 다른 AI 대출 플랫폼 '어니스트펀드'는 원래 저축은행을 기반으로 한 서비스다. 온라인투자연계금융업(온투업) 라이선스를 활용해 저축은행이 맡긴 대출 자산을 플랫폼을 통해 관리하는 방식으로 작동한다. 독자적으로 개발한 신용평가모델을 활용해 기존 금융권에서 소외된 중저신용자와 신파일러에게 대출 기회를 제공하고 있다. 특히 어니스트펀드에 AI 신용평가시스템 렌딩인텔리전스를 적용해 대출 심사부터 사후관리를 자동화해 서비스 경쟁력을 강화했다.
+최근에는 국내 대표 통신사 KT와 금융 AI 사업 확대를 위한 업무협약(MOU)을 체결했다. 이번 협약은 금융기관들이 필요로 하는 특화 솔루션을 고도화하기 위한 전략적 제휴다. 어니스트AI의 금융 특화 AI 기술과 KT의 AI·클라우드 인프라스트럭처, 데이터 인텔리전스 역량을 결합해 대출 심사, 리스크 평가, 사기 거래 탐지(FDS) 등 금융사에서 활용 가능한 AI 서비스를 공동 개발한다.
+향후 어니스트AI의 핵심 전략은 렌딩인텔리전스 구독 모델 확대에 있다. 현재 1금융권과의 추가 계약 체결을 앞두고 있다. 어니스트펀드 플랫폼 계약 확대 역시 중요한 수익원이다.
+2015년 서상훈 대표가 창업한 어니스트AI는 원래 '어니스트펀드'란 이름으로 시작한 회사다. 작년 사명에 AI를 넣으면서 AI 기술을 탑재한 금융회사로의 정체성을 강화하려는 모습을 보였다. 
+2021년 온라인투자연계금융업 등록 후 AI 기술을 기반으로 한 고도화된 개인 신용평가와 리스크 관리 솔루션 개발에 집중했으며, 2023년에 이번에 대상의 영예를 안겨준 렌딩인텔리전스 브랜드를 상용화하며 AI 금융 솔루션 시장에 바람을 일으켰다.
+현재 수출입은행과 글로벌 컨설팅사 AT커니 출신 석주환 부대표가 재무·경영관리를, 산업은행 출신 한명윤 부대표가 산업전략과 개발을 총괄하고 있다. 2021년에는 NICE평가정보 출신 신윤제 소장을 영입해 인공지능연구소를 설립했다. 산업은행, 신한은행, KB인베스트먼트, 두나무앤파트너스 등에서 투자를 유치했으며, 누적 투자 유치액은 472억원이다.
+어니스트AI 측은 "기술 중심 핀테크로 최근 5년간 중점적으로 금융AI R&D에 투자한 결과 해당 분야의 압도적인 경쟁력을 대외적으로 인정받고 있다"고 말했다. 
+[김혜란 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[기존 신용평가 시스템의 사각지대를 보완하는 각종 정보를 인공지능(AI)을 통해 찾아내는 솔루션 '렌딩인텔리전스(Lending Intelligence)'를 개발·공급하는 핀테크 회사 '어니스트AI'가 '매경 핀테크 어워드 2025'에서 대상을 수상했다.
+렌딩인텔리전스는 금융기관의 여신 비즈니스 프로세스에 탑재돼 리스크를 측정하고 수익성을 예측해 의사결정을 좀 더 잘할 수 있게 돕는다. 
+다양한 AI 모델을 활용해 기존 신용평가모델(CSS)이 탐지하지 못하]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK300199</code_id>
+<code_nm><![CDATA[테마기획]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00402</middle_code_id>
+<middle_code_nm><![CDATA[기획·연재]]></middle_code_nm>
+<small_code_id>MK300199</small_code_id>
+<small_code_nm><![CDATA[테마기획]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/21/20250821_01110202000002_L00.jpg]]></image_url>
+<image_caption><![CDATA['매경 핀테크 어워드 2025'에서 대상을 수상한 어니스트AI 임직원들이 기념사진을 찍고 있다.   어니스트AI]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11398367]]></article_url>
+</article>
+</saltlux>

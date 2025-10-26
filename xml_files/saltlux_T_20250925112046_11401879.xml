@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11401879</art_id>
+<art_year>2025</art_year>
+<art_no>605243</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-25 10:19:58</service_daytime>
+<title><![CDATA[[Business Inside] 전자로 불똥 튀는 삼성생명 회계 처리 논란]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>22</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-25 10:19:58</reg_dt>
+<mod_dt>2025-08-25 11:01:20</mod_dt>
+<art_org_class>MK500208</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[삼성생명이 보유한 삼성화재 지분 회계처리에 대한 논란이 이어지고 있다.
+지난 4월 삼성화재의 자사주 소각으로 최대주주 삼성생명의 지분율이 14.98%에서 15.43%로 늘어나며 삼성화재가 삼성생명 자회사로 편입됐다. 정치권과 업계 일부에선 “2023년부터 도입·시행 중인 새로운 국제회계기준(IFRS17)은 유배당보험계약에서 발생할 배당금은 미래의 배당금 현금흐름을 추정하고 할인율을 반영해 ‘지급의무가 확정되는 보험계약부채’로 측정하도록 요구하고 있다”며 삼성생명이 회계처리기준을 위반하고 있다고 주장해 왔다.
+이후 회계기준원 등에서 삼성화재를 회계기준상 삼성생명의 ‘관계사’로 보고 지분법을 적용해야 한다는 지적이 잇따랐다. 반면 삼성생명 측은 회계처리를 유지하면서 삼성생명 지분율이 20% 미만으로 요건에 미달할뿐더러 영향력 보유 사실도 명백하지 않다고 해명하고 있다.
+현재로서는 전자·화재 보유지분을 처분할 계획이 없기 때문에 유배당보험계약자들에게 지급해야 할 배당금이 없다는 설명이다.
+문제는 이 같은 논란이 국회에서 수년간 계류 중인 ‘삼성생명법’(보험업법 개정안)에 다시 힘을 싣고 있다는 점이다.
+개정안은 보험사가 보유한 계열사 주식·채권을 취득원가가 아닌 ‘시가’로 평가하고, 총 자산의 일정 비율 이상을 보유하지 못하도록 제한하는 내용을 담고 있다.
+현재 삼성생명은 총자산의 30% 이상을 삼성전자 주식으로 보유하고 있어, 법안이 통과될 경우 대규모 지분 매각이 불가피한 상황이다.
+[김병수 기자]
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[삼성생명이 보유한 삼성화재 지분 회계처리에 대한 논란이 이어지고 있다. 지난 4월 삼성화재의 자사주 소각으로 최대주주 삼성생명의 지분율이 14.98%에서 15.43%로 늘어나며 삼성화재가 삼성생명 자회사로 편입됐다. 정치권과 업계 일부에선 “2023년부터 도입·시행 중인 새로운 국제회계기준(IFRS17)은 유배당보험계약에서 발생할 배당금은 미래의 배당금 현]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK500208</code_id>
+<code_nm><![CDATA[Business Strategy]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK500208</small_code_id>
+<small_code_nm><![CDATA[Business Strategy]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11401879]]></article_url>
+</article>
+</saltlux>

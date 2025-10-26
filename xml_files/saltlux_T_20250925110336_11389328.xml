@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11389328</art_id>
+<art_year>2025</art_year>
+<art_no>568220</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-09 08:15:57</service_daytime>
+<title><![CDATA[슈퍼컴 개발팀 해체한 머스크, 믿는 구석은?…삼성전자-테슬라 밀월 깊어지나]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[이덕주 기자(mrdjlee@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-09 08:15:57</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100305</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/09/news-p.v1.20250808.b11f6aae2de244118f23c7f20560b8ec_P1.png' alt=' 테슬라가 개발해 2021년 공개한 도조칩. &lt;사진=테슬라&gt;'>
+일론 머스크가 이끄는 전기차업체 테슬라가 자율주행을 위한 슈퍼컴퓨터 ‘도조’(Dojo) 팀을 해체하기로 하면서 삼성전자와 협력 관계가 더 깊어질 전망이다.
+7일 블룸버그는 익명 관계자를 인용해 도조 팀을 이끌던 피터 배넌이 테슬라를 떠나기로 했고, 머스크가 이 팀의 폐지를 명령했다고 전했다. 블룸버그에 따르면 도조 팀은 최근 새로 설립된 AI 스타트업 ‘덴서티(Density)AI’에 약 20명의 인력을 빼앗긴 상태로 남아있는 팀원들도 테슬라 내부의 다른 데이터센터·컴퓨터 프로젝트에 재배치되고 있다.
+블룸버그는 향후 테슬라가 컴퓨팅 분야에서 직접 반도체를 설계하기보다는 엔비디아, AMD와 협력을 강화하고 제조에서는 삼성전자에 대한 의존도가 높아질 것으로 예상했다.
+도조는 테슬라가 자체 설계한 슈퍼컴퓨터로, 주행 보조 소프트웨어인 오토파일럿과 완전자율주행(FSD·Full Self-Driving), 휴머노이드 로봇 옵티머스를 지원하는 머신러닝 모델을 학습시키는데 사용됐다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/09/news-p.v1.20250808.83c3caaedb8f4b97a316cdecec03152c_P1.jpg' alt=' 공사중인 삼성전자 테일러 팹.'>
+최근 삼성전자 파운드리가 수주한 AI6는 차량과 로봇에 탑재되는 칩으로 도조와는 다른 제품이다. 도조 팀 해체로 사실상 두 반도체가 통합될 것이라는 관측이 나오는 이유다.
+업계에서는 테슬라의 도조 팀 해체로 설계를 비롯한 광범위한 영역에서 삼성전자와 두 회사의 협력이 강화될 수도 있다고 본다. 현재 파운드리는 단순히 제조만을 하는 것이 아니라 고객의 설계팀과 많은 소통을 하면서 함께 개발하는 형태이기 때문이다.
+애플이 TSMC와 협력을 통해서 크게 성장했던 것처럼 테슬라와 삼성전자도 함께 성장할 수 있다는 설명도 나온다. 테슬라에게도 외부 협력사가 점점 중요해지는 상황에서 삼성이 테슬라의 빈자리를 채워줄 수 있다는 얘기다.
+한 반도체 업계 관계자는 “기존에는 파운드리가 공정과 제조만 공용화 했다면 앞으로 파운드리는 설계도 공용화하는 모습으로 진화하고 있다”면서 “삼성이 설계부분을 오래해온 역량이 있기 때문에 테슬라와 협력할 수 있는 분야가 많을 것”이라고 설명했다.
+[이덕주 기자]
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[일론 머스크가 이끄는 전기차업체 테슬라가 자율주행을 위한 슈퍼컴퓨터 ‘도조’(Dojo) 팀을 해체하기로 하면서 삼성전자와 협력 관계가 더 깊어질 전망이다. 7일 블룸버그는 익명 관계자를 인용해 도조 팀을 이끌던 피터 배넌이 테슬라를 떠나기로 했고, 머스크가 이 팀의 폐지를 명령했다고 전했다. 블룸버그에 따르면 도조 팀은 최근 새로 설립된 AI 스타트업 ‘덴]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100305</code_id>
+<code_nm><![CDATA[전기·전자·통신]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100305</small_code_id>
+<small_code_nm><![CDATA[전기·전자·통신]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/09/news-p.v1.20250808.b11f6aae2de244118f23c7f20560b8ec_P1.png]]></image_url>
+<image_caption><![CDATA[ 테슬라가 개발해 2021년 공개한 도조칩. &lt;사진=테슬라&gt;]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/09/news-p.v1.20250808.83c3caaedb8f4b97a316cdecec03152c_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 공사중인 삼성전자 테일러 팹.]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11389328]]></article_url>
+</article>
+</saltlux>

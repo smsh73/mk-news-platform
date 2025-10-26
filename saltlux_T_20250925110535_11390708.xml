@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11390708</art_id>
+<art_year>2025</art_year>
+<art_no>572179</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-11 15:27:16</service_daytime>
+<title><![CDATA[메가존클라우드, 차세대 AI 서비스 플랫폼 ‘에어 스튜디오’ 출시]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[안선제 기자(ahn.sunje@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-11 15:27:16</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250811.f682795b39a941748d9657cc97c9a9f5_P1.jpg' alt=' [사진 = 메가존클라우드]'>
+메가존클라우드가 기업 전반의 인공지능(AI) 활용을 통합적으로 관리하고 확장할 수 있는 엔터프라이즈 AI 서비스 플랫폼 ‘에어 스튜디오(AIR Studio)’를 출시했다고 11일 밝혔다.
+에어 스튜디오는 최신 AI 기술과 모델을 손쉽게 적용·교체할 수 있는 미래 지향적 아키텍처를 기반으로, 챗봇·에이전트·문서 자동화·검색 기반 질의응답 등 다양한 기능을 단일환경에서 제공하는 AI 서비스 플랫폼이다.
+에어 스튜디오는 기업들이 AI를 전사적으로 도입하는 과정에서 직면한 핵심 과제를 해결하는 데 초점을 맞춰 개발됐다. 이제까지 AI 관련 기술의 빠른 변화로 많은 비용을 투입해 도입한 기술이 곧 구형이 되는 문제, 조직 내 활용 현황 실시간 파악의 어려움과 거버넌스 부재, 비효율적인 라이선스 모델로 인한 비용 부담 등이 그것이다.
+에어 스튜디오는 기술 발전을 고려한 미래 대응형 유연성, 엔터프라이즈급 거버넌스와 컴플라이언스, 사용량(토큰) 기반 과금체계, 워크플로우 통합 자동화, 개인·팀 맞춤형 지식 베이스, 실시간 AI 활용 분석 등으로 이같은 문제를 선제적으로 해결했다고 회사는 강조했다.
+에어 스튜디오는 아마존웹서비스(AWS) 베드록, 구글클라우드플랫폼(GCP) 버텍스 AI, 에저 오픈AI 등 현재 서비스되고 있는 주요 AI 서비스는 물론, 향후 등장할 신기술을 손쉽게 통합·교체할 수 있다. 또 권한 제어, 데이터 보안, 사용 정책 등을 단일 콘솔에서 통합 관리할 수도 있도록 했다.
+또한 사용자 단위가 아닌 실제 사용량 기반의 과금체계로 AI 관련 서비스를 사용하는 만큼만 비용이 발생하도록 함으로써 비용 효율을 높였다.
+이밖에도 표준 템플릿과 에이전트를 활용한 리서치 보고서 작성 및 문서 자동화 업무 프로세스에 에이전트를 즉시 연결해 쓸 수 있도록 했고, 문서를 업로드해 벡터 데이터베이스(DB)에 저장함으로써 맥락 있는 맞춤형 AI 응답을 제공하는 기능도 갖추고 있다. 관리자 기능도 고도화해 부서별·역할별·사용자별 AI 사용 현황을 한눈에 파악할 수 있도록 실시간으로 시각화해 제공한다.
+메가존클라우드 공성배 최고인공지능책임자(CAIO)는 “에어 스튜디오는 빠른 기술 변화 속에서도 안정적으로 AI를 도입하고, 실제 업무 혁신과 비용 효율화를 동시에 달성할 수 있는 플랫폼”이라며 “앞으로도 확장성과 유연을 기반으로 더욱 강력한 플랫폼으로 발전시켜나갈 것”이라고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[메가존클라우드가 기업 전반의 인공지능(AI) 활용을 통합적으로 관리하고 확장할 수 있는 엔터프라이즈 AI 서비스 플랫폼 ‘에어 스튜디오(AIR Studio)’를 출시했다고 11일 밝혔다. 에어 스튜디오는 최신 AI 기술과 모델을 손쉽게 적용·교체할 수 있는 미래 지향적 아키텍처를 기반으로, 챗봇·에이전트·문서 자동화·검색 기반 질의응답 등 다양한 기능을 단]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250811.f682795b39a941748d9657cc97c9a9f5_P1.jpg]]></image_url>
+<image_caption><![CDATA[ [사진 = 메가존클라우드]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11390708]]></article_url>
+</article>
+</saltlux>

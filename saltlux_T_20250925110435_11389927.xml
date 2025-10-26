@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11389927</art_id>
+<art_year>2025</art_year>
+<art_no>569871</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-10 17:54:53</service_daytime>
+<title><![CDATA[SKT "일상·산업현장서 쓰기 좋은 AI 만들 것"]]></title>
+<sub_title><![CDATA[김태윤 파운데이션 모델 담당<br>성능 지표보단 실용성에 방점<br>韓 맞춤 설계로 기술주권 확보]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김규식 기자(dorabono@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250811</pub_date>
+<pub_edition>16</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>16</pub_page>
+<reg_dt>2025-08-10 17:54:54</reg_dt>
+<mod_dt>2025-08-10 19:16:09</mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/11/20250811_01160116000003_L00.jpg' alt='김태윤 SK텔레콤 파운데이션 모델 담당이 한국형 AI 모델 개발 계획을 설명하고 있다. SK텔레콤'>
+
+"지표를 통해 성능이 좋다고 알리는 방식으로 가지 않겠다. 실제 이용자가 써보고 괜찮다고 평가하도록 실용성에 방점을 찍겠다." 김태윤 SK텔레콤 파운데이션 모델 담당(부사장)이 최근 매일경제와 인터뷰하면서 인공지능(AI) 모델 경쟁의 기준을 수치가 아닌 실제 사용 경험에 두겠다며 이같이 밝혔다.
+SK텔레콤은 네이버클라우드, 업스테이지, NC AI, LG AI연구원과 함께 정부의 '독자 AI 파운데이션 모델' 정예팀 5곳 중 하나로 선정됐다. 김 부사장은 "단기간에 세계 최고 성능을 따라잡기는 쉽지 않지만 국내 산업과 일상에서 '한국형 AI가 더 낫다'는 평가를 받을 수 있는 영역은 충분히 많다"고 말했다. SK텔레콤 컨소시엄에는 크래프톤, 포티투닷, 리벨리온, 라이너, 셀렉트스타, 서울대, KAIST 등이 참여한다. 이들은 텍스트뿐 아니라 이미지, 음성, 비디오 등 다양한 형태의 데이터를 통합적으로 처리할 수 있는 '옴니모달' 기술을 적용할 예정이다.
+특히 SK텔레콤은 올해 하반기부터 차세대 AI 구조인 '포스트 트랜스포머' 연구에 착수한다. 트랜스포머는 대형 언어모델의 기본 구조로, GPT·라마 등 대부분의 모델이 이 방식을 따른다. 포스트 트랜스포머는 연산량이 많아 전력 소모가 크고 긴 문맥 처리나 여러 형태의 정보 결합에 한계가 있다는 지적을 받던 트랜스포머와 달리 연산 효율을 높이고 전력 사용을 줄이는 것이 특징이다. 전문가들은 이 구조의 개발이 소버린AI 구현의 핵심이라고 본다. 설계 단계에서부터 독자성을 확보해야만 성능, 보안, 서비스 방향을 전적으로 통제할 수 있다는 지적이다. 김 부사장은 "포스트 트랜스포머를 제시한 것은 기존 구조를 벗어나는 수준의 연구도 선행적으로 하겠다는 것"이라며 "컨소시엄에 서울대, KAIST에서 머신러닝을 담당했던 내로라하는 교수진이 함께하는 만큼 구조를 바꿔보는 선행 연구도 진행할 것"이라고 설명했다.
+SK텔레콤의 목표는 모델 성능과 서비스 확산이다. SK그룹의 제조·에너지·바이오·반도체 현장에 AI를 적용하고, 기업과 소비자 간 거래(B2C) 서비스 '에이닷'을 비롯해 크래프톤 게임과 포티투닷 모빌리티 서비스 등에 모델을 탑재한다. 고객센터 상담 자동화, 보고서 작성 지원, 산업 공정 분석·모니터링 등 현장에서 바로 체감할 수 있는 활용을 확산하겠다는 계획이다. 
+[김규식 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA["지표를 통해 성능이 좋다고 알리는 방식으로 가지 않겠다. 실제 이용자가 써보고 괜찮다고 평가하도록 실용성에 방점을 찍겠다." 김태윤 SK텔레콤 파운데이션 모델 담당(부사장)이 최근 매일경제와 인터뷰하면서 인공지능(AI) 모델 경쟁의 기준을 수치가 아닌 실제 사용 경험에 두겠다며 이같이 밝혔다.
+SK텔레콤은 네이버클라우드, 업스테이지, NC AI, LG AI연구원과 함께 정부의 '독자 AI 파운데이션 모델' 정예팀 5곳 중 하나로 선정됐다. 김 부사장은]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/11/20250811_01160116000003_L00.jpg]]></image_url>
+<image_caption><![CDATA[김태윤 SK텔레콤 파운데이션 모델 담당이 한국형 AI 모델 개발 계획을 설명하고 있다. SK텔레콤]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11389927]]></article_url>
+</article>
+</saltlux>

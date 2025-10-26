@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11386338</art_id>
+<art_year>2025</art_year>
+<art_no>560314</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-06 10:24:47</service_daytime>
+<title><![CDATA[비트코인 L2 ‘루트스탁’...“3분기 접근성 확장에 집중”]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[최근도 기자(recentdo@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-06 10:24:47</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100502</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/06/news-p.v1.20250806.8f03c564a34d46078567566ed8208f04_P1.png' alt=''>
+비트코인 기반 디파이(DeFi, 탈중앙화금융) 레이어 루트스탁이 2025년 로드맵을 공개했다.
+루트스탁은 이번 3분기에 접근성 확장에 집중할 예정이다.
+대표적으로 루트스탁은 달러 기반 스테이블코인 테더(USDT)를 옴니체인 형식으로 지원하는 USDT0를 통합했다.
+옴니체인은 서로 다른 블록체인 네트워크들이 마치 하나의 시스템처럼 상호작용하고 데이터를 주고받을 수 있도록 하는 기술이다.
+USDT는 이더리움, 트론 등 특정체인에서 발행되는데, USDT0는 여러체인에서 활용된다.
+이외에도 ▲ 브릿지 인프라 고도화 ▲ 네트워크 확장성 강화 ▲ BTCFi 렌딩 스택 구현이 3분기의 주요 계획으로 꼽혔다.
+루트스탁은 이를 통해 브릿지 경로를 단일 사용자 인터페이스(UI)로 묶어 이용자들의 자산 이동 과정을 간소화시킬 계획이다.
+루트스탁은 “올해 1분기에는 핵심 업그레이드와 크로스체인 상호운용성 도달, 2분기에는 BTC 수익 창출이라는 대표적인 성과가 있었다”고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[비트코인 기반 디파이(DeFi, 탈중앙화금융) 레이어 루트스탁이 2025년 로드맵을 공개했다. 루트스탁은 이번 3분기에 접근성 확장에 집중할 예정이다. 대표적으로 루트스탁은 달러 기반 스테이블코인 테더(USDT)를 옴니체인 형식으로 지원하는 USDT0를 통합했다. 옴니체인은 서로 다른 블록체인 네트워크들이 마치 하나의 시스템처럼 상호작용하고 데이터를 주고받]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100502</code_id>
+<code_nm><![CDATA[시황]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100502</small_code_id>
+<small_code_nm><![CDATA[시황]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100514</code_id>
+<code_nm><![CDATA[펀드]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100514</small_code_id>
+<small_code_nm><![CDATA[펀드]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/06/news-p.v1.20250806.8f03c564a34d46078567566ed8208f04_P1.png]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11386338]]></article_url>
+</article>
+</saltlux>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11397240</art_id>
+<art_year>2025</art_year>
+<art_no>591439</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-19 15:12:53</service_daytime>
+<title><![CDATA[AWS “세계에서 가장 유용한 AI 에이전트 구축 장소될 것”]]></title>
+<sub_title><![CDATA[AWS 생성형 AI 및 보안 기술 전략 간담회
+손쉬운 에이전트 배포 돕는 ‘에이전트코어’
+마켓플레이스에서 AI 에이전트와 툴도 지원
+보안 최우선...국내 기업 구축 성과 사례 공개]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[안선제 기자(ahn.sunje@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-19 15:12:53</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">AWS 생성형 AI 및 보안 기술 전략 간담회<br>손쉬운 에이전트 배포 돕는 ‘에이전트코어’<br>마켓플레이스에서 AI 에이전트와 툴도 지원<br>보안 최우선...국내 기업 구축 성과 사례 공개</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/19/news-p.v1.20250819.071b85fe0eab488eaf818cdc215c7f5a_P1.png' alt=' 최영준 AWS 데이터 인공지능 스페셜리스트 솔루션즈아키텍트(SA) 리더가 19일 서울 역삼 센터필드에서 열린 ‘AWS 최신 생성형 AI 및 보안 기술 전략’ 간담회에서 아마존 베드록 에이전트코어에 대해 설명하고 있다. [사진 = 아마존웹서비스(AWS)]'>
+“아마존웹서비스(AWS)는 세계에서 가장 유용한 AI(인공지능) 에이전트를 구축하기 위한 최고의 장소가 되기 위해 노력하고 있습니다.”
+최영준 AWS 데이터 인공지능 스페셜리스트 솔루션즈아키텍트(SA) 리더는 19일 서울 역삼 센터필드에서 열린 ‘AWS 최신 생성형 AI 및 보안 기술 전략’ 간담회에서 이같이 밝혔다.
+그는 “신뢰할 수 있고 안전한 에이전트를 규모에 맞게 배포할 수 있도록 지원하고 있으며, 보안·신뢰성·운영 우수성의 강력한 기반을 결합해 모든 고객이 AWS의 AI 에이전트 비전에 접근할 수 있도록 집중하고 있다”고 강조했다.
+최 리더는 에이전트를 프로덕션 환경에 배포하는 것이 여전히 쉽지 않다는 현실을 지적하며, 이를 지원하기 위해 지난 7월 AWS 뉴욕 서밋에서 처음 공개된 ‘아마존 베드록 에이전트코어’를 소개했다.
+신규 베드록 에이전트코어는 ▲에이전트코어 런타임 ▲에이전트코어 게이트웨이 ▲에이전트코어 브라우저 ▲에이전트코어 코드인터프리터 ▲에이전트코어 아이덴티티 ▲에이전트코어 브라우저툴 ▲에이전트코어 옵저버빌리티 등으로 구성된다.
+이 중 에이전트코어 런타임은 동적 AI 에이전트와 툴을 프로덕션 환경에 손쉽게 배포하고 확장할 수 있도록 설계된 서버리스 런타임이다. 업계 최장 수준인 최대 8시간까지 실행되는 워크로드를 제공해, 다양한 유형의 에이전트를 안전하고 안정적으로 운영할 수 있게 한다.
+AWS는 또한 최근 마켓플레이스에서 AI 에이전트와 관련 툴 지원을 시작했다. 최 리더는 “에이전트 구축에는 다양한 기능이 필요하기 때문에 AWS 마켓플레이스를 통해 폭넓은 툴과 솔루션을 제공하고 있다”고 설명했다.
+현재 AWS 마켓플레이스에는 앤스로픽, 세일즈포스 등 글로벌 AI 기업뿐 아니라, 국내 기업인 업스테이지·센드버드·LG CNS도 참여하고 있다. 업스테이지는 엔터프라이즈급 문서 처리 솔루션을, 센드버드는 AI 기반 고객 서비스 솔루션을, LG CNS는 제약업계 특화 솔루션을 제공 중이다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/19/news-p.v1.20250819.abee461e153346db80226ef4382f3e43_P1.jpg' alt=' 신은수 AWS 수석 보안 전문 솔루션즈아키텍트가 19일 서울 역삼 센터필드에서 열린 ‘AWS 최신 생성형 AI 및 보안 기술 전략’ 간담회에서 AWS의 보안 전략에 대해 설명하고 있다. [사진 = 아마존웹서비스(AWS)]'>
+이어 발표를 맡은 신은수 AWS 수석 보안 전문 솔루션즈아키텍트는 “AWS는 항상 보안을 최우선 순위로 두고 있다”며 지난 6월 열린 연례 보안 콘퍼런스 ‘리인포스 2025’의 주요 내용을 공유했다.
+그는 생성형 AI 보안을 위해 ▲소비자용 앱 ▲기업용 앱 ▲사전 학습 모델 ▲파인튜닝 모델 ▲자체 학습 모델 등 5가지 스코프를 제시하며 “생성형 AI를 하나로 보지 말고 각각을 구분해 규제 준수, 개인정보 보호, 리스크 관리, 복원력 등을 검토해야 한다”고 강조했다. 또한 “AWS는 기존 위험 관리 프레임워크와 조달 체계를 기반으로 제3자 위험 평가를 수행한다”고 덧붙였다.
+AWS는 실제 보안 구축 사례로 빗썸과 연세의료원을 소개했다. 빗썸은 AWS 기반 자동화 보안 관리 시스템을 도입해 보안 점검 시간을 90% 이상 단축했으며, 연세의료원은 700만 건 이상의 환자 기록을 안전하게 보호하고 있다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[AWS 생성형 AI 및 보안 기술 전략 간담회 손쉬운 에이전트 배포 돕는 ‘에이전트코어’ 마켓플레이스에서 AI 에이전트와 툴도 지원 보안 최우선...국내 기업 구축 성과 사례 공개“아마존웹서비스(AWS)는 세계에서 가장 유용한 AI(인공지능) 에이전트를 구축하기 위한 최고의 장소가 되기 위해 노력하고 있습니다.” 최영준 AWS 데이터 인공지능 스페셜리스트 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/19/news-p.v1.20250819.071b85fe0eab488eaf818cdc215c7f5a_P1.png]]></image_url>
+<image_caption><![CDATA[ 최영준 AWS 데이터 인공지능 스페셜리스트 솔루션즈아키텍트(SA) 리더가 19일 서울 역삼 센터필드에서 열린 ‘AWS 최신 생성형 AI 및 보안 기술 전략’ 간담회에서 아마존 베드록 에이전트코어에 대해 설명하고 있다. [사진 = 아마존웹서비스(AWS)]]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/19/news-p.v1.20250819.abee461e153346db80226ef4382f3e43_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 신은수 AWS 수석 보안 전문 솔루션즈아키텍트가 19일 서울 역삼 센터필드에서 열린 ‘AWS 최신 생성형 AI 및 보안 기술 전략’ 간담회에서 AWS의 보안 전략에 대해 설명하고 있다. [사진 = 아마존웹서비스(AWS)]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11397240]]></article_url>
+</article>
+</saltlux>

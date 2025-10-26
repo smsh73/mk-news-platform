@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11403421</art_id>
+<art_year>2025</art_year>
+<art_no>610179</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-26 17:47:33</service_daytime>
+<title><![CDATA[AI칩 넘어 로봇 두뇌로…진격하는 엔비디아]]></title>
+<sub_title><![CDATA[로보틱스 칩 '젯슨 토르' 공개<br>LLM·시각 모델 동시에 구동<br>물리세계 이해·인간과 상호작용<br>휴머노이드부터 물류·의료까지<br>다양한 산업 로봇서 '두뇌' 역할]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[원호섭 기자(wonc@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250827</pub_date>
+<pub_edition>16</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>14</pub_page>
+<reg_dt>2025-08-26 17:47:33</reg_dt>
+<mod_dt>2025-08-26 19:23:23</mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/27/20250827_01160114000001_L00.jpg' alt=''>
+
+인공지능(AI) 칩 선두 주자인 엔비디아가 차세대 로보틱스 칩 모듈을 공개하며 로봇 시장 공략에 속도를 내고 있다. 공개한 제품은 인간형 로봇부터 물류·의료 자동화까지 다양한 산업 분야에서 '두뇌' 역할을 하는 것으로, '피지컬 AI' 시대를 앞당길 핵심 기술로 꼽힌다. 엔비디아는 이를 통해 AI 반도체를 넘어 로봇 생태계 전반을 아우르는 차세대 성장동력을 선점하겠다는 구상이다.
+엔비디아는 25일(현지시간) '로봇 두뇌'라고 명명한 로봇 칩 '젯슨 AGX 토르'를 출시한다고 밝혔다. 가격은 3499달러로, 개발자 패키지 형태로 제공돼 기업과 연구자가 시제품 제작에 활용할 수 있다. 양산 단계에서는 대량 생산에 최적화된 엔비디아의 로봇 칩인 '토르 T5000' 모듈을 도입할 수 있다. 개발 단계에서 검증한 소프트웨어와 아키텍처를 그대로 양산용 모듈에 적용할 수 있도록 한 것이다. 시제품에서 검증한 기술을 양산 단계에서도 그대로 이어 쓸 수 있도록 해 개발자 입장에서는 개발 기간과 비용을 크게 줄일 수 있게 됐다. 젯슨 토르는 엔비디아의 최신 그래픽처리장치(GPU) 아키텍처인 블랙웰을 기반으로 만들어졌다. 이전 세대보다 최대 7.5배 향상된 성능을 자랑할 뿐 아니라 128GB 메모리가 탑재돼 대규모언어모델(LLM)과 같은 AI를 로봇에서 직접 실행할 수 있다. 인터넷에 연결하지 않아도 사전 학습된 모델을 실행할 수 있어 현장에서 실시간 인식과 반응이 가능하다.
+엔비디아는 젯슨 토르가 제조, 물류, 운송, 의료, 농업, 유통 등 다양한 산업 로봇의 두뇌로 쓰일 수 있다고 설명했다. 미국 로봇 스타트업 피겨AI는 젯슨 토르를 채택해 다양한 환경에서 학습과 주변 환경 인식이 가능한 휴머노이드 로봇을 개발하고 있다. 보스턴다이내믹스와 어질리티로보틱스 등 주요 기업들이 엔비디아의 칩을 활용해 로봇을 개발하고 있으며 아마존로보틱스는 물류센터 자동화 로봇에 적용해 물류 효율화에 나서고 있다. 중장비 개발사인 캐터필러 또한 자율주행 기술에 젯슨 토르를 활용하고 있다.
+엔비디아는 로봇을 직접 제조하지 않는다. 대신 칩(두뇌)과 소프트웨어(신경망)를 제공해 로봇 산업의 핵심 인프라스트럭처를 장악하는 전략을 택했다. 이는 과거 마이크로소프트(MS)가 윈도 운영체제를 통해 PC 생태계를 지배했던 방식과 유사하다. 엔비디아는 이미 전 세계에 200만명이 넘는 개발자와 7000여 개 고객사를 확보하고 있으며 아이작(Isaac), 코스모스(Cosmos) 같은 소프트웨어 플랫폼을 통해 생태계를 확장하고 있다.
+젠슨 황 엔비디아 최고경영자(CEO)는 'CES 2025'에서 "AI가 실제 세계에서 움직이고 추론하는 피지컬 AI 시대로 들어섰다"며 "일반 로보틱스에서도 곧 챗GPT처럼 혁신적인 순간이 올 것"이라고 예고했다. 이후 엔비디아는 자율주행과 로보틱스 부문을 통합해 칩과 플랫폼을 결합한 AI 인프라 구축에 집중하고 있으며 장기적으로 수억 대의 로봇과 자율주행차를 엔비디아 생태계 위에서 운용해 나가는 계획을 추진하고 있다.
+이를 위해 엔비디아는 올해 피지컬 AI를 위한 첫 파운데이션 모델인 '코스모스'와 추론 능력이 더해진 '아이작 GR00T'를 내놨다. 코스모스가 카메라와 센서로 들어온 데이터를 분석해 세상을 이해하는 역할을 한다면, 아이작 GR00T는 이를 기반으로 행동 계획을 세우고 움직이게 하는 모델이다.
+엔비디아는 파운데이션 모델을 통해 로봇 개발에 필요한 소프트웨어 시장에 진출한 데 이어 이날 발표한 젯슨 토르를 통해선 로봇 내부에서 모델을 실시간으로 실행할 수 있도록 하면서 로봇 개발에 필요한 전 주기를 장악해 나가고 있다. 로봇 사업은 엔비디아 전체 매출액에서 차지하는 비중이 약 1%에 불과하지만 빠르게 성장하고 있다. 엔비디아의 자동차 및 로보틱스 부문은 올해 2~4월에 전년 동기 대비 72% 늘어난 5억6700만달러의 매출액을 올렸다. 
+[실리콘밸리 원호섭 특파원]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[인공지능(AI) 칩 선두 주자인 엔비디아가 차세대 로보틱스 칩 모듈을 공개하며 로봇 시장 공략에 속도를 내고 있다. 공개한 제품은 인간형 로봇부터 물류·의료 자동화까지 다양한 산업 분야에서 '두뇌' 역할을 하는 것으로, '피지컬 AI' 시대를 앞당길 핵심 기술로 꼽힌다. 엔비디아는 이를 통해 AI 반도체를 넘어 로봇 생태계 전반을 아우르는 차세대 성장동력을 선점하겠다는 구상이다.
+엔비디아는 25일(현지시간) '로봇 두뇌'라고 명명한 로봇 칩 '젯슨 AG]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/27/20250827_01160114000001_L00.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11403421]]></article_url>
+</article>
+</saltlux>

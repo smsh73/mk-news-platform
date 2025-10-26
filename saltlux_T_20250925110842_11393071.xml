@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11393071</art_id>
+<art_year>2025</art_year>
+<art_no>579339</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-13 16:56:11</service_daytime>
+<title><![CDATA[“직원에 최대 수십억원 보너스”…퇴사 막으려는 이 회사의 ‘민심 잡기’]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김태성 기자(kts@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-13 16:56:11</reg_dt>
+<mod_dt>2025-08-13 18:30:39</mod_dt>
+<art_org_class>MK101501</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/13/news-p.v1.20250626.decd18e71d1943d99dcc3cb425025896_P1.jpg' alt=' 샘 올트먼 오픈AI CEO'>
+최근 잇따른 인재 유출로 골머리를 앓고 있던 오픈AI가 직원들에게 최대 수십억원에 달하는 보너스를 당근으로 내세우며 사내 민심 잡기에 나섰다.
+13일 더버지 등 외신에 따르면 오픈AI는 최근 자사의 최신 인공지능(AI) 모델 ‘GPT-5’ 출시 전날 직원들에게 최대 수백만달러(수십억원) 수준의 특별 보너스를 지급했다. 지급 대상은 연구·개발 인원 1000여명으로, 오픈AI 전체 직원의 3분의 1 규모다.
+보너스는 직무와 직급에 따라 다르게 적용되는데, GPT-5 개발에 헌신한 연구원은 최고 수백만달러까지 보너스를 받는 것으로 알려졌다.
+지급 방식은 현금 또는 오픈AI 주식 가운데 고를 수 있으며 앞으로 2년간 분기별로 나눠 제공된다.
+샘 올트먼 최고경영자(CEO)는 지난 7일 사내 메신저 슬랙을 통해 임직원들에게 “범용인공지능(AGI) 구축을 위한 직원들의 훌륭한 노고에 감사한다”며 “오픈AI는 시장 흐름에 맞춰 기술팀 보상 체계를 재검토해왔으며 회사로서 점점 더 나아지는 모습을 보여주면서 보상도 계속 늘려갈 계획”이라고 밝혔다.
+업계에서는 이번 오픈AI가 파격 보상에 나선 명목은 GPT-5 출시이지만, 실제로는 메타 등 경쟁사로 빠져나가는 AI 인재를 붙잡기 위한 목적이 크다고 보고 있다.
+실제 최근 ‘초지능 연구소’를 설립한 메타는 인간을 뛰어넘는 AI 개발을 목표로 오픈AI와 애플 등에서 10명 이상의 인재를 영입했다. 영입을 위해 메타가 제시한 보상은 최고 2억 달러 이상에 달하는 것으로 알려졌다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[최근 잇따른 인재 유출로 골머리를 앓고 있던 오픈AI가 직원들에게 최대 수십억원에 달하는 보너스를 당근으로 내세우며 사내 민심 잡기에 나섰다. 13일 더버지 등 외신에 따르면 오픈AI는 최근 자사의 최신 인공지능(AI) 모델 ‘GPT-5’ 출시 전날 직원들에게 최대 수백만달러(수십억원) 수준의 특별 보너스를 지급했다. 지급 대상은 연구·개발 인원 1000여]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101501</code_id>
+<code_nm><![CDATA[모바일]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101501</small_code_id>
+<small_code_nm><![CDATA[모바일]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101504</code_id>
+<code_nm><![CDATA[인터넷/SNS]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101504</small_code_id>
+<small_code_nm><![CDATA[인터넷/SNS]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/13/news-p.v1.20250626.decd18e71d1943d99dcc3cb425025896_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 샘 올트먼 오픈AI CEO]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11393071]]></article_url>
+</article>
+</saltlux>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11404766</art_id>
+<art_year>2025</art_year>
+<art_no>614282</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-28 09:58:18</service_daytime>
+<title><![CDATA[‘하이브플랫폼’, 파트너십 강화…시장 점유율 ‘up’]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>60</media_code>
+<writers><![CDATA[안희찬 게임진 기자(chani@mkinternet.com)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-28 09:58:18</reg_dt>
+<mod_dt>2025-08-28 15:12:27</mod_dt>
+<art_org_class>GM900207</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/28/news-p.v1.20250828.5f8e4b912b6946db83997a33f5884cac_P1.jpg' alt='‘하이브플랫폼’'>
+컴투스플랫폼(대표 최석원)은 게임 백엔드 서비스 ‘하이브플랫폼’이 국내외 주요 게임사들과 파트너십을 강화하며 시장 점유율을 높여가고 있다고 28일 밝혔다.
+최근 ‘하이브플랫폼’의 성과는 다양한 파트너사들의 신작 라인업을 통해 드러나고 있다.
+중견 게임사 플레이위드의 MMORPG ‘씰M’은 하이브플랫폼을 탑재해 28일 서비스를 시작했다.
+태국 최대 퍼블리셔로 꼽히는 해피툭의 기대작 ‘고고! 스카이’도 이달 27일 하이브플랫폼을 통해 론칭하는 등 글로벌 네트워크 역시 강화되고 있다.
+넥써쓰의 MMORPG ‘로한2’는 하이브플랫폼을 탑재해 오는 10월 출시를 목표로 하고 있다.
+넵튠의 신작 ‘다크스타’ 또한 하이브플랫폼을 적용하기 위해 협의하고 있다.
+파트너사인 플레이위드 관계자는 “하이브플랫폼을 도입하며 콘텐츠 외적인 부분은 신경쓰지 않고, 게임의 핵심 재미를 구현하는 데 개발 역량을 집중할 수 있었다”며 “덕분에 공수가 줄어 전체적인 업무 효율이 향상되었고, 결과적으로 개발 기간을 단축하는 효과를 보았다”고 말했다.
+하이브플랫폼은 컴투스플랫폼의 게임 백엔드 서비스다.
+인증, 빌링, 애널리틱스, 웹상점, 보안 등 필수 기능을 하나의 SDK와 통합 관리 페이지로 제공해 게임사가 핵심 콘텐츠 개발에만 집중할 수 있도록 한다.
+이는 개발과 운영 업무의 효율을 높여 출시 일정을 단축하고 수익을 향상시키도록 돕는다. 현재까지 250개 이상의 게임이 하이브플랫폼을 적용했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[컴투스플랫폼(대표 최석원)은 게임 백엔드 서비스 ‘하이브플랫폼’이 국내외 주요 게임사들과 파트너십을 강화하며 시장 점유율을 높여가고 있다고 28일 밝혔다. 최근 ‘하이브플랫폼’의 성과는 다양한 파트너사들의 신작 라인업을 통해 드러나고 있다. 중견 게임사 플레이위드의 MMORPG ‘씰M’은 하이브플랫폼을 탑재해 28일 서비스를 시작했다. 태국 최대 퍼블리셔로]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>GM900207</code_id>
+<code_nm><![CDATA[이슈앤]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>GM900207</small_code_id>
+<small_code_nm><![CDATA[이슈앤]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/28/news-p.v1.20250828.5f8e4b912b6946db83997a33f5884cac_P1.jpg]]></image_url>
+<image_caption><![CDATA[‘하이브플랫폼’]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11404766]]></article_url>
+</article>
+</saltlux>

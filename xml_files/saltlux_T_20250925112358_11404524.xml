@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11404524</art_id>
+<art_year>2025</art_year>
+<art_no>613463</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-27 19:25:43</service_daytime>
+<title><![CDATA[“북한 IT 인력, 악의적 활동 우려”…한미일 공동성명 발표]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[한수진 매경 디지털뉴스룸 기자(han.sujin@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-27 19:25:43</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100701</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/27/news-p.v1.20250827.569afb1186cf47fd8d5dc6df1fd7d00d_P1.jpg' alt=' [사진 출처 = 연합뉴스]'>
+한국·미국·일본 3국이 북한 정보통신(IT) 인력의 악의적 활동에 우려를 표하고 대응 강화를 다짐하는 공동성명을 발표했다.
+한미일 3국은 이날 발표한 성명에서 “북한은 안전보장이사회 결의를 위반해 세계 각지에 IT 인력을 파견, 수익을 창출하고, 이를 불법 대랑살상무기(WMD) 및 탄도미사일 개발 자금으로 활용하고 있다”며 “북한 IT 인력의 진화하는 악의적 활동에 심각한 우려를 표한다”고 밝혔다.
+그러면서 “북한 IT 인력은 가짜 신분과 위치로 위장하기 위해 AI(인공지능) 기술을 활용, 해외 조력자와 협력 등 다양한 수법을 사용한다”며 “이들은 숙련된 IT 기술에 대한 수요를 활용해 북미, 유럽, 동아시아 등에서 점점 더 많은 고객으로부터 프리랜서 고용 계약을 수주하고 있다”고 지적했다.
+이어 “북한 IT 인력들은 악의적 사이버 활동에 직접 관여하는 경우도 많으며, 이는 특히 블록체인 업계에서 빈번하다”며 “북한 IT 인력을 고용, 지원하거나 이들에게 일감을 하청주는 것은 지적재산·정보·자금 탈취뿐 아니라, 평판 손상 및 법적 결과 등 심각한 위험을 초래한다”고 경고했다.
+3국 정부는 그동안 북한 IT 인력 위협을 저지하기 위해 조율된 조치들을 시행해 왔다고 설명했다.
+일본은 이날 기존의 주의보를 업데이트해 북한 IT 인력들이 사용하는 새로운 수법에 대한 상세한 정보를 제공하고 민간 부문에 의도치 않게 북한 IT 인력을 고용·지원하거나 이들에 일감을 하청할 위험을 경감할 것을 권고했다.
+미국은 러시아, 라오스, 중국 등에서 북한의 IT 인력 활동에 기여하고 있는 4명의 단체 및 개인을 제재 대상으로 지정한다.
+한국은 관련 회사들이 표적이 되거나 피해를 입지 않도록 돕기 위해 북한 IT 인력 활동에 대한 주의보들을 발표한 바 있다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[한국·미국·일본 3국이 북한 정보통신(IT) 인력의 악의적 활동에 우려를 표하고 대응 강화를 다짐하는 공동성명을 발표했다. 한미일 3국은 이날 발표한 성명에서 “북한은 안전보장이사회 결의를 위반해 세계 각지에 IT 인력을 파견, 수익을 창출하고, 이를 불법 대랑살상무기(WMD) 및 탄도미사일 개발 자금으로 활용하고 있다”며 “북한 IT 인력의 진화하는 악의]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100701</code_id>
+<code_nm><![CDATA[정치일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00302</middle_code_id>
+<middle_code_nm><![CDATA[정치]]></middle_code_nm>
+<small_code_id>MK100701</small_code_id>
+<small_code_nm><![CDATA[정치일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100703</code_id>
+<code_nm><![CDATA[남북관계]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00302</middle_code_id>
+<middle_code_nm><![CDATA[정치]]></middle_code_nm>
+<small_code_id>MK100703</small_code_id>
+<small_code_nm><![CDATA[남북관계]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101003</code_id>
+<code_nm><![CDATA[국제산업]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101003</small_code_id>
+<small_code_nm><![CDATA[국제산업]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/27/news-p.v1.20250827.569afb1186cf47fd8d5dc6df1fd7d00d_P1.jpg]]></image_url>
+<image_caption><![CDATA[ [사진 출처 = 연합뉴스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11404524]]></article_url>
+</article>
+</saltlux>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11388676</art_id>
+<art_year>2025</art_year>
+<art_no>566681</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-08 11:55:20</service_daytime>
+<title><![CDATA[에프앤자산평가, 서울대 KDT와 AI 금융정보 자동화 시스템 개발협력]]></title>
+<sub_title><![CDATA[LLM과 OCR 결합해 비정형 문서 발행정보 추출]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[정재원 기자(jeong.jaewon@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-08 11:55:20</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100503</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">LLM과 OCR 결합해 비정형 문서 발행정보 추출</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/08/news-p.v1.20250808.bec9e4000e3c438290507251dde43ea5_P1.png' alt=' 에프앤자산평가'>
+채권평가사 에프앤자산평가가 서울대학교 KDT(K-Digital Training) 교육과정의 ‘캡스톤 프로젝트’에 참여해 인공지능(AI)을 활용한 금융정보 자동화 시스템을 개발했다고 8일 밝혔다.
+서울대 빅데이터연구원이 주관하고 고용노동부가 지원하는 KDT 교육과정은 ‘빅데이터 AI 핀테크 고급 전문가 과정’으로, 금융과 인공지능 분야를 선도할 데이터 사이언스 인재를 양성하는 국비 프로그램이다.
+이 과정의 마지막 단계인 캡스톤 프로젝트는 실제 기업 과제를 바탕으로 학생들이 최신 AI 기술과 데이터 분석 역량을 적용해 해결책을 제시하는 산학협력 프로그램이다.
+에프앤자산평가는 이번 프로젝트에서 대규모언어모델(LLM)과 광학문자인식(OCR)을 결합해 채권·파생상품 등 금융상품의 발행 및 거래정보를 자동으로 추출하는 시스템을 구축했다. 발행 및 거래정보란 발행일, 금액, 기관, 만기일, 이자율 등 금융 실무의 핵심 데이터를 의미한다.
+그간 텀시트(투자계약서)는 발행사나 상품별로 형식이 상이하고, 스캔본 문서의 OCR 인식 오류 등으로 인해 단순 규칙 기반의 자동화가 어려운 상황이었다. 이에 에프앤자산평가는 LLM의 맥락 이해 능력과 OCR 기술을 융합해 비정형 문서에서도 필요한 정보를 식별·추출하는 방식으로 해결책을 모색했다.
+에프앤자산평가는 “이번 프로젝트를 통해 금융 실무에 AI 기술을 접목할 수 있는 가능성을 확인했다”며 “향후 자연어처리(NLP), 컴퓨터비전(CV) 등 핵심 기술 역량을 고도화해 관련 사업 영역을 확장할 계획”이라고 밝혔다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[LLM과 OCR 결합해 비정형 문서 발행정보 추출채권평가사 에프앤자산평가가 서울대학교 KDT(K-Digital Training) 교육과정의 ‘캡스톤 프로젝트’에 참여해 인공지능(AI)을 활용한 금융정보 자동화 시스템을 개발했다고 8일 밝혔다. 서울대 빅데이터연구원이 주관하고 고용노동부가 지원하는 KDT 교육과정은 ‘빅데이터 AI 핀테크 고급 전문가 과정’으]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100503</code_id>
+<code_nm><![CDATA[기업정보]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100503</small_code_id>
+<small_code_nm><![CDATA[기업정보]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/08/news-p.v1.20250808.bec9e4000e3c438290507251dde43ea5_P1.png]]></image_url>
+<image_caption><![CDATA[ 에프앤자산평가]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11388676]]></article_url>
+</article>
+</saltlux>

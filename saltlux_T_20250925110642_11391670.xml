@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11391670</art_id>
+<art_year>2025</art_year>
+<art_no>574930</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-12 14:24:20</service_daytime>
+<title><![CDATA[한컴위드 안면인증 솔루션, GS인증 획득]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김대기 기자(daekey1@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-12 14:24:20</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101501</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/12/news-p.v1.20250812.bf7978dcaafd4db6b8e604434174dd18_P1.jpg' alt=''>
+한컴그룹 계열사 한컴위드는 안면인증 솔루션 ‘한컴오스 v1.0’이 GS(Good Software) 인증 1등급을 획득했다고 12일 밝혔다.
+GS 인증은 소프트웨어의 품질을 국가 표준에 따라 검증하는 제도다. 공공기관이나 조달 시장에 진입할 때 필요한 기본 조건이다. 이 중 1등급은 기능 적합성, 성능 효율성, 신뢰성 등 8개 항목을 모두 충족해야 받을 수 있다.
+한컴오스 v1.0은 비대면 본인확인을 위한 안면인증·신원인증 솔루션이다. 사람 얼굴에서 5000개 이상의 특징점을 추출해 얼굴 패턴 등을 비교하는 방식으로, 오래된 사진이나 손상된 이미지에서도 높은 안면 인식 정확도를 제공한다.
+특히 미국 국립표준기술연구소(NIST)가 인정한 생체인식 테스트 전문기관(iBeta Quality Assurance)의 얼굴 위·변조 탐지 성능 평가(PAD)에서 최고 등급인 레벨 2 테스트를 통과했다.
+이를 통해 3D 프린터나 레진·라텍스 마스크 같은 고도화된 위조 수단도 걸러낼 수 있는 ‘패시브 라이브니스(Passive Liveness)’ 기술임을 공식 입증받았다. 패시브 라이브니스는 액티브 라이브니스와 달리 사용자에게 특정 행동을 요구하지 않고도 인공지능(AI)이 스스로 얼굴을 분석해 실제 사람인지 자동으로 판별해 편의성이 높고, 특정 행동의 예측 가능성에 대한 보안 허점을 제거해 높은 보안 수준을 제공하는 기술이다.
+송상엽 한컴위드 대표는 “AI 기술이 고도화되면서 안면 인증을 우회하는 시도가 국내외에서 늘고 있다”며 “한컴오스는 뛰어난 위변조 방지 기술을 갖춘 솔루션으로 안면인증 시장에서 경쟁력을 높여나갈 것”이라고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[한컴그룹 계열사 한컴위드는 안면인증 솔루션 ‘한컴오스 v1.0’이 GS(Good Software) 인증 1등급을 획득했다고 12일 밝혔다. GS 인증은 소프트웨어의 품질을 국가 표준에 따라 검증하는 제도다. 공공기관이나 조달 시장에 진입할 때 필요한 기본 조건이다. 이 중 1등급은 기능 적합성, 성능 효율성, 신뢰성 등 8개 항목을 모두 충족해야 받을 수 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101501</code_id>
+<code_nm><![CDATA[모바일]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101501</small_code_id>
+<small_code_nm><![CDATA[모바일]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/12/news-p.v1.20250812.bf7978dcaafd4db6b8e604434174dd18_P1.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11391670]]></article_url>
+</article>
+</saltlux>

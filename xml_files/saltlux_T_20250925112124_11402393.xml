@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11402393</art_id>
+<art_year>2025</art_year>
+<art_no>606856</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-25 17:21:06</service_daytime>
+<title><![CDATA[[매경이코노미스트] 차이나 스피드]]></title>
+<sub_title><![CDATA[이젠 中기업이 벤치마킹 대상<br>車 개발 기간 단축 등 관심 커<br>비결은 자동화·탄탄한 공급망<br>先개발·後품질개선 등에 있어<br>근로자들 긴 근무시간도 한몫]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250826</pub_date>
+<pub_edition>16</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>35</pub_page>
+<reg_dt>2025-08-25 17:21:06</reg_dt>
+<mod_dt>2025-08-25 19:54:34</mod_dt>
+<art_org_class>MK101302</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/26/20250826_01160135000001_M00.jpg' alt=''>
+
+가장 보편적인 경영 기법 중 하나는 벤치마킹이다. 이는 당면한 도전을 동종 업계의 선도 기업들은 어떻게 극복했는지, 이종 산업의 기업들은 어떻게 다루고 있는지를 고찰해 참고하는 것이다. 보통은 알고 싶은 내용들을 질문으로 정리하고 답을 구하는 방식으로 진행된다.
+요즘 많은 기업들의 벤치마킹 대상에는 동종이든 이종이든 특히 중국의 자동차, 전기전자 등 핵심 제조업 기업들이 다수 포함돼 있다. 주로 서방 기업들을 벤치마킹하던 시절이 불과 얼마 전이라 급격하게 성장한 중국 제조업의 위상을 절감할 수 있다.
+이들을 향한 질문은 대부분 압도적 스피드로 대변되는 개발 및 생산 효율성에 대한 것들이다. "어떻게 BYD 자동차는 개발 기간을 60개월에서 40개월로 단축할 수 있는가?" "어떻게 CATL은 제품 불량률을 PPM(100만대 기준의 불량률)에서 PPB(10억대 기준의 불량률)로 개선했나?" "어떻게 샤오미 스마트폰 공장은 3초에 한 대꼴로 제품 조립이 가능한가?" 등이다.
+이 같은 질문들에 대한 벤치마킹 결과를 종합하면 차이나 스피드에 대한 해답은 크게 세 부분으로 나눠 정리할 수 있다. 소위 다크 팩토리(Dark factory)라 불리는 절대적 수준의 자동화 실현, 경쟁력과 완결성을 겸비한 자국 내 하부 공급망의 구축, 그리고 제품 혁신 주기를 앞당기기 위해 개발 프로세스상의 위험을 감내하는 최소기능제품 접근방식(MVP·Minimum Viable Product approach)의 도입 등이 그것이다.
+우선 다크 팩토리를 구현하기 위해서는 인공지능(AI), 산업용 사물인터넷(IoT), 고성능 센서, 로봇, 디지털 트윈 등 기반 기술을 비용 효율적인 시스템으로 엮어 목적에 부합하는 완전 자율화된 공장 생태계를 설계할 수 있어야 한다. 주목할 점은 다양한 첨단 디지털 기반 기술들의 성숙도가 높고, 자국 내에 관련 부품의 공급망이 상당 부분 구축돼 자동화 관련 비용이 상대적으로 저렴하다는 것이다. 게다가 서방 업체들이 성능이 차별화된 완성도 높은 제품을 지향하며 핵심 부품에 대해서는 설계와 생산을 내재화하고, 제품 콘셉트 유효성 테스트에 많은 시간을 할애했다면, 중국 업체들은 이미 공급망에서 구할 수 있거나 개발 중인 부품을 기반으로 제품을 설계함으로써 부품 업체들을 완제품 개발에 깊이 관여하게 한다.
+특히 개발 제품의 콘셉트 유효성을 테스트하는 기간을 기존 서구 방식 대비 50% 이하로 줄여서, 제품 출시 후 발생할 수 있는 품질 리스크를 사전 방지하기보다는 사후 관리하는 방식을 취하고 있다. 이를 통해 중국 제조업체들이 압도적인 스피드로 신제품을 시장에 출시하고 단기에 다양한 제품 구색을 갖추는 데 성공한 것은 사실이다.
+그러나 첨단기술 시설 및 제품일수록 품질 비용에 대한 부담이 커서 당장의 비용 및 가격보다 총소유비용(TCO) 경쟁력이 중요한데 이에 대한 우려와 함께, 저임금 제조업 노동자들의 긴 오버타임 근무시간을 차이나 스피드의 핵심 요인 중 하나로 보는 견해도 상당해서, 차이나 스피드의 지속 가능성에 의구심이 있는 것 역시 사실이다.
+모든 핵심 제조업 영역에서 우리와 경쟁하고 있는 중국 기업들은 지정학적 갈등은 차치하더라도 앞서 설명한 의구심의 해소 없이 해외 선진 시장으로의 대거 진출은 단기적 어려움을 겪을 수 있다. 하지만 세계 최대 시장 중 하나인 중국 내수 시장만큼은 이들이 철벽 방어를 하고 있다. 향후 우리 기업들의 장기적 시장 지위를 방어하기 위해서라도, 우리 기업들의 중국 시장 공략은 필수적이며 중국 제조업에 대한 심도 있는 이해가 선행돼야 한다.
+[이수성 롤랜드버거 대표이사]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[가장 보편적인 경영 기법 중 하나는 벤치마킹이다. 이는 당면한 도전을 동종 업계의 선도 기업들은 어떻게 극복했는지, 이종 산업의 기업들은 어떻게 다루고 있는지를 고찰해 참고하는 것이다. 보통은 알고 싶은 내용들을 질문으로 정리하고 답을 구하는 방식으로 진행된다.
+요즘 많은 기업들의 벤치마킹 대상에는 동종이든 이종이든 특히 중국의 자동차, 전기전자 등 핵심 제조업 기업들이 다수 포함돼 있다. 주로 서방 기업들을 벤치마킹하던 시절이 불과 얼마 전이라 급격하]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101302</code_id>
+<code_nm><![CDATA[오피니언]]></code_nm>
+<large_code_id>3</large_code_id>
+<large_code_nm><![CDATA[오피니언]]></large_code_nm>
+<middle_code_id>30002</middle_code_id>
+<middle_code_nm><![CDATA[사외칼럼]]></middle_code_nm>
+<small_code_id>MK101302</small_code_id>
+<small_code_nm><![CDATA[오피니언]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/26/20250826_01160135000001_M00.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11402393]]></article_url>
+</article>
+</saltlux>

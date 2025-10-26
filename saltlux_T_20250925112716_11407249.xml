@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11407249</art_id>
+<art_year>2025</art_year>
+<art_no>621589</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-31 22:40:50</service_daytime>
+<title><![CDATA[“AI가 관리하고 로봇이 생산”…7초에 1대씩 착착 완성되는 ‘LG가전의 심장’]]></title>
+<sub_title><![CDATA[LG전자 창원 부품솔루션 공장 현장 르포
+
+냉장고·세탁기용 ‘인버터 DD모터’
+영하40도~영상100도 극한 시험
+1억3000만대 누적 생산 기록
+
+2300건 특허로 내재화 전략 강화
+가전 넘어 B2B 시장 확장 가속]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[박소라 기자(park.sora@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-31 22:40:50</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100301</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">LG전자 창원 부품솔루션 공장 현장 르포<br><br>냉장고·세탁기용 ‘인버터 DD모터’<br>영하40도~영상100도 극한 시험<br>1억3000만대 누적 생산 기록<br><br>2300건 특허로 내재화 전략 강화<br>가전 넘어 B2B 시장 확장 가속</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/31/news-p.v1.20250829.5d1ce99f4d444299b47fa293dabed36f_P1.jpg' alt=' LG전자 창원 공장에서 컴프레서가 생산되고 있다. [LG전자]'>
+지난 28일, 한여름 뜨거운 햇볕이 내리쬐던 경남 창원산업단지 한복판. LG전자 창원 부품솔루션 공장에서는 7초마다 1대씩 ‘가전의 심장’이라 불리는 ‘인버터 DD모터’가 만들어지고 있었다. 세탁기와 냉장고·에어컨 등에 들어가는 LG전자 가전제품의 핵심 동력이다.
+모터 생산라인에 들어서자 사람보다 기계가 먼저 눈에 띄었다. 로봇이 50㎏에 달하는 부품을 들어 올리고, 머리카락처럼 가늘고 날카로운 구리선을 정밀하게 감아 넣는다. 완성된 모터는 자동화 레일을 따라 포장 구역으로 이동한다. 현장에서 만난 이원용 LG전자 모터사업실장은 “자동화를 도입한 이유는 직원을 줄이려는 게 아니라 품질을 항상 일정하게 유지하기 위한 것”이라고 강조했다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/31/news-p.v1.20250831.6ec664eaf1574ee6a6452e6e3b9657f5_P1.jpg' alt=' LG전자가 개발한 DD(DIRECT DRIVE)모터가 상반기 기준 1억 3000만대를 돌파했다. 경남 창원에 위치한 모터 생산 라인에서 세탁기, 건조기용 DD 모터가 생산되는 모습.'>
+실제로 LG전자는 일관된 제품 품질 유지를 위해 핵심 부품 생산 공정에 인공지능(AI)을 도입했다. AI는 방대한 생산 데이터를 학습해 현재의 효율은 물론 향후 생산성 변화와 원재료 추가 투입에 따른 생산량 증감까지 예측한다. 모터의 경우 하나의 라인에서 여러 제품이 혼류 생산되기 때문에 딥러닝 AI가 외관 이미지를 보고 실시간으로 품질을 판별해 불량품을 걸러낸다. 컴프레서 기준으로는 생산 공정의 80%, 품질검사 과정의 90% 이상을 AI가 담당한다. 매일 수십만 개의 부품이 불량 없이 출하될 수 있는 배경이다.
+이어지는 품질 검증 과정은 ‘혹독하다’는 표현이 어울린다. 모터는 영하 40도에서 영상 100도까지 140도의 극한 온도차를 견뎌야 하고, 열대우림 이상의 고온다습한 환경에서도 정상 작동해야 한다. 소음검사실에서는 지진처럼 건물이 흔들리는 상황 속에서도 도서관보다 조용한 20데시벨(㏈) 이하로 돌아가야 합격이다. 단순히 소리의 크기만 보는 것이 아니라 주파수, 진동, 공진 현상까지 꼼꼼히 살핀다. LG전자 관계자들은 “소비자가 쓰는 환경보다 훨씬 더 가혹한 조건에서 검증해야 불량이 없다”고 입을 모았다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/31/news-p.v1.20250831.b621de3ffd2e4091b09b31493653a76a_P2.jpg' alt=''>
+이처럼 품질 향상에 힘쓴 결과는 수치로 드러난다. 지금까지 생산된 LG전자 인버터 DD모터는 누적 1억3000만대, 리니어 컴프레서는 1억대를 돌파했다. 그동안 생산된 DD모터에 감긴 전선을 모두 이으면 무려 3000만㎞, 지구와 달을 40회 이상 왕복할 수 있는 거리다.
+핵심 부품이 많이 생산됐다는 건 그만큼 LG전자 가전제품이 많이 팔렸다는 의미다. 실제로 LG전자는 2021년부터 2024년까지 4년 연속 연평균 10%가 넘는 매출 성장률을 기록할 정도로 가전 사업에서 꾸준한 성장세를 이어갔다.
+LG전자에서는 1998년 DD모터 상용화를 시작으로 2010년대에는 리니어 컴프레서와 인버터 DD모터가 등장하며 성능과 효율을 동시에 끌어올렸다. 최근 개발된 AI DD모터는 무게·습도·섬유 종류, 나아가 사용 습관까지 학습해 세탁·건조 강도를 자동 조절하는 등 스스로 사용자가 원하는 대로 움직이는 맞춤 제어 단계로 진입했다. LG전자는 이를 건조기에 먼저 적용해 옷감 수축을 줄이는 데 성공했고 앞으로는 냉장고·식기세척기·공기청정기까지 활용 범위를 넓혀갈 계획이다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/31/news-p.v1.20250831.235f5b3ea5164d228398af33b30eb9cb_P1.jpg' alt=' LG전자가 개발한 DD(DIRECT DRIVE)모터가 상반기 기준 1억 3000만대를 돌파했다. 경남 창원에 위치한 모터 생산 라인에서 세탁기, 건조기용 DD 모터가 생산되는 모습.'>
+창원에서 개발·생산된 모터와 컴프레서는 본격 상업용 기기 시장에서도 존재감을 키우고 있다. 북미 냉난방공조(HVAC)용 스크롤 컴프레서, 상업용 세탁기 ‘LG 프로페셔널’ 라인업이 대표적이다. LG전자는 최근 칠러, 상업용 냉각시스템 등 대형 HVAC에 사용되는 스크롤 컴프레서 생산을 위한 A7 라인을 신설했고 HVAC 제품군의 실내기와 실외기에 모두 사용되는 ECM 모터도 개발해 본격적으로 생산하기 시작했다.
+LG전자 관계자는 “모터·컴프레서 관련 특허만 2300건을 보유하고 있다”며 “일본 파나소닉, 중국 마이디어와 함께 핵심 부품을 직접 설계·생산할 수 있는 몇 안 되는 기업이라는 점에서 큰 의미가 있다”고 설명했다.
+이원용 실장은 “LG전자는 늘 남들이 하지 않는 미래 기술을 준비한다”며 “핵심 부품을 스스로 설계하고 검증하는 역량이야말로 글로벌 시장에서 차별화된 경쟁력을 만드는 힘”이라고 강조했다.
+<div style="margin: 30px 0;padding: 20px;background: #f3f3f3;font-size: 17px;display:block;">■ 용어 설명
+▶▶ 인버터 DD모터 : DD는 ‘Direct Drive’의 줄임말로 모터가 벨트·풀리 등 추가 부품 없이 세탁조 등에 직접 연결돼 동력 손실을 줄이는 방식이다. 인버터(Inverter)는 모터 회전 속도를 전자 제어 장치로 세밀하게 조절하는 기술로 인버터 DD모터는 인버터 제어 기술을 적용한 직결 구동 모터다.
+</div>
+[창원 = 박소라 기자]
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[LG전자 창원 부품솔루션 공장 현장 르포  냉장고·세탁기용 ‘인버터 DD모터’ 영하40도~영상100도 극한 시험 1억3000만대 누적 생산 기록  2300건 특허로 내재화 전략 강화 가전 넘어 B2B 시장 확장 가속지난 28일, 한여름 뜨거운 햇볕이 내리쬐던 경남 창원산업단지 한복판. LG전자 창원 부품솔루션 공장에서는 7초마다 1대씩 ‘가전의 심장’이라 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100301</code_id>
+<code_nm><![CDATA[기업 경영]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100301</small_code_id>
+<small_code_nm><![CDATA[기업 경영]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100305</code_id>
+<code_nm><![CDATA[전기·전자·통신]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100305</small_code_id>
+<small_code_nm><![CDATA[전기·전자·통신]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/31/news-p.v1.20250829.5d1ce99f4d444299b47fa293dabed36f_P1.jpg]]></image_url>
+<image_caption><![CDATA[ LG전자 창원 공장에서 컴프레서가 생산되고 있다. [LG전자]]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/31/news-p.v1.20250831.6ec664eaf1574ee6a6452e6e3b9657f5_P1.jpg]]></image_url>
+<image_caption><![CDATA[ LG전자가 개발한 DD(DIRECT DRIVE)모터가 상반기 기준 1억 3000만대를 돌파했다. 경남 창원에 위치한 모터 생산 라인에서 세탁기, 건조기용 DD 모터가 생산되는 모습.]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/31/news-p.v1.20250831.b621de3ffd2e4091b09b31493653a76a_P2.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/31/news-p.v1.20250831.235f5b3ea5164d228398af33b30eb9cb_P1.jpg]]></image_url>
+<image_caption><![CDATA[ LG전자가 개발한 DD(DIRECT DRIVE)모터가 상반기 기준 1억 3000만대를 돌파했다. 경남 창원에 위치한 모터 생산 라인에서 세탁기, 건조기용 DD 모터가 생산되는 모습.]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11407249]]></article_url>
+</article>
+</saltlux>

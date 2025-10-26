@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11387836</art_id>
+<art_year>2025</art_year>
+<art_no>565002</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-07 17:19:35</service_daytime>
+<title><![CDATA[美 핸들없는 자율주행차 허가, 우리는 규제때문에 언감생심 [사설]]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250808</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>31</pub_page>
+<reg_dt>2025-08-07 17:19:35</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101301</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[미국 정부가 아마존 자회사 죽스(Zoox)의 자율주행차에 대해 안전기준 면제를 승인했다. 이에 따라 핸들 없는 자율주행 로보택시가 도로에서 시험운행을 할 수 있게 됐다. 한국에서라면 상상할 수도 없는 일이다. 미국과 중국은 경쟁적으로 자율주행 기술을 지원하면서 상업운행에 속도를 내고 있지만, 우리나라는 촘촘한 규제 탓에 경쟁에서 뒤처지고 있다. 자율주행 데이터를 축적하고 기술을 보완하려면 해외로 나가야 할 판이다. 자율주행차와 연관된 전후방 산업의 발전을 위해서라도 서둘러 규제 시스템을 뜯어고쳐야 한다.
+미국 언론에 따르면 도로교통안전국(NHTSA)은 6일 죽스의 자율주행 로보택시에 대한 안전인증을 완료했다. 기존 안전 규정을 벗어나 핸들과 페달 없이 설계된 로보택시 시험 운행이 가능해진 것이다. 현재 미국과 중국에서는 레벨4 수준의 자율주행차가 상업운전을 하고 있다. 비상 상황에서도 자율주행 시스템이 스스로 상황을 인지하고 대처한다. 미국은 구글의 웨이모와 테슬라가 레벨4 기반 로보택시를 운영 중이며, 중국도 베이징과 상하이 등 주요 도시에서 무인택시 수천 대가 돌아다니고 있다. 이들보다 늦었다는 일본 역시 레벨4 자율주행을 위한 도로교통법 개정을 완료하고, 올해 40여 개 지역에서 로보택시 운행을 시작할 계획이다.
+우리나라는 운전자가 반드시 탑승해야 하는 레벨3 수준의 자율주행 단계에 머물러 있다. 시범구역 안에서 제한된 시간에만 운행할 수 있는데, 그마저 수십 대에 불과하다. 자율주행차 상업화에 뒤처진 데는 도로인프라, 보험체계 등의 미비도 있지만 규제의 영향이 크다. 중국은 데이터를 쌓기 위해 시행착오를 무릅쓰고 도로주행을 허가한다면, 한국은 기업들이 기술을 개발해도 도로에서 적용하고 개선할 기회를 갖기 어렵다. 이래서는 자율주행 경쟁에서 살아남을 수 없다. 인공지능(AI), 빅데이터 등 자율주행 연관 기술도 미국, 중국을 따라가기에 벅찰 것이다. 안전도를 과학적으로 판단하되, 도전을 북돋는 방향으로 규제시스템을 전환해야 한다. 그런 게 바로 적극행정이다.]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[미국 정부가 아마존 자회사 죽스(Zoox)의 자율주행차에 대해 안전기준 면제를 승인했다. 이에 따라 핸들 없는 자율주행 로보택시가 도로에서 시험운행을 할 수 있게 됐다. 한국에서라면 상상할 수도 없는 일이다. 미국과 중국은 경쟁적으로 자율주행 기술을 지원하면서 상업운행에 속도를 내고 있지만, 우리나라는 촘촘한 규제 탓에 경쟁에서 뒤처지고 있다. 자율주행 데이터를 축적하고 기술을 보완하려면 해외로 나가야 할 판이다. 자율주행차와 연관된 전후방 산업의 발전]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101301</code_id>
+<code_nm><![CDATA[사설]]></code_nm>
+<large_code_id>3</large_code_id>
+<large_code_nm><![CDATA[오피니언]]></large_code_nm>
+<middle_code_id>30001</middle_code_id>
+<middle_code_nm><![CDATA[사설]]></middle_code_nm>
+<small_code_id>MK101301</small_code_id>
+<small_code_nm><![CDATA[사설]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11387836]]></article_url>
+</article>
+</saltlux>

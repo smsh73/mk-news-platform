@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11382968</art_id>
+<art_year>2025</art_year>
+<art_no>549813</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-01 13:20:16</service_daytime>
+<title><![CDATA[한동훈 “민주당 정권, 국장 탈출 유도하나…세금 인상 정책 줄줄이”]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[이상현 매경 디지털뉴스룸 기자(lee.sanghyun@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-01 13:20:16</reg_dt>
+<mod_dt>2025-08-01 14:01:21</mod_dt>
+<art_org_class>MK100701</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/01/news-p.v1.20250801.23f6911eadef4b879adc8114852424b7_P1.jpg' alt=' 한동훈 전 국민의힘 대표. [사진 출처 = 연합뉴스]'>
+한동훈 전 국민의힘 대표는 1일 정부를 향해 “조삼모사처럼 전국민에게 세금으로 돈 나눠주고, 그 돈은 국장(국내 증시) 투자자들에게 세금으로 뜯어가겠다는 것”이라고 비판했다.
+한 전 대표는 이날 사회관계망서비스(SNS)를 통해 “민주당 정권은 국장 코스피 5000 시대 공언해 놓고, 정반대로 ‘국장 탈출’을 유도하는 주식양도세 과세 대상 확대, 증권거래세 인상 같은 세금 인상 정책들을 줄줄이 내놓고 있다”며 이같이 밝혔다.
+그는 “증권거래세는 투자자에게 이익이 안 난도 매번 주식 팔 때마다 내는 통행세”라며 “자본의 국경이 없어진 상황에서 국내 증권시장의 경쟁상대인 미국 증권시장에는 이런 증권거래세가 없다. 그러니 국장의 매력을 상대적으로 더 떨어트리는 조치”라고 말했다.
+이어 “민주당 정권 계획대로 증권거래세를 인상하면 국장 투자자들의 세금 부담도 늘지만, 특히 거래 빈도가 잦은 청년·소액투자자들 부담이 커진다”며 “거래량이 줄어 주가 하락 압력이 커지게 된다. 특히 미국 관세협정으로 국내 증시 부담이 커진 상황에서 애꿎은 청년·소액투자자들이 피해를 입을 수 있다”고 설명했다.
+그러면서 “민주당 정권은 국장 탈출을 유도하려는 게 아니라면 지금같이 투자자들이 불안해하는 시점에서 증권거래세 인상하고 주식양도세 과세 확대하면 안 된다”고 촉구했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[한동훈 전 국민의힘 대표는 1일 정부를 향해 “조삼모사처럼 전국민에게 세금으로 돈 나눠주고, 그 돈은 국장(국내 증시) 투자자들에게 세금으로 뜯어가겠다는 것”이라고 비판했다. 한 전 대표는 이날 사회관계망서비스(SNS)를 통해 “민주당 정권은 국장 코스피 5000 시대 공언해 놓고, 정반대로 ‘국장 탈출’을 유도하는 주식양도세 과세 대상 확대, 증권거래세 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100701</code_id>
+<code_nm><![CDATA[정치일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00302</middle_code_id>
+<middle_code_nm><![CDATA[정치]]></middle_code_nm>
+<small_code_id>MK100701</small_code_id>
+<small_code_nm><![CDATA[정치일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100706</code_id>
+<code_nm><![CDATA[국회]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00302</middle_code_id>
+<middle_code_nm><![CDATA[정치]]></middle_code_nm>
+<small_code_id>MK100706</small_code_id>
+<small_code_nm><![CDATA[국회]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100707</code_id>
+<code_nm><![CDATA[정당]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00302</middle_code_id>
+<middle_code_nm><![CDATA[정치]]></middle_code_nm>
+<small_code_id>MK100707</small_code_id>
+<small_code_nm><![CDATA[정당]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/01/news-p.v1.20250801.23f6911eadef4b879adc8114852424b7_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 한동훈 전 국민의힘 대표. [사진 출처 = 연합뉴스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11382968]]></article_url>
+</article>
+</saltlux>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11384771</art_id>
+<art_year>2025</art_year>
+<art_no>555660</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-04 14:56:36</service_daytime>
+<title><![CDATA[‘통계국장 해고’로 가릴 수 없는 美 경제 위기음...트럼프 ‘이민 단속’이 통계 쇼크의 스모킹건  [★★글로벌]]]></title>
+<sub_title><![CDATA[경기침체 신호음 ‘일자리 지표’
+5~6월 수치 급락에 뿔난 트럼프
+통계 담당 국장 경질로 ‘물타기’
+
+집계 재조정은 추정 모델 때문
+순출생-사망 모델, 경기변동 때
+오차 확대···금융위기 때도 발생
+
+관세공포·이민 정책 불확실성에
+표본 기업서 고용 과대 추정 유력]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[이재철 기자(humming@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-04 14:56:36</reg_dt>
+<mod_dt>2025-08-05 01:17:52</mod_dt>
+<art_org_class>MK101001</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">경기침체 신호음 ‘일자리 지표’<br>5~6월 수치 급락에 뿔난 트럼프<br>통계 담당 국장 경질로 ‘물타기’<br><br>집계 재조정은 추정 모델 때문<br>순출생-사망 모델, 경기변동 때<br>오차 확대···금융위기 때도 발생<br><br>관세공포·이민 정책 불확실성에<br>표본 기업서 고용 과대 추정 유력</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/05/news-p.v1.20250804.b833c3e065c343fa81d2f5da13b60666_P1.jpeg' alt=' 트럼프 대통령 &lt;로이터 연합뉴스&gt;'>
+‘미국 일자리 수치 급감→분노한 트럼프, 통계 조작을 주장하며 통계국장 경질’.
+지금 미국 경제에 또 하나의 예능쇼가 벌어지고 있습니다.
+노동시장 활력이 떨어지고 있다는 침체 신호가 발생하자 도널드 트럼프 대통령이 담당 통계 공무원을 경질했습니다. 바이든 행정부에서 임명된 해당 공무원이 고용 통계를 의도적으로 나쁘게 손질해 자신의 경제 성과를 흠집 내려 한다는 주장입니다.
+결론부터 말하면 이는 미국 고용 통계를 뽑아내는 확률 통계 모델이 일으키는 기술적 문제이지 특정 공무원이 통계를 의도적으로 손질한 것은 아닙니다. 갑자기 악화한 고용 지표가 자신의 경제 실정으로 비춰지지 않도록 하려는 트럼프 특유의 ‘네탓’ 전략입니다.
+놀랍지 않게 미국 고용지표의 갑작스러운 급랭 상황은 이미 지난해 같은 패턴으로 발생한 바 있습니다. 당시에도 매일경제는 국내 매체 중 유일하게 왜 이런 통계 재조정이 일어나는지를 소개했습니다.(▶[단독] 내달 금리 빅컷 가능성, 美일자리 ‘10만명’ 붕괴 여부에 달렸다)
+지금 논란이 되는 숫자는 미국 고용시장 상황을 파악하는 데 가장 중요한 하드 데이터로 꼽히는 노동부의 월별 ‘비농업 일자리(NFP)’입니다.
+7월 들어 이 수치가 비정상적으로 시장 기대치를 밑돌았습니다.
+쉽게 풀자면 시장 전문가들은 7월 미국 전체 비농업 일자리가 전달보다 11개 정도 늘 것으로 예상했습니다. 그런데 지난주 노동부 발표 결과를 보니 7개에 불과했습니다.
+더 큰 충격은 노동부가 기존에 발표했던 5월과 6월 수치를 번복한 것입니다.
+14개였던 5월 일자리는 2개로, 15개였던 6월은 1개로 낮아졌습니다. 말도 안 되는 급락에 트럼프는 ‘통계 조작’이라고 주장하고 있는 것이죠.
+<img src='https://wimg.mk.co.kr/news/cms/202508/05/news-p.v1.20250804.de88ad7f30684dcf9faa0ecd700d708c_P1.jpg' alt=''>
+하지만 미 노동부는 이미 지난해에도 비슷하게 1년 치 데이터(2023년 4월~2024년 3월)를 대폭 손질한 바 있습니다. 이 구간에서 81만8000개의 일자리를 ‘신규 증가’로 발표했다가 다시 없던 일로 바꾼 것이죠.
+이는 일자리를 파악하는 방식이 미국 전체 기업과 공공기관을 대상으로 하지 않고 일부 대상을 추려 확률 기반 샘플링 방식으로 추정하기 때문입니다.
+약 14만개의 기업과 정부 기관이 이 샘플에 해당하며 이들이 현재 거느린 일자리를 응답하면 이 표본을 가지고 미국 전체 규모를 추정하는 것이죠.
+이렇게 1차 데이터(추정치)를 내놓고 이후 실제 시장에서 확인된 각 기업의 급여 데이터 변화를 반영해 업데이트된 결과를 내놓습니다.
+한 번 발표하고 끝나는 방식이 아니라 ‘추정치→잠정치→수정치(최종·매년 3월)’로 꾸준히 통계 업데이트가 이뤄지는 방식입니다.
+문제는 추정에 쓰이는 미 노동부의 ‘순출생-사망 모델(Net Birth-Death model)’이 경기 변동이 크지 않은 안정적 흐름 때와 달리 기업 신설과 폐업 등 시장 변동성이 커질 때 일자리를 과대 혹은 과소 추정하는 경향성이 나타난다는 점입니다.
+이 조사에 표본으로 들어간 기업이 얼마나 신속하고 성실하게 응답하느냐 여부도 괴리 수준을 키우는 이유로 꼽힙니다.
+미 노동부는 이 모델에 대해 “역사적 패턴과 관계에서 산출된 모델인 만큼 경제적 전환점이나 급격한 트렌드 변화 기간에는 정확한 추정치 산출에 어려움이 발생할 수 있다”고 한계를 인정하고 있습니다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/05/news-p.v1.20250804.efe4e059b13e4504bb0084c3c06f08c3_P1.jpg' alt=''>
+올해 5~6월 추정치가 잠정치로 바뀌는 과정에서 큰 괴리를 보인 것은 최소한 미국 고용시장에 ‘변동성’이 확대되고 있다는 게 순출생-사망 모델이 경험칙으로 보내는 경고 신호입니다.
+트럼프 2기 출범 후 대대적인 연방정부 해고 조치로 경제 조사에 투입되는 인력이 줄어든 것도 물가와 고용 데이터를 집계하는 연방정부 통계의 품질을 떨어뜨린 것으로 보입니다. 트럼프는 통계 국장을 해고하기에 앞서 통계의 신뢰와 가시성 수준을 망친 DOGE와 자신의 과오를 먼저 반성해야 하는 것이죠.
+특히 트럼프 행정부 출범 후 전방위적인 ‘이민자 단속’이 벌어졌다는 점에서 표본 기업들에서 발생한 고용 혼란과 지연된 응답 태도 등이 전체 일자리 추정에 혼란을 일으켰을 가능성이 큽니다.
+트럼프 대통령은 통계 조작을 주장하며 통계 담당 공무원을 경질했지만 미국 노동시장은 무리한 관세 정책이 일으키는 수요 둔화 위험과 이런 불확실성에 미리 대비하려는 기업들의 고용 축소 움직임, 그리고 이민자 단속으로 늘어난 일자리 공백과 고용주들의 혼란이 이례적인 통계 조정을 일으킨 것으로 보입니다.
+트럼프 정책이 유발하는 값비싼 청구서가 슬슬 경제 지표로 모습을 드러내고 있습니다. 급변동하는 지표가 금융시장에 패닉 셀링을 일으킬 수 있는 만큼 투자자들의 각별한 주의가 요구됩니다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/05/news-p.v1.20250804.ae3b21223c514f0dbdbec807a16b7665_P1.jpeg' alt=' 지난 6월 6일 미국 전역에서 트럼프 행정부의 폭압적 이민 단속에 반대하는 집회가 벌어진 가운데 로스앤젤레스 파라마운트 지역에서 한 시위자가 경찰의  최루가스 사이로 돌을 던지고 있다. &lt;ap 연합뉴스&gt;'>
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[경기침체 신호음 ‘일자리 지표’ 5~6월 수치 급락에 뿔난 트럼프 통계 담당 국장 경질로 ‘물타기’  집계 재조정은 추정 모델 때문 순출생-사망 모델, 경기변동 때 오차 확대···금융위기 때도 발생  관세공포·이민 정책 불확실성에 표본 기업서 고용 과대 추정 유력‘미국 일자리 수치 급감→분노한 트럼프, 통계 조작을 주장하며 통계국장 경질’. 지금 미국 경제]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101001</code_id>
+<code_nm><![CDATA[국제정치]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101001</small_code_id>
+<small_code_nm><![CDATA[국제정치]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101002</code_id>
+<code_nm><![CDATA[국제경제]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101002</small_code_id>
+<small_code_nm><![CDATA[국제경제]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/05/news-p.v1.20250804.b833c3e065c343fa81d2f5da13b60666_P1.jpeg]]></image_url>
+<image_caption><![CDATA[ 트럼프 대통령 &lt;로이터 연합뉴스&gt;]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/05/news-p.v1.20250804.de88ad7f30684dcf9faa0ecd700d708c_P1.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/05/news-p.v1.20250804.efe4e059b13e4504bb0084c3c06f08c3_P1.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/05/news-p.v1.20250804.ae3b21223c514f0dbdbec807a16b7665_P1.jpeg]]></image_url>
+<image_caption><![CDATA[ 지난 6월 6일 미국 전역에서 트럼프 행정부의 폭압적 이민 단속에 반대하는 집회가 벌어진 가운데 로스앤젤레스 파라마운트 지역에서 한 시위자가 경찰의  최루가스 사이로 돌을 던지고 있다. &lt;ap 연합뉴스&gt;]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11384771]]></article_url>
+</article>
+</saltlux>

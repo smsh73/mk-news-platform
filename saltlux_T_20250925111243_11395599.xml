@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11395599</art_id>
+<art_year>2025</art_year>
+<art_no>586632</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-18 07:42:11</service_daytime>
+<title><![CDATA[“가장 큰 걸림돌? 노조!”…경영학자들에게 ‘한국사회 AI 혁신’ 물어보니]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김동은 기자(bridge@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-18 07:42:11</reg_dt>
+<mod_dt>2025-08-28 13:30:39</mod_dt>
+<art_org_class>MK100305</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/28/news-p.v1.20250630.6a85f618e2434f13badbbb5cdf5b8a3a_P1.png' alt=' 인공지능 이미지. 연합뉴스'>
+한국에서 인공지능(AI) 확산에 걸림돌이 되는 조직으로 ‘노동조합’이 첫손에 꼽혔다. 한국의 AI 도입점수는 60~80점 수준으로 낙제를 간신히 면한 수준에 그치고 있다는 분석도 나왔다.
+‘제27회 한국경영학회 융합학술대회’를 하루 앞둔 17일 한국경영학회와 매일경제신문이 이러한 내용을 담은 설문조사 결과를 공개했다. 이번 조사는 지난달 22일부터 29일까지 국내 경영학 연구자 242명을 대상으로 진행했다. 경영학회 융합학술대회는 18일부터 사흘간 울산에서 열린다.
+설문조사 결과에 따르면 ‘AI 기술확산에 가장 걸림돌이 되는 집단이나 기관이 어디라고 생각하나’라는 질문에 응답자 중 31%(76명)가 ‘노조’라고 답했다. 이어 ‘정부(21%, 51명)’와 ‘경영진(21%, 51명)’이 뒤를 이었다.
+‘AI 발전으로 새롭게 생기는 일자리가 사라지는 일자리보다 많을 것으로 보는가’라는 질문에 경영학자들이 ‘사라지는 일자리가 많을 것’이라고 답한 비율과 ‘창출되는 일자리가 많을 것’이라고 답한 비율이 각각 37%로 동일했다. 한 경영학회 소속 교수는 “반복적 업무를 자동화하는 AI의 특성상 일자리 축소와 임금 하락 우려는 피할 수 없다”며 “하지만 노동을 지키는 길은 AI를 막는 것이 아니라 AI를 잘 쓰는 법을 제도화하는 일”이라고 말했다.
+‘한국의 AI 도입 및 확산 수준을 100점 만점 기준으로 점수를 매긴다면’이란 질문에 ‘71~80점’을 꼽은 응답자가 34%(83명)로 가장 많았고, ‘61~70점’이라고 답한 응답자가 33%(81명)였다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[한국에서 인공지능(AI) 확산에 걸림돌이 되는 조직으로 ‘노동조합’이 첫손에 꼽혔다. 한국의 AI 도입점수는 60~80점 수준으로 낙제를 간신히 면한 수준에 그치고 있다는 분석도 나왔다. ‘제27회 한국경영학회 융합학술대회’를 하루 앞둔 17일 한국경영학회와 매일경제신문이 이러한 내용을 담은 설문조사 결과를 공개했다. 이번 조사는 지난달 22일부터 29일까]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100305</code_id>
+<code_nm><![CDATA[전기·전자·통신]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100305</small_code_id>
+<small_code_nm><![CDATA[전기·전자·통신]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/28/news-p.v1.20250630.6a85f618e2434f13badbbb5cdf5b8a3a_P1.png]]></image_url>
+<image_caption><![CDATA[ 인공지능 이미지. 연합뉴스]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11395599]]></article_url>
+</article>
+</saltlux>

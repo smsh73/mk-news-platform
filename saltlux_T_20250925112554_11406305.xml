@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11406305</art_id>
+<art_year>2025</art_year>
+<art_no>619075</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-29 17:32:23</service_daytime>
+<title><![CDATA[[단독] S-Oil·코오롱인더 … 넥스트레이드서 거래 막히나]]></title>
+<sub_title><![CDATA[KRX대비 일평균 거래량<br>30% 초과해 현행법 못지켜<br>금융위 "중대성 따져 제재"]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김형주 기자(livebythesun@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250830</pub_date>
+<pub_edition>16</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>10</pub_page>
+<reg_dt>2025-08-29 17:32:23</reg_dt>
+<mod_dt>2025-08-29 20:01:14</mod_dt>
+<art_org_class>MK100509</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/30/20250830_01160110000002_L00.jpg' alt=''>
+
+국내 유일의 대체거래소(ATS)인 넥스트레이드(NXT)에서 자본시장법상 거래량 30% 초과 금지 규정을 어긴 종목이 4개에 달한 것으로 나타났다. 한국 증시에서 파죽지세로 거래 비중을 확대해온 NXT가 결국 출범 6개월 만에 현행법 상한 규정을 준수하지 못한 것이다.
+29일 매일경제신문이 코스콤 CHECK 단말기를 분석한 결과에 따르면 코오롱인더(44.4%), S-Oil(43.8%), 동국제약(37.4%), 와이지엔터테인먼트(37%) 등 4개 종목은 NXT의 첫 영업일인 지난 3월 4일부터 이달 28일까지 일평균 거래량이 한국거래소(KRX)의 30%를 넘어섰다. 
+자본시장법은 매월 말일을 기준으로 ATS에서 각 종목의 과거 6개월간 일평균 거래량이 KRX의 30%를 초과하면 안 된다고 규정한다. 
+금융위원회 관계자는 "검사를 통해 팩트를 확인한 뒤 그 동기와 중대성을 따져 금융위 보드를 통해 (제재를) 결정할 것"이라고 밝혔다. NXT는 지난 3월 4일 이들 4개사를 포함한 10개 종목으로 매매 체결을 시작했고, 거래 종목을 3월 17일 110개, 3월 24일 350개로 늘려 이달 28일 기준으로 766개가 거래되고 있다. 최초 10개 종목 중 컴투스(27.6%), 골프존(26.4%), 에스에프에이(24%), 롯데쇼핑(19.5%), 제일기획(13.9%), LG유플러스(12.8%) 등 나머지 6개는 29일까지 30%를 넘지 않을 것으로 보인다. '30%룰'은 위반했지만 NXT는 6개월간 전체 일평균 거래량이 KRX의 15%를 넘을 수 없다는 '15%룰'은 지키고 있다. 
+NXT는 지난 20일부터 79개 종목을 순차적으로 매매 체결 대상에서 제외하기 시작했다. 지난 3월 4일부터 이달 29일까지 일평균 거래량이 KRX의 15%를 초과하면 이튿날 모든 거래가 중단될 수 있기 때문이다.
+3월 4일~8월 28일 NXT 전체의 일평균 거래량은 KRX의 12.93%로 2.07%포인트 여유가 있다.
+[김형주 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[국내 유일의 대체거래소(ATS)인 넥스트레이드(NXT)에서 자본시장법상 거래량 30% 초과 금지 규정을 어긴 종목이 4개에 달한 것으로 나타났다. 한국 증시에서 파죽지세로 거래 비중을 확대해온 NXT가 결국 출범 6개월 만에 현행법 상한 규정을 준수하지 못한 것이다.
+29일 매일경제신문이 코스콤 CHECK 단말기를 분석한 결과에 따르면 코오롱인더(44.4%), S-Oil(43.8%), 동국제약(37.4%), 와이지엔터테인먼트(37%) 등 4개 종목은 N]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100509</code_id>
+<code_nm><![CDATA[증권계동향]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100509</small_code_id>
+<small_code_nm><![CDATA[증권계동향]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/30/20250830_01160110000002_L00.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11406305]]></article_url>
+</article>
+</saltlux>

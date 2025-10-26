@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11402918</art_id>
+<art_year>2025</art_year>
+<art_no>608668</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-26 11:18:11</service_daytime>
+<title><![CDATA[Korea’s auto tax revenue falls despite rising registrations]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-26 11:18:11</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK400102</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/26/news-p.v1.20250826.0dfcf34e445d4a6eb2d3ac2d60b932d4_P1.png' alt=' (Yonhap)'>
+South Korea’s automobile tax revenue has fallen about 1 trillion won ($719 million) below the average level over the past three years despite a surge in the number of registered vehicles.
+According to the National Assembly Budget Office on Monday, automobile revenue stood at 7.5 trillion won last year, down from a peak of 8.4 trillion won in 2021. Collections slipped to 7.3 trillion won in 2022 and 2023.
+Registered vehicles, on the other hand, increased by 2.4 percent in 2022, 1.7 percent in 2023, and 1.3 percent in 2024.
+The decline stems mainly from the government’s reduced flexible tax rate. The usage-based portion of the auto tax, which is linked to the transportation, energy, and environment tax, has been collected at a lower rate since November 2021.
+Growth in the ownership-based tax has also slowed. Its annual increase, which reached 4.8 percent in 2017, fell to 1.5 percent in 2022 and 2.4 percent in 2023. Ownership tax revenue edged up just 100 billion won to 4.5 trillion won last year.
+Another drag is the outdated ownership tax structure, which is still based on engine displacement. Passenger cars under 1,000 cc are taxed at 80 won per cc, those between 1,001 and 1,600 cc at 140 won, and those above 1,600 cc at 200 won.
+Electric vehicles and other models without measurable displacement pay a flat 100,000 won annually under rules introduced in 2012.
+This taxing structure has created regressive outcomes.
+A Tesla EV with a purchase price of 51.99 million won is taxed at only 100,000 won a year, while a Hyundai Avante priced around 28 million won is taxed at 223,720 won.
+Eco-friendly cars also pay little to no usage-based tax, even though they add to road wear and congestion. With such vehicles now reshaping the market, as domestic sales reached 73,511 units in May and accounted for 52 percent of new car sales, calls are mounting for tax reform.
+In the United States, 39 states imposed additional registration fees on eco-friendly cars as of May, with amounts varying by weight, price, or flat surcharges.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[South Korea’s automobile tax revenue has fallen about 1 trillion won ($719 million) below the average level over the past three years despite a surge in the number of registered vehicles. According to]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK400102</code_id>
+<code_nm><![CDATA[Economy]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00308</middle_code_id>
+<middle_code_nm><![CDATA[English]]></middle_code_nm>
+<small_code_id>MK400102</small_code_id>
+<small_code_nm><![CDATA[Economy]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/26/news-p.v1.20250826.0dfcf34e445d4a6eb2d3ac2d60b932d4_P1.png]]></image_url>
+<image_caption><![CDATA[ (Yonhap)]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11402918]]></article_url>
+</article>
+</saltlux>

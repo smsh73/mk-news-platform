@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11400482</art_id>
+<art_year>2025</art_year>
+<art_no>600886</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-22 14:52:56</service_daytime>
+<title><![CDATA[Smartphones deploy AI to block voice phishing]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-22 14:52:56</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK400109</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/22/news-p.v1.20250822.478874535d484965924f7fb24aa4405d_P1.gif' alt=' (Samsung Electronics)'>
+Smartphones are now equipped with artificial intelligence (AI) features that detect and block voice phishing attempts in real time.
+The technology, first introduced by Samsung Electronics Co. in its latest Galaxy Z Fold7 and Flip7, analyzes conversations with unknown callers and alerts users if fraud is suspected.
+For instance, a 40-year-old office worker preparing to move recently received a suspicious call from a supposed loan provider. As he hesitated, his phone vibrated with a yellow “voice phishing suspected” alert, followed moments later by a red warning reading “voice phishing detected,” prompting him to hang up immediately.
+When an unfamiliar number connects, the smartphone monitors the conversation in real time and issues two levels of alerts: yellow for suspicion and red when a scam attempt is confirmed.
+Samsung trained the system on more than 30,000 phishing cases provided by the National Police Agency and the National Forensic Service, enabling it to block both typical fraud tactics and new variations. The feature requires no separate app installation and can be activated in the default phone app settings. The company plans to expand it to all Galaxy devices running One UI 8 or later.
+Samsung is also strengthening defenses against spam text messages.
+In September 2024, it introduced a “malicious message blocking” function in cooperation with the Korea Communications Commission and the Korea Internet & Security Agency (KISA). Beginning with the Galaxy S25 series in March, the company added an upgraded “intelligence blocking” feature, which uses AI trained on about 5 million monthly reports to automatically filter suspicious texts on-device. By last month, the feature had intercepted more than 100 million messages.
+Other measures include displaying a “safe mark” on texts from KISA-certified companies and flagging unknown calls with warnings such as “suspected spam” or “possible scam call.”
+Kim Jung-sik, executive vice president of Samsung’s MX business division, said the company will continue to strengthen anti-phishing and spam-blocking technologies to provide Galaxy users with a more secure mobile environment.
+Apple Inc., meanwhile, is set to release its own scam-prevention feature this fall with iOS 26. Unlike Samsung’s real-time detection, Apple’s system pre-screens unknown calls: the iPhone answers first, asks the caller for details, and transcribes the response into text for the user to review. If the screen shows a message like “I am calling about a tax refund,” the user can simply press “end” without speaking.
+The feature also applies to text messages, routing spam from unknown numbers into a separate folder that automatically deletes after 90 days.
+Industry experts noted that while Samsung is actively deploying AI for real-time detection, Apple is taking a more cautious approach by filtering communications before users engage.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[Smartphones are now equipped with artificial intelligence (AI) features that detect and block voice phishing attempts in real time. The technology, first introduced by Samsung Electronics Co. in its l]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK400109</code_id>
+<code_nm><![CDATA[Bio&Tech]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00308</middle_code_id>
+<middle_code_nm><![CDATA[English]]></middle_code_nm>
+<small_code_id>MK400109</small_code_id>
+<small_code_nm><![CDATA[Bio&Tech]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/22/news-p.v1.20250822.478874535d484965924f7fb24aa4405d_P1.gif]]></image_url>
+<image_caption><![CDATA[ (Samsung Electronics)]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11400482]]></article_url>
+</article>
+</saltlux>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11389898</art_id>
+<art_year>2025</art_year>
+<art_no>569851</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-10 17:45:41</service_daytime>
+<title><![CDATA[삼성이 이끈 韓美 드림팀, AI 보안대회 1등]]></title>
+<sub_title><![CDATA[총상금 300억원 놓고 겨루는 美주최 '사이버 챌린지' 우승<br>김태수 삼성리서치 상무 총괄<br>조지아공대·KAIST·포스텍 등<br>연구자 40여명으로 원팀 꾸려<br>인간의 개입없이 AI 기술로만<br>소프트웨어 보안 취약점 막아<br>3위 '티오리'도 한미 연합팀]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[이덕주 기자(mrdjlee@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250811</pub_date>
+<pub_edition>16</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>29</pub_page>
+<reg_dt>2025-08-10 17:45:41</reg_dt>
+<mod_dt>2025-08-11 11:28:30</mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/11/20250811_01160129000002_L00.jpg' alt='김태수 삼성리서치 상무(맨 뒷줄 왼쪽 여섯째)이 이끈 '팀 애틀랜타'가 'AI 사이버 챌린지' 우승 기념 사진을 찍고 있다.   삼성전자'>
+
+삼성전자와 한국·미국 대학 연구자들로 구성된 팀이 미국 정부가 주최한 사이버 보안 대회에서 우승했다. 한국 기업과 연구자들의 보안 분야 역량을 보여준다는 설명이다.
+삼성전자, 조지아공과대, KAIST와 포스텍의 연구자 40여 명으로 구성된 '팀 애틀랜타'는 8일 미국 라스베이거스에서 열린 '인공지능(AI) 사이버 챌린지' 결승전에서 우승을 거뒀다.
+AI 사이버 챌린지는 미국 국방부 산하 국방고등연구계획국(DARPA)이 총상금 2250만달러 규모로 진행하는 초대형 글로벌 보안 기술 경진대회다. 2년에 걸쳐 이뤄졌으며 사이버 보안에 AI를 접목하는 것을 목표로 진행됐다. 지난해 8월 열린 준결승에 40팀이 참여해 결승에는 7팀만이 올랐다.
+구글, 마이크로소프트(MS), 오픈AI, 앤스로픽 등 미국 대표 AI 기업들이 스폰서로 참여할 만큼 큰 관심과 주목을 받았다.
+결승전은 사람의 개입 없이 AI 보안 기술만으로 소프트웨어의 코드 취약점을 자동으로 분석하고 보안패치를 적용한 결과를 평가했다.
+팀 애틀랜타는 결승전에서 복잡다단한 보안 취약점을 빠르게 찾아내고 정확한 보안패치를 생성하는 기술을 선보였다. 총점수에서 392.76점을 기록해 2위인 트레일오브비츠의 219.35점, 3위인 티오리의 210.68점보다 월등히 높았다. 팀 애틀랜타는 이번 우승으로 400만달러의 상금을 획득했다.
+팀 애틀랜타는 미국 애틀랜타에 위치한 조지아공대의 김태수 컴퓨터공학과 교수가 이끌었다. 그는 삼성전자의 선행 연구개발(R&D) 조직인 삼성리서치에서 사이버 보안 분야를 연구하는 상무를 겸직하고 있다.
+팀 애틀랜타는 미국 조지아공대뿐 아니라 한국 KAIST와 포스텍의 사이버 및 AI 연구자들이 한 팀으로 참여한 게 특징이다. 김 상무가 전체 총괄을 맡고 한형석 삼성리서치 아메리카 연구원, 자오한칭 조지아공대 박사, 윤인수 KAIST 교수, 박상돈 포스텍 교수 등이 각 그룹의 리더를 맡았다. 한국과 미국의 최고 보안 및 AI 전문가들이 드림팀을 꾸린 것이다.
+삼성전자에 따르면 팀 애틀랜타에 참여한 대학 연구실은 보안 연구 분야에서 삼성전자와 꾸준히 교류하고 협력을 지속해왔던 팀들이다. 대기업 개발자들이 가지고 있는 실무 경험과 대학 연구자들에게 있는 학문적 역량이 결합된 게 이번 우승에서 큰 역할을 담당했다고 설명했다.
+이번 대회에서 3위를 차지한 티오리도 한미 연합팀이다. 화이트해커로 유명한 박세준 대표가 2016년 미국 오스틴에 설립한 보안 스타트업이 티오리다. A2G캐피탈, 두나무, 네이버 등으로부터 투자를 받았다.
+김 상무는 "삼성전자가 포함된 팀 애틀랜타가 세계적인 대회에서 AI 보안 기술력을 입증하는 값진 성과를 낼 수 있었다"며 "앞으로도 글로벌 보안 전문가들과 협업해 삼성전자의 보안 기술력을 더욱 높여가겠다"고 우승 소감을 밝혔다.
+이번 우승은 한국 기업과 연구자들의 보안 분야 경쟁력을 보여주는 결과다. 팀 애틀랜타에 따르면 구글, 오픈AI 등이 만든 거대언어모델(LLM)이 AI가 스스로 보안 취약점을 찾아내는 기술로 활용됐다. LLM을 기반으로 하는 AI에이전트가 보안요원의 역할을 할 수 있음을 보여준 것이다.
+삼성전자 관계자는 "이번 대회를 통해 개발한 시스템과 연구원들의 역량을 활용해 삼성전자의 제품과 서비스의 보안 수준을 높여나갈 예정"이라고 밝혔다. 삼성전자는 자체 개발한 보안 솔루션 녹스를 스마트폰과 가전제품 등에 적용하고 있다. 
+[이덕주 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[삼성전자와 한국·미국 대학 연구자들로 구성된 팀이 미국 정부가 주최한 사이버 보안 대회에서 우승했다. 한국 기업과 연구자들의 보안 분야 역량을 보여준다는 설명이다.
+삼성전자, 조지아공과대, KAIST와 포스텍의 연구자 40여 명으로 구성된 '팀 애틀랜타'는 8일 미국 라스베이거스에서 열린 '인공지능(AI) 사이버 챌린지' 결승전에서 우승을 거뒀다.
+AI 사이버 챌린지는 미국 국방부 산하 국방고등연구계획국(DARPA)이 총상금 2250만달러 규모로 진행하]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/11/20250811_01160129000002_L00.jpg]]></image_url>
+<image_caption><![CDATA[김태수 삼성리서치 상무(맨 뒷줄 왼쪽 여섯째)이 이끈 '팀 애틀랜타'가 'AI 사이버 챌린지' 우승 기념 사진을 찍고 있다.   삼성전자]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11389898]]></article_url>
+</article>
+</saltlux>

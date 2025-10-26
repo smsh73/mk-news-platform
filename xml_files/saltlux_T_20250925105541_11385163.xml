@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11385163</art_id>
+<art_year>2025</art_year>
+<art_no>556703</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-04 22:30:20</service_daytime>
+<title><![CDATA[엔비디아도 반한 K로봇의 충격적인 ‘무브’…조선소·건설현장 투입도 OK]]></title>
+<sub_title><![CDATA[한재권 에이로봇 공동창업자
+인간동작 학습, AI로 빨라져
+대형 조선소서 실증 진행 중
+5년 내 완전 무인공장 가시화
+
+인구감소 시대 로봇이 기회
+韓, 제조데이터 풍부해 유리
+한국만의 생태계 조성 중요]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[이윤식 기자(leeyunsik@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-04 22:30:20</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100305</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">한재권 에이로봇 공동창업자<br>인간동작 학습, AI로 빨라져<br>대형 조선소서 실증 진행 중<br>5년 내 완전 무인공장 가시화<br><br>인구감소 시대 로봇이 기회<br>韓, 제조데이터 풍부해 유리<br>한국만의 생태계 조성 중요</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/04/news-p.v1.20250804.8a1ae41ef4904a9da3499d68ee6d603a_P1.png' alt=' 지난 3월 가수 지드래곤의 소속사 갤럭시코퍼레이션이 서울 용산의 용산 한 호텔에서 개최한  ‘갤럭시 로봇 나이트’ 행사에서 에이로봇의 휴머노이드 ‘엘리스’가 음료 서빙을 하고 있다. [사진제공=에이로봇]'>
+지난 1일 경기 안산시 한양대 에리카캠퍼스 내 에이로봇 연구실. 메타 ‘퀘스트3’를 머리에 부착한 연구원이 손동작을 하자 에이로봇의 휴머노이드 로봇 ‘앨리스’가 연구원의 팔과 손동작을 그대로 따라하며 앞에 둔 음료수병을 움켜쥐었다.
+연구실에서 만난 한재권 에이로봇 공동창업자 겸 최고기술책임자(CTO·한양대 기계공학과 부교수)는 “휴머노이드에 일상생활이나 산업현장에서 활용할 수 있는 자료를 수집하고, 인공지능(AI)을 통해 학습시키고 있다”며 “이 같은 방식으로 이미 상당 부분 자동화가 이뤄진 생산 현장을 온전한 ‘다크팩토리’로 전환할 수 있다”고 강조했다.
+한 교수의 연구실을 토대로 2018년 창업한 에이로봇은 요즘 가장 뜨거운 K로봇 스타트업이다. 최근 100억원 규모 시리즈A 투자 유치에 성공하며 범용 휴머노이드 개발에 속도를 내고 있다. 한 CTO는 과거 로보티즈에서 초기 멤버로 활동하는 등 2000년대부터 휴머노이드 연구 활동을 해왔다. 그는 “휴머노이드 기술의 절반은 AI”라며 “AI 기술의 급격한 발전과 함께 5년 이내에 전 세계적으로 휴머노이드가 본격 보급될 것으로 전망한다”고 말했다. 과거에는 일일이 로봇 행동을 코딩으로 프로그래밍해야 했던 것을 이제 AI로 빠르게 학습시킬 수 있게 됐기 때문이다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/04/news-g.v1.20250804.f571632d114e42fb910dc44f71e34e7c_P1.jpg' alt=''>
+에이로봇은 AI 분야에서 엔비디아와 긴밀히 협력하고 있다. 엔비디아의 AI 솔루션 ‘아이작 그루트’ 등을 도입해 휴머노이드를 학습시키고 있으며, 엔비디아의 글로벌 스타트업 지원 프로그램 ‘인셉션’에도 선정돼 실시간 기술 지원을 받고 있다.
+에이로봇은 조선, 건설, 제조를 비롯한 다양한 산업현장에 앨리스 투입을 준비 중이다. HD현대미포조선소 현장에서 앨리스를 투입하기 위한 자료를 수집하고 있다. 조선소 작업자가 카메라와 손동작 인식 센서를 부착하고 앨리스 옆에서 작업하면, 앨리스가 그 동작을 따라하는 방식으로 작업을 학습한다. 이렇게 축적된 데이터를 AI가 학습하고 궁극적으로는 앨리스가 스스로 판단해 작업을 수행할 수 있게 한다는 구상이다. 한 CTO는 “조선업은 산업재해 발생률이 높은 대표적인 업종인데, 앨리스가 투입되면 작업자 안전을 확보하면서도 생산성을 유지할 수 있다”고 강조했다.
+제조업의 경우 기존 스마트 팩토리에서 인간 작업자가 기계를 조작하던 것을 휴머노이드를 투입해 무인화하는 전략을 갖고 있다. 신규 투자가 많은 중국에선 기업들이 공장 설계 단계부터 인간이 필요 없는 ‘다크팩토리’ 구조를 도입하고 있는데, 한국에서는 어느 정도 자동화된 기존 스마트 팩토리에 휴머노이드를 새로 투입하는 방식으로 진화하는 게 현실적이라는 것이다.
+에이로봇은 최근 산업통상자원부가 주도하는 ‘K-휴머노이드 연합’에도 적극 참여하고 있다. 한 CTO의 아내인 엄윤설 에이로봇 대표(CEO)는 K-휴머노이드 연합 총괄위원으로 참여하고 있다. 한 CTO는 “K-휴머노이드 연합의 핵심은 부품부터 플랫폼, AI까지 휴머노이드를 개발·제조할 수 있는 생태계를 조성하는 것”이라며 “휴머노이드 제조를 위해서는 가볍고 전력 소모가 적은 임베디드 AI 반도체와 가볍고 순간 출력이 강한 로봇용 배터리 등이 함께 개발돼야 한다”고 말했다.
+그는 “인구 감소 시대에 로봇에서 기회를 찾을 수 있을 것”이라며 “2030년이면 게임이 끝날 것으로 보기 때문에 2020년대 후반에는 산업현장에 적용할 수 있는 기술력을 갖춰야 경쟁할 수 있다”고 강조했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[한재권 에이로봇 공동창업자 인간동작 학습, AI로 빨라져 대형 조선소서 실증 진행 중 5년 내 완전 무인공장 가시화  인구감소 시대 로봇이 기회 韓, 제조데이터 풍부해 유리 한국만의 생태계 조성 중요지난 1일 경기 안산시 한양대 에리카캠퍼스 내 에이로봇 연구실. 메타 ‘퀘스트3’를 머리에 부착한 연구원이 손동작을 하자 에이로봇의 휴머노이드 로봇 ‘앨리스’가]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100305</code_id>
+<code_nm><![CDATA[전기·전자·통신]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100305</small_code_id>
+<small_code_nm><![CDATA[전기·전자·통신]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100403</code_id>
+<code_nm><![CDATA[벤쳐/벤쳐캐피탈]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100403</small_code_id>
+<small_code_nm><![CDATA[벤쳐/벤쳐캐피탈]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101506</code_id>
+<code_nm><![CDATA[스타트업]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101506</small_code_id>
+<small_code_nm><![CDATA[스타트업]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/04/news-p.v1.20250804.8a1ae41ef4904a9da3499d68ee6d603a_P1.png]]></image_url>
+<image_caption><![CDATA[ 지난 3월 가수 지드래곤의 소속사 갤럭시코퍼레이션이 서울 용산의 용산 한 호텔에서 개최한  ‘갤럭시 로봇 나이트’ 행사에서 에이로봇의 휴머노이드 ‘엘리스’가 음료 서빙을 하고 있다. [사진제공=에이로봇]]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/04/news-g.v1.20250804.f571632d114e42fb910dc44f71e34e7c_P1.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11385163]]></article_url>
+</article>
+</saltlux>

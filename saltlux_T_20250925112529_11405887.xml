@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11405887</art_id>
+<art_year>2025</art_year>
+<art_no>617678</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-29 10:37:11</service_daytime>
+<title><![CDATA[PIPC fines largest-ever $97 mn fine on SK telecom over data breach]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-29 10:37:11</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK400109</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/29/news-p.v1.20250829.ff7ec8a2ade14a1fa9798a842832752a_P1.png' alt=' (Yonhap)'>
+The Personal Information Protection Commission (PIPC) imposed the largest-ever fine on SK telecom Co., which suffered a hacking incident that exposed the SIM card information of more than 23.24 million users, on Thursday.
+The PIPC announced that it imposed a fine of 134.8 billion won ($97.3 million) and an additional administrative penalty of 9.6 million won on SK telecom. The commission also issued a corrective order requiring the company to overhaul its governance system so that the chief privacy officer can oversee all personal data processing tasks to prevent similar incidents from recurring.
+According to the PIPC investigation, an unidentified hacker infiltrated SK telecom’s internal network in August 2021, installed malicious programs on multiple servers, and extracted 9.82GB of personal data - including 25 types of information such as phone numbers, subscriber identity numbers, and SIM authentication keys - stored in the Home Subscriber Server in April 2025.
+The PIPC concluded that SK telecom had failed to implement basic security measures, such as separating its internet and internal networks or reviewing intrusion detection logs, thereby allowing the hacker to gain access.
+The reason the commission imposed a record-high fine of 134.8 billion won on SK telecom is rooted in its judgment that the massive leak of SIM card information could have been prevented if the company had implemented basic safety measures. Although no cases of secondary damage were identified, the investigation revealed multiple lapses in management and legal violations during the course of the data leak.
+SK telecom’s response after the incident was also deemed inadequate.
+Under the Personal Information Protection Act, companies must notify of leaks within 72 hours of discovery, but SK telecom only notified customers of a possible leak on May 9th, 2025, and did not confirm the leak until June 28th.
+Based on this, the PIPC concluded that SK telecom failed to meet even the minimum requirements under current law. Along with the fine, the PIPC issued corrective orders, including guaranteeing the CPO’s substantive role, strengthening oversight of subcontracted operations, drafting and reporting prevention measures within three months, and obtaining ISMS-P certification for the affected networks and systems.
+“Companies that hold large amounts of personal information must treat the necessary budget and manpower not as a cost but as an essential investment,” PIPC Chairperson Ko Hak-soo said.
+However, controversy is brewing in the telecom industry over the size of the fine, particularly regarding fairness compared to foreign tech giants like Google and Meta.
+Google and Meta were fined 69.2 billion won and 30.8 billion won respectively in 2022 for using personal data for targeted ads without consent, which was a deliberate, profit-driven violation.
+Critics argue it is disproportionate that SK telecom, which was itself a hacking victim, was hit with a much larger penalty. Even compared internationally, the fine is unusually high - T-Mobile in the United States was fined 21.6 billion won for a breach affecting 110 million records, while AT&T faced a 17.8 billion won fine for 8.9 million records - most telecom fines for SIM data breaches have been around 20 billion won.
+The industry also points to proportionality issues across different legal frameworks, with the Credit Information Act capping fines for credit information leaks at 5 billion won.
+Seoul Guarantee Insurance (SGI), for example, which reportedly suffered 13.2TB personal data breach - far larger than SK telecom’s - falls under this law.
+By contrast, SK telecom was fined over 130 billion won under the Personal Information Protection Act for leaking SIM data, which is generally considered less sensitive than credit information.
+The PIPC noted that it calculated the fine based on the revised law allowing fines up to 3 percent of the relevant business’s total revenue, applying it to the company’s entire mobile telecom revenue.
+Critics argue this is an excessively rigid interpretation.
+“Imposing a fine equivalent to 3 percent of revenue for a SIM data leak is excessive,” SK telecom said.
+Observers note that in the United Kingdom’s 2020 British Airways hacking cases, regulators reduced the fine by 90 percent in recognition of prompt reporting and remedial measures, suggesting that Korea too should shift its regulatory framework toward incentivizing prevention and remediation rather than focusing solely on punitive measures.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[The Personal Information Protection Commission (PIPC) imposed the largest-ever fine on SK telecom Co., which suffered a hacking incident that exposed the SIM card information of more than 23.24 millio]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK400109</code_id>
+<code_nm><![CDATA[Bio&Tech]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00308</middle_code_id>
+<middle_code_nm><![CDATA[English]]></middle_code_nm>
+<small_code_id>MK400109</small_code_id>
+<small_code_nm><![CDATA[Bio&Tech]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/29/news-p.v1.20250829.ff7ec8a2ade14a1fa9798a842832752a_P1.png]]></image_url>
+<image_caption><![CDATA[ (Yonhap)]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11405887]]></article_url>
+</article>
+</saltlux>

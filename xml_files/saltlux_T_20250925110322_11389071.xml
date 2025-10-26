@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11389071</art_id>
+<art_year>2025</art_year>
+<art_no>567604</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-08 17:47:33</service_daytime>
+<title><![CDATA[정부, 구글 고정밀지도 반출 요청 또다시 유보]]></title>
+<sub_title><![CDATA[처리기한 오는 10월로 연장]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[이희수 기자(lee.heesoo@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-08 17:47:33</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100601</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">처리기한 오는 10월로 연장</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/08/news-p.v1.20250808.67dda29449c2444789dda6654ac59640_P1.jpg' alt=' [사진출처=연합뉴스]'>
+정부가 구글이 고정밀 지도 반출을 요청한 것에 관한 결정을 또 다시 유보했다.
+국토교통부는 8일 열린 국외 반출협의체 회의에서 구글이 신청한 고정밀 국가기본도에 대한 국외 반출 결정을 한 번 더 유보하기로 결정했다고 밝혔다. 처리 기간을 60일 추가 연장해 오는 10월 결론을 내릴 방침이다.
+앞서 정부는 지난 5월에도 협의체를 열고 반출 결정을 한 차례 유보했다. 관련 결정이 두 차례나 유보된 건 이번이 처음이다. 국토부는 “이번 추가 연장은 고정밀 국가기본도의 국외 반출에 따른 안보 우려를 해소할 수 있는 방안·대책과 관련해 구글이 추가 검토를 위해 처리 기간의 연장을 요청함에 따른 것”이라고 설명했다.
+조만간 한미 정상회담이 예정된 만큼 일단 결정을 유보하잔 입장에도 힘이 실렸던 것으로 보인다. 정부는 향후 구글의 회신 내용을 협의체에 속한 관계 부처와 충분히 검토한 후 반출 여부를 최종 판단할 계획이다.
+정부는 지도 반출 허용 조건으로 크게 3가지를 제시한 바 있다. △보안시설 블러 위장, 저해상도 처리 △좌표 정보 삭제 △보안시설 노출 시 즉각 시정되도록 국내에 서버를 두는 것 등이다. 구글은 이 중 보안시설 가림 처리에 대해선 열린 입장인 것으로 알려졌다. 구글 외에도 애플이 현재 고정밀 지도 반출을 신청한 상황이다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[처리기한 오는 10월로 연장정부가 구글이 고정밀 지도 반출을 요청한 것에 관한 결정을 또 다시 유보했다. 국토교통부는 8일 열린 국외 반출협의체 회의에서 구글이 신청한 고정밀 국가기본도에 대한 국외 반출 결정을 한 번 더 유보하기로 결정했다고 밝혔다. 처리 기간을 60일 추가 연장해 오는 10월 결론을 내릴 방침이다. 앞서 정부는 지난 5월에도 협의체를 열]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100601</code_id>
+<code_nm><![CDATA[아파트/분양]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00503</middle_code_id>
+<middle_code_nm><![CDATA[부동산]]></middle_code_nm>
+<small_code_id>MK100601</small_code_id>
+<small_code_nm><![CDATA[아파트/분양]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100602</code_id>
+<code_nm><![CDATA[시세/시황]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00503</middle_code_id>
+<middle_code_nm><![CDATA[부동산]]></middle_code_nm>
+<small_code_id>MK100602</small_code_id>
+<small_code_nm><![CDATA[시세/시황]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100603</code_id>
+<code_nm><![CDATA[재개발/재건축]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00503</middle_code_id>
+<middle_code_nm><![CDATA[부동산]]></middle_code_nm>
+<small_code_id>MK100603</small_code_id>
+<small_code_nm><![CDATA[재개발/재건축]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100606</code_id>
+<code_nm><![CDATA[세제/정책]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00503</middle_code_id>
+<middle_code_nm><![CDATA[부동산]]></middle_code_nm>
+<small_code_id>MK100606</small_code_id>
+<small_code_nm><![CDATA[세제/정책]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100607</code_id>
+<code_nm><![CDATA[건설업계 동향]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00503</middle_code_id>
+<middle_code_nm><![CDATA[부동산]]></middle_code_nm>
+<small_code_id>MK100607</small_code_id>
+<small_code_nm><![CDATA[건설업계 동향]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/08/news-p.v1.20250808.67dda29449c2444789dda6654ac59640_P1.jpg]]></image_url>
+<image_caption><![CDATA[ [사진출처=연합뉴스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11389071]]></article_url>
+</article>
+</saltlux>

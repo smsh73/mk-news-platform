@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11384127</art_id>
+<art_year>2025</art_year>
+<art_no>553359</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-03 18:04:31</service_daytime>
+<title><![CDATA[지식센터도 '애물단지'…"착공 못한 95곳, 주택용지 전환 필요"]]></title>
+<sub_title><![CDATA[공급과잉에 미분양 해소 요원<br>뉴욕·런던처럼 주택으로 전환<br>수도권 주택부족 해결에 도움]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[손동우 기자(aing@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250804</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>3</pub_page>
+<reg_dt>2025-08-03 18:04:31</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100607</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/04/20250804_01110103000003_S00.jpg' alt=''>
+
+'아파트형 공장'으로 불리며 우후죽순으로 들어선 지식산업센터는 2022년 이후 침체의 늪을 벗어나지 못하고 있다. 매매·경매 시장에서 모두 '찬밥' 신세인 데다 공급 과잉으로 미분양조차 해소되지 않고 있다.
+건설 업계는 지식산업센터에 대해 주거·숙박시설로 용도 전환하는 방안을 정부가 검토해줄 것을 요청하고 있다. 미국 뉴욕 맨해튼이나 영국 런던처럼 수요가 급감한 오피스를 아파트 공간으로 변모시키는 해외의 주택 컨버전 사례를 도입하자는 것이다. 지식산업센터 등 비주거용 시설을 주거용으로 활용하면 단기적인 주택 공급 부족을 해소하는 데에도 도움이 된다는 설명이다.
+3일 상업용 부동산 전문 프롭테크 기업 부동산플래닛에 따르면 올해 1분기(1~3월) 전국 지식산업센터 거래량은 552건을 기록했다. 직전 분기(971건)와 비교해선 43.2%, 전년 동기(1010건)보다는 45.3% 하락한 수치다. 거래금액 또한 전 분기(3959억원) 대비 44.8%, 전년 동기(4392억원) 대비 50.3% 줄어든 2184억원을 기록하며 급락세를 보였다. 경매 시장에도 지식산업센터 물건이 쌓이고 있다. 지지옥션에 따르면 지난달 경매로 나온 전국 지식산업센터 매물은 347건으로, 2001년 통계 시작 이후 가장 많은 수준으로 집계됐다. 하지만 매각률은 19%로 극히 저조하고, 감정가 대비 낙찰가격 비율(매각가율) 평균도 55.3%에 그친다.
+지식산업센터 시장이 침체되자 전문가들은 주거 용도 변경 등 시장 정상화 방안이 절실하다고 입을 모았다. 미처 착공하지 못한 토지를 용도 전환하자는 주장도 제기됐다. 한국산업단지공단에 따르면 올 5월 기준 수도권에만 95곳 111만7000㎡가 지식산업센터 용도로 인허가만 받고 공사에 들어가지 못하고 있다. 개발 업계에선 이를 주택·업무용지로 복합개발하는 형태로 전환하면 용적률 250% 기준으로 최대 2만7600가구(전용 84㎡)를 공급할 수 있을 것으로 분석한다. 웬만한 신도시급 규모다.
+[손동우 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA['아파트형 공장'으로 불리며 우후죽순으로 들어선 지식산업센터는 2022년 이후 침체의 늪을 벗어나지 못하고 있다. 매매·경매 시장에서 모두 '찬밥' 신세인 데다 공급 과잉으로 미분양조차 해소되지 않고 있다.
+건설 업계는 지식산업센터에 대해 주거·숙박시설로 용도 전환하는 방안을 정부가 검토해줄 것을 요청하고 있다. 미국 뉴욕 맨해튼이나 영국 런던처럼 수요가 급감한 오피스를 아파트 공간으로 변모시키는 해외의 주택 컨버전 사례를 도입하자는 것이다. 지식산업센]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100607</code_id>
+<code_nm><![CDATA[건설업계 동향]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00503</middle_code_id>
+<middle_code_nm><![CDATA[부동산]]></middle_code_nm>
+<small_code_id>MK100607</small_code_id>
+<small_code_nm><![CDATA[건설업계 동향]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/04/20250804_01110103000003_S00.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11384127]]></article_url>
+</article>
+</saltlux>

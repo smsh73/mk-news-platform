@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11384964</art_id>
+<art_year>2025</art_year>
+<art_no>556315</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-04 17:36:39</service_daytime>
+<title><![CDATA[분당차병원 신경외과 조경기·임재준 교수팀, 교모세포종 환자 첨단재생의료 임상연구 승인]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[심희진 기자(edge@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-04 17:36:39</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101402</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/04/news-p.v1.20250804.d8cbb584564546198f1dc1ca896bc71f_P1.png' alt=''>
+분당차병원 교수팀이 개발한 중간엽 줄기세포 기반 유전자세포치료제 ‘MSC11FCD’가 보건복지부로부터 첨단재생의료 연구로 승인받았다.
+4일 분당차병원에 따르면 조경기·임재준 신경외과 교수팀이 진행하는 신규 교모세포종 환자 대상 MSC11FCD 임상연구가 국책과제로 선정됐다.
+MSC11FCD는 중간엽 줄기세포(MSC)에 자살유전자를 삽입한 형태다. 이는 종양 주변에서만 5-FU(플루오로유라실) 항암제를 생성한 뒤 암세포를 선택적으로 제거한다. 줄기세포의 종양추적 능력을 활용한 정밀 타격이 치료의 핵심이다.
+교모세포종은 가장 치명적인 뇌종양으로, 표준치료 후에도 재발률이 높고 생존율이 낮아 새로운 치료법에 대한 요구가 높다.
+분당차병원 교수팀은 앞서 2021년 재발성 교모세포종 환자를 대상으로 한 임상연구에서 해당 치료제를 적용해 생존기간이 유의하게 늘어나는 결과를 얻은 바 있다.
+이번 연구는 신규 진단된 환자를 대상으로 하며, 기존 임상 결과를 바탕으로 치료 효과와 생존율을 더욱 끌어올리는 데 목적이 있다.
+임 교수는 “이번 임상은 교모세포종의 특성을 반영한 정밀 맞춤형 전략으로 기존 치료의 한계를 극복할 수 있는 환자 중심의 혁신적 접근”이라고 말했다.
+이번 연구는 이달 내 시작할 예정이다. 조 교수는 “교모세포종 환자들의 삶의 질과 생존율 향상을 위해 지속적으로 정밀 치료법 개발에 힘쓸 것”이라고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[분당차병원 교수팀이 개발한 중간엽 줄기세포 기반 유전자세포치료제 ‘MSC11FCD’가 보건복지부로부터 첨단재생의료 연구로 승인받았다. 4일 분당차병원에 따르면 조경기·임재준 신경외과 교수팀이 진행하는 신규 교모세포종 환자 대상 MSC11FCD 임상연구가 국책과제로 선정됐다. MSC11FCD는 중간엽 줄기세포(MSC)에 자살유전자를 삽입한 형태다. 이는 종양]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101402</code_id>
+<code_nm><![CDATA[의료/건강]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101402</small_code_id>
+<small_code_nm><![CDATA[의료/건강]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101403</code_id>
+<code_nm><![CDATA[제약/바이오]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101403</small_code_id>
+<small_code_nm><![CDATA[제약/바이오]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100807</code_id>
+<code_nm><![CDATA[보건/복지]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100807</small_code_id>
+<small_code_nm><![CDATA[보건/복지]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/04/news-p.v1.20250804.d8cbb584564546198f1dc1ca896bc71f_P1.png]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11384964]]></article_url>
+</article>
+</saltlux>

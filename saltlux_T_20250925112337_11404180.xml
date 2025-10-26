@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11404180</art_id>
+<art_year>2025</art_year>
+<art_no>612668</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-27 15:24:54</service_daytime>
+<title><![CDATA[신한투자증권, 고객 피드백 플랫폼 ‘신한 새로고침’ 오픈]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[홍순빈 기자(hong.soonbin@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-27 15:24:54</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100503</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/27/news-p.v1.20250827.d7fe3888e0f14225b4b7954727515d98_P1.png' alt=' 신한 새로고침[사진 출처=신한투자증권]'>
+신한투자증권은 고객 중심 경영과 소통 체계 강화를 위해 대고객 피드백 플랫폼인 ‘신한 새로고침’을 선보였다고 27일 밝혔다.
+신한 새로고침은 ‘고객의 말씀으로 매일 새롭게’라는 슬로건 아래 고객이 제안한 불편 개선 사례를 신속하게 공유하는 고객 소통 플랫폼이다.
+단순한 고객응대 차원을 넘어 채택된 제안을 실제 제도와 서비스 개선으로 연결하는 구조를 갖춘 것이 특징이다.
+기존 VOC(Voice of Customer) 제도가 일회성 응대로 그치는 경우가 많았던 단점을 이번 플랫폼을 통해 보완했다.
+또한 채택된 개선과제를 진행 단계별로 SMS로 안내해 고객이 직접 변화를 체감할 수 있도록 했다.
+이선훈 신한투자증권 대표는 “신한 새로고침은 보다 체계적인 고객 제안 검토 및 신뢰 있는 고객 소통을 위한 디지털 기반의 창구”라며 “불편을 단순 해소하는 데 그치지 않고 고객의 제안을 업무 프로세스 혁신으로 연결해 나갈 것”이라고 밝혔다.
+자세한 사항은 신한투자증권 홈페이지 및 신한 SOL증권 하단의 ‘메뉴→ 고객서비스→ 고객상담→ 신한 새로고침’을 통해 관련 내용을 직접 확인할 수 있다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[신한투자증권은 고객 중심 경영과 소통 체계 강화를 위해 대고객 피드백 플랫폼인 ‘신한 새로고침’을 선보였다고 27일 밝혔다. 신한 새로고침은 ‘고객의 말씀으로 매일 새롭게’라는 슬로건 아래 고객이 제안한 불편 개선 사례를 신속하게 공유하는 고객 소통 플랫폼이다. 단순한 고객응대 차원을 넘어 채택된 제안을 실제 제도와 서비스 개선으로 연결하는 구조를 갖춘 것]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100503</code_id>
+<code_nm><![CDATA[기업정보]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100503</small_code_id>
+<small_code_nm><![CDATA[기업정보]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100509</code_id>
+<code_nm><![CDATA[증권계동향]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100509</small_code_id>
+<small_code_nm><![CDATA[증권계동향]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/27/news-p.v1.20250827.d7fe3888e0f14225b4b7954727515d98_P1.png]]></image_url>
+<image_caption><![CDATA[ 신한 새로고침[사진 출처=신한투자증권]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11404180]]></article_url>
+</article>
+</saltlux>

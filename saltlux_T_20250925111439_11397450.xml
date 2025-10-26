@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11397450</art_id>
+<art_year>2025</art_year>
+<art_no>592019</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-19 17:21:58</service_daytime>
+<title><![CDATA[[글로벌포커스] AI에이전트의 승부처]]></title>
+<sub_title><![CDATA[기업들 AI서 부딪히는 벽은<br>AI가 작동하는 전체 구조로<br>결국 아키텍처가 핵심 요소<br>문제 직시·설계는 인간 역량<br>새로운 인재 잡는 곳이 승리]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250820</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>31</pub_page>
+<reg_dt>2025-08-19 17:21:58</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101302</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/20/20250820_01110131000002_M00.jpg' alt=''>
+
+전 세계는 지금을 '인공지능(AI) 에이전트의 시대'라고 부르고 있으며, 수많은 기업은 에이전트를 어떻게 업무에 도입할 것인지 치열하게 고민하고 있다. AI 에이전트의 경쟁력은 무엇일까.
+우선 AI 에이전트를 단순히 챗봇 정도로 이해하면 곤란하다. AI 에이전트는 단일 질문에 답하는 수준을 넘어 목표 달성을 위해 정보를 추론하고, 외부 도구를 호출하며, 사람과 협업하는 복합적인 과정을 스스로 수행한다. 따라서 내부 시스템, 데이터 흐름, 권한 체계, 조직의 일하는 방식과 긴밀히 연결돼야 하며, 아무리 뛰어난 AI 모델도 이를 뒷받침할 구조가 없다면 의미 있는 결과를 내기 어렵다. 그리고 이렇게 작동하도록 하는 전체의 구조가 바로 아키텍처다.
+실제로 많은 기업이 부딪히는 벽은 기술 그 자체가 아니라 연동, 권한, 워크플로 설계 등 아키텍처적 문제다. 가트너는 2028년까지 전체 업무 의사 결정의 15% 이상이 AI 에이전트를 통해 자율적으로 이뤄질 것이라 전망한다. 이를 위해서는 조직 내부에 AI가 일할 수 있도록 내부 데이터 형식, 접근 권한, AI 개입 단계 등에 대한 명확한 설계가 선행돼야 한다.
+또한 조직에 중요한 것은 이제는 더 이상 '어디에 AI를 적용할 것인가'에 대한 질문이 아닌 'AI 에이전트가 일할 수 있도록 어떤 흐름과 맥락을 갖춘 설계가 필요한가'라는 질문이다. 업무의 본질을 재해석하고 AI를 유기적으로 배치해야만 혁신이 가능하며, 결국 문제를 어떻게 구조화하느냐가 전략의 핵심인 것이다.
+이런 흐름 속에서 유연한 AI 아키텍처를 설계할 수 있도록 돕는 클라우드 플랫폼의 역할도 커지고 있다. 단순히 AI 모델 호출에 그치지 않고 데이터 거버넌스, 보안과 프라이버시, 추론 최적화, 사용자 인터페이스까지 아우르는 유연한 환경을 제공하며, 일의 흐름 전체를 유연하게 조립하고 재구성할 수 있는 AI 에이전트 설계 도구까지 AI 직원의 역할로 조직 내 업무 흐름을 설계하고 조율하는 수준으로 진화하고 있는 것이다.
+이러한 아키텍처적 접근의 성과도 입증되고 있다. 글로벌 금융 평가 기관 무디스는 멀티 에이전트 협업으로 금융 리스크 보고서 작성 시간을 1주일에서 1시간으로 단축했다. 정보기술(IT) 서비스 기업 코그니전트는 주택담보대출 규제 준수 업무 자동화로 50% 이상 생산성을 높였고, 농업 분야에서는 신젠타가 농업 데이터 집계와 개인화된 종자 추천을 제공하는 멀티 에이전트 시스템으로 작물 수확량을 최대 5% 늘리며 정밀 농업을 실현했다. 이들의 공통점은 기술 자체보다 아키텍처적 환경 구축이 성공을 이끌었다는 것이다.
+AI 모델은 계속 발전하며 더 낮은 비용으로 더 많은 기능을 제공할 것이다. AI 모델은 교체할 수 있지만, 조직의 전반적인 경영부터 기술까지 고려한 아키텍처는 쉽게 바꿀 수 없다. 에이전트 AI 시대의 경쟁력은 AI 모델에서 시작하겠지만 결국은 문제를 구조화하고 흐름을 설계할 수 있는 능력에 달려 있다.
+생성형 AI는 일의 단위를 재편하고 있다. 과거 사람이 한 덩어리로 처리하던 과업이 더 작고 구조화된 단위로 쪼개지고, 일부를 AI가 맡는다. 즉 AI는 도구를 넘어 조직 설계의 요소가 되고 있다.
+이제는 AI 도입 자체가 더 이상 혁신을 보장하지 않는다. 문제를 바라보는 관점과 이를 설계하는 역량이 성공을 좌우한다. 결국 문제를 디자인할 수 있는 사람이 AI 시대의 가장 중요한 경쟁력을 가진 사람이 될 것이며, 그런 인재가 일할 수 있는 환경과 아키텍처를 제공하는 기업이 시장을 주도할 것이다.
+[오순영 AI미래포럼 공동의장·AWS 솔루션즈 아키텍트 매니저]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[전 세계는 지금을 '인공지능(AI) 에이전트의 시대'라고 부르고 있으며, 수많은 기업은 에이전트를 어떻게 업무에 도입할 것인지 치열하게 고민하고 있다. AI 에이전트의 경쟁력은 무엇일까.
+우선 AI 에이전트를 단순히 챗봇 정도로 이해하면 곤란하다. AI 에이전트는 단일 질문에 답하는 수준을 넘어 목표 달성을 위해 정보를 추론하고, 외부 도구를 호출하며, 사람과 협업하는 복합적인 과정을 스스로 수행한다. 따라서 내부 시스템, 데이터 흐름, 권한 체계, 조]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101302</code_id>
+<code_nm><![CDATA[오피니언]]></code_nm>
+<large_code_id>3</large_code_id>
+<large_code_nm><![CDATA[오피니언]]></large_code_nm>
+<middle_code_id>30002</middle_code_id>
+<middle_code_nm><![CDATA[사외칼럼]]></middle_code_nm>
+<small_code_id>MK101302</small_code_id>
+<small_code_nm><![CDATA[오피니언]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/20/20250820_01110131000002_M00.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11397450]]></article_url>
+</article>
+</saltlux>

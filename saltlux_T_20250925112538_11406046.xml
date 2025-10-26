@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11406046</art_id>
+<art_year>2025</art_year>
+<art_no>618317</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-29 14:00:00</service_daytime>
+<title><![CDATA[해킹에 발목 잡혀도 AI에 총력…SK그룹 7조원 들인다는 ‘이것’]]></title>
+<sub_title><![CDATA[AIDC 울산 기공식…최창원·유영상 등 참석
+AI 핵심 인프라 목표…계열사 역량 총결집]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[이가람 매경 디지털뉴스룸 기자(r2ver@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-29 13:27:47</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100309</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">AIDC 울산 기공식…최창원·유영상 등 참석<br>AI 핵심 인프라 목표…계열사 역량 총결집</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/29/news-p.v1.20250829.3348ae274752499bbe89ef68ada39685_P1.jpg' alt=' 이재명 대통령(가운데)이 지난달 20일 울산시 전시컨벤션센터에서 열린 인공지능(AI) 데이터 센터 출범식에 참석했다. [사진 = 연합뉴스]'>
+SK그룹이 아마존웹서비스(AWS) 및 울산광역시와 손잡고 비수도권 최대 규모의 인공지능(AI) 전용으로 운영되는 데이터센터(DC) 기공식을 개최했다. 총 7조원의 사업비가 투입되는 하이퍼스케일급 인프라로, 이재명 정부의 목표인 글로벌 AI 3대 강국 도약의 원동력이 될 전망이다.
+29일 SK텔레콤에 따르면 SK텔레콤과 SK에코플랜트는 이날 오후 2시 울산미포국가산업단지에서 ‘SK AI 데이터센터 울산’의 기공식을 열었다. 앞서 지난 6월 AI 데이터센터 건립 계약을 체결한 이후 약 두 달 만이다.
+이날 기공식에는 최창원 SK수펙스추구협의회 의장, 유영상 SK텔레콤 사장, 김형근 SK에코플랜트 사장, 김두겸 울산광역시장, 신재원 AWS코리아 전무 등이 참석해 AI 데이터센터 구축을 통한 향후 사업 협력을 다짐했다.
+최 의장은 축사를 통해 “SK AI 데이터센터 울산은 단순히 건물을 건설하는 것이 아니라, 대한민국 디지털 경제의 근간을 세우고 미래를 구축하는 중요한 인프라”라며 “앞으로도 SK는 책임감 있는 동반자로서, 울산과 대한민국의 AI 강국으로 향하는 여정에 끝까지 함께하겠다”고 말했다.
+최근 AI 대중화와 고도화로 AI 데이터센터의 필요성이 대두되고 있다. AI 데이터센터는 AI 구동에 초점을 맞춰 전력, 냉각, 네트워크 역량을 고루 갖춘 데이터센터다. 서버랙당 20~40키로와트(kW) 이상의 전력을 소비하는 고성능 그래픽처리장치(GPU)를 활용한다. 일반적인 데이터센터는 서버랙당 평균 5~10kW의 전력을 소비한다.
+SK AI 데이터센터 울산도 AI 컴퓨팅 특화 구조 및 시스템, 초고집적 랙 밀도, 공랭+수랭식 하이브리드 냉각 시스템, 안정적인 네트워크 확보 등에 있어 글로벌 최고 수준으로 설계됐다.
+특히 SK텔레콤, SK브로드밴드, SK에코플랜트, SK가스, SK케미칼, SK멀티유틸리티, SK하이닉스, SK에이엑스(AX) 등 SK그룹 주요 계열사가 참여해 정보통신기술(ICT) 분야와 환경·에너지 분야의 역량이 총결집됐다는 측면에서 의미가 크다.
+구체적으로 SK가스에서 액화천연가스(LNG) 연료를 공급받는 SK멀티유틸리티 발전소가 한전 대비 낮은 가격으로 안정적인 전력을 공급하고 LNG 열병합 발전을 통해 온실가스를 절감하면서도 효율적인 데이터센터 운영이 가능하다.
+SK에코플랜트는 △최적 공법 제안 △핵심 설비 시공 전략 수립 △사전 인프라 구축 △전력·공조·통신 안정성 확보 △냉각 시스템 효율화 검토 △공사비·공사 기간 최적화 △지연 요소 최소화 등 성공적인 사업을 위한 핵심적인 역할을 하고 있다.
+SK텔레콤 또한 AI 인프라 슈퍼 하이웨이 추진의 핵심 거점을 확보해 AI 인프라 확장과 글로벌 경쟁력 강화에 주력할 방침이다. SKAX는 AI 데이터센터 운영에 필수적인 첨단정보기술(IT) 시스템을 관리한다.
+이에 최태원 SK그룹 회장도 지난해 앤디 제시 아마존 최고경영자(CEO)를 만나는 자리에서 “SK그룹은 반도체부터 에너지, 데이터센터의 구축·운영과 서비스 개발까지 가능한 전 세계에서 흔치 않은 기업”이며 “최적의 파트너가 될 수 있다”고 강조한 바 있다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[AIDC 울산 기공식…최창원·유영상 등 참석 AI 핵심 인프라 목표…계열사 역량 총결집SK그룹이 아마존웹서비스(AWS) 및 울산광역시와 손잡고 비수도권 최대 규모의 인공지능(AI) 전용으로 운영되는 데이터센터(DC) 기공식을 개최했다. 총 7조원의 사업비가 투입되는 하이퍼스케일급 인프라로, 이재명 정부의 목표인 글로벌 AI 3대 강국 도약의 원동력이 될 전]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100309</code_id>
+<code_nm><![CDATA[통신]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100309</small_code_id>
+<small_code_nm><![CDATA[통신]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100607</code_id>
+<code_nm><![CDATA[건설업계 동향]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00503</middle_code_id>
+<middle_code_nm><![CDATA[부동산]]></middle_code_nm>
+<small_code_id>MK100607</small_code_id>
+<small_code_nm><![CDATA[건설업계 동향]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101502</code_id>
+<code_nm><![CDATA[통신]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101502</small_code_id>
+<small_code_nm><![CDATA[통신]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/29/news-p.v1.20250829.3348ae274752499bbe89ef68ada39685_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 이재명 대통령(가운데)이 지난달 20일 울산시 전시컨벤션센터에서 열린 인공지능(AI) 데이터 센터 출범식에 참석했다. [사진 = 연합뉴스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11406046]]></article_url>
+</article>
+</saltlux>

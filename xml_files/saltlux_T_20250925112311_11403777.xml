@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11403777</art_id>
+<art_year>2025</art_year>
+<art_no>611174</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-27 09:50:59</service_daytime>
+<title><![CDATA[S&P, Fitch lift SK hynix outlook to positive]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-27 09:50:59</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK400111</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/27/news-p.v1.20250827.e29509f5c571457184490bb7b1498d86_P1.jpg' alt=' (Yonhap)'>
+Standard & Poor’s and Fitch Ratings raised their credit outlook on SK hynix Inc. to “positive” following a similar move by Moody’s earlier in 2025.
+The two agencies revised their views on the chipmaker on Monday, citing stronger cash flows that could support a rating upgrade. With all three global rating firms now projecting an improved financial outlook, analysts see room for SK hynix to climb further beyond its current investment grade. The company hit a record-high BBB rating in 2024 and could be upgraded to BBB+ within 12 to 18 months.
+SK hynix’s credit momentum contrasts with peers. Micron Technology Inc., which holds the same rating, remains on a stable outlook while Moody’s recently lowered its outlook on Samsung Electronics Co., which is rated AA-.
+The brighter assessments follow SK hynix’s record earnings. The company posted revenue of 22.23 trillion won ($15.94 billion) in the second quarter of 2025 and an operating profit of 9.21 trillion won, with its operating margin surpassing 40 percent. Positive cash flow is expected to continue into 2026.
+Debt reduction has also strengthened the balance sheet, with net borrowings falling to 4.88 trillion won as of June, down 42.6 percent from the end of 2024. The debt ratio declined to 25 percent from 31 percent over the same period, marking a sharp turnaround from 2022 when net debt peaked at 16.6 trillion won.
+Diversification into high-bandwidth memory (HBM) is adding to financial stability. Unlike standard DRAM, whose pricing is volatile, HBM is sold under annual contracts with large customers, thus offering greater predictability. At the same time, increased industry focus on HBM has supported DRAM prices, benefiting memory makers broadly. Fitch noted that SK hynix’s stronger financial structure leaves it better positioned to withstand a potential downturn in the semiconductor cycle.
+The company’s credit path marks a stark shift from two decades ago. Its rating fell to CC in 2001, signaling high default risk, but a steady improvement and its acquisition by SK Group have since lifted it into investment grade at BBB-. A further two-notch increase would move it into the A- category.
+Looking ahead, SK hynix plans to open its new M15X fab in Cheongju in the fourth quarter of 2025 to support DRAM and HBM production. Construction of its first Yongin fab is also under way, with completion targeted for the second quarter of 2027.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[Standard & Poor’s and Fitch Ratings raised their credit outlook on SK hynix Inc. to “positive” following a similar move by Moody’s earlier in 2025. The two agencies revised their views on the chipmake]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK400111</code_id>
+<code_nm><![CDATA[Biz]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00308</middle_code_id>
+<middle_code_nm><![CDATA[English]]></middle_code_nm>
+<small_code_id>MK400111</small_code_id>
+<small_code_nm><![CDATA[Biz]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/27/news-p.v1.20250827.e29509f5c571457184490bb7b1498d86_P1.jpg]]></image_url>
+<image_caption><![CDATA[ (Yonhap)]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11403777]]></article_url>
+</article>
+</saltlux>

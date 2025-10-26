@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11398363</art_id>
+<art_year>2025</art_year>
+<art_no>594905</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-20 16:03:34</service_daytime>
+<title><![CDATA[맞춤형 AI 금융 서비스로 소외계층·큰손 모두 만족]]></title>
+<sub_title><![CDATA[심사평 / 박영훈 디캠프 대표]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250821</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>02</pub_section>
+<pub_page>1</pub_page>
+<reg_dt>2025-08-20 16:03:34</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK300199</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/21/20250821_01110201000002_S00.jpg' alt=''>
+
+'매경 핀테크 어워드 2025'는 인공지능(AI) 기술의 급속한 진화가 금융산업 전반에 걸쳐 실질적인 변혁을 이끌어내고 있음을 여실히 보여줬다. 특히 이번 수상 기업들은 단순한 AI 도입을 넘어 각 분야의 고질적 문제를 해결하는 깊이 있는 AI전환(AX)을 구현했다는 점에서 의미가 크다.
+어니스트AI는 금융기관의 여신 비즈니스 전 과정에 AI를 통합한 렌딩인텔리전스와 어니스트펀드를 통해 신용평가부터 리스크 관리, 수익성 최적화까지 지원한다. 자체 개발한 AutoML 기반 MLOps 파이프라인과 연합학습 기술로 사기성 채무 조정이나 신용이력 부족자까지 정밀하게 포착하며 AI 의사결정의 새로운 표준을 제시한다.
+페이워크는 1조4000억원 규모의 5인 미만 소상공인 시장을 타깃으로 AI 기반 정산 자동화 솔루션을 제공한다. 견적서 발송부터 미수금 관리까지 하나의 흐름으로 처리하는 'ERP처럼 보이지 않는 ERP'를 구현했다.
+금방은 전국 1만2000여 개 귀금속 사업장 중 5300개와 거래하며 실물 금 유통의 디지털전환을 선도한다. 독자 개발한 업스토어 플랫폼으로 금의 보관, 전송, 인출, 정산까지 통합 서비스를 제공한다.
+머니스테이션은 AI 분석 솔루션 '시그널엔진'으로 국내외 기관투자자들의 저비용 투자 의사결정을 지원한다. 금융 빅데이터의 패턴과 관계를 AI로 분석해 초보자도 직관적으로 이해할 수 있도록 했다.
+이번 수상 기업들의 공통점은 AI를 단순한 기술 요소가 아닌 비즈니스 모델의 핵심으로 삼았다는 점이다. 또한 금융 소외계층부터 기관투자자까지 각 시장의 실질적 니즈를 정확히 파악하고 즉각적인 편익을 제공하는 살아 있는 서비스를 구현했다. 특히 해외 시장 진출을 염두에 둔 글로벌 호환성과 확장성을 갖춘 점도 주목할 만하다. 매경 핀테크 어워드가 AI 시대 금융 혁신의 방향성을 제시하는 중요한 이정표가 되기를 기대한다.]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA['매경 핀테크 어워드 2025'는 인공지능(AI) 기술의 급속한 진화가 금융산업 전반에 걸쳐 실질적인 변혁을 이끌어내고 있음을 여실히 보여줬다. 특히 이번 수상 기업들은 단순한 AI 도입을 넘어 각 분야의 고질적 문제를 해결하는 깊이 있는 AI전환(AX)을 구현했다는 점에서 의미가 크다.
+어니스트AI는 금융기관의 여신 비즈니스 전 과정에 AI를 통합한 렌딩인텔리전스와 어니스트펀드를 통해 신용평가부터 리스크 관리, 수익성 최적화까지 지원한다. 자체 개발한]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK300199</code_id>
+<code_nm><![CDATA[테마기획]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00402</middle_code_id>
+<middle_code_nm><![CDATA[기획·연재]]></middle_code_nm>
+<small_code_id>MK300199</small_code_id>
+<small_code_nm><![CDATA[테마기획]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/21/20250821_01110201000002_S00.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11398363]]></article_url>
+</article>
+</saltlux>

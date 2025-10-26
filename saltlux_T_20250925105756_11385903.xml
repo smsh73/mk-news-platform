@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11385903</art_id>
+<art_year>2025</art_year>
+<art_no>559166</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-05 17:54:59</service_daytime>
+<title><![CDATA[[iR52 장영실상] 세계 최고 D램 기술경쟁력 입증 속도·두께·효율 AI시대에 맞춰]]></title>
+<sub_title><![CDATA[삼성전자 '12나노급 16기가비트 LPDDR5X']]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[최원석 기자(choi.wonseok@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250806</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>17</pub_page>
+<reg_dt>2025-08-05 17:54:59</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101401</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[◆ IR52 장영실상 ◆
+<img src='https://wimg.mk.co.kr/news/cms/202508/06/20250806_01110117000004_M00.jpg' alt='왼쪽부터 백진혁 책임연구원, 양희갑 수석연구원, 송호영 상무, 김형진 수석연구원.  삼성전자'>
+
+삼성전자가 개발한 '12㎚(나노미터)급 16Gb(기가비트) LPDDR5X'가 31주 차 IR52 장영실상 수상 제품으로 선정됐다. 소비 전력을 줄이면서도 데이터 처리 속도나 두께 면에서 세계 최고 성능을 갖춰 삼성전자의 D램 경쟁력을 다시금 입증했다는 평가다. D램은 컴퓨터 중앙처리장치(CPU) 데이터를 일시적으로 저장하는 주기억장치다. CPU가 연산할 수 있도록 데이터를 일시적으로만 저장하는, 복잡한 수학 문제를 풀 때 사용하는 연습장 같은 역할이다.
+최근 인공지능(AI), 고성능 컴퓨팅(HPC) 등이 발전하면서 데이터 처리량이 급증하고 있다. CPU나 그래픽처리장치(GPU) 같은 기술이 발전하고 있지만 이를 뒷받침하기 위해서는 D램 성능도 함께 높아져야 한다. 삼성전자는 이번 제품에서 업계 최고 속도인 10.7Gbps(초당 기가비트)를 달성했다. 지난 모델과 비교하면 데이터 처리 속도가 약 25% 빨라졌다.
+데이터 처리 속도를 높이면서도 소모 전력과 발열량은 줄였다. 기존 14㎚ 공정에서 12㎚급으로 개선해 D램의 회로 선폭을 축소했다. 회로 선폭이 작아질수록 발열은 줄고 전력 효율은 높아진다. LPDDR5X는 전 세대에 비해 소비 전력을 약 25% 낮췄다. 이를 모바일 기기에 도입하면 배터리 수명을 극대화할 수 있다. 
+두께 역시 기존 대비 약 8.5% 얇아졌다. D램 두께가 얇아지면 추후 D램을 쌓아올린 고대역폭메모리(HBM) 반도체를 만들 때도 유리해진다. 삼성전자는 이같이 얇은 LPDDR5X D램 패키지를 활용해 다단 구조의 모듈을 만들 예정이다. 
+LPDDR5X는 모바일뿐 아니라 AI 가속기, 서버, 자동차 전자 장비 등 다양한 분야에 응용할 수 있다. 지난해 하반기에 양산되기 시작해 모바일 중심으로 매출이 발생했고 올해부터 다양한 분야에 적용될 전망이다.
+삼성전자 측은 "향후 성능과 용량을 더 강화해 글로벌 고객에게 적기에 공급하겠다"며 "AI 시대에 프리미엄 D램 시장을 확대해나갈 것"이라고 밝혔다. 시장조사 업체 트렌드포스에 따르면 올해 1분기 세계 D램 시장 점유율은 삼성전자가 33.7%로 SK하이닉스에 이어 2위를 차지했다. 
+
+주최 : 과학기술정보통신부 
+주관 : 매일경제신문사 한국산업기술진흥협회
+
+[최원석 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[삼성전자가 개발한 '12㎚(나노미터)급 16Gb(기가비트) LPDDR5X'가 31주 차 IR52 장영실상 수상 제품으로 선정됐다. 소비 전력을 줄이면서도 데이터 처리 속도나 두께 면에서 세계 최고 성능을 갖춰 삼성전자의 D램 경쟁력을 다시금 입증했다는 평가다. D램은 컴퓨터 중앙처리장치(CPU) 데이터를 일시적으로 저장하는 주기억장치다. CPU가 연산할 수 있도록 데이터를 일시적으로만 저장하는, 복잡한 수학 문제를 풀 때 사용하는 연습장 같은 역할이다.]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101401</code_id>
+<code_nm><![CDATA[과학일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101401</small_code_id>
+<small_code_nm><![CDATA[과학일반]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/06/20250806_01110117000004_M00.jpg]]></image_url>
+<image_caption><![CDATA[왼쪽부터 백진혁 책임연구원, 양희갑 수석연구원, 송호영 상무, 김형진 수석연구원.  삼성전자]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11385903]]></article_url>
+</article>
+</saltlux>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11404969</art_id>
+<art_year>2025</art_year>
+<art_no>615154</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-28 13:43:20</service_daytime>
+<title><![CDATA[튜링, 인도에 이공계 특화 AI에이전트 ‘GPAI’ 출시]]></title>
+<sub_title><![CDATA[초·중등부터 대학까지 수학·과학 문제 맞춤 풀이]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김태성 기자(kts@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-28 13:43:20</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">초·중등부터 대학까지 수학·과학 문제 맞춤 풀이</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/28/news-p.v1.20250828.06bfddf765f64d048bded9fd5401ef98_P1.jpg' alt=''>
+인공지능(AI) 수학 학습 플랫폼 ‘수학대왕’을 운영하는 튜링은 이공계 특화 AI 에이전트 ‘GPAI’를 인도 시장에 공식 출시했다고 28일 밝혔다.
+GPAI는 대규모 학습 데이터로 훈련된 튜링AI와 수학·과학 특화 추론 모델을 결합해 초·중등(K-12) 과정부터 대학 수준에 이르기까지 모든 학습 단계에서 정확한 맞춤형 풀이를 제공한다.
+앞서 GPAI는 ‘인도의 MIT’라고 불리는 인도공과대학(IIT)과의 협업으로 실효성을 입증했다.
+튜링은 ▲AI 솔버(AI Solver) ▲AI 치트시트(AI Cheatsheet) ▲AI 노트테이커(AI Notetaker) 등 GPAI의 세 가지 핵심 기능을 선공개했으며 향후 AI 튜터(AI Tutor) 기능을 추가할 예정이다.
+AI 솔버는 이공계 고난이도 문제를 대상으로 풀이 과정을 심층 분석과 요약 형태로 동시에 제공해 학습 효율을 높인다. 다양한 풀이 스타일을 제공하여 AI 응답을 폭넓게 선택할 수 있도록 한 것이 특징이다.
+AI 치트시트는 시험 직전에 필요한 핵심 개념·공식·예제를 1페이지 요약본으로 생성하는 기능이다. 이를 통해 단시간 내 효율적인 시험 대비를 지원한다.
+AI 노트테이커는 AI 에이전트가 강의 자료에 대한 대본을 자동으로 생성하고 핵심 내용을 요약해 사용자의 이해도와 학습 편의성을 높여준다.
+튜링은 인도에 이어 오는 9월에는 미국, 10월에는 한국과 일본에 GPAI를 출시할 예정이다.
+9월 중에는 애플 앱스토어와 구글 플레이스토어에 입점하고, 향후에는 단순한 문제 풀이를 넘어 AI 기반 공학 시뮬레이션과 모델링 기능을 탑재해 학부생부터 박사와 교수에 이르기까지 학계와 연구자 모두 활용할 수 있는 필수 교육 및 연구 도구로 발전시킬 계획이다.
+최민규 튜링 대표는 “그간 수학대왕을 통해 축적한 튜링 AI 기술 노하우로 STEM 과목 특화 추론 AI 서비스 GPAI를 성공적으로 개발했다”며 “국내에서 검증된 운영 경험을 발판 삼아 앞으로 글로벌 무대에서 추론 AI 분야의 버티컬 AI 에이전트로 시장을 선도해 나가겠다”고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[초·중등부터 대학까지 수학·과학 문제 맞춤 풀이인공지능(AI) 수학 학습 플랫폼 ‘수학대왕’을 운영하는 튜링은 이공계 특화 AI 에이전트 ‘GPAI’를 인도 시장에 공식 출시했다고 28일 밝혔다. GPAI는 대규모 학습 데이터로 훈련된 튜링AI와 수학·과학 특화 추론 모델을 결합해 초·중등(K-12) 과정부터 대학 수준에 이르기까지 모든 학습 단계에서 정확]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/28/news-p.v1.20250828.06bfddf765f64d048bded9fd5401ef98_P1.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11404969]]></article_url>
+</article>
+</saltlux>

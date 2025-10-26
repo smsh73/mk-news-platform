@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11400189</art_id>
+<art_year>2025</art_year>
+<art_no>600114</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-22 11:17:13</service_daytime>
+<title><![CDATA[AI Bubble warnings continue to abound on Wall Street]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-22 11:17:13</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK400110</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/22/news-p.v1.20250822.c6f2463897924dd2914ce2642b89f0a2_P1.png' alt=' (UPI/Yonhap)'>
+Voices of caution are continuing to emerge on Wall Street after the U.S. stock market hit a historic high last week, with some warning that a short-term correction could be coming despite the long-term growth potential of new industries driven by artificial intelligence (AI).
+The Fear & Greed Index, which stood at 72 just a month ago, fell to 56 in a grim reflection of waning optimism. The U.S. Nasdaq plunged nearly 2 percent intraday and ended the day down 0.65 percent on Wednesday (local time) after a Massachusetts Institute of Technology (MIT) report revealed that 95 percent of companies adopting generative AI technology failed to deliver tangible financial results.
+The report came after OpenAI Inc. Chief Executive Officer (CEO) Sam Altman likened the current AI boom to the dot-com bubble last week, triggering a correction in big tech stocks.
+Oaktree Capital Management Inc. Chairman Howard Marks also noted in an August 13th, 2025 investor memo titled “On Bubble Watch” that the average price-to-earnings ratio (PER) of the 493 companies in the S&P 500 excluding the Magnificent Seven (M7) stands at about 22 times - well above historical averages.
+Bank of America strategist Michael Hartnett also pointed out that the S&P 500’s price-to-book ratio (PBR) is currently at 5.3 times, surpassing the 5.1 times level seen during the IT bubble in 2000. “Such valuations can only be justified by structural factors different from the past,” he said. “Otherwise, there is a risk of a bubble.”
+Compared with the dot-com era, however, M7 companies maintain strong fundamentals and earnings that are tempering fears of an AI bubble. However, high-valuation tech stocks outside the M7 have seen sharper declines recently, with AI software firm Datadog Inc. stock dropping 11.4 percent over the past month.
+Palantir Technologies Inc., a representative high-PER stock, also fell for six consecutive trading days, wiping out $73 billion in market capitalization. The shares closed at $156.01 on Wednesday, down 1.10 percent from the previous session, and down 16.56 percent from their record high close of $186.97 last week.
+According to Yahoo Finance, Palantir’s forward PER is a staggering 250 times - well above Nvidia Corp.’s 39 times and Alphabet Inc.’s 21 times.
+Nevertheless, Wall Street tech bulls remain optimistic.
+“This correction is a healthy phenomenon,” Wedbush Securities Inc. analyst Daniel Ives said in an interview with CNBC on the same day. “Now is not the time to run away, but rather an opportunity to buy tech stocks, including Palantir.”
+“Palantir’s market capitalization will reach $1 trillion within two to four years, and the tech bull cycle will last at least two to three more years,” he added.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[Voices of caution are continuing to emerge on Wall Street after the U.S. stock market hit a historic high last week, with some warning that a short-term correction could be coming despite the long-ter]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK400110</code_id>
+<code_nm><![CDATA[Market]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00308</middle_code_id>
+<middle_code_nm><![CDATA[English]]></middle_code_nm>
+<small_code_id>MK400110</small_code_id>
+<small_code_nm><![CDATA[Market]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/22/news-p.v1.20250822.c6f2463897924dd2914ce2642b89f0a2_P1.png]]></image_url>
+<image_caption><![CDATA[ (UPI/Yonhap)]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11400189]]></article_url>
+</article>
+</saltlux>

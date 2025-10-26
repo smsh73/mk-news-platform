@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11404445</art_id>
+<art_year>2025</art_year>
+<art_no>613335</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-27 18:02:00</service_daytime>
+<title><![CDATA[대피 장소·방법 등 재난문자 포함키로]]></title>
+<sub_title><![CDATA[중복·과다 발송도 최소화]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[정석환 기자(hwani84@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250828</pub_date>
+<pub_edition>17</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>25</pub_page>
+<reg_dt>2025-08-27 18:02:00</reg_dt>
+<mod_dt>2025-09-07 18:41:42</mod_dt>
+<art_org_class>MK100801</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[앞으로 재난문자메시지가 당장 수신이 필요하지 않은 지역까지 확대 전송되는 일이 줄어들 전망이다. 표준문안을 정비해 재난문자 글자 수를 늘리고, 문자 내용에 구체적인 대피 방안을 포함해 실효성도 높인다.
+행정안전부는 27일 이 같은 내용을 담은 '재난정보 전달체계 개선 대책'을 발표했다. 
+올 들어 호우·산불 등 재난이 잇따랐지만 정작 당시 발송된 재난문자의 내용은 모호한 반면 과다 발송됐다는 문제점이 지적됐다. 
+이번 개선안은 재난 상황과 대피 방안 등에 대한 정확한 정보를 전달하고, 재난문자로부터 소외되는 국민이 없도록 하는 데 중점을 뒀다.
+우선 국민들이 '언제, 어디로, 어떻게' 대피해야 하는지에 대한 내용을 담은 표준문안이 마련된다. 표준문안에는 구체적인 대피 장소와 행동요령이 포함된다. 기존 90자로 한정된 재난문자 용량을 157자로 늘리는 방안도 추진된다. 경각심 저하로 이어질 수 있는 재난문자 중복 수신도 최소화한다는 방침이다. 
+[정석환 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[앞으로 재난문자메시지가 당장 수신이 필요하지 않은 지역까지 확대 전송되는 일이 줄어들 전망이다. 표준문안을 정비해 재난문자 글자 수를 늘리고, 문자 내용에 구체적인 대피 방안을 포함해 실효성도 높인다.
+행정안전부는 27일 이 같은 내용을 담은 '재난정보 전달체계 개선 대책'을 발표했다. 
+올 들어 호우·산불 등 재난이 잇따랐지만 정작 당시 발송된 재난문자의 내용은 모호한 반면 과다 발송됐다는 문제점이 지적됐다. 
+이번 개선안은 재난 상황과 대피 방안 등]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100801</code_id>
+<code_nm><![CDATA[사회일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100801</small_code_id>
+<small_code_nm><![CDATA[사회일반]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11404445]]></article_url>
+</article>
+</saltlux>

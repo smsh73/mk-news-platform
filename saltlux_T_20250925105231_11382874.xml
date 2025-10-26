@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11382874</art_id>
+<art_year>2025</art_year>
+<art_no>549481</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-01 11:24:44</service_daytime>
+<title><![CDATA[신한투자증권, 글로벌 외환 핀테크 기업 스위치원과 MOU 체결]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[홍순빈 기자(hong.soonbin@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-01 11:24:44</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100503</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/01/news-p.v1.20250203.2e99bc9f659348d68ba8a9e3fd256068_P1.png' alt=' [사진=신한투자증권]'>
+신한투자증권은 글로벌 외환 핀테크 기업 스위치원과 MOU를 체결했다고 1일 밝혔다.
+이번 협약을 통해 양사는 스위치원 사용자에게 외화 기반 투자 경험을 제공하고 환전부터 주식 등 증권 투자까지 자연스럽게 연결되는 고객 경험을 구현할 예정이다.
+스위치원은 환전, 외환 트레이딩, 외환 리스크 관리에 특화된 글로벌 핀테크 기업으로 한국·일본·싱가포르 현지 법인을 기반으로 운영되고 있다.
+주요 서비스로는 무료환전, 자동환전, 분할매매 등의 24시간 환테크 서비스 ‘스위치원(Switchwon)’과, 통합 외환 리스크 관리 설루션인 ‘스위치플로우(Switchflow)’가 있다.
+2022년 서비스 론칭 이후 빠르게 성장해 2025년 8월 현재 월간 1500억원 이상, 연간 2조원 규모의 환전 거래를 처리하고 있다.
+서정아 스위치원 대표는 “신한투자증권과 MOU를 통해 증권 투자 시 발생하는 환전 비용에 대한 고객 부담을 없애고 환전과 해외 증권 투자가 통합된 혁신적인 사용자 경험을 제공하겠다”라고 밝혔다.
+한일현 신한투자증권 플랫폼사업본부장은 “최근 미국주식은 물론 다양한 해외 투자 서비스에 대한 고객들의 관심이 증가하고 있다”며 “스위치원과 업무협약을 통해 미국주식 소수점부터 시작해 다양한 외화 관련 투자서비스를 제공할 계획”이라고 밝혔다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[신한투자증권은 글로벌 외환 핀테크 기업 스위치원과 MOU를 체결했다고 1일 밝혔다. 이번 협약을 통해 양사는 스위치원 사용자에게 외화 기반 투자 경험을 제공하고 환전부터 주식 등 증권 투자까지 자연스럽게 연결되는 고객 경험을 구현할 예정이다. 스위치원은 환전, 외환 트레이딩, 외환 리스크 관리에 특화된 글로벌 핀테크 기업으로 한국·일본·싱가포르 현지 법인을]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100503</code_id>
+<code_nm><![CDATA[기업정보]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100503</small_code_id>
+<small_code_nm><![CDATA[기업정보]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100509</code_id>
+<code_nm><![CDATA[증권계동향]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100509</small_code_id>
+<small_code_nm><![CDATA[증권계동향]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/01/news-p.v1.20250203.2e99bc9f659348d68ba8a9e3fd256068_P1.png]]></image_url>
+<image_caption><![CDATA[ [사진=신한투자증권]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11382874]]></article_url>
+</article>
+</saltlux>

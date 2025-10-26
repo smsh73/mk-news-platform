@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11396064</art_id>
+<art_year>2025</art_year>
+<art_no>588250</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-18 14:51:20</service_daytime>
+<title><![CDATA[“사람 손처럼 정밀하다”...위로보틱스, 범용 휴머노이드 ‘알렉스’ 최초 공개]]></title>
+<sub_title><![CDATA[팔-손가락-허리 전신에서 힘 느끼며 반응
+고자유도 로봇 손으로 각종 작업 수행 가능]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[안선제 기자(ahn.sunje@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-18 14:51:20</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101506</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">팔-손가락-허리 전신에서 힘 느끼며 반응<br>고자유도 로봇 손으로 각종 작업 수행 가능</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/18/news-p.v1.20250818.616dd20c74a2438598df2608b43a405e_P1.jpeg' alt=' 위로보틱스의 휴머노이드 로봇 ‘알렉스(ALLEX)’. [사진 = 위로보틱스]'>
+로봇 스타트업 위로보틱스가 18일 자사의 첫 번째 범용 휴머노이드 로봇 ‘알렉스(ALLEX)’의 상반신을 최초 공개했다. 시각 인식과 위치 제어를 넘어 다양한 외부 물리 자극에도 반응할 수 있는 로봇으로, 특히 사람 손과 유사한 형태의 고자유도 손을 구현해 여러 작업을 수행할 수 있게 했다.
+한국기술교육대학교 제1캠퍼스 내 로봇 이노베이션 허브(RIH)에서 개발된 이 로봇은 ‘올 익스피리언스(ALL-EXperience’)에서 따 이름을 지었다.
+위로보틱스에 따르면 이 로봇은 사람같이 역감을 느끼며 외력에 순응할 수 있는 최초의 고자유도 로봇핸드(손)와, 기존 협동로봇 팔 대비 10배 이상 낮은 마찰력과 회전관성으로 높은 역구동성을 지닌 새로운 로봇 팔, 중력보상 메커니즘이 적용된 상체로 구성된다.
+알렉스의 손은 인간 손 크기와 유사한 형태에 15자유도(관절)를 갖춰 정교한 동작과 다양한 작업 수행이 가능하다. 인간 같은 원천적인 순응성을 가져 촉각센서 없이도 100gf의 미세한 힘도 감지하고 반응한다. 손끝의 반복정밀도도 0.3mm 이하로 높은 수준이다.
+또한 새로운 초저마찰 고하중 액츄에이터를 개발하고 적용함으로써, 인간 수준의 적응력과 힘 제어 성능을 구현했다고 회사는 강조했다. 정밀 위치제어와 힘·강성제어를 하나로 통합한 새로운 모터제어기술이 액츄에이터에 적용돼, 2자유도 중력보상 허리를 포함한 전신 설계를 통해 안전하면서도 고하중·정밀제어가 가능하다.
+손은 약 700g, 어깨 이하 전체는 약 5kg의 초경량 구조로 설계해 민첩성과 안전성을 확보하고자 했다. 전 가동 범위에서 한 손으로 3kg 이상의 물체를 다룰 수 있으며, 이는 자중 20kg 이상인 중형 협동로봇에 맞먹는 작업 능력으로 평가된다.
+또한 팔–손가락–허리 전신에 걸쳐 힘 센서 없이도 역감에 의해 반응하고 충격을 흡수할 수 있는 휴머노이드로 사람과의 안전하면서도 역동적인 상호작용이 가능하다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/18/news-p.v1.20250818.d6fe8bcdf4a24137855a7fbf61bea00e_P2.jpg' alt=' 위로보틱스의 휴머노이드 로봇 ‘알렉스(ALLEX)’. [사진 = 위로보틱스]'>
+위로보틱스는 향후 팔·손·바디·리더 시스템을 개별 또는 조합 형태로 공급 가능한 모듈형 플랫폼으로 확장하고, 다양한 분야에서의 실증 연구를 통해 사업화 기반을 구축할 계획이다.
+위로보틱스는 로봇과 인공지능 융합을 위한 개방형 협업 생태계 조성도 추진하고 있다. 현재 피지컬 AI(인공지능) 스타트업 리얼월드와 전략적으로 제휴하여 알렉스의 인텔리전스를 개발하고 있으며, 매사추세츠공과대학교(MIT)와 같은 국내외 주요 연구기관 및 기업과의 교류와 협력을 진행 중이다. 향후 연구용 플랫폼 공급 및 글로벌 상용화 파트너십 확대도 단계적으로 추진할 예정이다.
+김용재 위로보틱스 공동대표는 “2030년까지 누구나 일상에서 활용할 수 있는 범용 휴머노이드 플랫폼을 구현하는 것이 목표”라며 “정밀함과 유연함이 공존하는 새로운 범용 로봇의 시대를 열어갈 것”이라고 밝혔다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[팔-손가락-허리 전신에서 힘 느끼며 반응 고자유도 로봇 손으로 각종 작업 수행 가능로봇 스타트업 위로보틱스가 18일 자사의 첫 번째 범용 휴머노이드 로봇 ‘알렉스(ALLEX)’의 상반신을 최초 공개했다. 시각 인식과 위치 제어를 넘어 다양한 외부 물리 자극에도 반응할 수 있는 로봇으로, 특히 사람 손과 유사한 형태의 고자유도 손을 구현해 여러 작업을 수행할]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101506</code_id>
+<code_nm><![CDATA[스타트업]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101506</small_code_id>
+<small_code_nm><![CDATA[스타트업]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/18/news-p.v1.20250818.616dd20c74a2438598df2608b43a405e_P1.jpeg]]></image_url>
+<image_caption><![CDATA[ 위로보틱스의 휴머노이드 로봇 ‘알렉스(ALLEX)’. [사진 = 위로보틱스]]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/18/news-p.v1.20250818.d6fe8bcdf4a24137855a7fbf61bea00e_P2.jpg]]></image_url>
+<image_caption><![CDATA[ 위로보틱스의 휴머노이드 로봇 ‘알렉스(ALLEX)’. [사진 = 위로보틱스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11396064]]></article_url>
+</article>
+</saltlux>

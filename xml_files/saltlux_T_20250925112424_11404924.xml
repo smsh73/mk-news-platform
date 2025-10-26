@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11404924</art_id>
+<art_year>2025</art_year>
+<art_no>615060</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-28 12:39:29</service_daytime>
+<title><![CDATA[Korea’s biz sentiment rebounds in August after three months]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-28 12:39:29</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK400102</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/28/news-p.v1.20250828.ca8ec2d1dcad4e519ae53725e7afa02d_P1.png' alt=' (MK DB)'>
+The business sentiment in South Korea rebounded in August for the first time in three months, buoyed by the resolution of U.S. tariff negotiations and the government’s rollout of consumer coupons aimed at boosting household spending.
+According to data released by the Bank of Korea (BOK) on Wednesday, the Composite Business Survey Index (CBSI) for all industries stood at 91 in August, up 1 point from the previous month.
+The index had fallen for two consecutive months in June and July due to uncertainties surrounding U.S. trade talks but recovered once the negotiations concluded.
+The August reading marked the highest level in nine months since November 2024 (91.8), prior to the declaration of martial law in the country.
+Still, it remains below the neutral benchmark of 100, indicating that more firms view the economic outlook as pessimistic.
+By sector, the CBSI among manufacturers rose 1.4 points from July to 93.3, while the business sentiment for non-manufacturing sectors climbed 0.7 point to 89.4 on the back of improved sales and business conditions.
+Both sectors recorded their strongest performance since November 2024 (92.5).
+“The conclusion of the tariff negotiations reduced trade-related uncertainty, while exports - particularly semiconductors and automobiles - showed robust momentum,” said Lee Hye-young, head of the BOK’s Economic Sentiment Survey Team. “In non-manufacturing, the summer holiday season and household recovery measures, including the rollout of consumer coupons, contributed to gains in transport, warehousing, and wholesale/retail sectors.”
+The CBSI outlook in September also improved, with the projections for manufacturing and non-manufacturing up to 92.1 and 91.5, respectively compared to the outlook for August.
+In particular, the 4.7-point increase in the non-manufacturing outlook marked the sharpest monthly gain since May 2021.
+The survey was conducted from August 11 and 19, covering 3,524 companies nationwide, with 3,300 firms responding.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[The business sentiment in South Korea rebounded in August for the first time in three months, buoyed by the resolution of U.S. tariff negotiations and the government’s rollout of consumer coupons aime]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK400102</code_id>
+<code_nm><![CDATA[Economy]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00308</middle_code_id>
+<middle_code_nm><![CDATA[English]]></middle_code_nm>
+<small_code_id>MK400102</small_code_id>
+<small_code_nm><![CDATA[Economy]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/28/news-p.v1.20250828.ca8ec2d1dcad4e519ae53725e7afa02d_P1.png]]></image_url>
+<image_caption><![CDATA[ (MK DB)]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11404924]]></article_url>
+</article>
+</saltlux>

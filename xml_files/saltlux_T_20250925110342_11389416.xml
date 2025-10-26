@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11389416</art_id>
+<art_year>2025</art_year>
+<art_no>568527</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-09 15:07:27</service_daytime>
+<title><![CDATA[삼성전자와 대학원생들, 미 정부 주최 보안대회 우승 쾌거]]></title>
+<sub_title><![CDATA[삼성전자와 韓美대학 연합팀
+美정부 주최 사이버 보안대회 우승
+3위 팀도 한미 보안 연구자들로 구성]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[이덕주 기자(mrdjlee@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-09 15:07:27</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100305</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">삼성전자와 韓美대학 연합팀<br>美정부 주최 사이버 보안대회 우승<br>3위 팀도 한미 보안 연구자들로 구성</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/09/news-p.v1.20250809.eab540f675ee4ff3998d4f43e2bfc3ed_P1.png' alt=' 8일(현지시간) 미국 라스베이거스에서 열린 ‘AI 사이버 챌린지’에서 삼성전자와 국내외 주요 대학이 연합해 출전한 ‘팀 애틀랜타(Team Atlanta)’가 우승 기념 단체 사진을 찍고 있다. &lt;사진=삼성전자&gt;'>
+삼성전자와 한미대학 연합팀이 미국 정부 주최로 열린 AI 사이버 보안 대회에서 최종 우승했다.
+삼성전자는 9일 자사 뉴스룸을 통해 삼성전자와 국내외 주요 대학이 연합해 출전한 ‘팀 애틀랜타(Team Atlanta)’가 8일 미국 라스베이거스에서 개최된 세계 최대 보안 기술 경진 대회 ‘AI 사이버 챌린지(AIxCC)’에서 1위를 차지했다고 밝혔다.
+연합팀은 삼성전자의 선행 연구개발조직인 삼성리서치와 조지아텍, KAIST, 포스텍(POSTECH) 등의 세계적인 보안 연구원 40여 명으로 구성됐다.
+‘AI 사이버 챌린지’는 미국 국방부 산하 국방고등연구계획국(DARPA, Defense Advanced Research Projects Agency)이 총 상금 2250만 달러 규모로 진행하는 초대형 글로벌 보안 기술 경진 대회이다.
+대회는 대규모 소프트웨어(SW)의 취약점을 찾아 보완하는 기술력을 경쟁하고 교통·전력·의료 등 사회 기반 시스템의 안전을 강화하는 AI 보안 기술 개발을 촉진하자는 취지로 마련됐다.
+지난해 8월 열린 준결승에는 40여개 팀이 참가했고, 이 중 ‘팀 애틀랜타’를 포함한 7개 팀이 결승에 진출했다.
+8일 진행된 결승전은 세계 최대 해킹·보안 콘퍼런스 중 하나인 ‘데프콘33(DEF CON 33)’ 행사와 연계해 개최됐다. 최종 순위는 사람의 개입없이 AI 보안 기술만으로 소프트웨어 저장소의 소스 코드 취약점을 자동으로 분석하고 보안 패치를 적용한 결과로 결정됐다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/09/news-p.v1.20250809.e1a1d5fc348a4b7d949fef1e8e20c1e3_P3.png' alt=' 미국 국방부 산하 국방고등연구계획국(DARPA)이 2년에 걸쳐 개최한 ‘AI 사이버 챌린지(AIxCC)’. &lt;사진=DARPA&gt;'>
+삼성전자 연합팀은 결승전에서 복잡 다양한 보안 취약점들을 빠르게 찾아내고 정확한 보안 패치를 생성하는 기술을 선보이며 최종 우승했으며, 우승 상금 400만 달러도 받았다.
+연합팀을 이끈 삼성전자 삼성리서치 김태수 상무는“삼성전자가 포함된 팀 애틀랜타가 세계적인 대회에서 AI 보안 기술력을 입증하는 값진 성과를 낼 수 있었다”며 “앞으로도 글로벌 보안 전문가들과 협업해 삼성전자의 보안 기술력을 더욱 높여가겠다”고 우승 소감을 밝혔다.
+주최측에 따르면 뉴욕에 본사를 둔 중소기업인 트레일오브비츠(Trail of Bits)가 대회에서 2위를 차지했고, 미국과 한국의 AI 연구자와 보안 전문가로 구성된 기업 데오리(Theori)가 3위를 차지했다. 2위팀과 3위팀도 각각 300만 달러, 150만 달러의 상금을 받았다.
+이번 대회는 미국의 대표적인 AI 기업들의 지원이 있었다. 앤트로픽, 구글, 오픈AI가 기술지원을 제공했고 각 팀에 5만 달러씩 총 35만 달러의 LLM모델 크레딧을 기부했다. 준결승대회에서도 앤트로픽, 구글, 오픈AI, 마이크로소프트가 각각 5000달러어치의 크레딧을 각 팀에 제공했다.
+[이덕주 기자]
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[삼성전자와 韓美대학 연합팀 美정부 주최 사이버 보안대회 우승 3위 팀도 한미 보안 연구자들로 구성삼성전자와 한미대학 연합팀이 미국 정부 주최로 열린 AI 사이버 보안 대회에서 최종 우승했다. 삼성전자는 9일 자사 뉴스룸을 통해 삼성전자와 국내외 주요 대학이 연합해 출전한 ‘팀 애틀랜타(Team Atlanta)’가 8일 미국 라스베이거스에서 개최된 세계 최대]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100305</code_id>
+<code_nm><![CDATA[전기·전자·통신]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100305</small_code_id>
+<small_code_nm><![CDATA[전기·전자·통신]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101505</code_id>
+<code_nm><![CDATA[보안/해킹]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101505</small_code_id>
+<small_code_nm><![CDATA[보안/해킹]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/09/news-p.v1.20250809.eab540f675ee4ff3998d4f43e2bfc3ed_P1.png]]></image_url>
+<image_caption><![CDATA[ 8일(현지시간) 미국 라스베이거스에서 열린 ‘AI 사이버 챌린지’에서 삼성전자와 국내외 주요 대학이 연합해 출전한 ‘팀 애틀랜타(Team Atlanta)’가 우승 기념 단체 사진을 찍고 있다. &lt;사진=삼성전자&gt;]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/09/news-p.v1.20250809.e1a1d5fc348a4b7d949fef1e8e20c1e3_P3.png]]></image_url>
+<image_caption><![CDATA[ 미국 국방부 산하 국방고등연구계획국(DARPA)이 2년에 걸쳐 개최한 ‘AI 사이버 챌린지(AIxCC)’. &lt;사진=DARPA&gt;]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11389416]]></article_url>
+</article>
+</saltlux>

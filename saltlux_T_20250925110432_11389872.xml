@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11389872</art_id>
+<art_year>2025</art_year>
+<art_no>569815</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-10 17:32:57</service_daytime>
+<title><![CDATA[“더 이상 서민 음식 아닌 金밥”… 재료값 인상에 1줄 평균 가격 3623원]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[안서진 매경 디지털뉴스룸 기자(seojin@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-10 17:32:57</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100801</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/10/news-p.v1.20250810.2f0e4415dd49433092ddc5c2e5a53188_P1.png' alt=' [사진출처=연합뉴스]'>
+올해 상반기 외식 메뉴 중 가격이 가장 큰 폭으로 오른 품목은 김밥으로 나타났다.
+10일 한국소비자원 가격정보종합포털 참가격에 따르면 서울 지역의 김밥 1줄 가격은 지난 6월 말 기준 3623원으로 지난해 말(3500원)에 비해 3.5%(123원) 오른 것으로 집계됐다. 이는 참가격에서 공개하는 8가지 외식 메뉴 중 상승 폭이 가장 크다.
+고물가로 인한 재료비 상승이 원인으로 보인다. 다양한 속재료가 들어가는 김밥은 물가 영향을 많이 받는다.
+실제 한국농수산식품유통공사(aT)에 따르면 김밥 주 재료인 쌀의 가격은 6월 말 20㎏ 기준 5만9059원으로 지난해의 5만3610원보다 10.2% 비싸졌다.
+김밥에 빠질 수 없는 재료인 마른김은 10장 기준 1320원에서 1347원으로 2.1%, 시금치는 100g 기준 878원에서 961원으로 9.5% 각각 뛰었다.
+여기에 임대료와 인건비 등도 꾸준히 오르면서 가격 상승세를 부추겼다.
+김밥에 이어 가격이 많이 오른 품목은 칼국수다. 지난해 말 9385원에서 6월 말 9692원으로 3.3% 상승했다.
+이 외에도 김치찌개 백반(8269원→8500원)은 2.8%, 비빔밥(1만1192원→1만1462원)은 2.4%, 냉면(1만2000원→1만2269원)과 삼계탕(1만7269원→1만7654원)은 각각 2.2%씩 가격이 올랐다.
+자장면은 7423원에서 7500원으로 1.0% 상승했다. 삼겹살은 200g 기준 1만7269원에서 1만7654원으로 0.8% 올라 상승 폭이 가장 낮았다.
+기록적인 폭염과 폭우의 영향으로 외식 물가는 더 오를 조짐이다.
+통계청에 따르면 지난달 소비자물가지수는 전년 동월 대비 2.1% 상승했다.
+특히, 농축수산물 가격 오름세가 두드러졌다.
+품목별로는 시금치(13.6%), 열무(10.1%), 수박(20.7%), 귤(15.0%) 등이 두자릿 수 이상 큰 폭으로 올랐다. 쌀 가격도 7.6% 상승했다.
+정부는 물가의 추가 상승을 경고하며 품목별 관리에 만전을 기한다는 방침이다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[올해 상반기 외식 메뉴 중 가격이 가장 큰 폭으로 오른 품목은 김밥으로 나타났다. 10일 한국소비자원 가격정보종합포털 참가격에 따르면 서울 지역의 김밥 1줄 가격은 지난 6월 말 기준 3623원으로 지난해 말(3500원)에 비해 3.5%(123원) 오른 것으로 집계됐다. 이는 참가격에서 공개하는 8가지 외식 메뉴 중 상승 폭이 가장 크다. 고물가로 인한 재]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100801</code_id>
+<code_nm><![CDATA[사회일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100801</small_code_id>
+<small_code_nm><![CDATA[사회일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100809</code_id>
+<code_nm><![CDATA[지역경제]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100809</small_code_id>
+<small_code_nm><![CDATA[지역경제]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/10/news-p.v1.20250810.2f0e4415dd49433092ddc5c2e5a53188_P1.png]]></image_url>
+<image_caption><![CDATA[ [사진출처=연합뉴스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11389872]]></article_url>
+</article>
+</saltlux>

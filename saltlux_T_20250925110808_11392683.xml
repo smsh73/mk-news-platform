@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11392683</art_id>
+<art_year>2025</art_year>
+<art_no>577963</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-13 13:25:27</service_daytime>
+<title><![CDATA[한화 건설부문, 현장 CCTV에 AI 기술 도입]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[이하린 매경 디지털뉴스룸 기자(may@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-13 13:25:27</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100607</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/13/news-p.v1.20250813.110d2f92e49d479f9b879f9946e7be89_P1.jpeg' alt=' 고위험 통합관제 시스템 ‘H-HIMS’. [사진 출처 = 한화 건설부문]'>
+한화 건설부문은 실시간 안전관리체계 강화를 위해 현장 밀착형 CCTV 통합관제 시스템에 AI 영상분석 기술 도입을 추진한다고 13일 밝혔다.
+한화 건설부문은 건설현장의 고위험 작업을 본사에서 실시간으로 통합 관제하는 고위험 통합관제 시스템 ‘H-HIMS’ 를 지난 2022년 선제적으로 구축해 운영 중이다.
+해당 시스템을 통해 전국 건설현장의 CCTV 영상들을 최대 128개 화면에서 동시 모니터링하고 있으며, 현장 안전보건 관리자와 본사 통합관제 조직 간 실시간 정보 공유로 위험 상황 감지와 예방 역량을 강화하고 있다.
+특히 주요 작업구간으로 위치를 바꿔가며 영상을 전송할 수 있는 이동식 CCTV를 적극적으로 활용해 현장 밀착형 안전관리를 실시하고 있다.
+한화 건설부문은 이러한 통합관제 시스템을 한층 고도화하기 위해 AI 기술을 점진적으로 도입한다는 방침이다.
+지난 7월 AI 영상분석 기술을 접목한 스마트 관제 시스템 시연을 실시했으며, 시범 현장에서 효과를 검증하는 테스트를 진행하고 있다.
+AI가 작업자의 움직임을 추적해 개구부, 타워크레인 하부 등 위험지역 접근 시 자동으로 알리거나 세대수직망 등 안전시설물 훼손을 감지하는 기능 등이 대표적이다.
+위험상황이 감지되면 모바일 앱이나 CCTV 스피커를 통해 근로자에게 즉시 경고를 전달한다.
+한화 건설부문 관계자는 “AI 기술을 활용해 사람이 놓치기 쉬운 위험까지 선제적으로 대응할 수 있을 것으로 기대한다”고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[한화 건설부문은 실시간 안전관리체계 강화를 위해 현장 밀착형 CCTV 통합관제 시스템에 AI 영상분석 기술 도입을 추진한다고 13일 밝혔다. 한화 건설부문은 건설현장의 고위험 작업을 본사에서 실시간으로 통합 관제하는 고위험 통합관제 시스템 ‘H-HIMS’ 를 지난 2022년 선제적으로 구축해 운영 중이다. 해당 시스템을 통해 전국 건설현장의 CCTV 영상들]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100607</code_id>
+<code_nm><![CDATA[건설업계 동향]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00503</middle_code_id>
+<middle_code_nm><![CDATA[부동산]]></middle_code_nm>
+<small_code_id>MK100607</small_code_id>
+<small_code_nm><![CDATA[건설업계 동향]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/13/news-p.v1.20250813.110d2f92e49d479f9b879f9946e7be89_P1.jpeg]]></image_url>
+<image_caption><![CDATA[ 고위험 통합관제 시스템 ‘H-HIMS’. [사진 출처 = 한화 건설부문]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11392683]]></article_url>
+</article>
+</saltlux>

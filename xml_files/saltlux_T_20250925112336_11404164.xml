@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11404164</art_id>
+<art_year>2025</art_year>
+<art_no>612615</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-27 15:14:35</service_daytime>
+<title><![CDATA[서울시, 공공와이파이 직접 깐다]]></title>
+<sub_title><![CDATA[지자체 최초 기간통신사업자 지정]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김규식 기자(dorabono@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-27 15:14:35</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101502</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">지자체 최초 기간통신사업자 지정</div></MKSUBTITLE>
+서울시가 지방자치단체 최초로 기간통신사업자로 지정됐다. 서울시는 이번 지정을 계기로 공공 와이파이를 비롯한 공익 목적의 통신 서비스를 본격 추진할 계획이다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/27/news-p.v1.20250827.d18ef65f55d846b3b416657fad48ec2e_P1.png' alt=' 과학기술정보통신부 전경. &lt;과학기술정보통신부&gt;'>
+과학기술정보통신부는 27일 서울시의 기간통신사업자 등록 신청을 승인했다고 밝혔다. 지자체가 기간통신사업자로 등록한 것은 이번이 처음이다. 그동안 기지국 장비 등 통신 인프라 구축은 이동통신사 등 기업과 기관만 가능했지만 지난해 전기통신사업법 개정으로 지자체도 등록이 가능해졌다.
+정부는 그동안 통신을 민간 중심 사업으로 규정하고 국가나 지자체가 자체 통신망을 구축해 일반 대중을 대상으로 서비스를 제공하는 것을 엄격히 제한해왔다. 그러나 각 지자체가 주민 복지를 위해 공공 와이파이를 속속 도입하면서 이를 불법으로 방치하기 어려워졌고 결국 국회가 법 개정을 단행했다.
+서울시는 앞으로 공공장소와 디지털 정보 취약계층 이용 시설을 중심으로 공공 와이파이를 확충해 시민들의 통신비 부담을 덜어줄 방침이다. 과기정통부는 외부 전문기관의 적합성 평가 결과를 토대로 서울시의 사업이 법령상 공익사업 요건에 부합한다고 판단했다.
+배경훈 과기정통부 장관은 “AI 시대에 지자체 주민의 디지털 접근성을 높이는 중요한 계기가 될 것”이라며 “서울시 사례가 다른 지자체로 확산돼 지역 주민들이 더 쉽게 디지털 서비스를 이용할 수 있기를 기대한다”고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[지자체 최초 기간통신사업자 지정서울시가 지방자치단체 최초로 기간통신사업자로 지정됐다. 서울시는 이번 지정을 계기로 공공 와이파이를 비롯한 공익 목적의 통신 서비스를 본격 추진할 계획이다. 과학기술정보통신부는 27일 서울시의 기간통신사업자 등록 신청을 승인했다고 밝혔다. 지자체가 기간통신사업자로 등록한 것은 이번이 처음이다. 그동안 기지국 장비 등 통신 인프]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101502</code_id>
+<code_nm><![CDATA[통신]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101502</small_code_id>
+<small_code_nm><![CDATA[통신]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101504</code_id>
+<code_nm><![CDATA[인터넷/SNS]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101504</small_code_id>
+<small_code_nm><![CDATA[인터넷/SNS]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/27/news-p.v1.20250827.d18ef65f55d846b3b416657fad48ec2e_P1.png]]></image_url>
+<image_caption><![CDATA[ 과학기술정보통신부 전경. &lt;과학기술정보통신부&gt;]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11404164]]></article_url>
+</article>
+</saltlux>

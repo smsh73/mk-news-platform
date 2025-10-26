@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11388414</art_id>
+<art_year>2025</art_year>
+<art_no>566073</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-08 09:09:07</service_daytime>
+<title><![CDATA[메타, 감정 인식·모사 오디오 AI 스타트업 ‘웨이브폼스’ 인수]]></title>
+<sub_title><![CDATA[음성 AI 경쟁력 강화
+라마4 출시 지연 이후
+대화형 AI 역량 보완 의도]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[원호섭 기자(wonc@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-08 09:09:07</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">음성 AI 경쟁력 강화<br>라마4 출시 지연 이후<br>대화형 AI 역량 보완 의도</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/08/news-p.v1.20250808.afae99be87324f9382a8730ce841ece5_P1.png' alt=' 웨이브폼스AI'>
+메타가 감정을 인식하고 이를 음성으로 재현하는 인공지능(AI) 기술을 개발하는 스타트업 ‘웨이브폼스 AI(WaveForms AI)’를 인수했다. 이번 거래는 메타의 AI 전략 전환과 음성 AI 역량 강화 움직임의 일환으로, 인수 금액은 공개되지 않았다.
+7일(현지시간) IT전문 매체 디 인포메이션 웨이브폼스 AI는 지난해 12월 설립 직후 안드리센 호로위츠 주도의 4000만 달러(약 550억 원) 규모 투자 유치를 발표한 바 있다. 공동 창업자 알렉시스 코노는 메타에서 8년간 오디오 연구를 진행한 뒤, 오픈AI의 GPT-4o 음성 연구를 이끈 인물이다. 또 다른 창업자 코랄리 르메트르는 구글에서 광고 사업 전략을 담당한 경력이 있다. 두 사람은 이번 인수로 메타의 신규 AI 조직 ‘슈퍼인텔리전스 랩’에 합류하게 된다.
+메타는 최근 AI 분야에서 대규모 인재 영입에 나서고 있다. 6월에는 스케일 AI CEO 알렉산더 왕을 최고 AI 책임자로 영입하고, 데이터 라벨링 분야에 143억 달러를 투자하기로 했다. 또 전 깃허브 CEO 낫 프리드먼, 전 세이프 슈퍼인텔리전스 CEO 다니엘 그로스를 채용하고, 이들이 운영하는 벤처펀드 NFDG의 일부 지분 매입도 추진 중이다.
+최근에는 오픈AI, 앤트로픽, 구글 등 경쟁사에서 수십 명의 연구자를 영입했으며 음성 AI 스타트업 ‘플레이AI’ 인수도 성사했다.
+이번 인수는 메타가 장기적으로 구현하려는 ‘상시 대화형 AI’ 비전에 힘을 실어줄 전망이다. 마크 저커버그 CEO는 4월 실적 발표에서 “우리는 온종일 대화하는 AI를 모두 갖게 될 것”이라고 밝힌 바 있다. 이는 올 초 자사 대형언어모델(LLM) ‘라마(LLaMA) 4’ 출시를 미룬 배경과도 연결된다. 당시 메타는 라마4의 음성 대화 능력이 오픈AI 모델보다 떨어진다는 우려를 내부적으로 제기했으며, 이를 개선하기 위해 음성 연구 인재와 기술 확보에 속도를 내고 있다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[음성 AI 경쟁력 강화 라마4 출시 지연 이후 대화형 AI 역량 보완 의도메타가 감정을 인식하고 이를 음성으로 재현하는 인공지능(AI) 기술을 개발하는 스타트업 ‘웨이브폼스 AI(WaveForms AI)’를 인수했다. 이번 거래는 메타의 AI 전략 전환과 음성 AI 역량 강화 움직임의 일환으로, 인수 금액은 공개되지 않았다. 7일(현지시간) IT전문 매체 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101508</code_id>
+<code_nm><![CDATA[빅데이터]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101508</small_code_id>
+<small_code_nm><![CDATA[빅데이터]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/08/news-p.v1.20250808.afae99be87324f9382a8730ce841ece5_P1.png]]></image_url>
+<image_caption><![CDATA[ 웨이브폼스AI]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11388414]]></article_url>
+</article>
+</saltlux>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11396853</art_id>
+<art_year>2025</art_year>
+<art_no>590180</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-19 10:42:24</service_daytime>
+<title><![CDATA[Xenosolution unveils virtual desktop management solution]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-19 10:42:24</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK400111</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/19/news-p.v1.20250819.407c88b9fde04b0abb38f5b2e29f06ff_P1.png' alt=' CEO Kang Dae-sung'>
+Xenosolution Co., an information and communication technology (ICT) company that provides cloud migration, security monitoring, and virtual desktop infrastructure (VDI) solutions to the finance and public sectors, recently introduced VDeX, a virtual desktop management solution designed to dramatically reduce costs.
+“By eliminating reliance on expensive hardware and software, and using the resources of users’ existing PCs instead, we can drastically cut both initial investment and ongoing maintenance costs while also improving operational efficiency,” Xenosolution Chief Executive Officer Kang Dae-sung told Maeil Business Newspaper in an interview on Monday. “Businesses can leverage the performance of their current PCs to create independent virtual desktops without purchasing costly servers or storage systems.”
+By using built-in virtualization technologies in Windows and Linux, VDeX provides a secure workspace that is completely isolated from the actual PC environment, ensuring both data security and system stability.
+The solution also minimizes the network, requirements for connecting to data centers, which reduces network setup and operating costs.
+Users log in through a dedicated portal and only authorized users can make changes, enhancing security even further.
+Also, by logically separating the business network from the internet, it completely blocks potential threats such as data transfers, screen captures, and network drive connections.
+The solution also supports a variety of virtualization software, ensuring flexible integration with different platforms.
+“This technology makes it possible to logically separate the business network and the internet on a single PC - essentially allowing one PC to function as two distinct PCs,” Kang said. “VDI enables smart work environments, improves IT management efficiency via centralized control, and strengthens security at the same time.”
+However, the high cost of VDI adoption remains a major barrier. Foreign-made solutions that dominate the Korean market require high-performance servers, large-scale storage, complex networking equipment, and virtualization software - all of which lead to massive upfront investments.
+Global IT research firm Gartner said that for organizations with fewer than 500 employees, the total cost of VDI solutions accounts for more than 30 percent of their average IT budget.
+“With our VDI solution, businesses can significantly lower costs,” Kang said. “We are already leading the digital infrastructure transformation at financial institutions and public organizations, including Industrial Bank of Korea and Suhyup Bank.”
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[Xenosolution Co., an information and communication technology (ICT) company that provides cloud migration, security monitoring, and virtual desktop infrastructure (VDI) solutions to the finance and pu]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK400111</code_id>
+<code_nm><![CDATA[Biz]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00308</middle_code_id>
+<middle_code_nm><![CDATA[English]]></middle_code_nm>
+<small_code_id>MK400111</small_code_id>
+<small_code_nm><![CDATA[Biz]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/19/news-p.v1.20250819.407c88b9fde04b0abb38f5b2e29f06ff_P1.png]]></image_url>
+<image_caption><![CDATA[ CEO Kang Dae-sung]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11396853]]></article_url>
+</article>
+</saltlux>

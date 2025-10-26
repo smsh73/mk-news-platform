@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11384980</art_id>
+<art_year>2025</art_year>
+<art_no>556337</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-04 17:40:44</service_daytime>
+<title><![CDATA[ELS 불완전판매 과징금 기준은 '판매액']]></title>
+<sub_title><![CDATA[금융위, 금소법 적용기준 확정<br>일부은행 조단위 부담할수도]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[이소연 기자(lee.soyeon2@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250805</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>12</pub_page>
+<reg_dt>2025-08-04 17:40:44</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100201</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/05/20250805_01110112000008_S00.jpg' alt=''>
+
+금융당국이 홍콩H지수 주가연계증권(ELS)의 불완전판매에 대한 과징금 산정 기준을 '판매금액'으로 설정했다. 위법 행위에 대한 실질적 책임을 묻겠다는 취지다. 일각에선 주요 시중은행에 최대 조(兆) 단위 과징금이 부과될 가능성이 있다는 지적도 나온다. 2024년 사태 이후 1년 넘게 미뤄졌던 제재 절차도 본격화될 전망이다. 4일 금융권에 따르면 금융위원회는 지난달 23일 정례회의에서 금융소비자보호법(금소법)상 과징금 기준을 '판매수수료'가 아닌 '판매금액'으로 해석하는 방안을 내부적으로 확정했다. 금소법 제57조는 위법 행위로 체결된 계약에서 얻은 수입 또는 이에 준하는 금액의 50% 이내에서 과징금을 부과할 수 있도록 하고 있다.
+다만 '수입'을 어떻게 해석할지를 두고 그간 업계와 당국 사이에 이견이 있었다. ELS 등 금융투자상품의 수입을 '투자 원금'과 '수수료' 중 무엇으로 규정하는지에 따라 법의 해석이 달라지기 때문이다. 은행권은 기준이 '수수료 수입'일 경우 과징금이 수백억 원 수준이다. '판매금액' 기준이면 조 단위에 이를 수 있어 타격이 불가피하다고 보는 것으로 알려졌다.
+금융위에 따르면 2024년 말 기준 H지수 ELS 손실이 확정된 계좌는 약 17만건, 전체 원금 10조4000억원 중 손실액은 4조6000억원에 달한다. 이 중 KB국민은행이 판매 규모가 가장 컸다. 과징금과 별도로 금융사들은 그간 피해자들과 합의를 통해 배상을 진행해왔다. 배상비율은 피해액의 20~60% 수준이었으며 총 1조3000억원가량이 지급됐다. 금융당국은 2023년부터 내부 태스크포스(TF)를 꾸려 과징금 산정 기준에 대해 논의를 이어왔다.  
+[이소연 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[금융당국이 홍콩H지수 주가연계증권(ELS)의 불완전판매에 대한 과징금 산정 기준을 '판매금액'으로 설정했다. 위법 행위에 대한 실질적 책임을 묻겠다는 취지다. 일각에선 주요 시중은행에 최대 조(兆) 단위 과징금이 부과될 가능성이 있다는 지적도 나온다. 2024년 사태 이후 1년 넘게 미뤄졌던 제재 절차도 본격화될 전망이다. 4일 금융권에 따르면 금융위원회는 지난달 23일 정례회의에서 금융소비자보호법(금소법)상 과징금 기준을 '판매수수료'가 아닌 '판매금]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100201</code_id>
+<code_nm><![CDATA[금융정책·일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100201</small_code_id>
+<small_code_nm><![CDATA[금융정책·일반]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/05/20250805_01110112000008_S00.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11384980]]></article_url>
+</article>
+</saltlux>

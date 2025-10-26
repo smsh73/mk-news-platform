@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11388202</art_id>
+<art_year>2025</art_year>
+<art_no>565592</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-07 22:10:07</service_daytime>
+<title><![CDATA[美 고용시장 선행지표 ‘실업수당 청구’, 한 주 새 7000건 늘어]]></title>
+<sub_title><![CDATA[시장 전망 상회한 22만6000건
+‘계속 실업수당 청구’는 38K ↑
+실업 후 새 일자리 ‘지연 신호’]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[이재철 기자(humming@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-07 22:10:07</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101001</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">시장 전망 상회한 22만6000건<br>‘계속 실업수당 청구’는 38K ↑<br>실업 후 새 일자리 ‘지연 신호’</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/07/news-p.v1.20250807.a983cbc4d5c341469823ee5604a059de_P1.jpg' alt='자료=미국 노동부'>
+미국 고용 시장의 선행 지표인 ‘주간 신규 실업수당 청구 건수’가 한 주 전보다 다수 증가했다.
+미국 노동부는 지난주(7월 27∼8월 2일) 신규 실업수당 청구 건수가 22만6000건으로, 전주 대비 7000건 증가했다고 7일(현지시간) 밝혔다.
+증가 폭은 다우존스가 집계한 전문가 전망치(22만1000건)를 웃도는 수준이다. 노동부는 전주 발표치인 21만8000명도 21만9000명으로 수정 발표했다.
+다만 4주 이동평균은 22만750명으로 하향 흐름을 보였다.
+문제는 2주 이상 실업수당을 신청한 ‘계속 실업수당’ 청구 건수가 7월 20일∼26일 주간 197만4000건으로 한 주 전보다 3만8000건 증가한 대목이다. 이는 2021년 11월 이후 3년 9개월 만에 가장 높은 수준이라고 노동부는 설명했다.
+계속 실업수당 청구의 증가는 실업 후 새 일자리를 바로 찾지 못하는 사람들이 늘었음을 의미한다.
+지난주 부진한 7월 고용보고서 발표 이후 미국 고용 사정이 악화하고 있다는 염려가 커지면서 미국 중앙은행인 연방준비제도(Fed·연준)이 9월 기준금리를 내릴 것이라는 관측이 힘을 얻고 있다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[시장 전망 상회한 22만6000건 ‘계속 실업수당 청구’는 38K ↑ 실업 후 새 일자리 ‘지연 신호’미국 고용 시장의 선행 지표인 ‘주간 신규 실업수당 청구 건수’가 한 주 전보다 다수 증가했다. 미국 노동부는 지난주(7월 27∼8월 2일) 신규 실업수당 청구 건수가 22만6000건으로, 전주 대비 7000건 증가했다고 7일(현지시간) 밝혔다. 증가 폭은]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101001</code_id>
+<code_nm><![CDATA[국제정치]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101001</small_code_id>
+<small_code_nm><![CDATA[국제정치]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101002</code_id>
+<code_nm><![CDATA[국제경제]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101002</small_code_id>
+<small_code_nm><![CDATA[국제경제]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/07/news-p.v1.20250807.a983cbc4d5c341469823ee5604a059de_P1.jpg]]></image_url>
+<image_caption><![CDATA[자료=미국 노동부]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11388202]]></article_url>
+</article>
+</saltlux>

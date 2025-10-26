@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11402131</art_id>
+<art_year>2025</art_year>
+<art_no>606172</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-25 13:51:58</service_daytime>
+<title><![CDATA[김재경 CI, 세계적 수학학회서 한국인 최초 기조강연자로]]></title>
+<sub_title><![CDATA[SIAM 연례학술대회서
+수학·AI 시너지 강연]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[고재원 기자(ko.jaewon@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-25 13:51:58</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101401</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">SIAM 연례학술대회서<br>수학·AI 시너지 강연</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/25/news-p.v1.20250825.5c646203859f412393aa2c7f6dd8bd28_P1.png' alt=' 김재영 기초과학연구원(IBS) CI(Chief Investigator)가 세계적 수학학술대회인 미국산업응용수학회(SIAM) 기조강연을 진행 중이다. [사진=IBS]'>
+김재영 기초과학연구원(IBS) CI(Chief Investigator)가 세계적 수학학술대회인 미국산업응용수학회(SIAM) 기조강연자로 나섰다.
+25일 IBS는 오는 8월 캐나다 몬트리올에서 열린 SIAM 연례학술대회에서 김 CI가 기조강연했다고 밝혔다. 1952년 학회 창립 이후 70여년 만에 한국인 최초다.
+강연 주제는 ‘인간 건강 문제 해결을 위한 시계열 분석을 위한 수학 모델링과 AI의 시너지(Synergy between Math Modeling and AI for Timeseries Analysis to Solve Human Health Problems)’로 수학적 모델링과 AI의 융합을 통해 인류 건강 문제를 해결하는 연구들을 소개했다.
+특히 이번 강연에서는 ▲수학 기반 인과관계 추정 방법을 개발하여 기후가 전염병 확산에 미치는 영향을 규명한 연구 ▲수리모델과 신경망을 결합해 항생제 효과가 일관되게 유지되는 치료 타겟을 규명한 성과 ▲수리모델과 AI를 활용해 개인의 수면 데이터를 분석하고 맞춤형 수면 패턴을 추천하는 알고리즘 등이 소개됐다. 이 알고리즘은 실제로 삼성 갤럭시 워치에 탑재되어 전 세계 수천만 명이 사용 중이다.
+김 CI는 강연에서 “수학과 인공지능의 융합은 맞춤형 헬스케어와 정밀 의학을 현실화하는 핵심 도구”라며 “이번 기조강연은 한국 수학이 세계적 연구 무대에서 중심적 역할을 할 수 있음을 보여주는 중요한 이정표”라고 밝혔다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[SIAM 연례학술대회서 수학·AI 시너지 강연김재영 기초과학연구원(IBS) CI(Chief Investigator)가 세계적 수학학술대회인 미국산업응용수학회(SIAM) 기조강연자로 나섰다. 25일 IBS는 오는 8월 캐나다 몬트리올에서 열린 SIAM 연례학술대회에서 김 CI가 기조강연했다고 밝혔다. 1952년 학회 창립 이후 70여년 만에 한국인 최초다. ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101401</code_id>
+<code_nm><![CDATA[과학일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101401</small_code_id>
+<small_code_nm><![CDATA[과학일반]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/25/news-p.v1.20250825.5c646203859f412393aa2c7f6dd8bd28_P1.png]]></image_url>
+<image_caption><![CDATA[ 김재영 기초과학연구원(IBS) CI(Chief Investigator)가 세계적 수학학술대회인 미국산업응용수학회(SIAM) 기조강연을 진행 중이다. [사진=IBS]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11402131]]></article_url>
+</article>
+</saltlux>

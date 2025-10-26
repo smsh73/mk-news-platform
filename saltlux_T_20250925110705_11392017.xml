@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11392017</art_id>
+<art_year>2025</art_year>
+<art_no>576008</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-12 17:51:26</service_daytime>
+<title><![CDATA[美, 엔비디아 AI칩도 中수출 허용땐, 삼성 'HBM 공급' 기회의 문 열릴듯]]></title>
+<sub_title><![CDATA[트럼프 "성능50% 낮추면 허용"<br>SK하이닉스만으로 물량 한계<br>이재용·젠슨 황 면담에 주목]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김동은 기자(bridge@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250813</pub_date>
+<pub_edition>16</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>13</pub_page>
+<reg_dt>2025-08-12 17:51:27</reg_dt>
+<mod_dt>2025-08-12 19:15:16</mod_dt>
+<art_org_class>MK100305</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/13/20250813_01160113000004_S00.jpg' alt=''>
+
+도널드 트럼프 미국 대통령이 엔비디아 인공지능(AI) 칩의 중국 수출을 추가로 허용할 수 있다고 언급하면서 삼성전자의 글로벌 AI 칩 시장 진입 속도도 빨라질 것이란 기대감이 높아지고 있다.
+12일(현지시간) 로이터통신·블룸버그에 따르면 트럼프 대통령은 브리핑을 통해 성능을 30~50% 낮춘 엔비디아 블랙웰 기반 AI 가속기의 중국 판매를 허용하는 방안을 검토 중이라고 밝혔다. 블랙웰 제품은 엔비디아의 최신 그래픽처리장치(GPU)로, 현재 중국에는 전작인 호퍼 기반 'H20' 모델만 제한적으로 공급되고 있다.
+업계에서는 저사양 블랙웰 칩이 중국 시장에 판매되면 삼성전자의 엔비디아 HBM3E 공급 시점이 당겨질 수 있을 것으로 보고 있다. 현재 SK하이닉스가 HBM3E를 사실상 독점 공급하고 있지만 올해 생산물량은 이미 완판됐고 내년 생산분도 대부분 예약된 상태이기 때문이다. 
+SK하이닉스가 추가로 생산능력을 확보하는 데 시간이 필요한 만큼 엔비디아가 수요 공백을 메우기 위해 삼성전자가 만드는 8단 HBM3E를 조기 채택할 가능성이 높다.
+그래픽 메모리 분야에서도 삼성전자의 선전이 예상된다. 연말 출시될 예정인 엔비디아 중국용 저전력 GPU 'RTX 프로 6000(B40)'에는 삼성전자의 최신 GDDR7이 탑재될 전망이다. GDDR7 시장 점유율 1위인 삼성전자는 AI 서버뿐 아니라 워크스테이션·그래픽 카드 수요 확대의 직접적인 수혜를 받을 수 있다.
+삼성전자는 최근 테슬라에서 차세대 AI 칩의 대규모 위탁생산 계약을 따내며 고대역폭메모리(HBM) 양산 능력과 파운드리 신뢰도를 동시에 입증했다. 여기에 애플과는 차세대 아이폰용 이미지센서 위탁 계약을 맺었으며 나아가 메모리·패키징 협력 확대에 대한 기대감도 커지고 있다. 반도체 업계 관계자는 "엔비디아에 HBM까지 공급하게 되면 3대 빅테크 고객(테슬라·애플·엔비디아)과 연달아 신규 공급 계약을 맺게 되는 셈"이라며 "트럼프 정부의 대중 규제 완화와 맞물려 삼성전자가 글로벌 AI 반도체 시장 판도를 흔드는 '게임 체인저'로 부상할지 주목된다"고 말했다.
+한편 현재 미국에 체류 중인 이재용 삼성전자 회장이 젠슨 황 엔비디아 최고경영자(CEO)와 만날지에도 관심이 쏠린다. 업계는 이 회장이 HBM 품질 테스트와 대량 양산 일정을 앞당기기 위해 '반도체 세일즈'에 직접 나설 가능성을 주목하고 있다.   
+[김동은 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[도널드 트럼프 미국 대통령이 엔비디아 인공지능(AI) 칩의 중국 수출을 추가로 허용할 수 있다고 언급하면서 삼성전자의 글로벌 AI 칩 시장 진입 속도도 빨라질 것이란 기대감이 높아지고 있다.
+12일(현지시간) 로이터통신·블룸버그에 따르면 트럼프 대통령은 브리핑을 통해 성능을 30~50% 낮춘 엔비디아 블랙웰 기반 AI 가속기의 중국 판매를 허용하는 방안을 검토 중이라고 밝혔다. 블랙웰 제품은 엔비디아의 최신 그래픽처리장치(GPU)로, 현재 중국에는 전작]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100305</code_id>
+<code_nm><![CDATA[전기·전자·통신]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100305</small_code_id>
+<small_code_nm><![CDATA[전기·전자·통신]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/13/20250813_01160113000004_S00.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11392017]]></article_url>
+</article>
+</saltlux>

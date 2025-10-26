@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11405843</art_id>
+<art_year>2025</art_year>
+<art_no>617581</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-29 10:17:34</service_daytime>
+<title><![CDATA[끊이지 않는 밀폐공간 사고…산소·유해가스 측정 장비 의무 지급된다]]></title>
+<sub_title><![CDATA[산업안전보건기준 개정령 
+고용노동부, 입법 예고]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[안서진 매경 디지털뉴스룸 기자(seojin@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-29 10:17:34</reg_dt>
+<mod_dt>2025-08-29 10:18:17</mod_dt>
+<art_org_class>MK100801</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">산업안전보건기준 개정령 <br>고용노동부, 입법 예고</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/29/news-p.v1.20250829.3878f13824414d52a33272915013d3be_P1.png' alt=' 순천 레미콘공장 약품탱크 질식사고. [사진출처=연합뉴스]'>
+최근 공장에서 유해가스 중독으로 질식해 사망하는 등 밀폐공간 질식 사고가 끊이지 않는 가운데 정부가 밀폐공간 작업 전에 산소·유해가스 농도 측정 장비 지급을 의무화하기로 했다.
+고용노동부는 29일 이 같은 내용을 담은 ‘산업안전보건기준에 관한 규칙’ 일부 개정령안을 이날부터 10월 10일까지 입법 예고한다고 밝혔다. 최근 연이어 발생한 질식 사망 사고를 예방하기 위한 개선 조치다.
+지금까진 맨홀 등 밀폐공간에서 작업할 때 장비가 없다는 이유로 산소·유해가스 농도를 측정하지 않고 작업하다 위험에 처하는 경우가 있었는데 앞으로는 작업 전에 사업주가 반드시 장비를 지급해야 한다.
+또 산소·유해가스 농도를 측정하고 적정 공기 여부를 평가한 결과는 3년간 보존해야 한다. 서류 작업의 불편을 덜기 위해 결과 보존은 영상으로도 가능하다.
+작업자가 밀폐공간 위험성 및 안전 수칙을 숙지했는지 사업주가 확인하고 필요한 교육을 받도록 하는 법적 의무도 이번 개정령안에 담겼다.
+아울러 사고가 발생했을 때는 감시인이 지체 없이 119에 신고하도록 했다.
+권창준 노동부 차관은 “이번 개정은 밀폐공간 질식 사고 사례를 살펴 재해 예방에 필요한 부분을 찾아 보완한 것”이라며 “사업주가 법적 의무를 충실히 이행하도록 현장 지도·감독을 강화하겠다”고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[산업안전보건기준 개정령  고용노동부, 입법 예고최근 공장에서 유해가스 중독으로 질식해 사망하는 등 밀폐공간 질식 사고가 끊이지 않는 가운데 정부가 밀폐공간 작업 전에 산소·유해가스 농도 측정 장비 지급을 의무화하기로 했다. 고용노동부는 29일 이 같은 내용을 담은 ‘산업안전보건기준에 관한 규칙’ 일부 개정령안을 이날부터 10월 10일까지 입법 예고한다고 밝]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100801</code_id>
+<code_nm><![CDATA[사회일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100801</small_code_id>
+<small_code_nm><![CDATA[사회일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100804</code_id>
+<code_nm><![CDATA[사건·사고]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100804</small_code_id>
+<small_code_nm><![CDATA[사건·사고]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100805</code_id>
+<code_nm><![CDATA[법원·검찰·경찰]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100805</small_code_id>
+<small_code_nm><![CDATA[법원·검찰·경찰]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/29/news-p.v1.20250829.3878f13824414d52a33272915013d3be_P1.png]]></image_url>
+<image_caption><![CDATA[ 순천 레미콘공장 약품탱크 질식사고. [사진출처=연합뉴스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11405843]]></article_url>
+</article>
+</saltlux>

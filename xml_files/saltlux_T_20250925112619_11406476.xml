@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11406476</art_id>
+<art_year>2025</art_year>
+<art_no>619426</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-29 23:20:26</service_daytime>
+<title><![CDATA[삼성·SK 반도체 美장비 中반출때 건별 허가받아야]]></title>
+<sub_title><![CDATA[美 '포괄허가제' 폐지 공식화]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[최승진 특파원(sjchoi@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250830</pub_date>
+<pub_edition>17</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>1</pub_page>
+<reg_dt>2025-08-29 23:20:26</reg_dt>
+<mod_dt>2025-08-30 00:05:52</mod_dt>
+<art_org_class>MK101001</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[미국 상무부가 중국에서 반도체 생산시설을 운영하고 있는 동맹국 반도체 기업에 부여해왔던 '검증된 최종 사용자(VEU)' 제도를 폐지한다고 29일(현지시간) 밝혔다.
+이에 따라 삼성전자·SK하이닉스 등 한국 반도체 기업의 중국 내 생산시설 업그레이드가 한층 더 까다로워질 전망이다. 
+미국 연방 관보에 따르면 미국 상무부 산업안보국(BIS)은 이날 전임 조 바이든 행정부가(삼성전자와 SK하이닉스에 대해) 도입했던 VEU 제도를 폐지한다. 중국 내에 반도체 장비를 반입할 때 건별 심사를 진행한다는 의미다. 관보는 이 같은 조치가 관보 게시일(미국 동부시간 9월 2일)로부터 120일 후에 실행된다고 밝혔다. 이에 따라 한국 반도체 기업의 중국 내 생산이 상당 부분 위축될 수 있다는 우려가 제기된다.
+VEU는 미국 정부가 사전에 승인된 기업에만 지정된 품목에 대해 수출을 허용하는 일종의 포괄적 허가를 뜻한다. 2022년 10월 바이든 행정부는 중국의 첨단 반도체·인공지능(AI) 산업을 견제하기 위해 대중(對中) 반도체 장비 수출 통제 조치를 도입했다. 현지에서 공장을 운영하는 기업들은 미국산 기술이 적용된 반도체 장비를 도입할 때마다 건별로 허가를 받도록 한 것이다.
+다만 바이든 행정부는 삼성전자·SK하이닉스 등 동맹국 기업에 한해 중국 내 반도체 공장을 미국 수출 관리 규정에 따른 VEU로 지정해 별도 허가 절차나 기간 제한 없이 장비를 공급받을 수 있도록 했다. 이에 따라 이들 기업은 극자외선(EUV) 노광장비 등 최첨단 장비를 제외하고는 중국 내 생산시설 업그레이드를 원활하게 진행할 수 있었다. 
+[워싱턴 최승진 특파원]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[미국 상무부가 중국에서 반도체 생산시설을 운영하고 있는 동맹국 반도체 기업에 부여해왔던 '검증된 최종 사용자(VEU)' 제도를 폐지한다고 29일(현지시간) 밝혔다.
+이에 따라 삼성전자·SK하이닉스 등 한국 반도체 기업의 중국 내 생산시설 업그레이드가 한층 더 까다로워질 전망이다. 
+미국 연방 관보에 따르면 미국 상무부 산업안보국(BIS)은 이날 전임 조 바이든 행정부가(삼성전자와 SK하이닉스에 대해) 도입했던 VEU 제도를 폐지한다. 중국 내에 반도체 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101001</code_id>
+<code_nm><![CDATA[국제정치]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101001</small_code_id>
+<small_code_nm><![CDATA[국제정치]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11406476]]></article_url>
+</article>
+</saltlux>

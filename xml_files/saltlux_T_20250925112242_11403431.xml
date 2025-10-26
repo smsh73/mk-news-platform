@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11403431</art_id>
+<art_year>2025</art_year>
+<art_no>610186</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-26 17:49:36</service_daytime>
+<title><![CDATA[ETF가 주식보다 많다 … 美서 첫 '추월']]></title>
+<sub_title><![CDATA[올해 하루 4개꼴로 출시 붐<br>ETF 4300개 〉 주식 4200개]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[정재원 기자(jeong.jaewon@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250827</pub_date>
+<pub_edition>16</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>19</pub_page>
+<reg_dt>2025-08-26 17:49:36</reg_dt>
+<mod_dt>2025-08-26 19:39:54</mod_dt>
+<art_org_class>MK100514</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/27/20250827_01160119000001_S00.jpg' alt=''>
+
+미국에서 '상장지수펀드(ETF) 붐'이 일고 있다. 미국 주식시장에 상장된 ETF가 주식 종목 수를 넘어선 것으로 나타났다.
+25일(현지시간) 블룸버그가 모닝스타를 통해 집계한 데이터에 따르면 이날 미국 주식시장에는 4300개 이상 ETF 상품이 존재해 4200여 개인 상장 주식 종목보다 많다. ETF 상품이 주식 종목보다 많은 것은 집계를 시작한 이후 최초 기록이다. 2010년에는 미국에 1100여 개 ETF와 4300여 개 주식이 있었다. 15년 뒤 ETF는 4배 가까이 늘어났지만 주식 수는 오히려 줄어들었다. 올해에만 640개 이상 ETF가 미국 주식시장에 신규 출시됐다. 1거래일당 4개꼴이다. 미국 주식시장에서 올 들어 새롭게 출시된 ETF는 액티브 운용 전략, 머니마켓펀드(MMF), 해외주식 투자, 가상자산 투자 상품 등이 주류를 이루고 있다. 미국에서는 ETF가 누구나 손쉽게 재테크에 나설 수 있도록 도와주는 '투자 민주화' 수단으로 여겨지며 인기를 끌고 있다. 그러나 현지 전문가들은 불필요한 상품까지 출현하며 수가 지나치게 늘어나는 것을 경계하는 분위기다. 더글러스 본파스 본파이드웰스 설립자는 "인공지능(AI), 반려동물, 대마초, 워크(WOKE)와 반(反)워크 포트폴리오 등 모든 것에 투자하는 ETF가 있다"고 말했다.
+한편, 한국에서는 지난 4월 ETF가 유가증권시장(코스피) 상장 종목 수를 넘어선 바 있다. 다만 코스닥과 코넥스시장까지 합친 전체 종목 수에 비하면 ETF는 그 절반에도 미치지 못한다.    
+[정재원 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[미국에서 '상장지수펀드(ETF) 붐'이 일고 있다. 미국 주식시장에 상장된 ETF가 주식 종목 수를 넘어선 것으로 나타났다.
+25일(현지시간) 블룸버그가 모닝스타를 통해 집계한 데이터에 따르면 이날 미국 주식시장에는 4300개 이상 ETF 상품이 존재해 4200여 개인 상장 주식 종목보다 많다. ETF 상품이 주식 종목보다 많은 것은 집계를 시작한 이후 최초 기록이다. 2010년에는 미국에 1100여 개 ETF와 4300여 개 주식이 있었다. 15년 뒤]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100514</code_id>
+<code_nm><![CDATA[펀드]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100514</small_code_id>
+<small_code_nm><![CDATA[펀드]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/27/20250827_01160119000001_S00.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11403431]]></article_url>
+</article>
+</saltlux>

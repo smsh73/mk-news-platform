@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11390187</art_id>
+<art_year>2025</art_year>
+<art_no>570390</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-11 08:26:29</service_daytime>
+<title><![CDATA[李대통령 국정지지율 56.5%, 취임후 최저…민주 48.4%·국힘 30.3%[리얼미터]]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[이상규 매경 디지털뉴스룸 기자(boyondal@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-11 08:26:29</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100701</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250811.0c54c2d0ff5d4eaeb468a54e18784824_P1.jpeg' alt=' 이재명 대통령의 국정수행 지지도가 56.5%로 취임 후 최저치를 기록했다는 여론조사 결과가 나왔다. [사진출처 = 연합뉴스]'>
+이재명 대통령의 국정수행 지지도가 56.5%로 취임 후 최저치를 기록했다는 여론조사 결과가 11일 나왔다.
+리얼미터가 에너지경제신문 의뢰로 지난 4∼8일 전국 18세 이상 유권자 2506명을 대상으로 조사한 결과 이 대통령의 국정수행에 대한 평가 질문에 응답자 56.5%가 ‘잘함’이라고 답했다. 이는 전주 대비 6.8%포인트(p) 낮은 수치로 이 대통령 취임 후 가장 큰 폭의 하락이다.
+‘잘못함’은 38.2%로 전주 대비 6.8%p 상승했다. ‘잘 모름’은 5.2%로 집계됐다.
+지난 7∼8일 전국 18세 이상 유권자 1006명을 대상으로 한 정당 지지도 조사에서는 더불어민주당이 48.4%, 국민의힘이 30.3%를 각각 기록했다. 민주당은 전주 대비 6.1%p 하락해 7주 만에 50%대 아래로 하락했다.
+국민의힘은 3.1%p 올라 6주 만에 30%를 회복했다.조국혁신당은 4.0%, 개혁신당은 3.1%, 진보당은 1.4%로 각각 집계됐다.두 조사는 모두 무선 자동응답 방식으로 이뤄졌다.
+대통령 국정수행 지지도 조사의 표본 오차는 95% 신뢰수준에서 ±2.0%p, 정당 지지도 조사 표본 오차는 95% 신뢰수준에서 ±3.1%p다. 응답률은 각각 5.2%, 4.5%였다. 자세한 내용은 중앙선거여론조사심의위원회 홈페이지를 참조하면 된다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[이재명 대통령의 국정수행 지지도가 56.5%로 취임 후 최저치를 기록했다는 여론조사 결과가 11일 나왔다. 리얼미터가 에너지경제신문 의뢰로 지난 4∼8일 전국 18세 이상 유권자 2506명을 대상으로 조사한 결과 이 대통령의 국정수행에 대한 평가 질문에 응답자 56.5%가 ‘잘함’이라고 답했다. 이는 전주 대비 6.8%포인트(p) 낮은 수치로 이 대통령 취]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100701</code_id>
+<code_nm><![CDATA[정치일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00302</middle_code_id>
+<middle_code_nm><![CDATA[정치]]></middle_code_nm>
+<small_code_id>MK100701</small_code_id>
+<small_code_nm><![CDATA[정치일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100705</code_id>
+<code_nm><![CDATA[청와대]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00302</middle_code_id>
+<middle_code_nm><![CDATA[정치]]></middle_code_nm>
+<small_code_id>MK100705</small_code_id>
+<small_code_nm><![CDATA[청와대]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100707</code_id>
+<code_nm><![CDATA[정당]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00302</middle_code_id>
+<middle_code_nm><![CDATA[정치]]></middle_code_nm>
+<small_code_id>MK100707</small_code_id>
+<small_code_nm><![CDATA[정당]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250811.0c54c2d0ff5d4eaeb468a54e18784824_P1.jpeg]]></image_url>
+<image_caption><![CDATA[ 이재명 대통령의 국정수행 지지도가 56.5%로 취임 후 최저치를 기록했다는 여론조사 결과가 나왔다. [사진출처 = 연합뉴스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11390187]]></article_url>
+</article>
+</saltlux>

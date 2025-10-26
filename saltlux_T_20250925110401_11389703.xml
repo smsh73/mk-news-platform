@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11389703</art_id>
+<art_year>2025</art_year>
+<art_no>569302</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-10 11:41:42</service_daytime>
+<title><![CDATA[업계서 수백만달러 로비받자…약물 싫어하는 트럼프, 대마초 위험성 하향 평가 검토]]></title>
+<sub_title><![CDATA[‘3급 약물’로 재분류 저울질
+대마초 기업에 세금 감면 가능
+업계 로비가 트럼프 움직여]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[최현재 기자(aporia12@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-10 11:41:42</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101001</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">‘3급 약물’로 재분류 저울질<br>대마초 기업에 세금 감면 가능<br>업계 로비가 트럼프 움직여</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/10/news-p.v1.20250810.1e9f4e94f03a4b90822a74cf53bfd765_P1.png' alt=' 대마초 잎. [픽사베이]'>
+도널드 트럼프 미국 대통령이 대마초를 위험성이 낮은 약물로 재분류해 규제를 완화하는 방안을 저울질하고 있다.
+8일(현지시간) 미 일간 월스트리트저널(WSJ)은 복수의 소식통을 인용해 트럼프 대통령이 이달 초 뉴저지 골프클럼에서 열린 한 기금 모금 행사에서 참석자들에게 대마초 위험성 재분류에 관심이 있다는 취지로 말했다고 보도했다.
+행사에서는 미국 최대 대마초 회사인 트롤리브의 킴 리버스 최고경영자(CEO)도 참석해 대마초 위험성 재평가와 의료용 대마초 연구 확대를 요구했다고 WSJ는 전했다. 트럼프 대통령은 그의 말에 관심을 표명하고 보좌진에게도 이를 전달한 것으로 전해졌다.
+대마초 위험성 재분류의 핵심은 대마초를 ‘3급 약물’로 분류할 지 여부다. 이렇게 되면 관련 규제가 완화돼 일부 대마초 기업에 대한 세금 감면과 추가 의학 연구 지원도 가능해진다. 전임 조 바이든 행정부도 이를 추진해왔다.
+다만 3급 약물 분류가 대마초의 완전 합법화까지 이뤄지는 건 아니다. 현재 미국은 주에 따라 대마초의 합법 여부가 달라진다.
+약물 중독 문제에 예민하고 술,담배도 멀리하는 트럼프 대통령이 대마초 규제 완화에 나서는 배경엔 업계 로비가 있다. 대마초 업계는 트럼프 대통령을 지지하는 정치 단체에 수백만 달러를 기부하는 한편 워싱턴 최고 로비스트들과 트럼프 대통령 측근들을 고용하는 등 꾸준히 로비활동을 펼쳤다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[‘3급 약물’로 재분류 저울질 대마초 기업에 세금 감면 가능 업계 로비가 트럼프 움직여도널드 트럼프 미국 대통령이 대마초를 위험성이 낮은 약물로 재분류해 규제를 완화하는 방안을 저울질하고 있다. 8일(현지시간) 미 일간 월스트리트저널(WSJ)은 복수의 소식통을 인용해 트럼프 대통령이 이달 초 뉴저지 골프클럼에서 열린 한 기금 모금 행사에서 참석자들에게 대마]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101001</code_id>
+<code_nm><![CDATA[국제정치]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101001</small_code_id>
+<small_code_nm><![CDATA[국제정치]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101002</code_id>
+<code_nm><![CDATA[국제경제]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101002</small_code_id>
+<small_code_nm><![CDATA[국제경제]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101003</code_id>
+<code_nm><![CDATA[국제산업]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101003</small_code_id>
+<small_code_nm><![CDATA[국제산업]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101011</code_id>
+<code_nm><![CDATA[미국/중남미]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101011</small_code_id>
+<small_code_nm><![CDATA[미국/중남미]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/10/news-p.v1.20250810.1e9f4e94f03a4b90822a74cf53bfd765_P1.png]]></image_url>
+<image_caption><![CDATA[ 대마초 잎. [픽사베이]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11389703]]></article_url>
+</article>
+</saltlux>

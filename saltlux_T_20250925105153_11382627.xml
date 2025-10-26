@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11382627</art_id>
+<art_year>2025</art_year>
+<art_no>548646</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-01 05:51:38</service_daytime>
+<title><![CDATA[관세, 금리, 물가 악재에 뉴욕증시 약세...MS 시총 4조달러 터치 [월가월부]]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[임성현 특파원(einbahn@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-01 05:51:38</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100101</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/01/news-p.v1.20250713.db75debac5c04e14b6b66b0a4bc36e1d_P1.jpg' alt=' 시민들이 미국 뉴욕 증권거래소 앞을 지나가고 있다. [AP = 연합뉴스]'>
+마이크로소프트(MS), 메타 등 기술주 급등에도 뉴욕 3대증시가 모두 하락했다. 다음달 1일부터 본격 발효되는 트럼프 관세의 영향과 전날 연방준비제도(Fed)의 기준금리 동결, 개인소비지출(PCE) 물가지수가 예상치를 넘어 상승한 것도 악재로 작용했다.
+31일(현지시간) 뉴욕증권거래소에서 대형주 중심의 S&P500지수는 전날보다 0.37% 하락한 6339.55에 거래를 마쳤고 다우존스30산업평균지수는 0.74% 떨어진 4만 4130.98에 마감했다. 나스닥종합지수는 0.03% 내린 2만 1122.45에 장을 마쳤다.
+이날 MS와 메타는 실적 호재에 각각 3.95%, 11.25% 급등하며 기술주 상승을 주도했다. MS는 장중 시가총액 4조달러를 넘어서기도 했다. 장 막판 차익실현 매물이 쏟아지면서 상승분을 반납했고 나스닥은 결국 하락 마감했다.
+전날 연준은 기준금리를 5연속 동결하고 제롬 파월 의장은 9월 인하에 대한 시장의 기대감에도 일단 선을 그으면서 찬물을 끼얹은바 있다. 곧이어 발표된 개인소비지출(PCE) 가격지수마저 상승폭을 키우면서 이같은 전망에 힘을 싣기도 했다.6월 PCE 가격지수는 2.6% 올라 시장 예상치(2.5%)를 웃돌았고 식료품과 에너지를 제외한 근원PCE지수도 전달보다 상승폭을 키우면서 관세발 인플레이션 압력에 대한 우려를 키웠다.
+다음달 1일부터 각국에 대한 미국의 상호관세가 본격 시행되는데다 일본, 유럽연합(EU), 한국 등 주요국 관세협상 타결에도 불구하고 상당수 국가들에 대한 관세율이 결정되지 않은 것도 투자심리를 위축시켰다. 트럼프 대통령은 이날 멕시코 수입품에 대한 25% 관세를 90일간 연장한다고 발표했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[마이크로소프트(MS), 메타 등 기술주 급등에도 뉴욕 3대증시가 모두 하락했다. 다음달 1일부터 본격 발효되는 트럼프 관세의 영향과 전날 연방준비제도(Fed)의 기준금리 동결, 개인소비지출(PCE) 물가지수가 예상치를 넘어 상승한 것도 악재로 작용했다. 31일(현지시간) 뉴욕증권거래소에서 대형주 중심의 S&P500지수는 전날보다 0.37% 하락한 6339.]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100101</code_id>
+<code_nm><![CDATA[경제일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100101</small_code_id>
+<small_code_nm><![CDATA[경제일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101002</code_id>
+<code_nm><![CDATA[국제경제]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101002</small_code_id>
+<small_code_nm><![CDATA[국제경제]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/01/news-p.v1.20250713.db75debac5c04e14b6b66b0a4bc36e1d_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 시민들이 미국 뉴욕 증권거래소 앞을 지나가고 있다. [AP = 연합뉴스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11382627]]></article_url>
+</article>
+</saltlux>

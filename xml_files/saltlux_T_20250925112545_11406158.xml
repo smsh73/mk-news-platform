@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11406158</art_id>
+<art_year>2025</art_year>
+<art_no>618580</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-29 15:15:57</service_daytime>
+<title><![CDATA[KT클라우드, 클라우드-데이터센터 통합관제센터 개소]]></title>
+<sub_title><![CDATA[AI 기반 장애 대응 체계로 서비스 안정성 강화]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김대기 기자(daekey1@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-29 15:15:57</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101501</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">AI 기반 장애 대응 체계로 서비스 안정성 강화</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/29/news-p.v1.20250829.ed67549ddf13433482a899921fcf7f2f_P1.jpg' alt=' KT클라우드는 클라우드와 데이터센터 시스템을 한 공간에서 통합 운영하는 통합관제센터를 개소했다고 29일 밝혔다. 사진은 회사 임직원들이 센터에서 점검을 하고 있는 모습. KT클라우드'>
+KT클라우드는 클라우드와 데이터센터 시스템을 한 공간에서 통합 운영하는 통합관제센터를 개소했다고 29일 밝혔다.
+통합관제센터는 전국 15개 데이터센터와 클라우드 인프라 전반을 대상으로 시설·네트워크·서비스를 아우르는 E2E(End-to-End) 관제 체계를 갖췄다.
+그동안 클라우드와 데이터센터 관제를 별도로 운영해 왔으나, 통합관제센터 구축으로 시스템 전반을 긴밀하고 신속하게 관리할 수 있는 체계를 마련한 것이다.
+KT클라우드는 장애 이력을 인공지능(AI)이 실시간 분석해 최적의 대응 시나리오를 자동 추천하고 우선순위를 안내하는 기능도 순차 도입할 예정이다.
+최지웅 KT클라우드 대표는 “클라우드와 데이터센터를 연결해 한층 완성도 높은 서비스 환경을 구현하기 위해 통합관제센터를 마련했다”며 “앞으로도 관제 품질을 지속 개선해 고객에게 안정적이고 만족도 높은 서비스를 제공할 수 있도록 할 것”이라고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[AI 기반 장애 대응 체계로 서비스 안정성 강화KT클라우드는 클라우드와 데이터센터 시스템을 한 공간에서 통합 운영하는 통합관제센터를 개소했다고 29일 밝혔다. 통합관제센터는 전국 15개 데이터센터와 클라우드 인프라 전반을 대상으로 시설·네트워크·서비스를 아우르는 E2E(End-to-End) 관제 체계를 갖췄다. 그동안 클라우드와 데이터센터 관제를 별도로 운]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101501</code_id>
+<code_nm><![CDATA[모바일]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101501</small_code_id>
+<small_code_nm><![CDATA[모바일]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/29/news-p.v1.20250829.ed67549ddf13433482a899921fcf7f2f_P1.jpg]]></image_url>
+<image_caption><![CDATA[ KT클라우드는 클라우드와 데이터센터 시스템을 한 공간에서 통합 운영하는 통합관제센터를 개소했다고 29일 밝혔다. 사진은 회사 임직원들이 센터에서 점검을 하고 있는 모습. KT클라우드]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11406158]]></article_url>
+</article>
+</saltlux>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11391771</art_id>
+<art_year>2025</art_year>
+<art_no>575314</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-12 15:12:34</service_daytime>
+<title><![CDATA[中, “정부 관련 용도에 엔비디아 H20 사용 자제”...기업들에 새 보안 지침 내렸다]]></title>
+<sub_title><![CDATA[美의회 위치추적 입법 등 보안 위협 속
+中, 자국 기업들에 사용 자제 지침 내려]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[이재철 기자(humming@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-12 15:12:34</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101001</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">美의회 위치추적 입법 등 보안 위협 속<br>中, 자국 기업들에 사용 자제 지침 내려</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/12/news-p.v1.20250812.73ce76d3b7c04b9881748854191e6baa_P1.jpg' alt=' &lt;아미지=연합뉴스&gt;'>
+중국 정부가 정부 관련 용도에 엔비디아의 대중국 수출용 인공지능(AI) 칩인 H20을 가급적 쓰지 말라는 새로운 지침을 내렸다고 블룸버그통신이 보도했다.
+12일 이 매체에 따르면 중국 당국은 최근 수 주 동안 H20 정부 혹은 국가 안보 관련 업무에 사용하지 말 것을 당부하고 있다. 이 지침은 국영기업과 민간 기업에 광범위하게 하달됐으며 최근 대중국 수출 재개 허가를 받은 엔비디아의 대중국 AI 칩 사업에 복잡성을 일으킬 것으로 블룸버그는 내다봤다.
+중국 규제당국인 국가인터넷정보판공실은 지난달 말 엔비디아의 H20 칩에 우회 보안 위험이 있는지 해명을 듣기 위해 엔비디아를 소환해 소명을 요구한 바 있다.
+이는 최근 미국 의회가 해외에 판매되는 고사양 AI 칩에 추적 기능을 탑재하도록 요구한 것에 대한 맞불 조치로 해석됐다.
+미 언론들은 지난 5월 공화당 소속 톰 코튼 미 상원 의원(아칸소주)이 대중 수출 통제 대상인 AI 칩 등에 위치 확인 메커니즘을 요구하도록 상무부에 지시하는 일명 ‘칩 보안법(Chip Security Act)’을 준비 중이라고 보도했다. 고성능 반도체가 중국과 북한, 이란 등에 우회 수출되지 않도록 적극 대응해야 한다는 취지다.
+엔비디아는 자사 칩에 위치 추적 등을 허용하는 기술 적용은 낭설이자 절대 허용할 수 없는 일이라고 반박하고 있다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[美의회 위치추적 입법 등 보안 위협 속 中, 자국 기업들에 사용 자제 지침 내려중국 정부가 정부 관련 용도에 엔비디아의 대중국 수출용 인공지능(AI) 칩인 H20을 가급적 쓰지 말라는 새로운 지침을 내렸다고 블룸버그통신이 보도했다. 12일 이 매체에 따르면 중국 당국은 최근 수 주 동안 H20 정부 혹은 국가 안보 관련 업무에 사용하지 말 것을 당부하고 있]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101001</code_id>
+<code_nm><![CDATA[국제정치]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101001</small_code_id>
+<small_code_nm><![CDATA[국제정치]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101002</code_id>
+<code_nm><![CDATA[국제경제]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101002</small_code_id>
+<small_code_nm><![CDATA[국제경제]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/12/news-p.v1.20250812.73ce76d3b7c04b9881748854191e6baa_P1.jpg]]></image_url>
+<image_caption><![CDATA[ &lt;아미지=연합뉴스&gt;]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11391771]]></article_url>
+</article>
+</saltlux>

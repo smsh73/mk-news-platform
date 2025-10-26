@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11406081</art_id>
+<art_year>2025</art_year>
+<art_no>618295</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-29 13:53:36</service_daytime>
+<title><![CDATA[“5년 뒤 내 통장잔액 얼마?”...국민은행, 청년자산 예측해 관리]]></title>
+<sub_title><![CDATA[‘금융 타임머신’서비스 출시
+자산 목표 맞춰 상품 추천]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김정환 기자(flame@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-29 13:53:36</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100101</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">‘금융 타임머신’서비스 출시<br>자산 목표 맞춰 상품 추천</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/29/news-p.v1.20250829.11b157d229a44ccdb980e8c8cd92447c_P1.png' alt=' KB국민은행이 청년 고객을 위해 미래 자산을 예측해 연관 상품을 추천해주는 ‘금융 타임머신’ 서비스를 선보인다고 29일 밝혔다. 금융 투자를 고민하는 청년을 그린 AI 이미지. [챗GPT]'>
+KB국민은행이 청년 고객을 위해 미래 자산을 예측해주는 ‘금융 타임머신’ 서비스를 선보인다고 29일 밝혔다.
+금융 타임머신은 20세부터 39세 이하 청년을 대상으로 독립·취업·결혼 등 중요한 생애 이벤트에 따라 5년 뒤 예상 자산 규모를 예상해서 보여주는 서비스다. 이를 통해 청년들은 자기 미래 금융 상황을 미리 체험하며 합리적인 자산 관리 계획을 세울 수 있다.
+국민은행은 이를 위해 마이데이터를 통해 수집된 금융 자산과 340만명 규모의 서울 청년 금융 데이터를 동원했다. 성별이나 나이, 직업군과 가구 형태, 자산 보유 여부 등 7000개 그룹으로 세분화된 데이터를 기반으로 자기 예상 자산을 추산해준다.
+금융 타임머신은 청년층 현재 자산 상태와 목표에 맞춰 적합한 금융상품도 추천해준다. 단순한 자산 예측을 넘어 실제 투자 이행까지 가능한 플랫폼을 내놓은 것이다. KB금융 애플리케이션(앱)인 스타뱅킹에 접속해 ‘자산관리’ 카테고리를 클릭해 관련 서비스를 이용할 수 있다.
+국민은행 관계자는 “금융 타임머신은 독립이나 취업, 결혼 등 인생의 중요한 결정을 앞둔 청년 고객들이 편리하게 미래를 설계할 수 있도록 기획한 서비스”라며, “앞으로도 청년층을 위한 자산관리 서비스를 꾸준히 확대해 나가겠다”고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[‘금융 타임머신’서비스 출시 자산 목표 맞춰 상품 추천KB국민은행이 청년 고객을 위해 미래 자산을 예측해주는 ‘금융 타임머신’ 서비스를 선보인다고 29일 밝혔다. 금융 타임머신은 20세부터 39세 이하 청년을 대상으로 독립·취업·결혼 등 중요한 생애 이벤트에 따라 5년 뒤 예상 자산 규모를 예상해서 보여주는 서비스다. 이를 통해 청년들은 자기 미래 금융 상]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100101</code_id>
+<code_nm><![CDATA[경제일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100101</small_code_id>
+<small_code_nm><![CDATA[경제일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100102</code_id>
+<code_nm><![CDATA[정책]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100102</small_code_id>
+<small_code_nm><![CDATA[정책]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/29/news-p.v1.20250829.11b157d229a44ccdb980e8c8cd92447c_P1.png]]></image_url>
+<image_caption><![CDATA[ KB국민은행이 청년 고객을 위해 미래 자산을 예측해 연관 상품을 추천해주는 ‘금융 타임머신’ 서비스를 선보인다고 29일 밝혔다. 금융 투자를 고민하는 청년을 그린 AI 이미지. [챗GPT]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11406081]]></article_url>
+</article>
+</saltlux>

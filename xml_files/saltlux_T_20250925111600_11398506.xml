@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11398506</art_id>
+<art_year>2025</art_year>
+<art_no>595200</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-20 17:28:59</service_daytime>
+<title><![CDATA[[속보] 특검, ‘김건희 집사’ 김예성 구속기간 내달 1일까지 연장]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[이상현 매경 디지털뉴스룸 기자(lee.sanghyun@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-20 17:28:59</reg_dt>
+<mod_dt>2025-08-20 17:38:50</mod_dt>
+<art_org_class>MK100801</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/20/news-p.v1.20250820.d5b3e0121a2e4dff8c0106e96016d244_P1.jpg' alt=' 김건희 여사 일가의 ‘집사’로 지목된 김예성씨가 지난 12일 귀국 직후 인천국제공항에서 체포돼 서울 종로구 김건희특검 사무실로 들어서며 취재진의 질문에 답하고 있다. [사진 출처 = 연합뉴스]'>
+김건희 여사 일가의 집사이자 측근으로 알려진 김예성씨의 구속기간이 다음 달 1일까지로 연장됐다.
+특검은 20일 공지에서 “김예성씨에 대한 구속기간이 오늘 법원에 의해 오는 9월 1일까지로 연장됐다”고 밝혔다.
+앞서 서울중앙지법 임정빈 당직판사는 지난 15일 구속 전 피의자 심문(영장실질심사) 결과, 특정경제범죄가중처벌법상 횡령 혐의를 받는 김 씨에 대해 증거 인멸과 도주 우려를 인정하며 구속영장을 발부했다.
+특검은 김씨와 관련한 의혹을 집사게이트로 부르고 있다. 특검이 말한 집사게이트란, 김 여사 일가 집사로 불린 김씨 회사에 대기업들이 청탁성 투자를 했다는 의혹이다. 김씨가 운영에 관여한 IMS모빌리티는 2013년 설립 후 줄곧 적자였다. 이 회사에 2023년 6월 카카오모빌리티, HS효성 계열사, 신한은행, 키움증권, 한국증권금융 등 9개 회사가 펀드를 통해 184억원을 투자했다.
+투자 당시 기업들은 검찰 수사를 받고 있는 등 법적 리스크가 있었다. 이와 관련해 김씨가 김 여사와의 친분을 이용해 리스크를 해결해 줄 것이라고 기대하고 투자를 했다는 의혹이 제기됐다.
+한편, 특검은 오는 21일 김 여사에 대한 4차 소환 조사를 할 계획이다. 지난 12일 구속된 이후 세 번째 조사이기도 하다. 김 여사 측은 21일 소환에 응하겠다는 입장이다.
+전날 법원은 21일 만료 예정이었던 김 여사의 구속기간을 오는 31일까지로 연장했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[김건희 여사 일가의 집사이자 측근으로 알려진 김예성씨의 구속기간이 다음 달 1일까지로 연장됐다. 특검은 20일 공지에서 “김예성씨에 대한 구속기간이 오늘 법원에 의해 오는 9월 1일까지로 연장됐다”고 밝혔다. 앞서 서울중앙지법 임정빈 당직판사는 지난 15일 구속 전 피의자 심문(영장실질심사) 결과, 특정경제범죄가중처벌법상 횡령 혐의를 받는 김 씨에 대해 증]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100801</code_id>
+<code_nm><![CDATA[사회일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100801</small_code_id>
+<small_code_nm><![CDATA[사회일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100804</code_id>
+<code_nm><![CDATA[사건·사고]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100804</small_code_id>
+<small_code_nm><![CDATA[사건·사고]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100805</code_id>
+<code_nm><![CDATA[법원·검찰·경찰]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100805</small_code_id>
+<small_code_nm><![CDATA[법원·검찰·경찰]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/20/news-p.v1.20250820.d5b3e0121a2e4dff8c0106e96016d244_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 김건희 여사 일가의 ‘집사’로 지목된 김예성씨가 지난 12일 귀국 직후 인천국제공항에서 체포돼 서울 종로구 김건희특검 사무실로 들어서며 취재진의 질문에 답하고 있다. [사진 출처 = 연합뉴스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11398506]]></article_url>
+</article>
+</saltlux>

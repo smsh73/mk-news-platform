@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11385714</art_id>
+<art_year>2025</art_year>
+<art_no>558623</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-05 15:50:18</service_daytime>
+<title><![CDATA[SK텔레콤, 최신 GPU 클러스터 ‘해인’ 가동...“K-AI 인프라 앞장”]]></title>
+<sub_title><![CDATA[1000장 이상의 엔비디아 B200기반 
+국내 최대 규모 단일 클러스터 구성
+정부 ‘GPU 임차 지원 사업’ 공급사 선정]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[안선제 기자(ahn.sunje@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-05 15:50:18</reg_dt>
+<mod_dt>2025-08-05 17:47:13</mod_dt>
+<art_org_class>MK101504</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">1000장 이상의 엔비디아 B200기반 <br>국내 최대 규모 단일 클러스터 구성<br>정부 ‘GPU 임차 지원 사업’ 공급사 선정</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/05/news-p.v1.20250805.4634995b8e6a4cbcbb2ed5a1de1f134c_P1.jpg' alt=' SKT 직원들이 가산 AI 데이터센터에서 블랙웰 B200 기반의 GPUaaS 준비상황에 대해 점검하고 있다. [사진 = SKT]'>
+SK텔레콤은 지난 1일 최신 그래픽처리장치(GPU) 기반의 구독형 AI 클라우드 서비스(GPUaaS)를 출시했다고 5일 밝혔다. 이번에 선보이는 GPUaaS는 1000장이 넘는 엔비디아의 최신 AI칩인 ‘블랙웰 B200’(이하B200)을 단일 클러스터로 구성하여 제공하는 국내 최대 규모의 GPUaaS다.
+GPUaaS는 대규모 모델 학습 및 추론을 위해 설계된 GPU 클라우드 인프라를 제공하는 서비스를 말한다.
+SKT 관계자는 “가산 AI 데이터센터(이하 AI DC) 내에 H100에 이은 최신 B200 GPU 클러스터 조성을 통해 국내 GPU 부족 문제를 해소함과 동시에 AI DC 시장을 선도하겠다”며 “이번 클러스터 구축은 글로벌 AI 대표 주자들과의 긴밀한 협력 속에 이루어졌다. SKT 인공지능(AI) 피라미드 전략의 자강과 협력을 보여준 대표적 사례”라고 전했다.
+클러스터 명은 ‘해인(海印, Haein)’으로, 팔만대장경이 보관된 ‘해인사’에서 모티브를 가져왔다. 이번 클러스터가 디지털 팔만대장경을 품은 K-소버린 AI인프라가 되겠다는 의미를 담고 있다고 회사는 설명했다.
+특히 SKT의 이번 해인 클러스터의 GPUaaS는 과학기술정보통신부의 ‘AI-컴퓨팅 자원 활용 기반 강화(GPU 임차 지원) 사업’에 선정되며 글로벌 경쟁력을 갖춘 국가 AI 파운데이션 모델 개발에 적극적으로 활용될 예정이다.
+SKT는 이번 GPUaaS 출시를 위해 미국 AI DC 통합 솔루션 대표 회사인 펭귄 솔루션스와 전략적 협력을 추진해 왔다. 펭귄 솔루션스는 엔비디아 인증 10대 구축 파트너로서 25년 이상 HPC(고성능 컴퓨팅) 솔루션 설계, 제공 및 관리에 주력하며 글로벌 시장에서 입지를 다져온 기업이다.
+SKT는 지난 작년 7월 펭귄 솔루션스와 자사 AI 투자 중 최대 규모인 2억 달러 규모의 투자 계획을 체결한 바 있다.
+또한 전략적 파트너사인 글로벌 AI 서버 제조사 슈퍼마이크로와의 협력을 통해 단기간 내 GPU 서버를 수급했다.
+SKT의 독자 기술력도 다각도로 활용된다. 자체 가상화 솔루션인 ‘페타서스 AI 클라우드’를 활용해 GPU 클러스터를 고객 수요에 맞춰 즉시 분할하고 재구성해 가동률을 높였다. 또 대규모 모델 개발 노하우가 축적된 AIOps인 ‘AI 클라우드 매니저’로 사용자에게 작업 효율성과 개발 편의성을 제공한다.
+김명국 SKT GPUaaS사업본부장은 “최신 GPU인 B200을 활용해 국내 최대 규모로 준비한 SKT 해인 클러스터의 GPUaaS는 고객 및 국가의 AI 경쟁력을 높이는 계기가 될 것”이라며 “AI 인프라 사업자로서 국가 AI 고속도로 구축에 힘을 쏟겠다”고 밝혔다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[1000장 이상의 엔비디아 B200기반  국내 최대 규모 단일 클러스터 구성 정부 ‘GPU 임차 지원 사업’ 공급사 선정SK텔레콤은 지난 1일 최신 그래픽처리장치(GPU) 기반의 구독형 AI 클라우드 서비스(GPUaaS)를 출시했다고 5일 밝혔다. 이번에 선보이는 GPUaaS는 1000장이 넘는 엔비디아의 최신 AI칩인 ‘블랙웰 B200’(이하B200)을 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101504</code_id>
+<code_nm><![CDATA[인터넷/SNS]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101504</small_code_id>
+<small_code_nm><![CDATA[인터넷/SNS]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/05/news-p.v1.20250805.4634995b8e6a4cbcbb2ed5a1de1f134c_P1.jpg]]></image_url>
+<image_caption><![CDATA[ SKT 직원들이 가산 AI 데이터센터에서 블랙웰 B200 기반의 GPUaaS 준비상황에 대해 점검하고 있다. [사진 = SKT]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11385714]]></article_url>
+</article>
+</saltlux>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11383646</art_id>
+<art_year>2025</art_year>
+<art_no>551620</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-02 11:20:33</service_daytime>
+<title><![CDATA[“어디보자 어디 줄이 제일 짧나?”…인천공항, 출국장별 예상소요시간 안내]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[이상현 매경 디지털뉴스룸 기자(lee.sanghyun@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-02 11:20:33</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100801</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/02/news-p.v1.20250802.1691675cb97944dc96c8d5b6a2f44c81_P1.jpg' alt=' 지난달 29일 여름 성수기를 맞은 인천국제공항 제1여객터미널 출국장에서 승객들이 탑승 수속을 위해 줄을 서고 있다. [사진 출처 = 연합뉴스]'>
+앞으로 인천국제공항을 이용할 때 보안 검색과 출국심사에 걸리는 시간을 미리 알 수 있게 된다.
+2일 인천공항공사에 따르면 공사는 출국장에 진입해 보안 검색을 거쳐 출국심사를 하는 데까지 소요될 것으로 예상되는 시간을 알려주는 ‘출국장별 예상소요시간 안내 서비스’를 시범 도입했다.
+이 서비스는 공사가 공항 내 빅데이터 센서로 수집한 여객 이동 흐름을 실시간으로 분석해 예상소요시간을 도출, 분 단위로 출국장 상단 전광판을 통해 이용객들에게 제공하는 것이다.
+서비스는 제1터미널에 우선 적용된 뒤 제2터미널로 향후 확대될 예정이다.
+공사는 출국심사를 마친 이용객에게 탑승구까지 이동하는 데 걸리는 시간(성인 평균 걸음 속도 기준)을 알려주는 ‘운항 정보 안내 모니터(FIDS)’도 도입했다.
+공사는 신규 서비스 도입으로 터미널 내 혼잡을 분산시키고 여객 편의를 향상하는 효과가 있을 것으로 보고 있다.
+이학재 공사 사장은 “앞으로도 공항 운영 전반의 디지털 혁신을 추진하며 여객 중심의 스마트 안내 서비스를 지속 확대하겠다”고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[앞으로 인천국제공항을 이용할 때 보안 검색과 출국심사에 걸리는 시간을 미리 알 수 있게 된다. 2일 인천공항공사에 따르면 공사는 출국장에 진입해 보안 검색을 거쳐 출국심사를 하는 데까지 소요될 것으로 예상되는 시간을 알려주는 ‘출국장별 예상소요시간 안내 서비스’를 시범 도입했다. 이 서비스는 공사가 공항 내 빅데이터 센서로 수집한 여객 이동 흐름을 실시간으]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100801</code_id>
+<code_nm><![CDATA[사회일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100801</small_code_id>
+<small_code_nm><![CDATA[사회일반]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/02/news-p.v1.20250802.1691675cb97944dc96c8d5b6a2f44c81_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 지난달 29일 여름 성수기를 맞은 인천국제공항 제1여객터미널 출국장에서 승객들이 탑승 수속을 위해 줄을 서고 있다. [사진 출처 = 연합뉴스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11383646]]></article_url>
+</article>
+</saltlux>

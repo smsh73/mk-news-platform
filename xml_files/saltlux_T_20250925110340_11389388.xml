@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11389388</art_id>
+<art_year>2025</art_year>
+<art_no>568367</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-09 11:38:04</service_daytime>
+<title><![CDATA[“이러니 다들 해외 가지”…강원도 ‘1박 140만원’ 펜션에 여행객들 경악]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[백지연 매경 디지털뉴스룸 기자(gobaek@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-09 11:38:04</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100801</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/09/news-p.v1.20250809.991163b21cae4c8981eea92c7a53305b_P1.png' alt=' 강원도 관광지. 기사 내용과 직접적인 연관 없는 이미지. [사진 출처 = 픽사베이]'>
+여름 성수기 강원 주요 관광지 인근 펜션과 호텔의 4인 기준 1박 숙박비가 100만 원을 훌쩍 넘는 사례가 잇따르면서 논란이 일고 있다.
+9일 관련 업계에 따르면 춘천시의 A 펜션은 한 숙박 예약 애플리케이션을 통해 9일부터 10일까지 1박 2일 일정으로 최대 4인이 머무를 수 있는 객실 요금을 140만원에 책정했다. 강릉 소재 B 펜션 역시 같은 시기와 조건에서 110만 선으로 책정한 것으로 알려졌다.
+홍천의 C 호텔은 예약 플랫폼을 통해 이번 주말 1박 2일 4인 기준(조식 등 포함) 요금을 220만원으로 공지했고, 강릉의 D 호텔도 비슷한 조건에 180만원 대로 내걸었다.
+춘천·강릉·동해·양양·속초·평창 등 강원 주요 관광도시의 시내 모텔 다수는 주말 1박 2일 숙박비를 40만원 안팎으로 설정하고 있는 것으로 전해진다. 이는 비수기 대비 약 3배에 달하는 가격이다.
+휴가차 강원 지역을 찾은 관광객들 사이에선 성수기 요금 인상은 어느 정도 이해하지만 너무 심하다며 볼멘소리가 나오는 이유다.
+이에 따라 숙박업계에서도 비판의 목소리가 나오고 있다.
+강원도 내 한 숙박업계 관계자는 “여름 성수기 가격은 시설 수준, 운영비, 예약 대행 수수료, 수요 상황에 따라 비수기보다 높게 책정되는 것이 일반적”이라면서도 “아무리 고급 펜션이라도 1박에 100만 원이 넘는 요금은 평범한 소비자에게 부담이 크다”고 전했다.
+그러면서 “비수기 경영난을 이유로 성수기에 과도하게 매출을 끌어올리려는 전략은 장기적으로 지역 관광·숙박업계의 이미지를 해칠 수 있고, 적정가를 유지하는 업체에도 피해를 줄 수 있다”고 덧붙였다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[여름 성수기 강원 주요 관광지 인근 펜션과 호텔의 4인 기준 1박 숙박비가 100만 원을 훌쩍 넘는 사례가 잇따르면서 논란이 일고 있다. 9일 관련 업계에 따르면 춘천시의 A 펜션은 한 숙박 예약 애플리케이션을 통해 9일부터 10일까지 1박 2일 일정으로 최대 4인이 머무를 수 있는 객실 요금을 140만원에 책정했다. 강릉 소재 B 펜션 역시 같은 시기와 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100801</code_id>
+<code_nm><![CDATA[사회일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100801</small_code_id>
+<small_code_nm><![CDATA[사회일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100804</code_id>
+<code_nm><![CDATA[사건·사고]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100804</small_code_id>
+<small_code_nm><![CDATA[사건·사고]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/09/news-p.v1.20250809.991163b21cae4c8981eea92c7a53305b_P1.png]]></image_url>
+<image_caption><![CDATA[ 강원도 관광지. 기사 내용과 직접적인 연관 없는 이미지. [사진 출처 = 픽사베이]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11389388]]></article_url>
+</article>
+</saltlux>

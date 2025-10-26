@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11405381</art_id>
+<art_year>2025</art_year>
+<art_no>616405</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-28 17:43:25</service_daytime>
+<title><![CDATA[엔비디아 블랙웰 첨단서버로 현대차 'AI 팩토리' 만든다]]></title>
+<sub_title><![CDATA[디지털트윈·자율차설계 활용]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김동은 기자(bridge@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250829</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>15</pub_page>
+<reg_dt>2025-08-28 17:43:25</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100305</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[현대자동차그룹이 엔비디아와 협력관계를 더욱 공고히 하면서 다양한 방법으로 인공지능(AI) 기술을 모빌리티 제품 개발에 활용하고 나섰다.
+28일 엔비디아는 "현대차그룹, 디즈니, 폭스콘, 히타치, 일라이릴리, SAP, TSMC 등 세계 주요 기업들이 '블랙웰' 그래픽처리장치(GPU)로 구동되는 RTX프로 서버를 도입했다"고 발표했다.
+RTX프로 서버는 엔비디아의 최신 AI 칩 설계 기술인 블랙웰 기반의 GPU를 사용해 에이전틱 AI, 물리 AI, 첨단 설계 및 과학 연산, 시뮬레이션, 그래픽 등 다양한 분야에 활용 가능하도록 개발됐다.
+김흥수 현대차그룹 글로벌전략(GSO) 부사장은 "현대차그룹은 디지털트윈 분야에서 RTX프로 서버를 포함한 엔비디아의 최첨단 AI 인프라스트럭처를 활용해 기술 혁신을 가속화할 것"이라고 설명했다. 그는 이어 "두 회사의 파트너십은 제조 공정을 위한 가상 테스트베드를 구축해 새로운 공장 건설 시간을 줄이는 동시에 자율주행 기술을 검증하기 위한 가상 모빌리티 환경을 조성하는 데 중점을 둘 것"이라고 덧붙였다.
+현대차그룹은 지난 1월 엔비디아와 모빌리티 혁신을 위한 전략적 파트너십을 체결한 바 있다. 당시 현대차그룹은 "파트너십 체결을 통해 소프트웨어중심차량(SDV), 로보틱스 등 핵심 모빌리티 솔루션 및 사업 운영 전반에 걸쳐 AI 기술 적용을 강화할 계획"이라고 밝혔다.
+예를 들어 디지털트윈 기술을 활용해 신규 공장 구축·운영 과정을 시뮬레이션하고 이를 기반으로 품질을 향상시키고 비용을 절감할 수 있다. 또 자율주행차량을 가상 공간에서 시뮬레이션해 보완점을 파악하는 한편 AI 기반 로봇을 개발하고 로봇을 학습시키는 것도 가능하다. 
+[김동은 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[현대자동차그룹이 엔비디아와 협력관계를 더욱 공고히 하면서 다양한 방법으로 인공지능(AI) 기술을 모빌리티 제품 개발에 활용하고 나섰다.
+28일 엔비디아는 "현대차그룹, 디즈니, 폭스콘, 히타치, 일라이릴리, SAP, TSMC 등 세계 주요 기업들이 '블랙웰' 그래픽처리장치(GPU)로 구동되는 RTX프로 서버를 도입했다"고 발표했다.
+RTX프로 서버는 엔비디아의 최신 AI 칩 설계 기술인 블랙웰 기반의 GPU를 사용해 에이전틱 AI, 물리 AI, 첨단 설]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100305</code_id>
+<code_nm><![CDATA[전기·전자·통신]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100305</small_code_id>
+<small_code_nm><![CDATA[전기·전자·통신]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11405381]]></article_url>
+</article>
+</saltlux>

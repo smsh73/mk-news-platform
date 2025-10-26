@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11393570</art_id>
+<art_year>2025</art_year>
+<art_no>580865</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-14 11:10:10</service_daytime>
+<title><![CDATA[“소금 대신 이것 먹어라”…그럴듯한 챗GPT 말 믿었다가 병원 신세]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[백지연 매경 디지털뉴스룸 기자(gobaek@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-14 11:10:10</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101007</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/14/news-p.v1.20250613.ee7ef85cada0401b8f28e20a56e34804_P1.jpg' alt=' [사진 = 챗GPT 갈무리]'>
+미국에서 한 남성이 챗GPT를 통해 얻은 건강 관련 정보로 정신병원에 강제 입원하게 됐다.
+12일(현지시간) 영국 일간 데일리메일과 IT매체 아스테크니카에 따르면 60대 미국인 A씨는 소금이 건강에 미치는 부정적인 영향에 대한 보고서를 읽고 챗GPT에게 소금을 대체할 수 있는 재료에 대해 물었다.
+챗 GPT는 소금의 대안으로 브롬화 나트륨을 제시했다. 브롬화나트륨은 나트륨과 브롬(상온에서 액체 상태로 존재하는 유일한 비금속 원소)으로 이뤄진 화학물질이다.
+문제는 해당 물질이 한때 의료용 진정제로 판매됐지만 현재는 주로 수영장 청소 제품에 사용되는 독성 화합물이라는 점이다. 과다 복용 시에는 브롬중독의 증상으로 정신병, 망상, 피부 발진, 메스꺼움 등의 증상을 보이기도 한다. 지난 19세기에 정신병원 입원 환자의 최대 8%가 브롬중독으로 인해 발생하기도 했다.
+A씨는 챗 GPT의 조언에 따라 소금 대신 브롬화나트륨을 물에 타서 먹기 시작했고, 결국 3개월 만에 정신병원에 입원했다.
+미국 워싱턴대 의대 병원 의료진에 따르면 A씨는 입원한 지 하루 뒤부터 심한 편집증과 환각·환청 증상을 보였다. 또한 피로, 불면증, 극심한 다음증과 운동실조 등의 증상을 나타냈다. A씨는 전해질, 항정신병 약물 등을 투여받았고 입원 3주 만에 증상이 완화돼 퇴원할 수 있던 것으로 전해진다.
+해당 사례는 ‘국제 내과 임상 사례 연대기’(Annals of internal medicine clinical cases)’에 게재됐다.
+전문가들은 이번 사건과 관련, “AI가 실제로 존재하지 않거나 사실과 다른 답변을 그럴듯하게 만들어 내놓기도 한다”며 “정보 과잉시대에 AI에 대한 과도한 의존이 잘못된 선택으로 이끌 수 있다는 것을 경계해야 한다”고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[미국에서 한 남성이 챗GPT를 통해 얻은 건강 관련 정보로 정신병원에 강제 입원하게 됐다. 12일(현지시간) 영국 일간 데일리메일과 IT매체 아스테크니카에 따르면 60대 미국인 A씨는 소금이 건강에 미치는 부정적인 영향에 대한 보고서를 읽고 챗GPT에게 소금을 대체할 수 있는 재료에 대해 물었다. 챗 GPT는 소금의 대안으로 브롬화 나트륨을 제시했다. 브롬]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101007</code_id>
+<code_nm><![CDATA[국제사건/사고]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101007</small_code_id>
+<small_code_nm><![CDATA[국제사건/사고]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101011</code_id>
+<code_nm><![CDATA[미국/중남미]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101011</small_code_id>
+<small_code_nm><![CDATA[미국/중남미]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/14/news-p.v1.20250613.ee7ef85cada0401b8f28e20a56e34804_P1.jpg]]></image_url>
+<image_caption><![CDATA[ [사진 = 챗GPT 갈무리]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11393570]]></article_url>
+</article>
+</saltlux>

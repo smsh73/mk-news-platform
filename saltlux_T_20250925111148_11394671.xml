@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11394671</art_id>
+<art_year>2025</art_year>
+<art_no>584183</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-15 18:58:15</service_daytime>
+<title><![CDATA[캘리포니아를 칼포이아…박사급 수준이라던 GPT-5, 실수연발 ‘망신살’]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[이상규 매경 디지털뉴스룸 기자(boyondal@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-15 18:58:15</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100406</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/15/news-p.v1.20250815.ac0cc409786c440f98c316a3050bbdf5_P1.jpeg' alt=' [사진출처 = 연합뉴스]'>
+오픈AI가 야삼차게 내놓은 챗GPT의 최신 모델 ‘GPT-5’가 기대에 크게 못 미치는 성능을 보인 탓에 조롱거리로 전락했다고 미국 CNN방송이 14일(현지시간) 보도했다.
+지난 7일 GPT-5가 처음 공개될 때만 해도 AI 업계와 이용자들은 큰 관심과 기대에 부풀었었다.
+샘 올트먼 오픈AI 최고경영자(CEO)가 해당 모델이 “박사급 전문가 수준”이라고 내세웠기 때문이다.
+이전 모델들인 GPT-3와 GPT-4가 각각 고등학생과 대학생 수준이었던 것과 견줘 크게 진일보했다는 설명이었다.
+그는 심지어 GPT-5가 “큰 도약이자 범용인공지능(AGI)를 향한 중요한 진전”이라고도 했다.
+그러나 막상 GPT-5를 접해본 이용자들은 연이어 보이는 오류와 명백히 잘못된 답변에 크게 실망하는 모습이다.
+미국의 건국 초기 대통령 12명의 사진과 이름이 있는 표를 만들라고 하자 조지 워싱턴을 기어지 워싱지언(Gearge Washingion)으로, 토머스 제퍼슨을 토머슨 제퍼슨(Thomason Jefferson)으로 적는 등 어딘가 이가 빠진 결과물을 내뱉었다.
+또 미국 지도를 그리고 주 이름을 표시하라고 하자 캘리포니아를 ‘칼포히아(CALFORHIA)’로, 아이다호를 ‘1오아호(1OAHO)’로 엉뚱하게 표기했다.
+이용자들은 GPT-5의 실수를 SNS에 경쟁하듯 올리며 기대에 못미치는 성능을 비웃었다.
+일각에서는 이전 버전보다 못하다며 기존 모델을 되살리라고 온라인 청원 운동을 벌였고 오픈AI도 이를 받아들였다.
+올트먼 CEO는 지난 9일 엑스(X·옛 트위터) 게시물을 통해 “(모델의) ‘자동전환장치’가 고장 나 사용 불가 상태여서 GPT-5가 실제보다 더 멍청해 보였다”며 “오늘부터는 더 똑똑해 보일 것”이라고 해명했다.
+GPT-5에는 이용자의 질문에 따라 다양한 성능의 모델 중 가장 적합한 모델이 답변을 생성하게 하는 자동전환장치가 적용됐는데, 초기에 이 장치에 문제가 생겼다는 것이다.
+그러나 CNN은 올트먼의 해명이 나온 이후에 미국 지도를 그리라는 지시를 내려봤지만, 결과물은 여전히 형편없었다고 지적했다.
+AI에 대한 비판자로 유명한 게리 마커스 뉴욕대 명예교수는 “오픈AI가 이처럼 어중간한 수준의 모델에 브랜드 이름을 내걸 줄은 생각지 못했다”며 “합리적인 세상이라면 그들의 기업가치가 타격을 입었을 것”이라고 꼬집었다.
+챗GPT는 현재 주간 이용자가 약 7억 명으로 세계에서 가장 많이 사용되는 생성형 AI다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[오픈AI가 야삼차게 내놓은 챗GPT의 최신 모델 ‘GPT-5’가 기대에 크게 못 미치는 성능을 보인 탓에 조롱거리로 전락했다고 미국 CNN방송이 14일(현지시간) 보도했다. 지난 7일 GPT-5가 처음 공개될 때만 해도 AI 업계와 이용자들은 큰 관심과 기대에 부풀었었다. 샘 올트먼 오픈AI 최고경영자(CEO)가 해당 모델이 “박사급 전문가 수준”이라고 내]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100406</code_id>
+<code_nm><![CDATA[과학기술/특허]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK100406</small_code_id>
+<small_code_nm><![CDATA[과학기술/특허]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101011</code_id>
+<code_nm><![CDATA[미국/중남미]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101011</small_code_id>
+<small_code_nm><![CDATA[미국/중남미]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/15/news-p.v1.20250815.ac0cc409786c440f98c316a3050bbdf5_P1.jpeg]]></image_url>
+<image_caption><![CDATA[ [사진출처 = 연합뉴스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11394671]]></article_url>
+</article>
+</saltlux>

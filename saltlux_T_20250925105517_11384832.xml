@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11384832</art_id>
+<art_year>2025</art_year>
+<art_no>555905</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-04 15:44:41</service_daytime>
+<title><![CDATA[제타체인 창업자 “원화 스테이블코인 연결성 문제 될 수도…제타체인으로 모두 연결 가능”]]></title>
+<sub_title><![CDATA[앙쿠르 난드와니 공동창업자 인터뷰
+
+‘블록체인판 통신사’ 제타체인 기술로
+수십개 블록체인 흩어진 스테이블코인
+하나로 사용하게 연결성 높일 수 있어
+브릿지나 래핑 등 번거로운 과정 줄여
+원화 스테이블코인에도 적용할 수 있어
+
+‘유니파이드 스테이블코인’ 개념 선보여
+같은 화폐로 발행된 코인 하나처럼 거래]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[이종화 기자(andrewhot12@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-04 15:44:41</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100508</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/04/news-p.v1.20250804.15c0f566847e4f498a51a241fcebd3fb_P1.png' alt=' 제타체인 로고. 사진제공=제타체인'>
+<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">앙쿠르 난드와니 공동창업자 인터뷰<br><br>‘블록체인판 통신사’ 제타체인 기술로<br>수십개 블록체인 흩어진 스테이블코인<br>하나로 사용하게 연결성 높일 수 있어<br>브릿지나 래핑 등 번거로운 과정 줄여<br>원화 스테이블코인에도 적용할 수 있어<br><br>‘유니파이드 스테이블코인’ 개념 선보여<br>같은 화폐로 발행된 코인 하나처럼 거래</div></MKSUBTITLE>
+“스테이블코인은 수십개의 블록체인에 흩어져 발행되고 있다. 이 경우 사용자는 브릿지나 래핑을 활용해야 하는데, 이는 복잡하고 번거로울 수밖에 없다.”
+앙쿠르 난드와니(Ankur Nandwani) 제타체인 공동창업자는 최근 매일경제와의 인터뷰에서 이같이 말했다.
+그는 “제타체인은 이체, 유동성 풀(pool), 코인간 교환 등의 기능을 지원하면서 여러 블록체인에 발행된 스테이블코인들이 하나의 네트워크에서 작동하는 것과 같이 만들 수 있다”며 “블록체인판 통신사 역할을 수행하고 있다고 보면 된다”고 덧붙였다.
+제타체인은 여러 블록체인 네트워크 간의 상호운용성을 높인 일종의 ‘백엔드 레이어’를 개발한 기업이다.
+구글클라우드, 코인베이스, 알리바바 클라우드, 도이체 텔레콤 등 여러 글로벌 기업들과도 협업했다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/04/news-p.v1.20250804.cdb6d72e8d1b4ae7b3c11b3f30a57004_P1.png' alt=' 앙쿠르 난드와니(Ankur Nandwani) 제타체인 공동창업자가 지난해 열린 ‘업비트 D 컨퍼런스 2024(UDC 2024)’에서 연설하고 있는 모습. 사진제공=제타체인'>
+난드와니 공동창업자는 최근 국내에서 뜨거운 원화 스테이블코인과 관련해 연결성 문제를 반드시 고려해야 한다고 조언했다.
+실제로 국내에서 스테이블코인 도입을 위한 법률적인 논의는 있지만 어떤 메인넷을 사용할지, 어떻게 활용성을 강화할지에 대한 논의는 부족한 상황이다.
+만약 스테이블코인 발행사들이 이더리움, 아발란체, 클레이튼 등 각자 다른 메인넷을 사용하면 연결성 문제가 생길 수 있다. 브릿지, 래핑을 통해 서로 다른 블록체인 네트워크를 연결해야 하기 때문이다.
+이 경우 사용자들은 체감할 수 없게 백엔드에서 네트워크간 연결성 강화를 이뤄낼 수 있다는게 난드와니 공동창업자의 설명이다.
+그는 “향후 원화 스테이블코인들이 어떤 메인넷에 발행되더라도 제타체인의 기술을 활용하면 이들의 상호운용성을 강화할 수 있다”며 “이 경우 사용자들은 원화 스테이블코인이 어떤 블록체인을 사용하는지를 포함한 기술적 고민 없이 자유롭게 사용할 수 있을 것”이라고 강조했다.
+특히 최근 제타체인은 ‘유나파이드 스테이블코인(Unified Stablecoin)’에 대한 개념을 선보였다.
+유니파이드 스테이블코인은 같은 화폐를 기반으로 발행된 여러 스테이블코인을 하나로 모아 사용할 수 있게 하는 기술이다.
+사용자 입장에선 유니파이드 스테이블코인이 호환성도 높고 유동성도 충분히 확보할 수 있다는 강점이 있다.
+난드와니 공동창업자는 “유니파이드 스테이블코인은 여러 블록체인에 발행된 스테이블코인을 합쳐 그 가치를 합한 하나의 스테이블코인”이라며 “이를 사용하면 사용자 입장에선 호환성에 대한 고민을 할 필요가 없고 유동성도 하나로 모이는 만큼 더 풍부해진다”고 설명했다.
+그는 “궁극적으로 유니파이드 스테이블코인은 기술적인 어려움을 줄이고 발행사의 유연성을 높이면서 유저들이 더 쉽게 스테이블코인을 사용할 수 있게끔 할 것”이라고 덧붙였다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/04/news-p.v1.20250804.f60f6c39d3cb4d13a3b2663e72d3b36d_P1.png' alt=' 앙쿠르 난드와니(Ankur Nandwani) 제타체인 공동창업자. 사진제공=제타체인'>
+한편 제타체인은 비트코인을 브릿지나 래핑 없이 다른 블록체인 네트워크에서 사용할 수 있는 기술을 선보이며 주목 받았다.
+이를 통해 제타체인은 비트코인을 디파이에서도 직접 사용할 수 있게끔 했다.
+예를 들어 비트코인을 지갑에 갖고 있고 이더리움 네트워크를 기반으로 한 디파이 서비스에서 USDC를 빌릴 때 기존에는 브릿지나 래핑을 통해 비트코인을 담보로 잡아야 했다.
+단 제타체인의 기술을 활용하면 이런 과정 없이 지갑에 있는 비트코인을 직접 예치할 수 있게 된다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/04/news-p.v1.20250804.be0808af947d470ab936146053280819_P1.png' alt=''>
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[앙쿠르 난드와니 공동창업자 인터뷰  ‘블록체인판 통신사’ 제타체인 기술로 수십개 블록체인 흩어진 스테이블코인 하나로 사용하게 연결성 높일 수 있어 브릿지나 래핑 등 번거로운 과정 줄여 원화 스테이블코인에도 적용할 수 있어  ‘유니파이드 스테이블코인’ 개념 선보여 같은 화폐로 발행된 코인 하나처럼 거래“스테이블코인은 수십개의 블록체인에 흩어져 발행되고 있다.]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100508</code_id>
+<code_nm><![CDATA[해외증시]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100508</small_code_id>
+<small_code_nm><![CDATA[해외증시]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100502</code_id>
+<code_nm><![CDATA[시황]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100502</small_code_id>
+<small_code_nm><![CDATA[시황]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/04/news-p.v1.20250804.15c0f566847e4f498a51a241fcebd3fb_P1.png]]></image_url>
+<image_caption><![CDATA[ 제타체인 로고. 사진제공=제타체인]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/04/news-p.v1.20250804.cdb6d72e8d1b4ae7b3c11b3f30a57004_P1.png]]></image_url>
+<image_caption><![CDATA[ 앙쿠르 난드와니(Ankur Nandwani) 제타체인 공동창업자가 지난해 열린 ‘업비트 D 컨퍼런스 2024(UDC 2024)’에서 연설하고 있는 모습. 사진제공=제타체인]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/04/news-p.v1.20250804.f60f6c39d3cb4d13a3b2663e72d3b36d_P1.png]]></image_url>
+<image_caption><![CDATA[ 앙쿠르 난드와니(Ankur Nandwani) 제타체인 공동창업자. 사진제공=제타체인]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/04/news-p.v1.20250804.be0808af947d470ab936146053280819_P1.png]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11384832]]></article_url>
+</article>
+</saltlux>

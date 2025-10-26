@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11389115</art_id>
+<art_year>2025</art_year>
+<art_no>567647</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-08 18:00:58</service_daytime>
+<title><![CDATA[[팩토리 팝콘] 슈퍼컴 도조팀 접은 테슬라 삼성과 AI칩 밀월 깊어지나]]></title>
+<sub_title><![CDATA[머스크 "팀 없애라" 타 부서로 재배치<br>자체 설계 축소하고 외부 제조사와 긴밀 협력에 무게<br>TSMC-애플처럼 삼성-테슬라 새 파트너십 주목]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[이덕주 기자(mrdjlee@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250809</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>9</pub_page>
+<reg_dt>2025-08-08 18:00:58</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[◆ 팩토리 팝콘 ◆
+<img src='https://wimg.mk.co.kr/news/cms/202508/09/20250809_01110109000007_M00.jpg' alt='테슬라가 개발해 2021년 공개한 도조 칩. '>
+
+일론 머스크가 이끄는 전기차업체 테슬라가 자율주행을 위한 슈퍼컴퓨터 '도조(Dojo)' 팀을 해체하기로 하면서 삼성전자와 협력 관계가 더 깊어질 전망이다.
+지난 7일 블룸버그는 익명의 관계자를 인용해 도조 팀을 이끌던 피터 배넌이 테슬라를 떠나기로 했고, 머스크가 이 팀의 폐지를 명령했다고 전했다. 블룸버그에 따르면 도조 팀은 최근 새로 설립된 인공지능(AI) 스타트업 '덴서티(Density)AI'에 약 20명의 인력을 빼앗긴 상태로, 남아 있는 팀원들도 테슬라 내부의 다른 데이터센터·컴퓨터 프로젝트에 재배치되고 있다. 
+도조는 테슬라가 자체 설계한 슈퍼컴퓨터로 주행 보조 소프트웨어인 오토파일럿과 완전자율주행(FSD·Full Self-Driving), 휴머노이드 로봇 옵티머스를 지원하는 머신러닝 모델을 학습시키는 데 사용됐다.
+최근 삼성전자 파운드리가 수주한 AI6는 차량과 로봇에 탑재되는 칩으로 도조와는 다른 제품이다. 도조 팀 해체로 사실상 두 반도체가 통합될 것이라는 관측이 나오는 이유다. 업계에서는 테슬라의 도조 팀 해체로 설계를 비롯한 광범위한 영역에서 삼성전자와의 협력이 강화될 수도 있다고 본다.  애플이 TSMC와의 협력을 통해 성장했던 것처럼 테슬라와 삼성전자가 함께 성장할 수 있다는 설명도 나온다.
+[이덕주 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[일론 머스크가 이끄는 전기차업체 테슬라가 자율주행을 위한 슈퍼컴퓨터 '도조(Dojo)' 팀을 해체하기로 하면서 삼성전자와 협력 관계가 더 깊어질 전망이다.
+지난 7일 블룸버그는 익명의 관계자를 인용해 도조 팀을 이끌던 피터 배넌이 테슬라를 떠나기로 했고, 머스크가 이 팀의 폐지를 명령했다고 전했다. 블룸버그에 따르면 도조 팀은 최근 새로 설립된 인공지능(AI) 스타트업 '덴서티(Density)AI'에 약 20명의 인력을 빼앗긴 상태로, 남아 있는 팀원들]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/09/20250809_01110109000007_M00.jpg]]></image_url>
+<image_caption><![CDATA[테슬라가 개발해 2021년 공개한 도조 칩. ]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11389115]]></article_url>
+</article>
+</saltlux>

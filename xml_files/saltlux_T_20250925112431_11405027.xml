@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11405027</art_id>
+<art_year>2025</art_year>
+<art_no>615340</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-28 14:18:37</service_daytime>
+<title><![CDATA[공급망 빈 퍼즐 맞췄다···에프엔에스테크社, 대만 아사히 램프 약 108억원에 인수]]></title>
+<sub_title><![CDATA[정부 지원받아 인수 성사
+전량 해외의존 기술 확보]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[유준호 기자(yjunho@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-28 14:18:37</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100101</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">정부 지원받아 인수 성사<br>전량 해외의존 기술 확보</div></MKSUBTITLE>
+국내 반도체 장비기업 에프엔에스테크가 정부 지원에 힘입어 대만 반도체 부품 제조업체 아사히 램프(ASAHI LAMP)를 108억원에 인수했다. 아사히 램프가 만드는 고출력 반도체 공정용 램프는 현재 국내 생산기반이 부재한 상황으로 이번 인수는 국내 반도체산업 공급망 안정성과 경쟁력 강화에 기여할 것으로 기대된다.
+29일 산업통상자원부는 투자연계형 기술확보지원사업을 통해 국내 장비기업의 대만 반도체 부품 제조업체인 아사히 램프 인수를 지원했다고 밝혔다.
+아사히 램프는 반도체 급속 열처리(RTP)와 에피택셜 증착(EPI) 공정에 활용되는 텅스텐 할로겐 램프 제조기술을 보유한 기업이다. 현재는 미국 어플라이드 머티리얼즈와 대만 TSMC 등에 납품 중이다.
+에프엔에스테크는 지난 2013년에도 산업부의 지원을 받아 미국 이노패드(InnoPad)를 인수했다. 해당 인수를 통해 CMP PAD(연마용 패드) 기술을 확보했고, 현재는 삼성전자 등 국내 주요 반도체 기업에 납품 중이다.
+산업부와 한국소재부품장비투자기관협의회(KITIA)는 매물발굴, 실사 및 기술 평가 지원 등을 통해 우리 기업의 해외기술 확보를 지원해 왔다. 올해부터 공급망 전략수립 지원을 신설했으며 세액공제 연장도 추진 중이다. 소부장(소재·부품·장비) 관련 외국법인 인수시 인수금액의 5~10%을 세액공제하는데, 이를 2028년까지 연장하겠다는 구상이다.
+나성화 산업부 산업공급망정책관은 “해외 인수합병(M&A)은 기술과 시장을 동시에 확보할 수 있는 제2의 연구개발(R&D)”이라며 “국내 기업들이 정부의 지원을 적극 활용해 해외기술 확보에 나서주길 기대한다”고 밝혔다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[정부 지원받아 인수 성사 전량 해외의존 기술 확보국내 반도체 장비기업 에프엔에스테크가 정부 지원에 힘입어 대만 반도체 부품 제조업체 아사히 램프(ASAHI LAMP)를 108억원에 인수했다. 아사히 램프가 만드는 고출력 반도체 공정용 램프는 현재 국내 생산기반이 부재한 상황으로 이번 인수는 국내 반도체산업 공급망 안정성과 경쟁력 강화에 기여할 것으로 기대된]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100101</code_id>
+<code_nm><![CDATA[경제일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100101</small_code_id>
+<small_code_nm><![CDATA[경제일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100305</code_id>
+<code_nm><![CDATA[전기·전자·통신]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100305</small_code_id>
+<small_code_nm><![CDATA[전기·전자·통신]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101004</code_id>
+<code_nm><![CDATA[국제경영]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101004</small_code_id>
+<small_code_nm><![CDATA[국제경영]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100102</code_id>
+<code_nm><![CDATA[정책]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100102</small_code_id>
+<small_code_nm><![CDATA[정책]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11405027]]></article_url>
+</article>
+</saltlux>

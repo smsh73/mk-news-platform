@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11396377</art_id>
+<art_year>2025</art_year>
+<art_no>589033</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-18 17:55:36</service_daytime>
+<title><![CDATA[[특파원칼럼] 이미 AI 위에서 작동하는 삶]]></title>
+<sub_title><![CDATA[빅테크 AI 투자 확대 늘면서<br>이젠 AI가 일·생활 곳곳 확산<br>인간 의사결정에 직접 개입<br>당장 눈앞에 보이진 않지만<br>제2의 인터넷·통신망 변신<br>거대 인프라로 자리매김 중]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[원호섭 기자(wonc@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250819</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>29</pub_page>
+<reg_dt>2025-08-18 17:55:36</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101303</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/19/20250819_01110129000002_M00.jpg' alt=''>
+
+올해 2분기 빅테크 기업 실적 발표를 관통하는 키워드는 '인공지능(AI) 인프라스트럭처 투자 확대'였다. 구글, 마이크로소프트, 메타 등은 이미 수백조 원을 AI 인프라 확충에 쏟아부었고 앞으로 더 큰 규모의 투자를 이어가겠다고 공언했다. 불과 몇 년 전만 해도 '불확실성'이 거론되던 AI 투자가 이제는 기업 성장을 견인하는 핵심 동력이 된 것이다.
+메타는 AI를 전면 도입해 광고 타기팅과 콘텐츠 제작 효율을 높이며 매출과 순이익을 크게 늘렸다. 마이크로소프트는 클라우드 플랫폼 애저 매출이 39% 증가했고, 시스코는 AI 서버·네트워크 장비 주문액이 20억달러를 넘어섰다. 중국 텐센트 역시 알고리즘 고도화를 통해 매출이 두 자릿수 성장률을 기록했다. AI 투자가 곧 수익과 직결되는 국면으로 넘어간 셈이다.
+이 같은 흐름 속에서 빅테크의 인프라 투자는 멈출 줄 모른다. 샘 올트먼 오픈AI 최고경영자(CEO)는 "머지않아 데이터센터 건설에 수조 달러를 쓸 것"이라며 "경제학자들의 우려에도 투자를 멈추지 않겠다"고 말했다. AI 성능이 그래픽처리장치(GPU) 규모에 비례한다는 '스케일링 법칙' 역시 여전히 유효하다. 이제 AI는 첨단 기술이나 기업 전략을 넘어 사회 인프라로 변모하는 과정에 들어섰다.
+통신망과 인터넷이 사회 인프라가 됐을 때 우리는 근본적으로 달라진 세상을 마주했다. 인터넷은 지식과 정보를 누구나 손쉽게 공유하게 했고, 통신망은 시공간의 장벽을 허물었다. 온라인 커뮤니티와 소셜미디어는 여론 형성을 바꿨고, 전자상거래와 원격근무는 경제 활동과 노동 방식을 재편했다. 그러나 동시에 디지털 격차, 사이버 범죄, 허위 정보 같은 그림자도 드리웠다.
+AI도 같은 길을 걷고 있다. 인프라가 된다는 것은 기술이 눈앞에서 사라짐을 뜻한다. 인터넷 선을 의식하지 않고 웹페이지에 접속하듯, 우리는 AI를 '활용'하는 단계를 넘어 그 위에서 생활하고 일하며 소비하게 된다. 물류·금융·제조·의료 등 모든 산업의 의사결정이 AI 네트워크를 거치고, 그 결과가 다시 사회 전반으로 확산한다.
+겉으로는 큰 변화를 느끼기 어렵다. 챗봇이나 스피커는 AI의 일부에 불과하다. 진정한 변화는 '보이지 않는 의사결정'에서 시작된다. 기업 회의실에서는 AI가 자료를 분석하고, 연구실에서는 과학자의 일부 역할을 대신하고 있다. 사무실에서는 이메일·코드·보고서 초안이 AI로 작성된다. AI는 이제 단순한 앱이 아니라, 인간의 창의와 판단을 보조하는 시스템으로 작동하고 있다.
+따라서 AI 인프라는 인터넷이나 통신보다 더 큰 파장을 내포한다. 인터넷이 정보와 소통의 기반이었다면, AI는 '판단'과 '의사결정'에 직접 개입한다. 이 힘은 특정 기업의 편향이나 정책이 사회의 핵심 작동 원리를 흔들 수 있다는 뜻이기도 하다. 데이터센터, GPU, 알고리즘이 소수 기업의 손에 집중된 현실은 새로운 불평등의 씨앗이다. 인터넷과 통신이 혁신·편리함과 함께 위험도 낳았듯, AI 역시 같은 그림자를 드리우고 있다.
+AI는 더 이상 실험실 기술이 아니다. 이미 우리 삶의 배경에 깔린 '제2의 인터넷'이자 '새로운 통신망'이 되고 있다. 일상과 산업 곳곳은 AI 위에서 작동하기 시작했다. AI의 손을 거쳐 선택이 내려지고, 그 결과가 다시 우리 삶을 채운다. 눈앞에 드러나지 않을 뿐, 우리는 지금 또 하나의 거대한 인프라가 형성되는 순간을 지나고 있다.
+[원호섭 실리콘밸리 특파원]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[올해 2분기 빅테크 기업 실적 발표를 관통하는 키워드는 '인공지능(AI) 인프라스트럭처 투자 확대'였다. 구글, 마이크로소프트, 메타 등은 이미 수백조 원을 AI 인프라 확충에 쏟아부었고 앞으로 더 큰 규모의 투자를 이어가겠다고 공언했다. 불과 몇 년 전만 해도 '불확실성'이 거론되던 AI 투자가 이제는 기업 성장을 견인하는 핵심 동력이 된 것이다.
+메타는 AI를 전면 도입해 광고 타기팅과 콘텐츠 제작 효율을 높이며 매출과 순이익을 크게 늘렸다. 마이크]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101303</code_id>
+<code_nm><![CDATA[칼럼]]></code_nm>
+<large_code_id>3</large_code_id>
+<large_code_nm><![CDATA[오피니언]]></large_code_nm>
+<middle_code_id>30003</middle_code_id>
+<middle_code_nm><![CDATA[매경칼럼]]></middle_code_nm>
+<small_code_id>MK101303</small_code_id>
+<small_code_nm><![CDATA[칼럼]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>mki019240</code_id>
+<code_nm><![CDATA[특별칼럼]]></code_nm>
+<large_code_id>3</large_code_id>
+<large_code_nm><![CDATA[오피니언]]></large_code_nm>
+<middle_code_id>30003</middle_code_id>
+<middle_code_nm><![CDATA[매경칼럼]]></middle_code_nm>
+<small_code_id>mki019240</small_code_id>
+<small_code_nm><![CDATA[특별칼럼]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/19/20250819_01110129000002_M00.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11396377]]></article_url>
+</article>
+</saltlux>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11400456</art_id>
+<art_year>2025</art_year>
+<art_no>600817</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-22 14:38:56</service_daytime>
+<title><![CDATA[“어, 결제가 안되네”…출근길 ‘삼성페이 오류’에 소비자 불편, 올해만 세 차례]]></title>
+<sub_title><![CDATA[22일 오전 약 3시간 동안
+현대카드 등록·결제 오류]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[박나은 기자(nasilver@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-22 14:38:56</reg_dt>
+<mod_dt>2025-08-22 16:56:26</mod_dt>
+<art_org_class>MK100205</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">22일 오전 약 3시간 동안<br>현대카드 등록·결제 오류</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/22/rcv.YNA.20250602.PYH2025060200770001300_P1.jpg' alt=' 삼성페이에서 결제 오류가 발생하고 있는 모습 &lt;연합뉴스&gt;'>
+삼성전자의 스마트폰 간편결제 서비스인 ‘삼성페이’에서 결제 오류가 발생하면서 출근길 이용자들이 불편을 겪었다. 올해 들어서만 세 번의 오류가 발생하는 등 서비스 장애가 자주 발생하고 있는 모양새다.
+22일 삼성전자에 따르면 이날 오전 6시 10분께 삼성페이에서 현대카드 등록 및 결제 오류가 발생했다. 이후 약 2시간 40분 뒤인 8시 50분께 복구됐다. 삼성전자는 이날 오전 공지에서 “현대카드에서 조치가 완료돼 현재 정상 결제가 가능하다”며 “카드사와 함께 재발 방지를 위해 지속해 노력하겠다”고 안내했다.
+삼성전자 측은 현대카드에서 발생한 문제로 장애가 생겼다고 보고 있다면서도 구체적인 원인은 확인이 필요하다고 설명했다.
+문제는 삼성페이 오류가 올해 들어서만 이미 세 차례 발생했다는 점이다. 지난 4월과 6월에 이어 이날 오류가 났는데, 지난 6월 초에는 3시간 30분 가량 장애가 이어지며 장시간 고객들이 서비스를 이용하지 못했다.
+당시 삼성전자는 일부 카드사와 전용선 네트워크 문제 때문이라고 장애 원인을 밝혔지만 추후 당국 조사 결과 삼성SDS 수원 데이터센터에서 일어난 방화벽 오류가 원인으로 파악됐다. 이날 발생한 현대카드 오류는 삼성페이 목동 전산센터가 원인인 것으로 알려졌다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[22일 오전 약 3시간 동안 현대카드 등록·결제 오류삼성전자의 스마트폰 간편결제 서비스인 ‘삼성페이’에서 결제 오류가 발생하면서 출근길 이용자들이 불편을 겪었다. 올해 들어서만 세 번의 오류가 발생하는 등 서비스 장애가 자주 발생하고 있는 모양새다. 22일 삼성전자에 따르면 이날 오전 6시 10분께 삼성페이에서 현대카드 등록 및 결제 오류가 발생했다. 이후]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100205</code_id>
+<code_nm><![CDATA[저축은행·기타]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100205</small_code_id>
+<small_code_nm><![CDATA[저축은행·기타]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/22/rcv.YNA.20250602.PYH2025060200770001300_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 삼성페이에서 결제 오류가 발생하고 있는 모습 &lt;연합뉴스&gt;]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11400456]]></article_url>
+</article>
+</saltlux>

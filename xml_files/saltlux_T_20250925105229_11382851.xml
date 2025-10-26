@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11382851</art_id>
+<art_year>2025</art_year>
+<art_no>549384</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-01 11:07:20</service_daytime>
+<title><![CDATA[Naver expands AI briefing feature to image search]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-01 11:07:20</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK400111</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/01/news-p.v1.20250801.35923a82ba834c50b69440e94611380c_P1.png' alt=' (Naver)'>
+Naver announced on Friday that it is expanding its AI-powered briefing feature to image search.
+When users input images such as plants, wine, or fashion items via Naver’s Smart Lens, the artificial intelligence system analyzes the content, finds highly relevant articles, and summarizes the key information.
+The company said the update will enrich image search results, which were previously focused on similar images or encyclopedia-style information.
+Naver has been steadily expanding the scope of its AI briefing service since its launch in the first quarter. The number of search terms supported by the AI briefing feature has grown eightfold compared to the initial launch as of the end of July 2025, and the time spent at the top of the search results has increased by 32 percent, the company added.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[Naver announced on Friday that it is expanding its AI-powered briefing feature to image search. When users input images such as plants, wine, or fashion items via Naver’s Smart Lens, the artificial in]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK400111</code_id>
+<code_nm><![CDATA[Biz]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00308</middle_code_id>
+<middle_code_nm><![CDATA[English]]></middle_code_nm>
+<small_code_id>MK400111</small_code_id>
+<small_code_nm><![CDATA[Biz]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/01/news-p.v1.20250801.35923a82ba834c50b69440e94611380c_P1.png]]></image_url>
+<image_caption><![CDATA[ (Naver)]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11382851]]></article_url>
+</article>
+</saltlux>

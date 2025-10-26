@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11386358</art_id>
+<art_year>2025</art_year>
+<art_no>560398</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-06 10:35:45</service_daytime>
+<title><![CDATA[바이낸스, 브라질 수사 당국 지원...3천만弗 자금세탁 조직 검거]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[최근도 기자(recentdo@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-06 10:35:45</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100502</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/06/news-p.v1.20250806.c7424f445ccf489691965ebe617926c0_P1.png' alt=''>
+글로벌 가상자산 거래소 바이낸스는 브라질 수사 당국의 3천만 달러 이상의 대규모 불법 자금 세탁 조직 검거에 결정적 기여를 했다고 6일 밝혔다.
+해당 조직은 다크웹에서 거래되는 개인 은행 계좌 및 신용 카드 정보, 위조 신분증 등을 매수한 뒤 가상자산을 통해 불법 자금을 세탁했다.
+또한 페이퍼컴퍼니와 허위 계좌 등을 활용해 처리 과정을 복잡하게 설계하고 이를 부동산이나 차량 구매 등에 사용함으로써 정상적인 자본으로 탈바꿈 시켰다.
+이번 작전은 브라질 고이아스 주 경찰 주도 하에 약 18개월 동안 진행됐으며, 바이낸스는 범죄자 식별와 관련된 주요 역할을 수행했다.
+바이낸스 특별조사팀은 주 정부의 사이버 범죄 진압 경찰국(DERCC)을 비롯해, 신호 정보(Signals Intelligence) 관리국, 자금세탁방지(AML) 기술 연구소 등 다수 기관과 긴밀한 협조 체계를 구축하고, 범죄와 연관된 것으로 의심되는 가상자산 거래들을 분석 및 추적했다.
+또한 다크웹에서 이뤄진 범죄 조직의 활동들을 면밀히 분석해 실제 피의자로 이어지는 연결고리를 밝혀냈다.
+작전에는 고이아스 주와 함께, 연방 지구(브라질리아), 리우데자네이루 등지에서 경찰 180명 이상이 동원됐고, 총 8개 도시의 범죄 기반 시설 몰수 및 관련자 41명을 체포하는데 성공했다.
+이 과정에서 위조 서류나 카드 단말기는 물론, 마약이나 무기류도 함께 압수됐다.
+기예르메 나자르 바이낸스 라틴아메리카 지역 총괄은 “바이낸스는 가상자산을 악용하는 범죄를 예방하고 산업 생태계에 대한 신뢰를 높이기 위해 전 세계 수사 기관과의 협력을 지속해오고 있다”고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[글로벌 가상자산 거래소 바이낸스는 브라질 수사 당국의 3천만 달러 이상의 대규모 불법 자금 세탁 조직 검거에 결정적 기여를 했다고 6일 밝혔다. 해당 조직은 다크웹에서 거래되는 개인 은행 계좌 및 신용 카드 정보, 위조 신분증 등을 매수한 뒤 가상자산을 통해 불법 자금을 세탁했다. 또한 페이퍼컴퍼니와 허위 계좌 등을 활용해 처리 과정을 복잡하게 설계하고 이]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100502</code_id>
+<code_nm><![CDATA[시황]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100502</small_code_id>
+<small_code_nm><![CDATA[시황]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100514</code_id>
+<code_nm><![CDATA[펀드]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100514</small_code_id>
+<small_code_nm><![CDATA[펀드]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/06/news-p.v1.20250806.c7424f445ccf489691965ebe617926c0_P1.png]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11386358]]></article_url>
+</article>
+</saltlux>

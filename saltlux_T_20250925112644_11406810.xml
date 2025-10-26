@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11406810</art_id>
+<art_year>2025</art_year>
+<art_no>620277</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-31 05:55:35</service_daytime>
+<title><![CDATA[AI 올바른 답변 이끄는 ‘챗GPT의 선생님’…‘전세계 AI 인재 100인’에 이름 올린 한국계 학자 2명]]></title>
+<sub_title><![CDATA[타임지 ‘AI분야 가장 영향력 있는 100인’에
+최예진 스탠퍼드 교수·조앤 장 오픈AI 총괄
+
+최, LLM 독점 심화 등 우려
+비용 저렴하고 전기 덜 쓰는
+소규모언어모델 개발 구상
+
+장, 챗GPT 행동 원칙 설계
+올바른 답변 등 이끄는 역할]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[원호섭 기자(wonc@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-31 05:55:35</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">타임지 ‘AI분야 가장 영향력 있는 100인’에<br>최예진 스탠퍼드 교수·조앤 장 오픈AI 총괄<br><br>최, LLM 독점 심화 등 우려<br>비용 저렴하고 전기 덜 쓰는<br>소규모언어모델 개발 구상<br><br>장, 챗GPT 행동 원칙 설계<br>올바른 답변 등 이끄는 역할</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/31/news-p.v1.20250829.a1bcc8b8c1384050907ea39ee42eca57_P1.png' alt=' 최예진 스탠퍼드대 교수'>
+미국 시사주간지 ‘타임(TIME)’이 발표한 ‘인공지능(AI) 분야 가장 영향력 있는 100인(TIME 100 AI 2025)’에 한국계 학자 두 명이 이름을 올렸다. 최예진 미국 스탠퍼드대 교수와 조앤 장 오픈AI 모델 행동 총괄이 그 주인공이다. 최예진 교수는 타임이 AI 분야 가장 영향력 있는 100인 발표를 시작한 2023년에 이어 다시 한번 명단에 이름을 올리면서 영향력을 과시했다.
+28일(현지시간) 타임지는 이 두 사람을 ‘구상가(Thinkers)’ 부문에 선정했다고 밝혔다. 타임지는 영향력 있는 100인을 리더, 혁신가, 개척자, 구상가 등 총 4개 부문으로 나눠 발표한다. 이 중 구상가는 AI의 철학과 원칙 등을 고민하며 ‘AI가 사회에 어떤 영향을 미칠 것인가’와 같은 문제를 제기하는 인물 중에서 선정한다. 리더 부문의 경우 일론 머스크 xAI 최고경영자(CEO)와 샘 올트먼 오픈AI CEO, 젠슨 황 엔비디아 CEO, 손정의 소프트뱅크그룹 회장, 마크 저커버그 메타 CEO, 량원펑 딥시크 창업자 등이 뽑혔다.
+최예진 교수는 거대언어모델(LLM)의 한계와 공정성을 둘러싼 구조적 문제를 연구하고 있다. 조앤 장 총괄은 산업 현장에서 AI 사용자의 창의성·책임 관련 정책을 다루고 있다.
+최 교수는 서울대 컴퓨터공학과를 졸업하고 미국 코넬대에서 박사학위를 받았다. 뉴욕주립대 스토니브룩과 워싱턴대를 거쳐 올해 1월부터 스탠퍼드대 인간중심 AI 연구소(HAI) 교수로 부임했다. 자연어처리(NLP)와 생성형 AI, AI 윤리 분야에서 권위를 인정받으며 2022년에는 ‘천재들의 상’이라 불리는 맥아더 펠로우십을 수상한 바 있다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/31/news-p.v1.20250829.d881dca2b7af4b1c9906090b489ce654_P2.png' alt=' 조앤 장 오픈AI 총괄 [사진=조앤 장 링크드인]'>
+타임지는 “최예진 교수는 비용과 에너지를 많이 소모하는 LLM의 대안을 탐구하기 위해 HAI에 합류했다”며 “그가 주목하는 소규모언어모델(SLM)은 더 저렴하고 전력 효율이 높을 뿐 아니라 소수 거대 기업이 AI 산업을 독점하는 미래를 막을 수 있다”라고 평가했다. 이어 “한국에서 과학을 좋아하던 여학생이 AI의 인간적 결과에 주목하는 연구자가 됐다”고 소개했다.
+최 교수는 2023년 마이크로소프트(MS) 창업자인 빌 게이츠와의 대화에서 “현재의 초대형 모델은 블랙박스와 같아 투명성이 부족하고 데이터 독점 심화로 전 세계가 특정 기업에 의존하게 만들 위험이 있다”며 AI 권력 집중에 대한 우려를 피력했다. 또한 그는 AI는 놀랍도록 똑똑하지만 충격적일 만큼 어리석을 수 있다는 ‘AI 역설’을 제시하며 AI 추론의 취약성을 지적해왔다.
+최 교수는 현재 엔비디아 AI 연구 시니어 디렉터로도 활동하며 합성 데이터, 지식 증류, AI 안전성 분야까지 연구 영역을 넓히고 있다.
+한국계 미국인 조앤 장 총괄은 오픈AI에서 이미지 생성 AI인 ‘달리(DALL·E2)’와 챗GPT의 행동 정책을 담당하고 있다. 스탠퍼드대에서 응용수학과 컴퓨터과학을 전공했으며 드롭박스와 구글에서 제품 기획과 AI 연구 경험을 쌓은 뒤 2021년 12월 오픈AI에 합류했다.
+타임지는 “그는 자신의 일이 사용자들로 하여금 목표를 달성할 수 있도록 돕는 것이라 정의한다”며 “AI 개발자가 심판자가 되어서는 안 된다고 강조한다”고 전했다. 조앤 장 총괄은 2022년 챗GPT 공개 버전을 테스트하면서 단순한 요청조차 반복적으로 거부하는 것을 보고 AI가 상황을 이해하고 합리적으로 반응할 수 있도록 ‘행동 원칙’을 설계하는 것이 훨씬 중요함을 깨달았다고 했다. 이후 그는 “AI가 해를 끼치지 않는 한 사용자의 창의성을 최대한 지원한다”라는 원칙을 바탕으로 AI 모델의 행동 정책을 설계해 왔다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[타임지 ‘AI분야 가장 영향력 있는 100인’에 최예진 스탠퍼드 교수·조앤 장 오픈AI 총괄  최, LLM 독점 심화 등 우려 비용 저렴하고 전기 덜 쓰는 소규모언어모델 개발 구상  장, 챗GPT 행동 원칙 설계 올바른 답변 등 이끄는 역할미국 시사주간지 ‘타임(TIME)’이 발표한 ‘인공지능(AI) 분야 가장 영향력 있는 100인(TIME 100 AI 2]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/31/news-p.v1.20250829.a1bcc8b8c1384050907ea39ee42eca57_P1.png]]></image_url>
+<image_caption><![CDATA[ 최예진 스탠퍼드대 교수]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/31/news-p.v1.20250829.d881dca2b7af4b1c9906090b489ce654_P2.png]]></image_url>
+<image_caption><![CDATA[ 조앤 장 오픈AI 총괄 [사진=조앤 장 링크드인]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11406810]]></article_url>
+</article>
+</saltlux>

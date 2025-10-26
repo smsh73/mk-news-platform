@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11404528</art_id>
+<art_year>2025</art_year>
+<art_no>613467</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-27 19:34:49</service_daytime>
+<title><![CDATA[“회수 매출채권, 차입금으로 조작”…차부품 업체 등 2곳 과징금]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[조성신 매경 디지털뉴스룸 기자(robgud@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-27 19:34:49</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100201</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/27/news-p.v1.20250827.3cf455fc026a41709e48b32abee1b36c_P1.jpeg' alt=' 금융위원회 [사진 = 연합뉴스]'>
+회수한 매출채권을 장부에 그대로 남겨둔 채 회수금을 차입금으로 조작해 당기순이익을 부풀린 자동차 부품 제조 업체 등 2곳이 금융당국으로부터 과징금 등 조치를 받게 됐다.
+27일 금융위원회 산하 증권선물위원회는 이날 열린 15차 회의에서 회계처리기준을 위반해 재무제표를 작성·공시한 자동차 부품 제조 및 판매업체 세진과 신기테크에 과징금과 감사인 지정 2년 등의 조치를 의결했다.
+구체적인 과징금 액수는 향후 금융위에서 최종 결정될 예정이다.
+감사보고서 조사와 감리결과에 따르면 세진은 2020년부터 2022년까지 관계사를 통해 회수한 매출채권을 장부에서 제거하지 않고, 허위로 차입 계약을 체결해 회수한 금액을 차입금으로 인식했다.
+이후 해당 차입금 중 일부를 상환면제 받은 것으로 처리해 당기순이익을 부풀렸다.
+외부감사를 받을 땐 해외거래처에 채권채무조회서를 허위로 회신하도록 요청하고 감사자료를 위·변조해 제출하는 등 정상적인 외부감사를 방해했다.
+신기테크는 자신들이 도관(전달) 역할만 수행한 자금을 대여금과 선수금으로 인식해 자기자본을 부풀린 것으로 드러났다.
+외부감사 과정에서는 관계사 대여금 관련 확인서 등 감사자료를 허위로 작성하는 등 감사를 방해했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[회수한 매출채권을 장부에 그대로 남겨둔 채 회수금을 차입금으로 조작해 당기순이익을 부풀린 자동차 부품 제조 업체 등 2곳이 금융당국으로부터 과징금 등 조치를 받게 됐다. 27일 금융위원회 산하 증권선물위원회는 이날 열린 15차 회의에서 회계처리기준을 위반해 재무제표를 작성·공시한 자동차 부품 제조 및 판매업체 세진과 신기테크에 과징금과 감사인 지정 2년 등]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100201</code_id>
+<code_nm><![CDATA[금융정책·일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100201</small_code_id>
+<small_code_nm><![CDATA[금융정책·일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100301</code_id>
+<code_nm><![CDATA[기업 경영]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100301</small_code_id>
+<small_code_nm><![CDATA[기업 경영]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100801</code_id>
+<code_nm><![CDATA[사회일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100801</small_code_id>
+<small_code_nm><![CDATA[사회일반]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/27/news-p.v1.20250827.3cf455fc026a41709e48b32abee1b36c_P1.jpeg]]></image_url>
+<image_caption><![CDATA[ 금융위원회 [사진 = 연합뉴스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11404528]]></article_url>
+</article>
+</saltlux>

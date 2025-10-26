@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11400971</art_id>
+<art_year>2025</art_year>
+<art_no>602346</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-23 08:04:22</service_daytime>
+<title><![CDATA[품질 생산량 모두 줄었다…기후 변화에 타격 받는 ‘검은 반도체’의 정체]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[이상규 매경 디지털뉴스룸 기자(boyondal@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-23 08:04:22</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100106</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/23/news-p.v1.20250823.3fca2b8ed4a94e3f8b3dcc3afddefb5e_P1.jpeg' alt=' ‘검은 반도체’로 불리며 김이 고부가가치 산업으로 주목받는 가운데, 기후변화로 바닷물이 뜨거워지면 김의 품질이 떨어질 수 있다는 연구 결과가 나왔다. [사진출처 = 연합뉴스]'>
+‘검은 반도체’로 불리며 김이 고부가가치 산업으로 주목받는 가운데, 기후변화로 바닷물이 뜨거워지면 김의 품질이 떨어질 수 있다는 연구 결과가 나왔다.
+23일 학계에 따르면 한국식품연구원 연구진은 최근 국제학술지 해양오염학회지(marine pollution bulletin)에 이런 내용을 담은 ‘한국 물김의 영양 성분과 중금속 함량에 영향을 주는 환경요인’이라는 논문을 발표했다.
+연구원 스마트제조연구단 박슬기 박사 등 연구진은 작년 1∼3월 충남 서천군 송석항에서 7차례에 걸쳐 채취한 물김의 수분·단백질·지방·탄수화물·회분 등 영양성분과 해수면 온도·기온·표층 염분 등 환경요인 간 상관관계를 분석했다. 그 결과 해수면 온도가 높아지면 김 단백질 함량은 감소하는 것으로 나타났다.
+해수면 온도가 상대적으로 낮은 1월 채취한 김의 단백질 함유량은 100ｇ당 4.27ｇ이었으나 2월과 3월 채취한 김은 각각 2.46ｇ과 2.57ｇ에 그쳤다. 단백질이 가장 풍부한 해조류로 알려진 김의 단백질 함량 감소는 곧 품질 저하를 의미한다.
+기후변화는 김의 품질 뿐 아니라 생산량에게도 악형향을 주는 것으로 나타났다.
+물김은 해수면 온도가 5∼8도일 때 가장 잘 자란다. 이 때문에 국내에서는 12월부터 이듬해 3월까지 물김이 생산되는데, 해수면 온도가 오르면 김 생산 가능 기간이 짧아져 생산량이 줄게 된다.
+정부는 이런 상황을 고려해 단기적으로는 김 생산 면적을 늘리고, 중장기적으로는 육상양식 시스템 보급과 품종 개량 등 대책을 강구하고 있다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[‘검은 반도체’로 불리며 김이 고부가가치 산업으로 주목받는 가운데, 기후변화로 바닷물이 뜨거워지면 김의 품질이 떨어질 수 있다는 연구 결과가 나왔다. 23일 학계에 따르면 한국식품연구원 연구진은 최근 국제학술지 해양오염학회지(marine pollution bulletin)에 이런 내용을 담은 ‘한국 물김의 영양 성분과 중금속 함량에 영향을 주는 환경요인’이]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100106</code_id>
+<code_nm><![CDATA[생활경제]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100106</small_code_id>
+<small_code_nm><![CDATA[생활경제]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100801</code_id>
+<code_nm><![CDATA[사회일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100801</small_code_id>
+<small_code_nm><![CDATA[사회일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101402</code_id>
+<code_nm><![CDATA[의료/건강]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101402</small_code_id>
+<small_code_nm><![CDATA[의료/건강]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/23/news-p.v1.20250823.3fca2b8ed4a94e3f8b3dcc3afddefb5e_P1.jpeg]]></image_url>
+<image_caption><![CDATA[ ‘검은 반도체’로 불리며 김이 고부가가치 산업으로 주목받는 가운데, 기후변화로 바닷물이 뜨거워지면 김의 품질이 떨어질 수 있다는 연구 결과가 나왔다. [사진출처 = 연합뉴스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11400971]]></article_url>
+</article>
+</saltlux>

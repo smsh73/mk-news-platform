@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11399903</art_id>
+<art_year>2025</art_year>
+<art_no>599132</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-21 21:39:23</service_daytime>
+<title><![CDATA[“우리들 스테이블 코인에 진심입니다”…서클 대표 만나는 신한·하나금융회장]]></title>
+<sub_title><![CDATA[KB 부회장, 우리은행장도 예정]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[박인혜 기자(inhyeplove@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-21 21:39:23</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100201</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">KB 부회장, 우리은행장도 예정</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250709.40354bd2db9c4b4d83425c960546a082_P1.jpg' alt=' [사진 = 연합뉴스]'>
+진옥동 신한금융그룹 회장과 함영주 하나금융그룹 회장 등 금융권 주요 인사들이 조만간 한국을 찾는 스테이블코인 발행사 고위급과 연쇄 회동을 갖는다.
+21일 금융권에 따르면 진 회장과 함 회장은 22일 히스 타버트 서클 사장과 면담할 예정이다. 이번 면담은 서클 측 요청으로 성사된 것으로 알려졌다.
+서클은 미국에 본사를 둔 핀테크 기업으로, 미국 달러화 연동 스테이블 코인 서클(CRCL)을 발행하는 회사다. 최근 들어 아시아와 유럽 등으로 영역을 확장하려 하고 있다. 스테이블코인 발행과 수탁 등에 관심이 있는 한국 금융사와 연쇄 접촉하려는 것도 이 같은 배경에서다.
+KB금융지주에선 디지털 분야를 총괄하는 이창권 부문장(부회장급)이, 우리은행에선 정진완 행장이 타버트 사장과 면담을 진행할 예정이다.
+하나금융과 우리은행의 경우 또 다른 스테이블코인 발행사인 테더와도 만남을 추진하고 있는 것으로 알려졌다.
+아직 국내에선 스테이블코인 관련 법규 등이 마련되지 않아 초기 단계에 머물러 있지만, 이재명 대통령이 후보 시절 원화 스테이블코인 발행을 공약으로 내세운만큼 사전에 준비 작업을 해두겠다는 뜻으로 읽힌다.
+신한금융 관계자는 “신한금융은 내부적으로 스테이블 코인이 접목시킬 수 있는 다양한 사업을 선제적으로 검토하고 있다”고 말하며 “스테이블 코인 법제화에 맞춰 새로운 시장의 주도권을 확보하기 위해 노력할 것”이라고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[KB 부회장, 우리은행장도 예정진옥동 신한금융그룹 회장과 함영주 하나금융그룹 회장 등 금융권 주요 인사들이 조만간 한국을 찾는 스테이블코인 발행사 고위급과 연쇄 회동을 갖는다. 21일 금융권에 따르면 진 회장과 함 회장은 22일 히스 타버트 서클 사장과 면담할 예정이다. 이번 면담은 서클 측 요청으로 성사된 것으로 알려졌다. 서클은 미국에 본사를 둔 핀테크]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100201</code_id>
+<code_nm><![CDATA[금융정책·일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100201</small_code_id>
+<small_code_nm><![CDATA[금융정책·일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100202</code_id>
+<code_nm><![CDATA[외환·환율]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100202</small_code_id>
+<small_code_nm><![CDATA[외환·환율]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100203</code_id>
+<code_nm><![CDATA[은행]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100203</small_code_id>
+<small_code_nm><![CDATA[은행]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250709.40354bd2db9c4b4d83425c960546a082_P1.jpg]]></image_url>
+<image_caption><![CDATA[ [사진 = 연합뉴스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11399903]]></article_url>
+</article>
+</saltlux>

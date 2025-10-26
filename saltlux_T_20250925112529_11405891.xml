@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11405891</art_id>
+<art_year>2025</art_year>
+<art_no>617674</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-29 10:37:25</service_daytime>
+<title><![CDATA[Hyundai Motor expands partnership with Nvidia for AI applications]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-29 10:37:25</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK400111</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/29/news-p.v1.20250829.7294ad1829dc4f5a818a57700a39bf21_P1.png' alt=' Hyundai Motor Group CI'>
+Hyundai Motor Group is strengthening its partnership with Nvidia Corp. and expanding the use of artificial intelligence (AI) technologies in mobility product development.
+Nvidia announced Thursday that Hyundai Motor Group, The Walt Disney Co., Hon Hai Technology Group (Foxconn), Hitachi Ltd., Eli Lilly and Co., SAP SE, and Taiwan Semiconductor Manufacturing Co. (TSMC) are among the companies adopting its RTX Pro servers.
+The servers are powered by the new RTX Pro 6000 Blackwell Server Edition graphics processing unit (GPU) and are designed for applications including agentic and physics AI, advanced design, scientific computing, simulation, and graphics.
+Kim Heung-soo, head of the Global Strategy Office at Hyundai Motor Group, said the company will use Nvidia’s AI infrastructure to accelerate digital twin technology.
+“Our partnership will focus on building virtual testbeds for manufacturing to shorten the time needed for new factory construction, while also creating virtual mobility environments to validate autonomous driving technologies,” he said.
+Hyundai Motor Group signed a strategic partnership with Nvidia in January to advance mobility innovation. At the time, the automaker said it planned to expand AI adoption across software-defined vehicles, robotics, and broader business operations.
+Digital twin technology, for example, enables Hyundai to simulate factory construction and operations to improve quality and reduce costs, test autonomous vehicles in virtual environments, and develop and train AI-based robots.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[Hyundai Motor Group is strengthening its partnership with Nvidia Corp. and expanding the use of artificial intelligence (AI) technologies in mobility product development. Nvidia announced Thursday tha]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK400111</code_id>
+<code_nm><![CDATA[Biz]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00308</middle_code_id>
+<middle_code_nm><![CDATA[English]]></middle_code_nm>
+<small_code_id>MK400111</small_code_id>
+<small_code_nm><![CDATA[Biz]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/29/news-p.v1.20250829.7294ad1829dc4f5a818a57700a39bf21_P1.png]]></image_url>
+<image_caption><![CDATA[ Hyundai Motor Group CI]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11405891]]></article_url>
+</article>
+</saltlux>

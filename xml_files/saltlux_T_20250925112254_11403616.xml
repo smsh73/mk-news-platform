@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11403616</art_id>
+<art_year>2025</art_year>
+<art_no>610465</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-26 23:36:47</service_daytime>
+<title><![CDATA[처서 지났지만 낮 더위 계속…강원 영동엔 5mm 소나기]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[이상현 매경 디지털뉴스룸 기자(lee.sanghyun@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-26 23:36:47</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100801</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/26/news-p.v1.20250826.47db874f39384cc78fd3b8518a272848_P1.jpg' alt=' 더위가 가시고 신선한 가을을 맞이한다는 절기 처서를 하루 앞둔 지난 22일 광주 북구 충효동 광주호 호수생태원에서 양산을 쓴 시민이 코스모스가 핀 산책길을 걷고 있다. [사진 출처 = 연합뉴스]'>
+더위가 한풀 꺾인다는 처서가 지났지만, 27일에도 곳곳에서 더운 날씨가 이어지겠다.
+전국에 가끔 구름이 많은 가운데 강원 영동은 늦은 새벽부터 오후 사이, 경북 북동 산지와 경북 북부 동해안은 오후부터 저녁 사이 비가 내리겠다.
+오후부터 저녁 사이에는 충북 북부와 경남 중부 내륙, 제주도에 소나기가 내리는 곳이 있겠다.
+예상 강수량은 강원영동과 세종, 충남이 5㎜ 안팎이다. 경북 북동 산지와 경북 북부 동해안은 5∼10㎜, 강원북부산지는 5∼20㎜로 예상된다.
+아침 최저기온은 20∼25도, 낮 최고기온은 28∼35도로 예보됐다.
+지역별 낮 최고기온은 서울 32도, 인천 30도, 강릉 30도, 대전 32도, 광주 32도, 대구 33도, 부산 31도 등으로 예상됐다.
+대기 확산이 원활해 모든 권역에서 미세먼지 농도가 ‘좋음’~‘보통’ 수준을 보이겠다.
+바다의 물결은 동해 앞바다에서 0.5∼1.5ｍ, 서해·남해 앞바다에서 0.5∼1.0ｍ로 일겠다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[더위가 한풀 꺾인다는 처서가 지났지만, 27일에도 곳곳에서 더운 날씨가 이어지겠다. 전국에 가끔 구름이 많은 가운데 강원 영동은 늦은 새벽부터 오후 사이, 경북 북동 산지와 경북 북부 동해안은 오후부터 저녁 사이 비가 내리겠다. 오후부터 저녁 사이에는 충북 북부와 경남 중부 내륙, 제주도에 소나기가 내리는 곳이 있겠다. 예상 강수량은 강원영동과 세종, 충남]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100801</code_id>
+<code_nm><![CDATA[사회일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100801</small_code_id>
+<small_code_nm><![CDATA[사회일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100806</code_id>
+<code_nm><![CDATA[교통/환경/날씨]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100806</small_code_id>
+<small_code_nm><![CDATA[교통/환경/날씨]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/26/news-p.v1.20250826.47db874f39384cc78fd3b8518a272848_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 더위가 가시고 신선한 가을을 맞이한다는 절기 처서를 하루 앞둔 지난 22일 광주 북구 충효동 광주호 호수생태원에서 양산을 쓴 시민이 코스모스가 핀 산책길을 걷고 있다. [사진 출처 = 연합뉴스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11403616]]></article_url>
+</article>
+</saltlux>

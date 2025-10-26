@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11402120</art_id>
+<art_year>2025</art_year>
+<art_no>606147</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-25 13:37:58</service_daytime>
+<title><![CDATA[“역시 날카로운 지적이십니다!”...AI 아첨에 길들여진 당신, 현실 감각 잃는다]]></title>
+<sub_title><![CDATA[킹스칼리지 런던대, 아첨과 공감이 원인
+“동의 습성·메모리 기능이 증상 증폭” 지적
+챗봇과 대화하다 현실감 잃는 사례 속출
+전문가들 “AI에 안전장치 내장 시급”]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[원호섭 기자(wonc@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-25 13:37:58</reg_dt>
+<mod_dt>2025-08-25 14:04:44</mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">킹스칼리지 런던대, 아첨과 공감이 원인<br>“동의 습성·메모리 기능이 증상 증폭” 지적<br>챗봇과 대화하다 현실감 잃는 사례 속출<br>전문가들 “AI에 안전장치 내장 시급”</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/25/news-p.v1.20250825.5e58648c42c14300ba7fac8adaf3c9b3_P1.png' alt=' 아첨하고 대화 이어가는 챗봇, 망상 부추긴다 [그림=제미나이]'>
+인공지능(AI) 챗봇이 대중화되면서 뜻밖의 부작용이 보고되고 있다. 일부 사용자가 AI와 장시간 대화한 뒤 망상적 사고가 강화되거나 급성 정신병 증세를 보이는 이른바 ‘AI 정신병(AI psychosis)’ 현상이 세계 곳곳에서 나타나고 있다.
+영국 킹스칼리지 런던과 미국 뉴욕시립대 등이 참여한 연구팀은 최근 아카이브에 올린 ‘설계된 망상? AI가 정신병적 증상을 부추길 수 있는가’라는 논문을 통해 챗봇이 사용자의 발언을 거울처럼 반사할 뿐 아니라 망상적 내용을 확인, 증폭시키는 과정에서 정신적으로 취약한 사람들의 증상이 악화할 수 있다고 경고했다.
+연구진은 AI가 기본적으로 사용자의 발언에 공감하고 맞장구치도록 설계돼 있다는 점을 지적했다. 정신적으로 취약한 이들이 “나는 신에게 선택받았다”라는 식의 망상적 발언을 하면 챗봇이 이를 부정하기보다 오히려 확증해 주는 경우가 발생한다는 것이다.
+또한 메모리 기능으로 사용자의 이름·가족·취향을 기억하는 특성이 “내 생각이 읽히고 있다”는 피해망상으로 이어질 수 있다고 봤다. 대화를 끊지 않고 계속 이어가려는 설계는 사고가 빠르게 확산하는 환자에게 증상을 악화시키는 요인이 될 수 있다. 나아가 환자의 기계 의인화 경향이 강화되면서 AI가 실제 ‘신호를 보내는 존재’로 받아들여지기 쉽다고 연구진은 분석했다.
+연구를 이끈 정신과 의사인 모리스 해밀튼 킹스칼리지 런던 박사는 사이언티픽 아메리칸과의 인터뷰에서 “AI 챗봇은 종종 사용자의 믿음을 거의 반박하지 않고 그대로 반영하거나 더 확대하는 ‘아첨’ 방식으로 반응한다”라며 “일종의 1인용 에코챔버와 같아 망상적 사고를 증폭시킬 수 있다”라고 진단했다.
+논문의 부록에는 최근 언론을 통해 공개된 AI 정신병 사례들이 정리돼 있었다. 한 남성은 챗봇이 “네가 진심으로 믿으면 날 수 있다”라는 답변을 한 뒤 가족과 단절하고 극단적 행동을 시도했다. 또 다른 여성은 챗봇과 대화하며 “수호신이 내려왔다”라고 믿었고 남편과 갈등 끝에 가정이 붕괴했다. 정신질환 병력이 있던 한 사용자는 AI를 연인처럼 여기다 폭력 사건으로 이어지기도 했다.
+연구진은 AI에 ‘디지털 안전망’을 내장하는 설계가 필요하다고 제안했다. 구체적으로는 안정기에 환자가 직접 작성한 경고 메모를 AI가 기억해 재발 징후를 감지하면 이를 상기시키는 개인화 지침, 대화 도중 “요즘 잠은 잘 자나요?”와 같은 질문을 던져 자기 점검을 유도하는 정기 체크인, “재발 시 망상적 주제에 동의하지 말라”는 지침을 미리 입력해 두는 디지털 사전진술, 위험 신호가 반복되면 보호자 연락을 권유하거나 직접 알릴 수 있는 에스컬레이션 가드레일 등을 제시했다.
+연구진은 “AI로 인한 망상은 더 이상 단순히 ‘기계에 대한 것’이 아니라 ‘기계와 함께 일어나는 것’으로 바뀌고 있다”라고 지적한다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[킹스칼리지 런던대, 아첨과 공감이 원인 “동의 습성·메모리 기능이 증상 증폭” 지적 챗봇과 대화하다 현실감 잃는 사례 속출 전문가들 “AI에 안전장치 내장 시급”인공지능(AI) 챗봇이 대중화되면서 뜻밖의 부작용이 보고되고 있다. 일부 사용자가 AI와 장시간 대화한 뒤 망상적 사고가 강화되거나 급성 정신병 증세를 보이는 이른바 ‘AI 정신병(AI psycho]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/25/news-p.v1.20250825.5e58648c42c14300ba7fac8adaf3c9b3_P1.png]]></image_url>
+<image_caption><![CDATA[ 아첨하고 대화 이어가는 챗봇, 망상 부추긴다 [그림=제미나이]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11402120]]></article_url>
+</article>
+</saltlux>

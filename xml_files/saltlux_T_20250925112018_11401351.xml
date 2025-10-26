@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11401351</art_id>
+<art_year>2025</art_year>
+<art_no>604045</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-24 15:31:04</service_daytime>
+<title><![CDATA[비금융사 사모 신종자본증권 발행 잇따라…높은 금리 부담 우려도]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[명지예 기자(bright@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-24 15:31:04</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100513</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/24/news-p.v1.20250824.cd982317b8284a1b86f4423ee5b64311_P1.jpg' alt=''>
+<b>[본 기사는 08월 24일(15:05) 매일경제 자본시장 전문 유료매체인 ‘<span style="color: rgb(255, 156, 0);">레이더M</span>’에 보도 된 기사입니다]</b>
+최근 한 달 새 비금융권 기업들이 잇따라 사모 신종자본증권을 발행하고 있다.
+신용등급이 낮거나 부채비율이 높은 기업들이 주로 발행에 나서면서 고금리 구조가 장기적으로는 재무 부담으로 이어질 수 있다는 지적도 나온다.
+24일 한국예탁결제원에 따르면 풀무원식품은 지난 20일 500억원 규모의 사모 신종자본증권을 발행했다.
+표면금리는 5.9%로, 지난 6월 신용등급이 A-에서 BBB+로 떨어진 상황에서 이뤄졌다. 이번 발행은 콜옵션(중도상환청구권) 주기를 2년으로 짧게 설정한 것이 특징이다.
+신종자본증권은 회계상 자본으로 인정되지만 사실상 부채 성격도 지닌 혼합증권이다. 만기가 없거나 매우 길고 발행 후 5년이 지나 콜옵션을 행사할 수 있는 구조가 일반적이다.
+발행사가 콜옵션을 행사하지 않으면 금리가 오르는 ‘스텝업’ 조항이 붙어 장기적 비용 부담으로 이어질 수 있다.
+제주항공도 1000억원 규모의 사모 신종자본증권을 표면금리 6.5%에 발행했다. 마찬가지로 콜옵션 주기가 2년으로 설정됐다.
+지난해 말 항공 사고 이후 공모채 시장 진입이 막히고 부채비율이 680%에 달하는 상황에서 재무 안정성 확보를 위한 선택으로 풀이된다.
+에코비트는 850억원 규모, 표면금리 4.8%로 사모 신종자본증권을 발행했다. 신용등급은 A+지만 공모채보다는 사모채, 기업어음(CP)에 차입을 의존해오고 있다.
+SK이노베이션은 최근 자회사 SK온 지원을 위해 7000억원 규모 신종자본증권을 발행했다. 표면금리는 5.036%이며 콜옵션은 5년 주기다.
+신종자본증권의 금리는 일반 공모 회사채에 비해 1~2%포인트 높다.
+금융투자업계 관계자는 “신종자본증권 발행은 재무구조 개선 효과가 있지만 높은 금리로 인해 기업의 비용 부담을 키울 수 있다”고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[[본 기사는 08월 24일(15:05) 매일경제 자본시장 전문 유료매체인 ‘레이더M’에 보도 된 기사입니다] 최근 한 달 새 비금융권 기업들이 잇따라 사모 신종자본증권을 발행하고 있다. 신용등급이 낮거나 부채비율이 높은 기업들이 주로 발행에 나서면서 고금리 구조가 장기적으로는 재무 부담으로 이어질 수 있다는 지적도 나온다. 24일 한국예탁결제원에 따르면 풀]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100513</code_id>
+<code_nm><![CDATA[채권]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100513</small_code_id>
+<small_code_nm><![CDATA[채권]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/24/news-p.v1.20250824.cd982317b8284a1b86f4423ee5b64311_P1.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11401351]]></article_url>
+</article>
+</saltlux>

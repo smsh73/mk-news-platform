@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11404765</art_id>
+<art_year>2025</art_year>
+<art_no>614256</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-28 09:56:23</service_daytime>
+<title><![CDATA[엔비디아 급락에 삼성전자·한미반도체 하락…SK하이닉스 홀로 반등, 왜?]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[김민주 매경 디지털뉴스룸 기자(kim.minjoo@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-28 09:56:23</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100503</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/28/news-p.v1.20250828.2701daa2e7354968a44dbcb5ad454ebd_P1.png' alt=' 서울 삼성전자 서초사옥. [사진 = 연합뉴스]'>
+엔비디아 주가가 급락하자 국내 반도체 관련주도 장초반 하락세를 보이고 있다.
+이날 오전 9시 45분 현재 삼성전자는 전일대비 500원(0.71%) 내린 7만100원에 거래되고 있다.
+같은 시각 한미반도체는 전일대비 700원(0.79%) 내린 8만8400원에 거래 중이다.
+이는 엔비디아 주가가 시간외 거래에서 3.10% 하락한 영향으로 풀이된다.
+엔비디아는 2분기(5∼7월) 호실적에도 데이터센터 실적 부진 여파로 주가가 하락했다.
+삼성전자와 함께 국내 반도체 대표주로 꼽히는 SK하이닉스는 전일보다 2.5% 내린 25만3500원에 개장해 장초반 하락세를 이어가다, 오전 9시 34분을 기점으로 소폭 상승했다. 이날 오전 9시 45분 기준 SK하이닉스는 전일대비 1000원(0.38%) 오른 26만1000원에 거래 중이다.
+이는 SK하이닉스가 업계 최초로 ‘High-K EMC’ 소재를 적용한 고방열 모바일 D램 제품을 개발해 고객사들에 공급을 개시했다는 소식에 매수세가 반짝 반등한 것으로 풀이된다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[엔비디아 주가가 급락하자 국내 반도체 관련주도 장초반 하락세를 보이고 있다. 이날 오전 9시 45분 현재 삼성전자는 전일대비 500원(0.71%) 내린 7만100원에 거래되고 있다. 같은 시각 한미반도체는 전일대비 700원(0.79%) 내린 8만8400원에 거래 중이다. 이는 엔비디아 주가가 시간외 거래에서 3.10% 하락한 영향으로 풀이된다. 엔비디아는 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+<stock_code>005930</stock_code>
+<stock_code>042700</stock_code>
+<stock_code>000660</stock_code>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100503</code_id>
+<code_nm><![CDATA[기업정보]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100503</small_code_id>
+<small_code_nm><![CDATA[기업정보]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/28/news-p.v1.20250828.2701daa2e7354968a44dbcb5ad454ebd_P1.png]]></image_url>
+<image_caption><![CDATA[ 서울 삼성전자 서초사옥. [사진 = 연합뉴스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11404765]]></article_url>
+</article>
+</saltlux>

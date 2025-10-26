@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11388758</art_id>
+<art_year>2025</art_year>
+<art_no>566824</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-08 13:27:23</service_daytime>
+<title><![CDATA[“이OO 수원시청 재무회계과 주무관 조심하세요”…공무원 사칭 범죄 기승]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[안서진 매경 디지털뉴스룸 기자(seojin@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-08 13:27:23</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100801</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/08/news-p.v1.20250808.5706eaaa72244f3a96029cb716ac7e05_P1.png' alt=' 수원시 공무원을 사칭한 이가 건넨 명함. [사진출처=수원시]'>
+최근 경기 수원시 공무원을 사칭해 금전을 요구하는 사기 행각이 성행하고 있어 각별한 주의가 요구된다.
+8일 시에 따르면 인테리어 업체를 운영 중인 A씨는 최근 ‘수원시 공무원’이라고 주장하는 인물로부터 수의계약 공사를 제안받았다.
+특히 해당 인물은 ‘이OO 수원시청 재무회계과 주무관’이라고 적힌 가짜 명함을 제시하며 신뢰를 유도했다.
+하지만 끝내 공사 수주에 필요하다며 A씨에게 통장사본, 사업자등록증과 계약보증금 명목으로 금전을 요구하는 등 본색을 드러냈다.
+이상함을 느낀 A씨는 시청 새빛민원실을 찾아 도움을 요청했고 해당 팀장은 계약 담당 부서에 확인을 거쳐 “그런 수의 계약은 없다”고 답변했다.
+시청 팀장은 또 A씨에게 “통장 거래를 중지하고 즉시 경찰에 신고하라”고도 안내했다.
+시는 나라장터 등에서 확인한 실제 계약정보(계약명·담당자명·연락처 등)를 바탕으로 공무원을 사칭해 계약업체에 접근하는 사기 수법으로 판단했다.
+시 관계자는 “공무원이 개인 명함을 이용해 금전을 요구하거나 수의계약을 이유로 통장사본, 금전, 금융 거래를 요청하는 일은 절대 없다”며 “의심스러운 요청을 받으면 112 혹은 시에 신고해 달라”고 당부했다.
+시는 앞으로 경찰 등 유관기관과 협조해 공공기관 사칭 범죄 피해 예방법을 홍보하고, 수사 대응 체계를 강화할 계획이다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[최근 경기 수원시 공무원을 사칭해 금전을 요구하는 사기 행각이 성행하고 있어 각별한 주의가 요구된다. 8일 시에 따르면 인테리어 업체를 운영 중인 A씨는 최근 ‘수원시 공무원’이라고 주장하는 인물로부터 수의계약 공사를 제안받았다. 특히 해당 인물은 ‘이OO 수원시청 재무회계과 주무관’이라고 적힌 가짜 명함을 제시하며 신뢰를 유도했다. 하지만 끝내 공사 수주]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100801</code_id>
+<code_nm><![CDATA[사회일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100801</small_code_id>
+<small_code_nm><![CDATA[사회일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100804</code_id>
+<code_nm><![CDATA[사건·사고]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100804</small_code_id>
+<small_code_nm><![CDATA[사건·사고]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100805</code_id>
+<code_nm><![CDATA[법원·검찰·경찰]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100805</small_code_id>
+<small_code_nm><![CDATA[법원·검찰·경찰]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/08/news-p.v1.20250808.5706eaaa72244f3a96029cb716ac7e05_P1.png]]></image_url>
+<image_caption><![CDATA[ 수원시 공무원을 사칭한 이가 건넨 명함. [사진출처=수원시]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11388758]]></article_url>
+</article>
+</saltlux>

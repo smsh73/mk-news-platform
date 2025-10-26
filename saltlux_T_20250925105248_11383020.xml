@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11383020</art_id>
+<art_year>2025</art_year>
+<art_no>549932</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-01 13:46:13</service_daytime>
+<title><![CDATA[‘개발자’ 마음 훔친 앤스로픽, 오픈AI 밀어내고 기업용 LLM 1위]]></title>
+<sub_title><![CDATA[코딩 잘하는 클로드, 기업시장 판도 바꿔
+오픈AI 점유율은 반토막으로 떨어져
+여전히 소비자 시장에서는 오픈AI가 압도적]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[안선제 기자(ahn.sunje@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-01 13:46:13</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">코딩 잘하는 클로드, 기업시장 판도 바꿔<br>오픈AI 점유율은 반토막으로 떨어져<br>여전히 소비자 시장에서는 오픈AI가 압도적</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/01/news-p.v1.20250801.1a5516e8c0b34bc9b8fd03cb190f7263_P1.png' alt=' [사진 = 멘로벤처스 사이트 캡처]'>
+기업용 생성형 인공지능(AI) 시장의 주도권이 바뀌었다. 그동안 독주하던 오픈AI가 자리를 내주고 앤스로픽이 기업 고객의 선택을 받으며 1위에 올라선 것이다. 특히 뛰어난 코딩 성능으로 개발자들의 압도적 지지를 얻은 클로드가 승부의 결정타가 됐다.
+벤처캐피털 멘로벤처스가 지난달 31일(현지시간) 발표한 보고서에 따르면 2023년까지 기업용 거대언어모델(LLM) 시장의 절반을 차지했던 오픈AI는 현재 점유율이 25%까지 떨어졌다.
+반면 앤스로픽은 32%로 올라서며 오픈AI를 앞질렀다. 2023년 12%에 그쳤던 앤스로픽의 무서운 성장이다.
+이 같은 판도 변화의 중심에는 앤스로픽의 생성형 AI 모델 ‘클로드’가 있다. 보고서에 따르면 클로드는 현재 개발자들이 가장 선호하는 코드 생성 도구로, 특히 ‘클로드 소넷 3.5’ 출시를 기점으로 시장의 지형을 바꿔놓았다. 올해 2월 ‘클로드 소넷 3.7’이 출시되면서 이러한 현상은 더욱 가속화됐다.
+클로드는 현재 기업 코딩 시장에서 무려 42%의 점유율을 기록하며 독보적 1위를 차지하고 있다. 오픈AI의 GPT는 21%로 앤스로픽의 절반 수준이다.
+실제 앤스로픽 클로드는 최근 회사가 감당하기 어려운 수준의 폭발적인 수요 급증을 경험하고 있다. 최근 클로드의 코드 생성 요청이 급증하면서 최상위 요금제인 ‘클로드 맥스’(월 100, 200달러)에 사용량 제한 추가 조치를 취하는 일도 벌어졌다.
+앤스로픽은 이같은 조치를 발표하며 “클로드 코드를 24시간 내내 끊임없이 사용하는 구독자들의 사용량을 줄이기 위해 새로운 주간 요금 제한을 도입한다”라고 설명한 바 있다.
+오픈AI가 같은 가격대의 GPT 프로 요금제를 무제한으로 제공하고 있는 것과도 대비되기도 한다.
+다만 소비자 시장에서는 여전히 오픈AI가 압도적인 우위를 유지하고 있다. 챗GPT를 중심으로 한 오픈AI의 생태계는 이미 개인 사용자층에서 널리 자리 잡아 앤스로픽과는 상당한 격차가 있다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/01/news-p.v1.20241014.df1fd76a60e14c1b9f325cc15b6507dc_P1.png' alt=' 다리오 아모데이 앤스로픽 CEO. &lt;사진=앤스로픽&gt;'>
+한편 이 보고서는 기업 내 오픈소스 AI 모델 채택도 감소세를 보이고 있다고 밝혔다. 현재 AI 워크로드의 13%만이 오픈소스 모델을 사용하고 있으며, 이는 6개월 전 19%보다 소폭 하락한 수치다.
+오픈소스 모델은 높은 커스터마이징 가능성과 비용 효율성 등 장점을 물론 갖고 있지만, 성능 면에서 폐쇄형 모델보다 9~12개월 뒤처진다는 평가가 지배적이다.
+이 보고서는 “기업들은 가격이 아닌 성능을 위해 모델을 전환하고 있다”라며 “처음에는 기술검증(POC)용으로 라마(메타)와 딥시크를 사용했던 기업도 시간이 지나면서 폐쇄형 소스 모델의 성능을 따라잡지 못하자 결국 바꿨다”라고 전했다.
+여기에 더해 설치·배포의 기술적 복잡성, 오픈소스 성능 상위권 모델이 중국계에 집중돼 있다는 점도 기업들의 도입을 주저하게 만드는 요인으로 지목된다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[코딩 잘하는 클로드, 기업시장 판도 바꿔 오픈AI 점유율은 반토막으로 떨어져 여전히 소비자 시장에서는 오픈AI가 압도적기업용 생성형 인공지능(AI) 시장의 주도권이 바뀌었다. 그동안 독주하던 오픈AI가 자리를 내주고 앤스로픽이 기업 고객의 선택을 받으며 1위에 올라선 것이다. 특히 뛰어난 코딩 성능으로 개발자들의 압도적 지지를 얻은 클로드가 승부의 결정타가]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/01/news-p.v1.20250801.1a5516e8c0b34bc9b8fd03cb190f7263_P1.png]]></image_url>
+<image_caption><![CDATA[ [사진 = 멘로벤처스 사이트 캡처]]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/01/news-p.v1.20241014.df1fd76a60e14c1b9f325cc15b6507dc_P1.png]]></image_url>
+<image_caption><![CDATA[ 다리오 아모데이 앤스로픽 CEO. &lt;사진=앤스로픽&gt;]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11383020]]></article_url>
+</article>
+</saltlux>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11383951</art_id>
+<art_year>2025</art_year>
+<art_no>553070</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-03 15:30:52</service_daytime>
+<title><![CDATA[“냉각 효율 6배”...LG유플러스, 액체냉각으로 AI 데이터센터 혁신]]></title>
+<sub_title><![CDATA[LG유플러스 평촌2센터(데이터센터) 가보니
+액체 냉각, AI GPU 발열 잡는 차세대 기술
+기존 공기 냉각 대비 전력·공간 효율 6배
+“2027년까지 평촌과 파주 센터에 상용화”]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[안선제 기자(ahn.sunje@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-03 15:30:52</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101504</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">LG유플러스 평촌2센터(데이터센터) 가보니<br>액체 냉각, AI GPU 발열 잡는 차세대 기술<br>기존 공기 냉각 대비 전력·공간 효율 6배<br>“2027년까지 평촌과 파주 센터에 상용화”</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/03/news-p.v1.20250801.8e51f37f77884e619ffc083e1c7f9719_P1.jpeg' alt=' LG유플러스 직원이 평촌2센터 내 액체 냉각 기술 데모룸에서 ‘직접 칩 냉각(D2C)’ 방식을 테스트하고 있다. [사진 = LG유플러스]'>
+지난달 31일 방문한 LG유플러스 평촌2센터 내 데모룸. 올해 5월 개소한 이 공간은 LG유플러스 데이터센터의 ‘액체 냉각’ 기술 검증(PoC) 테스트가 이뤄지는 현장이다.
+데모룸 한쪽 벽면을 가득 채운 서버들에는 각각 두 개의 선이 연결돼 있었다. 이 선들은 두 개의 배관으로 각각 이어져 있었는데, 손으로 만져보니 물이 들어가는 배관은 차갑고 나오는 배관은 상대적으로 뜨거웠다. 이는 서버 내부 그래픽처리장치(GPU) 위에 부착된 콜드플레이트에 냉각수를 직접 흘려 열을 식히는 ‘직접 칩 냉각(D2C)’ 방식이다.
+그 옆에는 서버 전체가 통째로 담긴 탱크도 전시돼 있었다. 얼핏 보기엔 물처럼 보이지만, 손으로 만져보면 끈적한 기름(절연유)이었다. 절연유에 서버를 직접 담가 열을 식히는 이러한 방식을 ‘액침 냉각’이라고 한다. 해당 절연유는 약 36도 수준으로 시작해 배출 시 40~45도까지 올라간다.
+이곳에서 만난 정숙경 LG유플러스 AIDC(AI데이터센터) 사업담당(상무)은 “현재 데모룸에서는 이 두 방식의 조합을 포함해 어떤 구성이 가장 에너지 효율적이고, 실제 운영에 적합한지를 다각도로 테스트하고 있다”고 말했다. 실증 파트너로는 이 분야 글로벌 선두 기업인 버티브(Vertiv), 쿨아이티(CoolIT)를 비롯해 글로벌스탠다드테크놀로지(GST), LG전자 등이 참여 중이다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/03/news-p.v1.20250801.2f1cf5ab78b4415b893767a71d00634b_P1.jpeg' alt=' LG유플러스 직원이 평촌2센터 내 액체 냉각 기술 데모룸에서 ‘액침 냉각’ 방식을 테스트하고 있다. [사진 = LG유플러스]'>
+LG유플러스가 이곳에서 액체냉각 기술 개발에 힘을 쏟는 이유는 AIDC 운영에서 가장 큰 과제가 GPU의 발열 관리이기 때문이다. 정 상무는 “인공지능(AI) 고도화로 인해 고성능 AI 서버 수용이 가능한 데이터센터 수요가 늘고 있는데 이때 GPU 발열 관리가 가장 중요하다”라고 강조했다.
+실제로 GPU는 기존 CPU(중앙처리장치)보다 3배 이상 많은 열을 발생시키며, 데이터센터 전체 에너지 소비 중 냉각 설비가 차지하는 비중만 해도 40%를 넘는다. 전 세계적으로 데이터센터에 들어가는 막대한 전력이 사회적 문제로 대두되고 있는데, 이 전력난을 일으키는 주요 원인이 바로 여기에 있는 것이다.
+기존의 공기 냉각식(공랭식)은 이러한 급증하는 열을 감당하는 데 한계가 있다. 반면 액체냉각은 냉각 효율을 획기적으로 끌어올릴 수 있어 AI 시대의 차세대 기술로 각광받고 있다. 글로벌 시장조사기관 프레시던스리서치에 따르면 2024년 21억 1000만 달러 규모였던 액체냉각 시장(D2C 방식 기준)은 2033년까지 127억 6000만 달러까지 성장할 전망이다.
+LG유플러스는 D2C 방식의 액체냉각 기술을 오는 2027년까지 평촌2센터와 파주센터(준공 예정)에 본격 도입할 계획이다. 배성준 AIDC컨설팅이행팀 책임은 “현재 평촌2센터는 공랭식 기반으로 1단계까지 오픈돼 있는데, 향후 3단계 시설 개소 시 액체냉각이 적용될 수 있도록 인프라 재설계를 진행할 것”이라고 설명했다.
+LG유플러스는 D2C 방식의 도입을 통해 전력 및 공간 효율성이 기존 대비 6배 이상 향상될 것으로 기대하고 있다. 기존 공랭식 방식을 적용했을 땐 랙 하나당 12~20㎾까지밖에 감당할 수 없는데 D2C 기술을 적용하면 랙 당 100~120㎾까지 테스트할 수 있기 때문에 이같은 수치가 산출되는 것이다.
+LG유플러스 관계자는 “액침냉각은 상대적으로 열효율이 높다는 장점이 있지만 기존 인프라와 호환성이 높은 것은 D2C 방식”이라며 “액침 냉각이 상용화되기 위해서는 엔비디아 GPU 자체 보증이 우선 필요할 뿐만 아니라 데이터센터도 재설계하는 등 추가 운영 비용이 필요하기 때문에 D2C 방식을 먼저 준비하고 있다”라고 전했다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/03/news-p.v1.20250801.7002c9f3cf2646eab8242f44b1593cc1_P1.jpeg' alt=' LG유플러스 평촌2센터 내 액체 냉각기술 데모룸. [사진 = LG유플러스]'>
+한편 이날 LG유플러스는 평촌2센터의 전력, 공조, 냉각시설 등 첨단 인프라도 함께 공개했다. 2023년 말 준공된 이 시설은 티어3 인증을 갖춘 초대형 데이터센터로 축구장 6개 규모(지하 3층~지상 9층)다. 총 12개 전산실, 5760개 랙을 통해 최대 23만 대의 서버를 수용할 수 있다.
+이곳은 데이터센터 운영의 연속성과 안정성을 확보하기 위한 정교한 관리 시스템을 갖추고 있다. 배 책임은 “정전이 발생해도 UPS(무정전 전원공급장치)가 즉시 작동해 약 15분간 전력을 유지하고, 이 시간 내에 예비 발전기가 가동돼 서버 운영에 차질이 없다”고 강조했다. 외기(차가운 바깥 공기)를 활용한 고효율 냉방 시스템을 적용해 서버가 있는 전산실 내부 온도도 365일 24시간 22~24도로 일정하게 유지되고 있다.
+LG유플러스는 이에 그치지 않고 인프라 효율 향상을 위해 지난 6월부터 LG전자, LG CNS와 함께 인프라 관리 시스템(DCIM)을 공동 개발 중이다. 대형 컴퓨터실 에어컨(CRAC) 등 주요 설비에 AI 제어 알고리즘과 디지털 트윈 기술을 적용해 냉각 에너지 소비를 최대 10%까지 절감하는 것을 목표로 하고 있다.
+정 상무는 “AI 데이터센터는 AI 생태계의 핵심 인프라로, 다양한 AI 서비스가 모든 산업에 확산됨에 따라 그 중요성이 더욱 커지고 있다”며 “액체냉각 및 DCIM 기술을 바탕으로 효율적이고 지속가능한 AI 데이터센터 모델을 구축해 고객과 함께 성장해 나가겠다”고 밝혔다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[LG유플러스 평촌2센터(데이터센터) 가보니 액체 냉각, AI GPU 발열 잡는 차세대 기술 기존 공기 냉각 대비 전력·공간 효율 6배 “2027년까지 평촌과 파주 센터에 상용화”지난달 31일 방문한 LG유플러스 평촌2센터 내 데모룸. 올해 5월 개소한 이 공간은 LG유플러스 데이터센터의 ‘액체 냉각’ 기술 검증(PoC) 테스트가 이뤄지는 현장이다. 데모룸 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101504</code_id>
+<code_nm><![CDATA[인터넷/SNS]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101504</small_code_id>
+<small_code_nm><![CDATA[인터넷/SNS]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/03/news-p.v1.20250801.8e51f37f77884e619ffc083e1c7f9719_P1.jpeg]]></image_url>
+<image_caption><![CDATA[ LG유플러스 직원이 평촌2센터 내 액체 냉각 기술 데모룸에서 ‘직접 칩 냉각(D2C)’ 방식을 테스트하고 있다. [사진 = LG유플러스]]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/03/news-p.v1.20250801.2f1cf5ab78b4415b893767a71d00634b_P1.jpeg]]></image_url>
+<image_caption><![CDATA[ LG유플러스 직원이 평촌2센터 내 액체 냉각 기술 데모룸에서 ‘액침 냉각’ 방식을 테스트하고 있다. [사진 = LG유플러스]]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/03/news-p.v1.20250801.7002c9f3cf2646eab8242f44b1593cc1_P1.jpeg]]></image_url>
+<image_caption><![CDATA[ LG유플러스 평촌2센터 내 액체 냉각기술 데모룸. [사진 = LG유플러스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11383951]]></article_url>
+</article>
+</saltlux>

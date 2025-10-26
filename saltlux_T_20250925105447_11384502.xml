@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11384502</art_id>
+<art_year>2025</art_year>
+<art_no>554625</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-04 10:16:41</service_daytime>
+<title><![CDATA[Korean biotech firms head overseas amid clinical trial bottlenecks]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-04 10:16:41</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK400109</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/04/news-p.v1.20250804.0b4662dcb8534d5b8a22e988a05702ef_P1.png' alt=' (Yonhap News)'>
+South Korean biopharmaceutical companies are increasingly launching clinical trials abroad amid mounting frustration over regulatory delays and unpredictable approval timelines at home.
+Despite the higher costs, companies say they are left with little choice due to Korea’s rigid and slow clinical trial environment, especially for next-generation therapies.
+A striking example is Kolon TissueGene, the biotech arm of Kolon Group, which is preparing to begin Phase 1 trials in the U.S. this year for its cell and gene therapy TG-C (Invossa) to treat spinal disorders.
+The U.S. Food and Drug Administration (FDA) has approved the expanded indication, building on prior Phase 3 trials in 1,066 patients for knee osteoarthritis.
+In Korea, however, all trials were halted in 2019 following the Ministry of Food and Drug Safety’s (MFDS) revocation of Invossa’s product approval. The company has since struggled to resume clinical activity domestically.
+Kolon Life Science, an affiliate of the company, is also conducting overseas trials for its gene therapy candidate KLS-2031, aimed at treating neuropathic pain, with Phase 1/2a currently underway in the U.S.
+Other biotech firms are following suit.
+KoBioLabs, which develops microbiome-based therapeutics, completed a Phase 1 trial in Korea for its plaque psoriasis candidate KBLP-001 but shifted to the U.S. and Australia for Phase 2.
+Similarly, Bioneer is conducting an Australian Phase 1 trial for SRN-001, its siRNA-based treatment for idiopathic pulmonary fibrosis, while Olix has already demonstrated strong safety and tolerability in a Phase 1 trial in Australia for its hair loss treatment OLX104C.
+In the emerging field of targeted protein degraders (TPDs), Korean firms now routinely seek FDA approval before launching trials at home – a reversal from the past when Korean approvals were used to springboard into global studies.
+The key reason for this shift is Korea’s high regulatory threshold.
+Domestic authorities require extensive preclinical data on toxicity, safety, and efficacy even before a Phase 1 trial can begin.
+In contrast, the U.S. FDA and the European Medicines Agency (EMA) allow trials to start with limited early data, permitting additional materials to be submitted during the trial.
+In many cases, Phase 1 trials are greenlit by the FDA or EMA based on short-term toxicity data and early proof-of-concept in animal models.
+The EMA even has a dedicated committee for advanced therapies, streamlining reviews for innovative modalities.
+“Clinical plans that are readily accepted overseas often face repeated rejection in Korea, especially for biologics and gene therapies,” said a CEO from a biotech firm. “The MFDS delays approval under vague concerns about safety.”
+Even when companies manage to go abroad, challenges remain.
+Patient recruitment is difficult, and working with global CROs is costly and complex.
+One executive noted that a CRO in the U.S. demanded 30 billion won ($21.6 million) to recruit just 40 patients.
+“We had to relocate the trial to a third country to cut costs,” the CEO said.
+The lack of domestic data can also hinder technology licensing deals. “Foreign partners assume something must be wrong if there’s no Korean approval history,” he added.
+The shift abroad is weakening Korea’s status as a global clinical trial hub.
+According to the Korea National Enterprise for Clinical Trials (KoNECT), Korea ranked sixth in global clinical trial share in 2024, falling two spots from the previous year. Seoul, once the top city globally for clinical trial volume, has now been overtaken by Beijing in both share and absolute numbers.
+Lee Seung-kyu, Vice Chairman of the Korea Biotechnology Industry Organization, warned, “We’re spending taxpayer money on drug development, yet Korean patients are the last to benefit because approvals happen abroad first.”
+He criticized the MFDS for using the same review structure for both traditional drugs and cutting-edge therapies.
+“We urgently need a dedicated division for cell and gene therapies, backed by new hires and specialized expertise,” he stressed. “Temporary task forces won‘t be enough—we need a permanent, well-staffed regulatory body to handle the future of medicine.”
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[South Korean biopharmaceutical companies are increasingly launching clinical trials abroad amid mounting frustration over regulatory delays and unpredictable approval timelines at home. Despite the hi]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK400109</code_id>
+<code_nm><![CDATA[Bio&Tech]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00308</middle_code_id>
+<middle_code_nm><![CDATA[English]]></middle_code_nm>
+<small_code_id>MK400109</small_code_id>
+<small_code_nm><![CDATA[Bio&Tech]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/04/news-p.v1.20250804.0b4662dcb8534d5b8a22e988a05702ef_P1.png]]></image_url>
+<image_caption><![CDATA[ (Yonhap News)]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11384502]]></article_url>
+</article>
+</saltlux>

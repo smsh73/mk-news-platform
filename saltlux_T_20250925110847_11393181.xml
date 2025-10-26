@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11393181</art_id>
+<art_year>2025</art_year>
+<art_no>579591</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-13 17:54:34</service_daytime>
+<title><![CDATA[[팩토리 팝콘] 韓도 'AI GPU' 구매 큰손 엔비디아 서울 채용 떴다]]></title>
+<sub_title><![CDATA[AI 클라우드부터 고성능컴퓨팅까지<br>"엔지니어 6명 뽑습니다" 공고<br>글로벌 시총1위 스톡옵션도 매력적 '꿈의 직장' 으로]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[이덕주 기자(mrdjlee@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250814</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>15</pub_page>
+<reg_dt>2025-08-13 17:54:34</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100305</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/14/20250814_01110115000006_M00.jpg' alt=''>
+
+인공지능(AI) 인프라스트럭처를 대표하는 기업인 엔비디아가 한국에서 인력 채용을 늘리고 있다. 한국에서 엔비디아 그래픽처리장치(GPU)를 구매하는 고객이 급격히 늘어난 영향이다. 13일 엔비디아 채용 사이트에 따르면 회사는 한국에서 엔지니어 6명을 채용하고 있다. AI 팩토리와 AI 클라우드, 고성능컴퓨팅(HPC)과 AI 분야에서 각각 1명을 채용한다. 
+엔비디아는 자율주행차 반도체 플랫폼인 엔비디아 DRIVE를 담당하는 소프트웨어 엔지니어도 채용해 한국 자동차 업체들과 협업을 강화하는 모습이다. 또 반도체 패키징 분야의 직원도 2명을 채용하고 있다. 이는 엔비디아의 GPU 후공정 패키징 작업이 대만 TSMC와 함께 인천에 위치한 앰코코리아에서 이뤄지고 있기 때문으로 보인다.
+엔비디아는 글로벌 시가총액 1위 기업으로 빠르게 성장했지만 한국에선 직원이 많지 않았다. 하지만 최근 엔비디아의 GPU를 구매하는 한국 고객이 많이 늘어나면서 엔지니어 수요도 늘었다. 최근 SK텔레콤이 가산 인공지능 데이터센터(AI DC)에 최신 B200 GPU 1000장으로 구성된 클러스터를 조성했고, NHN클라우드도 내년까지 GPU를 7000장 이상 확보할 계획이다. 
+엔비디아 한국사무소 직원은 80% 이상이 엔지니어로 구성돼 있는데 이들에게는 '꿈의 직장'으로 불린다. 연봉 자체가 높지는 않지만 주식으로 보상을 해주는 덕분이다. 
+[이덕주 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[인공지능(AI) 인프라스트럭처를 대표하는 기업인 엔비디아가 한국에서 인력 채용을 늘리고 있다. 한국에서 엔비디아 그래픽처리장치(GPU)를 구매하는 고객이 급격히 늘어난 영향이다. 13일 엔비디아 채용 사이트에 따르면 회사는 한국에서 엔지니어 6명을 채용하고 있다. AI 팩토리와 AI 클라우드, 고성능컴퓨팅(HPC)과 AI 분야에서 각각 1명을 채용한다. 
+엔비디아는 자율주행차 반도체 플랫폼인 엔비디아 DRIVE를 담당하는 소프트웨어 엔지니어도 채용해 한]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100305</code_id>
+<code_nm><![CDATA[전기·전자·통신]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100305</small_code_id>
+<small_code_nm><![CDATA[전기·전자·통신]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/14/20250814_01110115000006_M00.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11393181]]></article_url>
+</article>
+</saltlux>

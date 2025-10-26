@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11390851</art_id>
+<art_year>2025</art_year>
+<art_no>573493</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-12 08:30:00</service_daytime>
+<title><![CDATA[아톤, PQC 기반 가상 키패드 ‘퀀텀세이프 패드’ 출시]]></title>
+<sub_title><![CDATA[입력부터 저장까지 전 과정 양자내성 암호화 솔루션 구축]]></sub_title>
+<media_code>09</media_code>
+<writers><![CDATA[남궁선희 매경비즈 기자(namkung.sunhee@mkinternet.com)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-11 16:43:35</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100301</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">입력부터 저장까지 전 과정 양자내성 암호화 솔루션 구축</div></MKSUBTITLE>
+핀테크 보안기업 아톤(대표이사 김종서, 우길수)은 양자내성암호(PQC) 기술을 적용한 키패드 솔루션 ‘퀀텀 세이프패드(Quantum SafePAD)’를 공식 출시했다고 12일 밝혔다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250811.8e1f9e4b0e404eb1bafbbd0e839969a9_P1.jpg' alt=' &lt; 사진 제공 : 아톤 &gt;'>
+퀀텀 세이프패드는 사용자가 비밀번호나 금융 정보를 입력하는 순간부터 양자내성 알고리즘으로 교환된 안전한 키를 사용해 입력값을 난수표화 및 암호화하여 서버로 전송함으로써 전송 경로상 모든 지점에서 해독이 불가능하여 모든 탈취 위협을 원천 차단한다. 매번 무작위로 생성되는 키패드 배열과 NIST 표준 PQC 알고리즘(Kyber, ML-KEM) 기반 종단 간 암호화를 결합해 양자컴퓨터 시대에도 안전한 입력 환경을 제공한다.
+또한 퀀텀 세이프패드를 구성하는 아톤의 보안 매체 솔루션 mSafeBOX는 하이브리드 보안 방식을 채택해 기존 RSA/ECC 암호화와 PQC 알고리즘을 동시 지원한다. 이를 통해 기존 시스템 교체 없이 소프트웨어 업그레이드만으로 도입이 가능해 기업의 전환 부담을 최소화했다.
+특히 비밀번호 및 인증번호 입력 시 PIN이나 패턴 등을 활용하여 편리하고 안전하게 입력 정보를 보호할 수 있다. 메모리 해킹을 방지하고 입력값 유출을 차단하는 등 별도의 프로그램 설치 없이 키보드 해킹을 원천적으로 방어한다.
+아톤은 이번 PQC 기반 가상 키패드 출시로 아톤은 입력 → 인증 → 전송 → 저장 등 사용자 경험의 모든 단계에서 양자내성 보안을 제공할 수 있게 됐다. 공공기관의 민감정보 입력, 모바일 금융 앱의 보안 강화, 클라우드 환경에서의 안전한 인증 등 다양한 분야에서 활용이 기대된다.
+우길수 아톤 대표이사는 “신규 개발한 PQC 기반 가상 키패드를 통해 입력 위협이 갈수록 정교해지는 상황에서 양자컴퓨터 시대까지 대비한 근본적 솔루션을 제시할 수 있게 됐다”라며 ”기존 시스템과의 완벽한 호환성을 보장하면서도 미래 위협까지 차단하는 하이브리드 접근법을 통해 금융을 비롯한 모든 산업에서 안전하고 효율적인 입력 보안 강화가 가능할 것”이라고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[입력부터 저장까지 전 과정 양자내성 암호화 솔루션 구축핀테크 보안기업 아톤(대표이사 김종서, 우길수)은 양자내성암호(PQC) 기술을 적용한 키패드 솔루션 ‘퀀텀 세이프패드(Quantum SafePAD)’를 공식 출시했다고 12일 밝혔다. 퀀텀 세이프패드는 사용자가 비밀번호나 금융 정보를 입력하는 순간부터 양자내성 알고리즘으로 교환된 안전한 키를 사용해 입력]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100301</code_id>
+<code_nm><![CDATA[기업 경영]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100301</small_code_id>
+<small_code_nm><![CDATA[기업 경영]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250811.8e1f9e4b0e404eb1bafbbd0e839969a9_P1.jpg]]></image_url>
+<image_caption><![CDATA[ &lt; 사진 제공 : 아톤 &gt;]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11390851]]></article_url>
+</article>
+</saltlux>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11405876</art_id>
+<art_year>2025</art_year>
+<art_no>617945</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-29 11:30:00</service_daytime>
+<title><![CDATA[주택청약도 AI한테 상담받는 시대 [알쓸금잡]]]></title>
+<sub_title><![CDATA[우리銀 생성형 AI 플랫폼
+로보어드바이저도 확대]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[박창영 기자(hanyeahwest@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-29 10:31:57</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100203</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">우리銀 생성형 AI 플랫폼<br>로보어드바이저도 확대</div></MKSUBTITLE>
+금융권의 인공지능(AI) 도입이 빨라지고 있다. AI가 청약에 여신 상담까지 도맡으며 24시간 금융 업무를 보는 시대가 열릴 것으로 관측된다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/29/news-p.v1.20250829.44a7218005f84028903ccbeaf6658b73_P2.png' alt=' 고객에게 금융 상담을 해주는 AI를 주제로 생성형AI가 제작한 이미지 [챗GPT]'>
+우리은행은 인공지능 전환(AX) 전략의 핵심 인프라인 ‘생성형 AI 플랫폼’을 도입한다고 29일 밝혔다.
+우리은행의 AI 플랫폼은 보안성을 갖춘 프라이빗 클라우드와 유연성을 지닌 퍼블릭 클라우드를 결합한 구조로 설계됐다. 챗GPT와 같은 상용 모델은 물론 오픈소스 AI 모델까지 폭넓게 활용할 수 있다.
+금융권은 작년 8월 금융분야 망 분리 개선 로드맵이 발표됨에 따라 혁신금융서비스 지정을 통한 생성형 AI의 활용이 가능해졌다.
+우리은행의 AI 플랫폼은 오는 4분기 중 △주택청약 공공데이터를 활용한 AI 청약 상담원 △창의적 이미지 생성 서비스 W스케치 △로보어드바이저의 생성형 AI 적용 등에 활용된다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/29/news-p.v1.20250429.d79352202151435ca590691e25419925_P1.png' alt=''>
+<div style="margin: 30px 0;padding: 20px;background: #fff1f1;font-size: 17px;display:block;">[알쓸금잡(알아두면 쓸모있는 금융 잡다정보)]
+알아두면 쓸모있는 금융 잡다정보는 매일 쏟아지는 금융상품 정보 중에 독자 여러분의 알뜰 생활에 도움이 될 정보를 골라 전해드립니다.
+</div>
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[우리銀 생성형 AI 플랫폼 로보어드바이저도 확대금융권의 인공지능(AI) 도입이 빨라지고 있다. AI가 청약에 여신 상담까지 도맡으며 24시간 금융 업무를 보는 시대가 열릴 것으로 관측된다. 우리은행은 인공지능 전환(AX) 전략의 핵심 인프라인 ‘생성형 AI 플랫폼’을 도입한다고 29일 밝혔다. 우리은행의 AI 플랫폼은 보안성을 갖춘 프라이빗 클라우드와 유연]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100203</code_id>
+<code_nm><![CDATA[은행]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100203</small_code_id>
+<small_code_nm><![CDATA[은행]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/29/news-p.v1.20250829.44a7218005f84028903ccbeaf6658b73_P2.png]]></image_url>
+<image_caption><![CDATA[ 고객에게 금융 상담을 해주는 AI를 주제로 생성형AI가 제작한 이미지 [챗GPT]]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/29/news-p.v1.20250429.d79352202151435ca590691e25419925_P1.png]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11405876]]></article_url>
+</article>
+</saltlux>

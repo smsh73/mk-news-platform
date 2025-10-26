@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11407151</art_id>
+<art_year>2025</art_year>
+<art_no>621348</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-31 18:06:52</service_daytime>
+<title><![CDATA[메타, 테일러 스위프트 사칭 챗봇으로 구설]]></title>
+<sub_title><![CDATA[가짜 AI로 은밀한 대화 유도<br>앤해서웨이 등 무단 도용 논란]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[정호준 기자(jeong.hojun@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250901</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>16</pub_page>
+<reg_dt>2025-08-31 18:06:52</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[페이스북·인스타그램 등을 운영하는 메타가 팝스타 테일러 스위프트를 비롯한 유명인 이름과 사진을 도용해 인공지능(AI) 챗봇 수십 개를 무단 제작한 것으로 나타났다.
+29일(현지시간) 로이터통신에 따르면 테일러 스위프트와 앤 해서웨이뿐만 아니라 배우 스칼릿 조핸슨, 설리나 고메즈 등 유명인 챗봇이 메타의 AI 제작 도구를 통해 최근 생성됐다.
+다수의 AI 챗봇은 이용자들 각자가 메타의 제작 도구를 활용해 생성한 것으로 파악됐지만 테일러 스위프트 챗봇을 포함해 최소 3개 이상은 메타 직원이 만들었다고 로이터통신이 설명했다. 메타는 'AI 스튜디오' 서비스를 통해 전문 지식이 없는 일반인도 직접 AI 챗봇을 제작하고 활용할 수 있도록 하고 있다. 
+논란이 된 유명인 챗봇은 메타가 운영하는 플랫폼을 통해 이용자들에게 공유된 것으로 나타났다.
+로이터가 실험한 결과에 따르면 이 챗봇들은 자신이 실제 배우나 가수라고 주장하면서 사용자에게 만남을 제안하는 등 성적인 접근을 하기도 했다. 미성년자인 유명인 배우의 챗봇 제작도 메타에서 허용한 것으로 파악된다. 16세 영화배우인 워커 스코벨도 AI 챗봇으로 만들어졌으며 사용자가 바닷가에 있는 해당 배우 모습을 요청하자 챗봇이 상의를 입지 않은 이미지를 생성했다고 로이터는 전했다.
+메타 직원이 제작한 테일러 스위프트 챗봇에 대해 메타는 제품 테스트 차원에서 생성한 것이라고 해명했으나 해당 챗봇은 사용자들과 대화한 횟수가 1000만회를 넘기는 등 광범위하게 활용됐다. 메타는 문제가 된 챗봇 수십 개를 모두 삭제한 상태다. 앤디 스톤 메타 대변인은 로이터에 "메타의 정책은 유명인 이미지 생성 자체는 허용하지만 누드 이미지나 은밀한 모습, 성적인 암시가 담긴 건 금지하고 있다"며 "속옷 입은 이미지를 제작한 것은 메타 정책이 작동하지 못한 것"이라고 설명했다. 
+[정호준 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[페이스북·인스타그램 등을 운영하는 메타가 팝스타 테일러 스위프트를 비롯한 유명인 이름과 사진을 도용해 인공지능(AI) 챗봇 수십 개를 무단 제작한 것으로 나타났다.
+29일(현지시간) 로이터통신에 따르면 테일러 스위프트와 앤 해서웨이뿐만 아니라 배우 스칼릿 조핸슨, 설리나 고메즈 등 유명인 챗봇이 메타의 AI 제작 도구를 통해 최근 생성됐다.
+다수의 AI 챗봇은 이용자들 각자가 메타의 제작 도구를 활용해 생성한 것으로 파악됐지만 테일러 스위프트 챗봇을 포]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11407151]]></article_url>
+</article>
+</saltlux>

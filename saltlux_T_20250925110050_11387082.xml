@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11387082</art_id>
+<art_year>2025</art_year>
+<art_no>562245</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-06 19:57:00</service_daytime>
+<title><![CDATA[[인사] 중앙그룹 / 서울경제신문]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250807</pub_date>
+<pub_edition>16</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>29</pub_page>
+<reg_dt>2025-08-06 19:57:00</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100902</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[■중앙그룹 ◆JTBC ◇커뮤니케이션본부 △커뮤니케이션2국장 김석범 
+■서울경제신문 △논설위원실 논설실장 문성진 △〃 논설고문 김광덕]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[■중앙그룹 ◆JTBC ◇커뮤니케이션본부 △커뮤니케이션2국장 김석범 
+■서울경제신문 △논설위원실 논설실장 문성진 △〃 논설고문 김광덕]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100902</code_id>
+<code_nm><![CDATA[인사]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100902</small_code_id>
+<small_code_nm><![CDATA[인사]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11387082]]></article_url>
+</article>
+</saltlux>

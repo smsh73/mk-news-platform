@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11399250</art_id>
+<art_year>2025</art_year>
+<art_no>597515</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-21 13:36:38</service_daytime>
+<title><![CDATA[한 달에 1조원 버는 ‘이 회사’…신모델 내놓고도 구모델로 되돌린 이유]]></title>
+<sub_title><![CDATA[오픈AI, 지난달 월매출 ‘10억 달러’ 돌파
+최신 모델 GPT5 출시…오류 연발 ‘굴욕’]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[이가람 매경 디지털뉴스룸 기자(r2ver@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-21 13:36:38</reg_dt>
+<mod_dt>2025-08-21 17:58:05</mod_dt>
+<art_org_class>MK101003</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">오픈AI, 지난달 월매출 ‘10억 달러’ 돌파<br>최신 모델 GPT5 출시…오류 연발 ‘굴욕’</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250821.298d0262a5f6436092d20dfe0820ec27_P1.jpg' alt=' [사진 = 연합뉴스]'>
+글로벌 인공지능(AI) 시장을 주도하는 오픈AI가 챗GPT를 앞세워 급격한 성장세를 나타냈다. 새로운 버전이 혹평을 받아 기존의 모델을 되살리는 소동을 겪었음에도 여전히 챗GPT에 대한 이용자 의존도가 높았다.
+21일 정보기술(IT)업계에 따르면 오폰AI의 지난달 매출이 처음으로 10억달러(약 1조4000억원)를 돌파했다. 지난 2022년 11월 챗GPT를 대중에게 선보인 이후 2년 8개월 만에 달성한 기록이다. 참고로 오픈AI의 지난해 매출은 37억달러였다. 어느새 한 달 매출이 한 해 매출의 4분의 1 수준으로 뛴 것이다.
+오픈AI의 매출은 대부분 다양한 버전의 AI 모델 유료 구독 서비스에서 발생한다. 개인 구독자 기준 플러스의 구독료가 월 20달러로 책정돼 있다. 챗GPT 유료 구독자 수는 최근 500만명을 돌파했다. 챗GPT의 주간 활성 이용자 수는 7억명에 근접했다. 전년 동기 대비 4배 이상 증가한 수치다.
+사라 프라이어 오픈AI 최고재무책임자(CFO)는 CNBC와의 인터뷰에서 “지난달 월 매출이 처음 10억 달러를 넘었다”며 “그래픽처리장치(GPU)와 컴퓨팅 자원을 엄청나게 요구하는 상황이라 스타게이트를 시작했다. 더 거대한 데이터센터 건설을 추진 중”이라고 설명했다.
+<strong><div style="border-top: 4px solid #ed6d01;border-bottom: 1px solid #ed6d01;font-size: 18px;padding: 10px 0;margin:30px 0;">조롱거리로 전락한 ‘올트먼의 역작’ GPT-5</div></strong><img src='https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250821.3e06538d42914f4486091331371da59b_P1.jpg' alt=' 샘 올트먼 오픈AI 최고경영자(CEO). [사진 = 연합뉴스]'>
+폭발적인 성과에도 논란은 있었다. 오픈AI는 지난 7일 추론·비추론·멀티모달 통합모델 GPT-5를 출시했다. 샘 올트먼 오픈AI 최고경영자(CEO)가 직접 박사급 전문가 수준의 성능을 갖추고 있다고 강조한 모델이었다.
+그러나 미국의 초대 대통령의 사진과 이름을 요청하자 조지 워싱턴을 기어지 워싱지언(Gearge Washingion)으로 기입했고, 미국 지도를 그린 뒤 주 이름을 표시해 달라고 하자 캘리포니아를 칼포히아(CALFORHIA)로 적어넣는 등 이상한 결과물을 제시했다.
+이에 이용자들은 GPT-5의 실수를 사회관계망서비스(SNS)에 게시하며 조롱했다. 로이터통신도 획기적인 능력 향상이 아니라고 평가했다. 제대로 망신을 당한 오픈AI는 유료 구독자에 한정해 이전 모델인 GPT-4o를 함께 제공하기로 결정했다.
+또 공감보다는 논리에 방점이 찍히면서 AI 모델의 성격이 바뀐 부분도 이용자들로부터 거부 반응을 유발했다. 오픈AI가 글로벌 사회 문제로 떠오른 ‘AI 정신병’ 사태를 해결하고자 GPT-5가 지나치게 친절하거나 감정적으로 반응하지 않도록 설계했기 때문이다. AI 정신병이란 AI와 장시간 상호작용을 하다가 현실 감각을 잃거나 망상을 앓는 행동을 보이는 현상을 의미한다.
+이에 GPT-5는 보다 정교하고 객관적인 정보 제공 능력을 갖추게 됐다. 하지만 이용자들은 유대감이 사라졌다고 혹평했다. 죽은 친구(GPT-4o)의 탈을 쓴 다른 사람(GPT-5)이라는 표현까지 나왔다. 결국 오픈AI는 GPT-5의 성격을 다양화하는 개편 작업을 진행했다.
+올트먼은 기자회견에서 “일부는 차가운 논리를 원하고 일부는 따뜻한 감정을 원한다”며 “모든 사람에게 적합한 단일 모델은 없단 것을 이해하게 됐지만, (GPT-5 출시 과정은) 희망했던 것보다 험난했다”고 토로했다.
+이어 “소수의 이용자는 AI와 건강하지 않은 관계를 맺고 있다”며 “법의학 정신과 의사를 고용해 이용자 정신건강에 미치는 영향을 연구 중”이라고 말했다. 실제로 오픈AI는 장시간 대화 시 휴식을 권유하는 안전 장치를 추가하고 자살 위험 감지 프로토콜을 도입했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[오픈AI, 지난달 월매출 ‘10억 달러’ 돌파 최신 모델 GPT5 출시…오류 연발 ‘굴욕’글로벌 인공지능(AI) 시장을 주도하는 오픈AI가 챗GPT를 앞세워 급격한 성장세를 나타냈다. 새로운 버전이 혹평을 받아 기존의 모델을 되살리는 소동을 겪었음에도 여전히 챗GPT에 대한 이용자 의존도가 높았다. 21일 정보기술(IT)업계에 따르면 오폰AI의 지난달 매출]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101003</code_id>
+<code_nm><![CDATA[국제산업]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101003</small_code_id>
+<small_code_nm><![CDATA[국제산업]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101504</code_id>
+<code_nm><![CDATA[인터넷/SNS]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101504</small_code_id>
+<small_code_nm><![CDATA[인터넷/SNS]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250821.298d0262a5f6436092d20dfe0820ec27_P1.jpg]]></image_url>
+<image_caption><![CDATA[ [사진 = 연합뉴스]]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250821.3e06538d42914f4486091331371da59b_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 샘 올트먼 오픈AI 최고경영자(CEO). [사진 = 연합뉴스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11399250]]></article_url>
+</article>
+</saltlux>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11398544</art_id>
+<art_year>2025</art_year>
+<art_no>595294</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-20 17:42:57</service_daytime>
+<title><![CDATA[SKT "국산 칩으로 서비스"…소버린AI 시동]]></title>
+<sub_title><![CDATA[韓 스타트업 리벨리온 NPU로<br>통화요약·스팸차단 기능 제공<br>반려동물 X레이 진단에도 적용<br>퓨리오사AI는 LG 엑사원 공급<br>엔비디아 GPU 대체 효과 기대]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김규식 기자(dorabono@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250821</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>16</pub_page>
+<reg_dt>2025-08-20 17:42:58</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/21/20250821_01110116000002_L00.jpg' alt=''>
+
+국산 인공지능(AI) 반도체가 잇따라 상용화에 성공하고 있다. AI 반도체부터 대규모언어모델(LLM), 실제 서비스까지 국산 기술로 연결된 풀스택 구조로 '소버린AI'(국가주권형 AI) 구현이 가시화되고 있다는 평가가 나온다.
+20일 정보기술(IT) 업계에 따르면 SK텔레콤은 반려동물 X선 진단 보조 서비스 '엑스칼리버' 서버를 국내 스타트업 리벨리온이 개발한 신경망처리장치(NPU) '아톰(ATOM)'으로 교체하고 이달 말부터 본격 운영에 들어간다. 국산 NPU가 상용화된 사례는 있었지만, 엑스칼리버처럼 대규모 사용자를 동반한 서비스에 적용되는 것은 이례적이다. 엑스칼리버는 SK텔레콤이 자체 AI 기술을 기반으로 개발한 서비스로, 현재 전국 1000여 개 동물병원이 사용하고 있다. 동물병원에서 촬영한 반려동물의 흉부·복부·근골격 X선 영상을 분석해 15초 안에 결과를 제공한다. 개 33종, 고양이 12종 등 총 45종의 방사선 소견을 자동 판별하고 심장 크기와 형태도 측정한다. 정확도는 최고 97%에 달한다.
+SK텔레콤은 2022년 9월 서비스 출시 당시 엔비디아 그래픽처리장치(GPU)를 사용했으나 서버가 노후화되면서 리벨리온 NPU로 교체했고, 실증에서 안정적인 성능을 확인한 것으로 전해졌다. SK텔레콤 관계자는 "엑스칼리버 AI 추론 인프라스트럭처를 엔비디아 GPU에서 리벨리온 아톰으로 전환했다"며 "NPU 48개를 탑재한 서버 6대를 상용 인프라로 구축했다"고 설명했다.
+SK텔레콤은 엑스칼리버 외에도 AI 서비스 '에이닷'에 리벨리온 NPU를 적용하는 테스트를 진행 중이다. 통화 요약, 스팸 차단, 금융서비스 등에 리벨리온 NPU를 시범 적용 중이다. 앞서 KT클라우드는 리벨리온 아톰을 클라우드 인프라에 탑재해 교육 플랫폼 기업 스마트앤와이즈 서비스에 활용하고 있다. 이는 규모는 크지 않지만 일정 수준 상용화에 성공한 사례로, 리벨리온 NPU 적용 영역이 점차 확장되고 있다는 평가가 나온다.
+국내 또 다른 AI 반도체 스타트업 퓨리오사AI도 성과를 내고 있다. 퓨리오사의 2세대 NPU '레니게이드(RNGD)'는 LG AI연구원의 LLM '엑사원(EXAONE) 3.5'에 도입돼 8개월간 검증을 거친 끝에 상용화가 확정됐다. 기존 GPU 대비 전력당 성능이 두 배 이상 높다는 평가를 받았다. 퓨리오사AI는 미국 스트리밍·클라우드 기업 시부(SIVOO)에도 AI칩을 공급하며 첫 해외 고객 확보에 성공했다. 이는 국산 AI 반도체의 해외 상용화 첫 사례로 꼽힌다.
+이처럼 국내 AI 반도체 상용화 성과가 이어지면서 한국형 AI 산업 구조가 점차 모습을 갖춰가고 있다는 평가다. NPU는 특정 추론 연산에 특화돼 전력 효율이 뛰어나고 비용을 크게 줄일 수 있어 GPU를 일정 부분 대체할 수 있다. 의료·교육·통신처럼 반복적 연산이 많은 분야에서는 GPU보다 전력 대비 성능에서 효율성이 높다. 데이터센터 전력 소모와 비용 부담이 커지는 상황에서 NPU가 대안으로 주목받는 이유다.
+다만 IT업계는 NPU가 GPU를 전면적으로 대체하기는 어렵다고 본다. GPU는 범용 연산에 강하고, 엔비디아 쿠다(CUDA) 플랫폼을 기반으로 한 개발 생태계가 사실상 업계 표준으로 자리 잡고 있기 때문이다. 글로벌 빅테크가 주도하는 초거대 모델도 GPU 최적화에 맞춰 설계돼 있다. 이 때문에 한국형 소버린AI는 GPU와 NPU가 역할을 나누는 '이원화 구조'로 진화할 가능성이 높다는 분석이다. IT업계 관계자는 "NPU가 특정 목적을 수행하기 좋은 오토바이라면 GPU는 어떤 상황에서도 연산이 가능한 대형 트럭"이라며 "한국은 특정 분야에서 NPU를 전략적으로 활용해 나갈 수 있다"고 말했다. 
+[김규식 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[국산 인공지능(AI) 반도체가 잇따라 상용화에 성공하고 있다. AI 반도체부터 대규모언어모델(LLM), 실제 서비스까지 국산 기술로 연결된 풀스택 구조로 '소버린AI'(국가주권형 AI) 구현이 가시화되고 있다는 평가가 나온다.
+20일 정보기술(IT) 업계에 따르면 SK텔레콤은 반려동물 X선 진단 보조 서비스 '엑스칼리버' 서버를 국내 스타트업 리벨리온이 개발한 신경망처리장치(NPU) '아톰(ATOM)'으로 교체하고 이달 말부터 본격 운영에 들어간다. 국]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/21/20250821_01110116000002_L00.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11398544]]></article_url>
+</article>
+</saltlux>

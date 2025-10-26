@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11386535</art_id>
+<art_year>2025</art_year>
+<art_no>561144</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-06 14:29:33</service_daytime>
+<title><![CDATA[中 견제 나서는 오픈AI…오픈소스 모델 2종 전격 공개]]></title>
+<sub_title><![CDATA[딥시크 R1, 알리바바 큐원 등 
+중국 오픈소스 모델 겨냥 
+
+누구나 무료로 다운로드해 활용
+학습 데이터는 비공개]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[원호섭 기자(wonc@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-06 14:29:33</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">딥시크 R1, 알리바바 큐원 등 <br>중국 오픈소스 모델 겨냥 <br><br>누구나 무료로 다운로드해 활용<br>학습 데이터는 비공개</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/06/news-p.v1.20250806.43b2d17c61a64de4858a574142b13a00_P1.png' alt=' 오픈AI 로고'>
+챗GPT 개발사인 오픈AI가 두 개의 오픈소스 AI 모델을 5일(현지시간) 공개했다. 지금까지 폐쇄형 모델인 챗GPT를 중심으로 AI 생태계를 구축해온 오픈AI가 처음으로 오픈 모델을 내놓으며 전략 전환에 나선 것이다.
+오픈AI가 공개한 오픈소스 모델은 ‘GPT-oss-120b’와 ‘GPT-oss-20b’ 두 가지다. 두 모델은 오픈소스 소프트웨어 플랫폼 ‘허깅페이스’를 통해 누구나 다운로드 받아 사용할 수 있으며, 기업들도 상업적 용도로 자유롭게 활용할 수 있다.
+GPT-oss-120b는 1170억 개의 파라미터를 갖춘 대형 모델로, 단일 GPU로 실행이 가능하다. 소형 모델인 GPT-oss-20b는 일반 노트북(16GB 메모리)에서도 작동한다. 두 모델 모두 텍스트 생성, 코드 작성, 온라인 정보 검색, 도구 호출 등 복잡한 작업 수행을 할 수 있다.
+다만 완전한 오픈소스는 아니다. 모델 가중치는 공개됐지만, 학습에 사용된 데이터셋은 비공개다. 오픈AI는 현재 진행 중인 저작권 관련 소송 등을 감안해 학습 데이터를 공개하지 않기로 했다.
+이번 GPT-oss 모델은 ‘생각의 사슬(chain-of-thought)’ 추론 방식을 채택해 문제 해결 과정에서 다단계 사고를 수행한다. AI가 바로 정답을 말하는 게 아니라 사고 과정을 거치며 단계별로 천천히 답을 찾아가는 방식이다. 이는 지난해부터 오픈AI의 폐쇄형 모델 ‘o시리즈’에 적용된 기술이다.
+또 ‘혼합 전문가 구조’를 도입, 토큰당 활성화되는 파라미터 수를 줄임으로써 연산 효율을 높였다. 즉 GPT-oss-120b는 1170억 파라미터를 가지고 있는데 질문당 51억 개만 사용하도록 설계돼 있다. 계산 효율은 높아지고 속도와 비용도 절감된다.
+성능 면에서 GPT-oss 시리즈는 폐쇄형 o시리즈 대비 다소 낮다. 하지만 오픈AI는 딥시크 등 주요 오픈소스 모델보다 높은 성능을 기록했다고 설명했다. 오픈AI는 이들 모델이 보안 위협에 악용될 가능성을 평가하기 위해 생물·화학무기 설계, 사이버 공격 등에 대한 내부 시뮬레이션을 진행했다. 그 결과 “일부 생물학적 역량이 소폭 증가할 수는 있으나 고위험군에 도달할 정도는 아니다”라고 밝혔다.
+오픈AI가 오픈소스 모델을 출시한 것은 중국 기업의 빠른 추격 때문이다. 지난 1월 중국 스타트업 딥시크는 R1이라는 오픈모델을 내놓으며 주목을 받았고, 이어 알리바바의 큐원, 문샷AI 등이 연이어 발표되며 챗GPT를 위협했다. 샘 올트먼 오픈AI 최고경영자(CEO)는 지난 1월 “우리는 오픈소스 전략에 대해 다시 고민하고 있다”라며 “지금까지는 역사적으로 잘못된 쪽에 서 있었다”고 인정하기도 했다.
+그렉 브록만 오픈AI 공동 창업자는 “이번 오픈 모델은 폐쇄형 API 서비스와는 다른 강점을 가지며, 상호 보완적인 역할을 할 것”이라며 “인터넷 연결 없이 방화벽 내에서도 실행 가능하다는 점에서 수요가 클 것”이라고 강조했다. [실리콘밸리 원호섭 특파원]
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[딥시크 R1, 알리바바 큐원 등  중국 오픈소스 모델 겨냥   누구나 무료로 다운로드해 활용 학습 데이터는 비공개챗GPT 개발사인 오픈AI가 두 개의 오픈소스 AI 모델을 5일(현지시간) 공개했다. 지금까지 폐쇄형 모델인 챗GPT를 중심으로 AI 생태계를 구축해온 오픈AI가 처음으로 오픈 모델을 내놓으며 전략 전환에 나선 것이다. 오픈AI가 공개한 오픈소스]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/06/news-p.v1.20250806.43b2d17c61a64de4858a574142b13a00_P1.png]]></image_url>
+<image_caption><![CDATA[ 오픈AI 로고]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11386535]]></article_url>
+</article>
+</saltlux>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11398592</art_id>
+<art_year>2025</art_year>
+<art_no>595364</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-20 17:52:34</service_daytime>
+<title><![CDATA[올트먼發 'AI 버블 쇼크' 단기에 그칠까]]></title>
+<sub_title><![CDATA[AI 버블론에 전세계 증시 충격<br>구글·메타 등 경쟁사 위협에<br>올트먼 '과열론 조장' 분석도<br>TSMC 등 반도체株 '직격탄'<br>데이터센터 위축우려 커지자<br>LS일렉트릭 등 전력주 힘잃어<br>27일 엔비디아 실적발표 주목]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김제림 기자(jaelim@mk.co.kr), 정재원 기자(jeong.jaewon@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250821</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>19</pub_page>
+<reg_dt>2025-08-20 17:52:34</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100502</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/21/20250821_01110119000003_M00.jpg' alt=''>
+
+올 4월 이후 글로벌 증시가 반등하는 가운데 인공지능(AI) 밸류체인에 속한 기업들이 시장 평균보다 강한 상승세를 보이자 AI 버블 논란이 불거졌다. 
+하드웨어(반도체)는 물론 AI 활용 소프트웨어 기업, 전력 인프라스트럭처 기업까지 역사적 고점을 찍으며 투자자들이 차익 실현 기회를 찾으려던 시점에 AI 붐을 일으켰던 챗GPT 개발 기업 오픈AI의 샘 올트먼 최고경영자(CEO) 발언이 AI 기업 주가를 대거 끌어내렸다.
+특히 그간 AI 기업들의 급격한 주가 상승세와 밸류에이션은 닷컴버블과 비교되기도 했는데 올트먼 CEO 역시 AI 버블과 닷컴 버블의 유사성을 지적했다. 올트먼 CEO가 이 같은 발언을 한 것은 경쟁 업체들의 투자 속도가 가팔라진 데 위협을 느꼈기 때문이라는 분석도 나온다. 구글과 메타 등이 인프라 투자, 인재 스카우트 등에 매진하면서 오픈AI가 위협을 받자 과열론을 들고나온 것으로 보는 해석이 나왔다. 경쟁자를 의식한 일종의 '사다리 걷어차기'인 의도된 발언이라는 것이다.
+이에 세제개편안 증세 논란과 잭슨홀미팅 경계감으로 모멘텀을 잃었던 코스피는 20일 개인이 3929억원, 외국인이 2325억원 순매도하며 3거래일 연속 하락했다. 코스닥 역시 전일 대비 1.31% 하락했다.
+코스피 하락은 반도체와 전력기기주들이 이끌었다. 미국 증시에서도 AI 버블 발언에 직격탄을 맞은 업종들이었다. 
+19일(현지시간) 엔비디아를 비롯해 AMD(-5.44%), TSMC(-3.61%) 등 AI 반도체주가 대거 하락하며 필라델피아 반도체지수가 1.81% 내리자 SK하이닉스를 비롯해 ISC(-3.77%), 테크윙(-3.04%) 등 반도체 소재·부품·장비주의 하락도 두드러졌다. 
+또한 AI 버블에 대한 우려로 데이터센터 시설투자가 위축될 것이란 전망이 나오면서 오클로(-5.19%), GE버노바(-3.5%) 등 전력 인프라주들이 하락하자 코스피에서 HD현대일렉트릭(-2.93%), LS일렉트릭(-5.98%)의 낙폭이 커졌다.
+특히 나스닥 하락으로 위험회피 심리가 높아지며 외국인 자금 유출이 신흥국 증시엔 불리하게 나타났다.
+이날 뉴욕 증시에서 서학개미 선호 종목들은 시장 평균보다 큰 낙폭을 보였다. 한국예탁결제원 증권정보포털의 서학개미 보관 금액 상위 10개 종목(지난 18일 기준)은 이날 뉴욕 증시에서 평균 3.46% 하락했다. 나스닥종합지수(-1.46%)와 S&P500지수(-0.59%) 성과를 밑돌았다.
+미국 주식시장이 9월마다 약세 패턴을 보여 왔던 만큼 고평가 논란이 불거진 AI 기술주 섹터의 부진이 단기에 그칠지 지속될지 주목된다. 한동안 주가가 눌려 왔던 헬스케어와 필수소비재 등으로의 순환매 현상도 나타나기 시작했다.
+시장 불안감을 잠재우려면 21~23일 예정된 잭슨홀 미팅에서 제롬 파월 미국 연방준비제도(Fed·연준) 의장의 비둘기파적 발언이 나오고 27일 예정된 엔비디아의 올 2분기 실적 발표가 시장 전망치를 상회해야 할 것으로 보인다. 
+[김제림 기자 / 정재원 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[올 4월 이후 글로벌 증시가 반등하는 가운데 인공지능(AI) 밸류체인에 속한 기업들이 시장 평균보다 강한 상승세를 보이자 AI 버블 논란이 불거졌다. 
+하드웨어(반도체)는 물론 AI 활용 소프트웨어 기업, 전력 인프라스트럭처 기업까지 역사적 고점을 찍으며 투자자들이 차익 실현 기회를 찾으려던 시점에 AI 붐을 일으켰던 챗GPT 개발 기업 오픈AI의 샘 올트먼 최고경영자(CEO) 발언이 AI 기업 주가를 대거 끌어내렸다.
+특히 그간 AI 기업들의 급격한 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100502</code_id>
+<code_nm><![CDATA[시황]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100502</small_code_id>
+<small_code_nm><![CDATA[시황]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/21/20250821_01110119000003_M00.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11398592]]></article_url>
+</article>
+</saltlux>

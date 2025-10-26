@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11385814</art_id>
+<art_year>2025</art_year>
+<art_no>559023</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-05 17:14:22</service_daytime>
+<title><![CDATA[반도체 인력난, 설계 자동화 솔루션으로 해결]]></title>
+<sub_title><![CDATA[전호연 잇다반도체 대표<br>코딩 없이 칩 설계 최적화 성능 향상·기간 25% 단축]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[이한나 기자(azure@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250806</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>18</pub_page>
+<reg_dt>2025-08-05 17:14:22</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/06/20250806_01110118000004_M00.jpg' alt='전호연 대표가 자사 반도체 설계 솔루션을 소개하고 있다. 잇다반도체'>
+
+인공지능(AI) 시장 확대로 고사양 복합 반도체가 확산하면서 여러 겹의 구조를 잘 짜고 제대로 구동하도록 설계하는 것이 핵심 경쟁력이 됐다. 반도체 칩과 소프트웨어로 구성된 전체 시스템을 기획하고 상위 수준의 개념을 설계하는 전문 시스템 아키텍트가 존재하는 이유다.
+삼성전자 시스템온칩(SoC) 엑시노스 설계팀 출신들이 창업한 잇다반도체는 남들이 해보지 않은 영역에 도전장을 내밀었다. 삼성전자는 물론이고 구글·테슬라 같은 빅테크와 일한 경험을 가진 고연봉 엔지니어 소수가 맡던 시스템 아키텍트를 자동화해 개발 시간을 단축하는 솔루션 회사를 만든 것이다. AI 반도체 대명사인 엔비디아 '블랙웰'만 해도 코어가 2만4000개가 넘을 정도로 복잡해 세밀하게 제어하는 것이 과제다. 코어는 중앙처리장치(CPU), 그래픽처리장치(GPU). 신경망처리장치(NPU) 등 반도체 칩에서 핵심 기능을 담당하는 회로 단위(블록)다.
+5일 경기 화성 동탄 본사에서 만난 전호연 잇다반도체 대표는 "설계 업무를 할 때 코딩하는 인력과 시간도 문제지만 데이터를 주고받는 업무가 비효율적이기 때문에 이를 줄이면 생산성을 높일 수 있겠다 싶어 창업했다"며 "우리 기술로 설계 기간을 25% 단축할 수 있을 것"이라고 말했다.
+전 대표는 "코딩 없이 SoC 시스템을 구성할 수 있는 캔버스(그림 그리는 판) 방식의 설계 솔루션 'SOC캔버스'를 개발해 국내 반도체 기업들과 제품 평가를 진행하고 있다"고 설명했다. SoC의 전력 시스템과 CPU 처리 속도를 결정하는 클록 시스템 등을 그래픽 인터페이스 기반으로 설계하게 하는 설계자산(IP) 개념의 제품이다. 현재 반도체 설계 스타트업에 공급하기 시작했고, 중견기업·대기업까지 평가가 마무리되면 공급계약 체결과 함께 본격 상용화에 돌입하게 된다. 기업용 소프트웨어처럼 라이선스 개념으로 공급한다.
+전 대표는 "반도체 설계와 소프트웨어를 결합하는 솔루션은 기술 장벽이 높은 영역"이라며 "우리가 맡은 일의 범위는 확장될 수밖에 없다"고 말했다. 잇다반도체는 2023년 중소벤처기업부 기술 스타트업 지원 프로그램 '딥테크 팁스'에 이어 지난해 '스케일업 팁스'에도 뽑혀 연간 10억원 규모 정부 지원금으로 국책과제를 수행하고 있다. 
+[이한나 선임기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[인공지능(AI) 시장 확대로 고사양 복합 반도체가 확산하면서 여러 겹의 구조를 잘 짜고 제대로 구동하도록 설계하는 것이 핵심 경쟁력이 됐다. 반도체 칩과 소프트웨어로 구성된 전체 시스템을 기획하고 상위 수준의 개념을 설계하는 전문 시스템 아키텍트가 존재하는 이유다.
+삼성전자 시스템온칩(SoC) 엑시노스 설계팀 출신들이 창업한 잇다반도체는 남들이 해보지 않은 영역에 도전장을 내밀었다. 삼성전자는 물론이고 구글·테슬라 같은 빅테크와 일한 경험을 가진 고연봉]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/06/20250806_01110118000004_M00.jpg]]></image_url>
+<image_caption><![CDATA[전호연 대표가 자사 반도체 설계 솔루션을 소개하고 있다. 잇다반도체]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11385814]]></article_url>
+</article>
+</saltlux>

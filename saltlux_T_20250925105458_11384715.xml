@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11384715</art_id>
+<art_year>2025</art_year>
+<art_no>555391</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-04 13:54:01</service_daytime>
+<title><![CDATA[현대바이오사이언스, 코로나19 경구치료제 임상 결과 국제학술지 게재]]></title>
+<sub_title><![CDATA[네이처 커뮤니케이션즈에 실려]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[왕해나 기자(wang.haena@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-04 13:54:01</reg_dt>
+<mod_dt>2025-08-04 14:11:31</mod_dt>
+<art_org_class>MK101403</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">네이처 커뮤니케이션즈에 실려</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/04/news-p.v1.20250804.6846b9778e6f465baeeebc85044d3c73_P3.png' alt=''>
+현대바이오사이언스는 코로나19 경구용 치료제 후보물질 ‘CP-COV03’의 임상시험 결과를 다룬 논문이 국제학술지 네이처 커뮤니케이션즈에 게재됐다고 4일 밝혔다.
+논문은 2022년 국내에서 진행된 무작위배정·이중눈가림·위약대조 방식의 임상시험 결과를 기반으로 작성됐다. 이 임상은 경증~중등증 코로나19 환자 300명을 대상으로 3개군(저용량, 고용량, 위약)으로 나눠 수행됐다.
+논문에는 김정호 연세대 세브란스병원 감염내과 교수, 최준용 교수, 최진호 단국대 화학과 석좌교수 등이 참여했다.
+CP-COV03는 기존 식품의약품(FDA) 승인 구충제인 니클로사마이드를 나노 제형화한 경구용 항바이러스제로 생체이용률을 높인 것이 특징이다.
+임상 결과 저용량군(하루 900㎎)에서 위약군 대비 증상 개선 기간이 4일 단축됐다. 60세 이상, 기저질환자 등 고위험군에서는 개선 기간이 5일 이상 단축됐다.
+투약 16시간 내 바이러스량 감소 속도는 위약 대비 13.8배 빨랐고, 바이러스량은 약 56% 수준까지 억제됐다. 중대한 이상반응은 없었으며, 병용약물과의 유해 상호작용 사례도 보고되지 않았다.
+회사 측은 이번 결과를 바탕으로 CP-COV03를 범용 항바이러스제로 개발할 계획이다.
+현재 베트남에서 뎅기열 치료제 임상을 준비 중이며, 고령자와 기저질환자 등 고위험군 대상 치료제로의 확장을 검토하고 있다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[네이처 커뮤니케이션즈에 실려현대바이오사이언스는 코로나19 경구용 치료제 후보물질 ‘CP-COV03’의 임상시험 결과를 다룬 논문이 국제학술지 네이처 커뮤니케이션즈에 게재됐다고 4일 밝혔다. 논문은 2022년 국내에서 진행된 무작위배정·이중눈가림·위약대조 방식의 임상시험 결과를 기반으로 작성됐다. 이 임상은 경증~중등증 코로나19 환자 300명을 대상으로 3]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101403</code_id>
+<code_nm><![CDATA[제약/바이오]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101403</small_code_id>
+<small_code_nm><![CDATA[제약/바이오]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/04/news-p.v1.20250804.6846b9778e6f465baeeebc85044d3c73_P3.png]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11384715]]></article_url>
+</article>
+</saltlux>

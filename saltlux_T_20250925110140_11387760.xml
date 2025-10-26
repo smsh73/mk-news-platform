@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11387760</art_id>
+<art_year>2025</art_year>
+<art_no>564805</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-07 16:18:11</service_daytime>
+<title><![CDATA[삼성운용, 변동성 확대 때 수익 노리는 ETF 내놨다…늘어나는 전략형 ETF]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[정유정 기자(utoori@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-07 16:18:11</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100514</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[삼성자산운용이 시장 변동성이 커질 때만 커버드콜 전략을 구사하는 상장지수펀드(ETF)를 출시한다.
+삼성자산운용은 7일 ‘KODEX 미국S&P500변동성확대시커버드콜’ ETF를 알리는 웹세미나를 열고 이 상품을 오는 12일 신규 상장한다고 밝혔다. 해당 ETF는 미국 스탠더드앤드푸어스(S&P)500 지수를 추종하면서 시장의 변동성에 따라 데일리 콜옵션 매도를 전략적으로 수행한다.
+일명 ‘공포지수’라고 불리는 변동성지수(VIX)가 일정 수준 이상 상승하고 동시에 VIX 선물시장에서 백워데이션(근월물 가격이 원월물보다 비싼 현상)이 나타날 경우 옵션을 100% 매도해 프리미엄을 수취하는 구조다. 이 ETF의 S&P500 데일리 커버드콜 비중은 시장 상황에 따라 0% 또는 100%로 조절된다.
+정재욱 삼성자산운용 ETF운용3팀장은 “올해 미국의 정책적 불확실성이 커지면서 주식 시장 참여 여부에 대한 투자자들의 고민이 커지고 있다”며 “이 ETF를 활용하면 장기 투자 시 리스크를 관리할 수 있다”고 말했다.
+안정진 삼성자산운용 ETF컨설팅팀장은 “이 상품은 전 세계 최초 조건부 커버드콜 ETF”라며 “S&P500 지수에 투자하면서 변동성 위험을 관리하고자 하는 투자자들에게 유효하다”고 말했다.
+KODEX 미국S&P500변동성확대시커버드콜은 월 배당 상품이다. S&P500 종목에서 나오는 주식배당과 변동성 확대 시 수취한 옵션프리미엄을 통해 매월 분배금을 지급한다.
+한편 파생상품을 활용한 전략형 ETF가 국내에서 증가하는 추세다. 앞서 삼성자산운용은 지난 3월 일정 구간까지의 손실을 일부 완충하는 버퍼형 ETF를 아시아 최초로 상장한 바 있다. 키움투자자산운용은 지난달 ‘프로텍티브 풋’ 복제 전략을 활용해 하락을 방어하고 수익은 추구하는 ‘KIWOOM 미국테크100월간목표헤지액티브’를 선보였다
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[삼성자산운용이 시장 변동성이 커질 때만 커버드콜 전략을 구사하는 상장지수펀드(ETF)를 출시한다. 삼성자산운용은 7일 ‘KODEX 미국S&P500변동성확대시커버드콜’ ETF를 알리는 웹세미나를 열고 이 상품을 오는 12일 신규 상장한다고 밝혔다. 해당 ETF는 미국 스탠더드앤드푸어스(S&P)500 지수를 추종하면서 시장의 변동성에 따라 데일리 콜옵션 매도를]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100514</code_id>
+<code_nm><![CDATA[펀드]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100514</small_code_id>
+<small_code_nm><![CDATA[펀드]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11387760]]></article_url>
+</article>
+</saltlux>

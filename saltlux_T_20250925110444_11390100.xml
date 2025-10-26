@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11390100</art_id>
+<art_year>2025</art_year>
+<art_no>570161</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-10 22:28:31</service_daytime>
+<title><![CDATA[“식당 전화해서 예약하고, 케이블TV 해약해 줘”…이런 귀찮은 일, AI가 다 해준다]]></title>
+<sub_title><![CDATA[전화번호랑 통화 목적 입력하면
+대신 전화 걸어 요구에 맞게 대화
+
+음성AI, 출력 시간 짧아지고 자연스러워져
+美서는 통신요금 해지 전화하는 서비스까지
+구글은 전화로 장소 예약·가격 확인해줘]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[정호준 기자(jeong.hojun@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-10 22:28:31</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">전화번호랑 통화 목적 입력하면<br>대신 전화 걸어 요구에 맞게 대화<br><br>음성AI, 출력 시간 짧아지고 자연스러워져<br>美서는 통신요금 해지 전화하는 서비스까지<br>구글은 전화로 장소 예약·가격 확인해줘</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/10/news-p.v1.20250604.bbc65be5dfd84b66be2728a57e7361a6_P1.jpg' alt=' [코파일럿 생성]'>
+“A식당에 전화를 걸어 월요일 오후 1시에 4명 예약이 가능한지, 메뉴에 채식 옵션이 있는지 확인해줘”라는 명령어와 함께 식당 전화번호를 인공지능(AI) 에이전트에 입력하자 에이전트가 가상의 목소리로 직접 식당에 전화를 걸어 요청에 맞게 예약까지 완료한다. AI 에이전트에 케이블TV 고객센터 전화번호를 주고 해지 요청을 부탁하자 고객센터에 전화를 걸고 ARS 안내와 상담원 통화 대기까지 알아서 수행한 뒤 상담원과 통화를 한다.
+귀찮고 때로는 두렵기까지 한 전화 통화를 AI 에이전트에 맡긴다? 상상 속 미래의 일이 아니라 현재도 이뤄지고 있는 일이다. AI가 대신 전화를 걸어 식당을 예약하고 각종 구독을 취소해주는 서비스 등 AI 통화 에이전트 기술이 속속 일상 속으로 파고들고 있다.
+미국의 AI 검색 스타트업 젠스파크는 지난 6월 자사의 ‘AI 통화비서’ 서비스를 한국에서도 정식 출시했다. 젠스파크의 AI 통화비서 서비스는 이용자가 ‘+82(한국의 국제 전화 국가번호)’로 시작하는 자신의 번호를 젠스파크 플랫폼과 연동한 뒤 전화를 걸고자 하는 상대방의 이름과 전화번호, 통화 목적을 입력하면 AI가 대신 전화를 걸어 요청한 사항을 수행해주는 것이 특징이다.
+한국에서 해외로 거는 통화도 가능하다. 일본 여행을 준비 중인 사람이라면 일본어를 못하더라도 AI 전화를 활용해 원하는 일본 식당에 전화를 걸고 “다음주 화요일 저녁에 방문하려고 하는데 2명 예약이 가능할까요”와 같은 문의를 할 수 있다.
+콜센터에 적용된 ‘AI 상담원’이나 어르신에게 전화를 걸고 안부를 묻는 네이버의 ‘클로바 케어콜’ 등 기업용 서비스들에서 더 나아가 일반 이용자들이 일상생활에서 쉽게 사용할 수 있는 AI 전화 에이전트가 등장한 셈이다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/10/news-g.v1.20250810.76cac82bc2214a389918b442b24c871f_P1.jpg' alt=''>
+올해 서비스를 시작한 미국 스타트업 파인AI는 “비용 청구, 취소 등 고객 서비스를 돕는 AI 에이전트”라며 고객이 직접 전화해 해결해야 하는 작업들을 대신 수행해주는 서비스를 들고나왔다. 통신사 요금제나 케이블TV 구독을 해지하는 것부터 항공사에 전화를 걸어 항공기 지연에 대해 보상을 요구하는 것 등이 파인AI가 에이전트를 활용해 대신해주는 영역이다.
+미국은 아직 전화를 걸어 구독 해지를 신청해야 하는 경우가 많다는 점이 이 같은 통화 에이전트가 등장하는 배경으로 꼽힌다. 실리콘밸리 벤처캐피털(VC) 멘로벤처스의 디디 다스 파트너는 소셜미디어에서 파인AI를 언급하며 “파인은 시간이 부족해 걸지 못하던 긴 통화들을 자동화해준다. 이렇게 많은 시간을 아낄 수 있게 해준 AI 에이전트 제품은 처음”이라고 말하기도 했다.
+이 같은 음성 기반의 통화 에이전트를 구현하려면 자연스러운 대화가 가능하도록 지연 시간을 최소화해야 한다. 기존에는 AI가 사람 말을 듣고 답변하려면 우선 STT(Speech-to-Text) 기술로 입력된 음성을 텍스트로 변환한 다음 언어 모델로 텍스트를 이해해 적합한 답변을 생성하고, 그 답변을 TTS(Text-to-Speech) 기술을 통해 음성으로 출력해야 했다.
+하지만 음성까지 처리할 수 있는 ‘멀티모달’ 모델 성능이 계속 고도화되면서 이제는 AI가 음성을 바로 이해하고 결과물 역시 음성으로 바로 생성해 답변하는 것이 가능해졌다. GPT-4o의 경우 최소 응답 시간 232밀리초(0.232초)로 사람과 비슷한 속도로 응답할 수 있다. AI의 목소리톤 역시 기계음을 넘어 인간처럼 자연스러워지고 있다.
+지난달에는 구글도 검색 서비스에서 AI가 사용자를 대신해 업체에 전화를 걸고 예약 여부, 가격 등의 정보를 수집해주는 AI 비즈니스 전화 기능을 선보이기도 했다.
+국내에는 아직 개인들이 쓸 수 있는 AI 통화 에이전트가 없다. LG유플러스가 운영하는 AI 통화 앱 ‘익시오’가 이용자 대신 통화를 걸어주는 기능 개발을 검토 중인 정도다. 익시오는 이용자가 전화를 받기 어려운 경우 AI가 전화를 대신 받아 내용을 메모해주는 ‘전화 대신 받기’ 기능을 제공하고 있다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[전화번호랑 통화 목적 입력하면 대신 전화 걸어 요구에 맞게 대화  음성AI, 출력 시간 짧아지고 자연스러워져 美서는 통신요금 해지 전화하는 서비스까지 구글은 전화로 장소 예약·가격 확인해줘“A식당에 전화를 걸어 월요일 오후 1시에 4명 예약이 가능한지, 메뉴에 채식 옵션이 있는지 확인해줘”라는 명령어와 함께 식당 전화번호를 인공지능(AI) 에이전트에 입력하]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/10/news-p.v1.20250604.bbc65be5dfd84b66be2728a57e7361a6_P1.jpg]]></image_url>
+<image_caption><![CDATA[ [코파일럿 생성]]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/10/news-g.v1.20250810.76cac82bc2214a389918b442b24c871f_P1.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11390100]]></article_url>
+</article>
+</saltlux>

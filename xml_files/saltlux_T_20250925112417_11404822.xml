@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11404822</art_id>
+<art_year>2025</art_year>
+<art_no>614460</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-28 10:37:01</service_daytime>
+<title><![CDATA[성균관대학교 정재훈 교수, KRnet 2025 인터넷 기술상 수상]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>80</media_code>
+<writers><![CDATA[김경민 KDX 기자(kmkim@kdx.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-28 10:37:01</reg_dt>
+<mod_dt>2025-08-29 09:18:20</mod_dt>
+<art_org_class>MK101506</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/29/news-p.v1.20250828.7e09ed0d0998452697587c449d21c41e_P1.jpg' alt=' (사진: IETF-123 정기회의 정재훈 교수 해커톤 팀(I2ICF))'>
+성균관대학교 소프트웨어융합대학 소프트웨어학과 정재훈 교수가 2025 학술전산망 워크숍(KRnet 2025) 콘퍼런스에서 ‘인터넷 기술상’을 수상했다.
+학술전산망 워크숍(이하 KRnet)은 1993년 7월 제1회 한국 학술전산망 워크숍을 시작으로 매년 6월에 개최되는 국내 최대 인터넷 콘퍼런스로 올해는 6G, 인터넷을 위한 인공지능, 빅데이터, 클라우드, 자율 네트워크, 양자 컴퓨팅 등의 최신 기술들이 소개됐다.
+정재훈 교수는 이번 33차 KRnet 콘퍼런스에서 ‘클라우드 기반 보안 서비스 기술’과 ‘자율주행차를 위한 차량 네트워킹 기술’을 개발한 점을 인정받아 인터넷 기술상을 수상했다. 특히 해당 기술들을 국제인터넷표준화기구인 IETF(Internet Engineering Task Force)에서 8건의 국제표준들로 제정 및 승인을 받게 하고, 이러한 국제표준들을 POC(Proof of Concept) 하기 위한 오픈소스 프로젝트를 통해 기술 공유에도 기여했다.
+정재훈 교수 연구팀은 I2ICF(Interface to In-Network Computing Functions) 그룹을 결성해 IETF에서 5G 및 6G 이동 네트워크에 연결된 이동 객체(예, 소프트웨어 정의 차량(SDV), 로봇카, 로봇, 드론)를 제어하고 관리하기 위한 표준문서 제정을 위한 IETF 워킹그룹 신설을 위해 노력하고 있으며, 지난 7월 스페인 마드리드에서 개최된 IETF 123차 정기 회의 해커톤에서 I2ICF 기술을 POC 했다.
+IETF 표준화는 정재훈 교수가 IITP(정보통신기획평가원)의 표준화 과제인 ‘지능형 융합 서비스를 위한 SDV 소프트웨어 프레임워크 표준 개발’의 표준화 아이템으로 수행하고 있다.
+이러한 성과는 KDX한국데이터거래소와 같은 국내 빅데이터 플랫폼이 추진하는 방송·미디어 데이터 정제 및 유통, AI 학습 데이터 구축 사업과 맞닿아 있다. 국제표준 기반의 네트워크·보안 기술은 KDX가 보유한 대규모 데이터셋의 안정적 활용을 뒷받침하고 데이터 유통 플랫폼의 글로벌 확산에도 기여할 수 있다는 점에서 전략적 의미가 크다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[성균관대학교 소프트웨어융합대학 소프트웨어학과 정재훈 교수가 2025 학술전산망 워크숍(KRnet 2025) 콘퍼런스에서 ‘인터넷 기술상’을 수상했다. 학술전산망 워크숍(이하 KRnet)은 1993년 7월 제1회 한국 학술전산망 워크숍을 시작으로 매년 6월에 개최되는 국내 최대 인터넷 콘퍼런스로 올해는 6G, 인터넷을 위한 인공지능, 빅데이터, 클라우드, 자]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101506</code_id>
+<code_nm><![CDATA[스타트업]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101506</small_code_id>
+<small_code_nm><![CDATA[스타트업]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101508</code_id>
+<code_nm><![CDATA[빅데이터]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101508</small_code_id>
+<small_code_nm><![CDATA[빅데이터]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101509</code_id>
+<code_nm><![CDATA[데이터산업]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101509</small_code_id>
+<small_code_nm><![CDATA[데이터산업]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101510</code_id>
+<code_nm><![CDATA[소프트웨어]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101510</small_code_id>
+<small_code_nm><![CDATA[소프트웨어]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/29/news-p.v1.20250828.7e09ed0d0998452697587c449d21c41e_P1.jpg]]></image_url>
+<image_caption><![CDATA[ (사진: IETF-123 정기회의 정재훈 교수 해커톤 팀(I2ICF))]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11404822]]></article_url>
+</article>
+</saltlux>

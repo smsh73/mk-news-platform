@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11403061</art_id>
+<art_year>2025</art_year>
+<art_no>609324</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-26 14:21:40</service_daytime>
+<title><![CDATA[삼성전자 비스포크 AI 가전, 사물인터넷 보안 인증 획득]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[방영덕 매경 디지털뉴스룸 기자(byd@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-26 14:21:40</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100301</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/26/news-p.v1.20250826.379fb8ee6141414398e60bc63666fe59_P1.jpg' alt=' [사진출처 =삼성전자]'>
+삼성전자는 글로벌 시험·인증기관 TUV Nord로부터 사물인터넷(IoT) 보안 인증을 획득했다고 26일 밝혔다.
+인증받은 제품은 9형 AI 홈 터치스크린을 탑재한 2025년형 ‘비스포크 AI 하이브리드’ 냉장고와 32형의 대형 터치스크린이 적용된 2024년·2025년형 ‘비스포크 AI 패밀리허브’ 냉장고다.
+2024년형 ‘비스포크 AI 스팀’ 로봇청소기와 올해 새로 출시 예정인 2025년형 로봇청소기도 인증을 획득했다. 삼성전자는 로봇청소기 신제품을 내달 독일 베를린에서 열리는 유럽 최대 가전 전시회 ‘IFA 2025’에서 선보일 예정이다.
+삼성전자의 냉장고와 로봇청소기는 데이터 암호화, 인증·접근 제어, 보안 소프트웨어 업데이트, 개인정보 보호, 취약점 관리 등 주요 항목에서 우수한 평가를 받았다.
+삼성전자는 비스포크 AI 가전에 독자 보안 플랫폼인 삼성 녹스를 적용해 사용자들이 다양한 AI 기능을 안심하고 사용할 수 있도록 했다.
+문종승 삼성전자 DA사업부 부사장은 “삼성전자의 강력한 보안 기술력을 글로벌 시장에 입증한 데 이어 앞으로도 고객 데이터를 안전하게 지키기 위해 보안 강화에 더욱 힘쓸 것”이라고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[삼성전자는 글로벌 시험·인증기관 TUV Nord로부터 사물인터넷(IoT) 보안 인증을 획득했다고 26일 밝혔다. 인증받은 제품은 9형 AI 홈 터치스크린을 탑재한 2025년형 ‘비스포크 AI 하이브리드’ 냉장고와 32형의 대형 터치스크린이 적용된 2024년·2025년형 ‘비스포크 AI 패밀리허브’ 냉장고다. 2024년형 ‘비스포크 AI 스팀’ 로봇청소기와 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+<stock_code>005930</stock_code>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100301</code_id>
+<code_nm><![CDATA[기업 경영]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100301</small_code_id>
+<small_code_nm><![CDATA[기업 경영]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100305</code_id>
+<code_nm><![CDATA[전기·전자·통신]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100305</small_code_id>
+<small_code_nm><![CDATA[전기·전자·통신]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100307</code_id>
+<code_nm><![CDATA[기업일반·재계동향]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100307</small_code_id>
+<small_code_nm><![CDATA[기업일반·재계동향]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/26/news-p.v1.20250826.379fb8ee6141414398e60bc63666fe59_P1.jpg]]></image_url>
+<image_caption><![CDATA[ [사진출처 =삼성전자]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11403061]]></article_url>
+</article>
+</saltlux>

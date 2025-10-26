@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11390193</art_id>
+<art_year>2025</art_year>
+<art_no>570403</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-11 08:35:59</service_daytime>
+<title><![CDATA[Korea–U.S. team wins top prize at AI security competition]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-11 08:35:59</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK400109</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250811.10970a2038264b7f986b9d26894fc11b_P1.jpg' alt=' (Samsung Electronics)'>
+A team of researchers from Samsung Electronics Co. and top universities in South Korea and the United States has taken first place in a major U.S. government–hosted cybersecurity competition.
+Team Atlanta, made up of more than 40 researchers from Samsung Electronics, Georgia Institute of Technology, KAIST, and POSTECH, won the finals of the AI Cyber Challenge last weekend in Las Vegas.
+Organized by the U.S. Defense Advanced Research Projects Agency (DARPA), the challenge offered a total prize pool of $22.5 million and aimed to integrate artificial intelligence into cybersecurity.
+The two-year competition began with 40 semifinalists in August last year, with only seven teams advancing to the final round. Tech giants, including Google, Microsoft, OpenAI, and Anthropic, served as sponsors, reflecting the event’s high profile.
+In the finals, teams were judged on their AI systems’ ability—without human intervention—to automatically detect software vulnerabilities and apply security patches.
+Team Atlanta impressed by rapidly identifying complex vulnerabilities and generating precise fixes, scoring 392.76 points, well ahead of second-place Trail of Bits (219.35) and third-place Theori (210.68). The win earned Team Atlanta $4 million.
+Led by Georgia Tech computer science professor Kim Tae-soo—who also serves as vice president at Samsung Research’s cybersecurity division—the team brought together experts from Georgia Tech, KAIST, and POSTECH.
+Key group leaders included Han Hyung-seok of Samsung Research America, Zhao Hanqing of Georgia Tech, Yoon In-soo of KAIST, and Park Sang-don of POSTECH.
+According to Samsung, the universities involved had long maintained collaborative ties with the company in cybersecurity research. The blend of corporate developers’ practical expertise and academic researchers’ theoretical depth proved critical to their victory.
+Theori, which placed third, was also a Korea–U.S. joint team. Founded in 2016 in Austin, Texas, by renowned white-hat hacker Park Se-jun, the cybersecurity startup has received investment from A2G Capital, Dunamu, and Naver.
+“This was a meaningful achievement that showcased Samsung’s AI-driven cybersecurity capabilities on the global stage,” Kim said. “We will continue collaborating with leading security experts worldwide to further enhance Samsung’s security technology.”
+Team Atlanta said that large language models (LLMs) developed by companies such as Google and OpenAI played a key role in enabling AI to autonomously detect vulnerabilities, demonstrating that LLM-based AI agents could serve as virtual security officers.
+Samsung plans to apply the systems and expertise developed during the competition to strengthen the security of its products and services, including its proprietary Knox security solution for smartphones and appliances.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[A team of researchers from Samsung Electronics Co. and top universities in South Korea and the United States has taken first place in a major U.S. government–hosted cybersecurity competition. Team Atl]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK400109</code_id>
+<code_nm><![CDATA[Bio&Tech]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00308</middle_code_id>
+<middle_code_nm><![CDATA[English]]></middle_code_nm>
+<small_code_id>MK400109</small_code_id>
+<small_code_nm><![CDATA[Bio&Tech]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250811.10970a2038264b7f986b9d26894fc11b_P1.jpg]]></image_url>
+<image_caption><![CDATA[ (Samsung Electronics)]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11390193]]></article_url>
+</article>
+</saltlux>

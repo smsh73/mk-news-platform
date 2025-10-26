@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11390445</art_id>
+<art_year>2025</art_year>
+<art_no>571305</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-11 12:00:00</service_daytime>
+<title><![CDATA[금융당국, 금융사 100여곳 내부통제 현황 살핀다]]></title>
+<sub_title><![CDATA[금감원, 책무구조도 점검
+8~9월 은행·보험사 현장검사]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[안정훈 기자(esoterica@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-11 11:35:39</reg_dt>
+<mod_dt>2025-08-11 14:46:50</mod_dt>
+<art_org_class>MK100201</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">금감원, 책무구조도 점검<br>8~9월 은행·보험사 현장검사</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250811.277adad09c8d4920a414e7ed49f742cd_P1.png' alt=' [사진=뉴시스]'>
+금융감독원은 금융지주나 은행, 보험사 등 100여곳의 금융회사를 대상으로 내부통제 책임 이행 실태 점검에 나선다고 11일 밝혔다. 작년 7월 시행된 금융사 지배구조법에 따라 올 초부터 지주·은행 62곳과 금융투자사·보험사 67곳 등 총 129곳이 책무구조도를 도입한 데 따른 것이다.
+책무구조도란 내부통제 책임을 다른 사람에게 전가할 수 없도록 금융회사 임원별 담당 책임을 명확히 한 체계다. 이번 점검에선 책무의 누락·중복은 없는지, 특정 임원에게 책무가 편중되진 않았는지, 내부통제기준을 준수하고 있는지, 대표이사의 이사회 보고 의무 등이 잘 지켜지고 있는지를 살핀다.
+금투·보험사는 올해 7월부터 책무구조도를 도입하기 시작한 점을 감안해 사전 컨설팅시 권고사항이 잘 반영됐는지, 내부통제 인프라스트럭쳐는 잘 구축되고 있는지 등을 중점적으로 볼 예정이다.
+금감원은 21일부터 순차적으로 현장점검에 나서는 동시에 9월 중 서면점검도 실시한다는 계획이다.
+금감원은 “책무구조도 시행 이후 현업 임원이 내부통제를 본인의 업무와 책임으로 본격 인식하게 되는 등 점진적이고 긍정적인 변화가 확인되고 있다”며 “책무구조도가 현장에 본격적으로 자리매김할 수 있도록 지속적으로 업계와 소통해 나갈 예정”이라고 밝혔다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[금감원, 책무구조도 점검 8~9월 은행·보험사 현장검사금융감독원은 금융지주나 은행, 보험사 등 100여곳의 금융회사를 대상으로 내부통제 책임 이행 실태 점검에 나선다고 11일 밝혔다. 작년 7월 시행된 금융사 지배구조법에 따라 올 초부터 지주·은행 62곳과 금융투자사·보험사 67곳 등 총 129곳이 책무구조도를 도입한 데 따른 것이다. 책무구조도란 내부통제]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100201</code_id>
+<code_nm><![CDATA[금융정책·일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100201</small_code_id>
+<small_code_nm><![CDATA[금융정책·일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100203</code_id>
+<code_nm><![CDATA[은행]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100203</small_code_id>
+<small_code_nm><![CDATA[은행]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100204</code_id>
+<code_nm><![CDATA[보험]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100204</small_code_id>
+<small_code_nm><![CDATA[보험]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250811.277adad09c8d4920a414e7ed49f742cd_P1.png]]></image_url>
+<image_caption><![CDATA[ [사진=뉴시스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11390445]]></article_url>
+</article>
+</saltlux>

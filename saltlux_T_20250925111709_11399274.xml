@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11399274</art_id>
+<art_year>2025</art_year>
+<art_no>597552</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-21 13:58:25</service_daytime>
+<title><![CDATA[현대모비스, 車 반도체 연구개발공정 ‘국제표준 최고등급’ 획득]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[박소현 매경 디지털뉴스룸 기자(mink1831@naver.com)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-21 13:58:25</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100308</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250821.cea586cb990d4f10a71592c1e5fbd7cc_P1.jpg' alt=' 현대모비스의 차량용 반도체 연구개발 프로세스가 기능안전 국제표준 ISO 26262를 최고등급으로 획득했다. 사진은 글로벌 심사기관 독일 엑시다로부터 수여받은 인증서 [사진제공=현대모비스]'>
+현대모비스가 차량용 반도체 설계부터 품질 검증에 이르는 연구개발(R&D) 프로세스에 대해 기능안전 국제표준인 ‘ISO 23232’ 인증을 획득했다고 21일 밝혔다.
+현대모비스는 세계적 권위의 자동차 기능안전 및 사이버보안 전문 심사기관인 독일 엑시다(Exida)로부터 ISO 26262를 취득했다. ISO 26262는 차량용 전기·전자시스템의 안전사고를 예방하기 위한 국제표준으로 지난 2018년부터 차량용 반도체도 적용해오고 있다.
+현대모비스는 ISO 26262 인증을 위한 차량 안전 무결성 기준(ASIL)에서 가장 난이도가 높은 D등급을 받았다. ASIL은 A부터 D까지 총 4단계로 나뉘며, D등급은 99% 이상의 엄격한 신뢰도로 안전사고를 예방할 수 있는 최고등급에 해당한다.
+현대모비스 관계자는 “지난 2021년 현대오트론으로부터 차량용 반도체사업을 인수한 이후 자체 설계한 반도체의 양산 성과를 올해부터 본격적으로 창출하고 있다”며 “업계 최고 수준으로 구축한 반도체 연구개발 환경이 이를 뒷받침한 것”이라고 설명했다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250821.aa955a07d8804e339faac9feef56b3b2_P1.jpg' alt=' 현대모비스 차량용 반도체 연구개발 성과 [사진제공=현대모비스]'>
+현대모비스는 이번 인증을 계기로 자체 설계한 반도체와 이를 탑재한 제어기와 핵심부품의 경쟁력이 동시에 향상되는 효과로 이어지기를 기대하고 있다.
+현대모비스 시스템반도체실장 이희현 상무는 “이번 인증으로 미래 모빌리티 경쟁력을 좌우하는 차량용 반도체 분야에서 전략적 기반을 확보하게 됐다”면서 “기술 내재화와 함께 국내외 주요 기업들과의 파트너십 강화를 통해 기능안전을 강조한 연구개발 환경 구축에 앞장서겠다”고 말했다.
+한편 현대모비스는 에어백용 통합반도체, 친환경차용 전원반도체, 모터제어용 통합반도체, 전장부품인 AVN(오디오·비디오·내비게이션) 전원반도체 등 총 16종의 반도체를 자체 개발해 외부 파운드리(반도체 위탁생산)를 통해 생산하고 있다. 올해 양산한 반도체 수량만 2000만개를 상회한다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[현대모비스가 차량용 반도체 설계부터 품질 검증에 이르는 연구개발(R&D) 프로세스에 대해 기능안전 국제표준인 ‘ISO 23232’ 인증을 획득했다고 21일 밝혔다. 현대모비스는 세계적 권위의 자동차 기능안전 및 사이버보안 전문 심사기관인 독일 엑시다(Exida)로부터 ISO 26262를 취득했다. ISO 26262는 차량용 전기·전자시스템의 안전사고를 예방]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100308</code_id>
+<code_nm><![CDATA[자동차]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100308</small_code_id>
+<small_code_nm><![CDATA[자동차]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250821.cea586cb990d4f10a71592c1e5fbd7cc_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 현대모비스의 차량용 반도체 연구개발 프로세스가 기능안전 국제표준 ISO 26262를 최고등급으로 획득했다. 사진은 글로벌 심사기관 독일 엑시다로부터 수여받은 인증서 [사진제공=현대모비스]]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250821.aa955a07d8804e339faac9feef56b3b2_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 현대모비스 차량용 반도체 연구개발 성과 [사진제공=현대모비스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11399274]]></article_url>
+</article>
+</saltlux>

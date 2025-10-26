@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11386363</art_id>
+<art_year>2025</art_year>
+<art_no>560434</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-06 10:40:08</service_daytime>
+<title><![CDATA[입주 현장서 AI로 하자 관리]]></title>
+<sub_title><![CDATA[호반건설, 하자 관리 플랫폼 ‘채들’
+사진 찍으면 AI 기술로 하자 분류
+실시간 모니터링 관리 등 업무 개선]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[위지혜 기자(wee.jihae@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-06 10:40:08</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100607</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">호반건설, 하자 관리 플랫폼 ‘채들’<br>사진 찍으면 AI 기술로 하자 분류<br>실시간 모니터링 관리 등 업무 개선</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/06/news-p.v1.20250806.3e25d5c2c9d643d78c0ea5e78d108194_P1.png' alt=' 호반써밋 현장 직원들이 ‘AI 채커’를 사용해 점검하는 모습 [제공=호반건설]'>
+호반건설이 입주 단지의 하자 처리를 신속하고 체계적으로 관리하기 위해 AI 기반 하자 관리 통합 플랫폼 ‘채들’을 신규 입주 현장에 도입한다고 6일 밝혔다.
+이번에 새롭게 도입되는 하자 관리 통합 플랫폼 채들의 주요 기능인 ‘AI 채커’는 호반건설 오픈이노베이션팀과 홈테크 스타트업 ‘이음’이 공동 개발했다.
+채들에서는 관리자가 현장 하자를 촬영하면 AI 채커가 해당 이미지를 인식해 하자 유형을 세분화한다. 자동 분류된 하자들은 각 전문업체에 전달돼 하자 보수가 진행된다. 관리자는 하자 보수 진행률과 결과를 실시간 모니터링해 완료 일정을 입주민에게 안내할 수 있게 된다.
+일일이 수작업으로 분류해왔던 하자 유형을 AI 채커로 자동 분류할 수 있게 되면서 현업 부서의 반복적인 업무 부담을 줄이고 신속한 처리가 가능하게 됐다. 나아가 집계된 데이터를 분석해 하자 처리 프로세스 개선과 품질 향상에 반영할 수 있게 됐다.
+김재은 호반건설 오픈이노베이션팀장은 “현장에 최신 기술을 도입해 품질 관리가 수월해질 수 있도록 개선될 것”이라며 “이러한 경험을 토대로 자체 스마트 주거 통합 앱 ‘호반 온’을 개발 중이며 향후 AI와 결합한 입주민 주거환경개선 서비스 등 다양하게 확장해 나갈 계획”이라고 밝혔다.
+호반건설은 스마트 건설기술 고도화를 위해 다양한 신기술을 현장에 적용하고 있다. 드론 전문업체 ‘코매퍼’와 협업해 시공 전 과정에서 주요 결함을 사전 탐지하는 등 AI 영상 분석 기술을 현장 관리에 적용했으며 지난 5월에는 ‘호반써밋 인천검단 AB19 블록’ 현장에서 외벽 도장 로봇의 파일럿 테스트를 완료한 바 있다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[호반건설, 하자 관리 플랫폼 ‘채들’ 사진 찍으면 AI 기술로 하자 분류 실시간 모니터링 관리 등 업무 개선호반건설이 입주 단지의 하자 처리를 신속하고 체계적으로 관리하기 위해 AI 기반 하자 관리 통합 플랫폼 ‘채들’을 신규 입주 현장에 도입한다고 6일 밝혔다. 이번에 새롭게 도입되는 하자 관리 통합 플랫폼 채들의 주요 기능인 ‘AI 채커’는 호반건설 오]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100607</code_id>
+<code_nm><![CDATA[건설업계 동향]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00503</middle_code_id>
+<middle_code_nm><![CDATA[부동산]]></middle_code_nm>
+<small_code_id>MK100607</small_code_id>
+<small_code_nm><![CDATA[건설업계 동향]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/06/news-p.v1.20250806.3e25d5c2c9d643d78c0ea5e78d108194_P1.png]]></image_url>
+<image_caption><![CDATA[ 호반써밋 현장 직원들이 ‘AI 채커’를 사용해 점검하는 모습 [제공=호반건설]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11386363]]></article_url>
+</article>
+</saltlux>

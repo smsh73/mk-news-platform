@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11400619</art_id>
+<art_year>2025</art_year>
+<art_no>601387</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-22 16:44:29</service_daytime>
+<title><![CDATA[언론기사 공짜로 써먹는 AI … 답변 27% 의존]]></title>
+<sub_title><![CDATA[챗GPT·제미나이 생성형AI<br>저널리즘 콘텐츠 의존 심화<br>속보성 질문땐 49%로 급증<br>수익배분 없이 활용 '논란']]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김규식 기자(dorabono@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250823</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>20</pub_page>
+<reg_dt>2025-08-22 16:44:29</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/23/20250823_01110120000001_M00.jpg' alt=''>
+
+챗GPT, 제미나이 등 생성형 인공지능(AI) 서비스가 언론 기사에 크게 의존해 사용자의 질문에 답변하는 것으로 조사됐다. 최근 콘텐츠 업계가 AI의 무단 도용을 기술적으로 차단하기 시작했지만, 여전히 AI 기업들이 별도의 수익 배분 없이 기사 내용을 활용하고 있어 논란이 예상된다.
+한국언론진흥재단은 이현우 선임연구위원이 집필한 KPF미디어브리프를 통해 AI 검색 서비스의 저널리즘 콘텐츠 인용 실태를 발표했다고 22일 밝혔다. 
+보고서에 따르면 미국 데이터 분석 플랫폼 제너러티브 펄스가 지난달 100만개 이상의 링크를 분석한 결과, AI 답변 출처 가운데 언론 기사가 27%를 차지했다. 속보나 사건 업데이트처럼 최신성이 중요한 질문에서는 비율이 49%까지 높아졌다. 반면 광고성 콘텐츠는 5%에 불과해 대조를 이뤘다. AI 서비스가 신뢰할 수 있고 빠른 정보를 제공하기 위해 언론 기사를 핵심 자료로 활용하고 있다는 의미다.
+실제로 AI 모델들은 신뢰성이 높은 전통 대중 매체나 전문성이 검증된 전문 매체를 선호하는 것으로 나타났다. 챗GPT는 로이터, AP, 파이낸셜타임스 등 전통적 대중 매체를 주로 인용했고, 제미나이는 액시오스 등 디지털 기반 매체까지 활용해 비교적 균형 잡힌 패턴을 보였다. 클로드는 CNBC, 하버드비즈니스리뷰, NPR 등 전문 매체를 다수 인용했다.
+이 같은 경향은 주제별로도 뚜렷이 드러났다. 언론 매체가 전문성을 확보한 금융·보험(37%), 미디어·엔터테인먼트(37%), 정부 정책(36%) 분야에서는 언론 기사가 대표 출처로 꼽혔다. 에너지 분야는 전문기관·전문지(30%), 유통은 백과사전(36%)이 주로 활용됐다. 헬스케어 분야만 정부·비정부기구(NGO) 자료에 대한 인용률이 18%로 나타났다.
+이 선임연구위원은 "AI 검색 서비스가 로이터, AP, 파이낸셜타임스 같은 권위 있는 언론사를 일관되게 상위 인용 출처로 활용하고, 최신성이 요구되는 질문에서 저널리즘 인용이 절반을 차지한다는 점은 객관적 검증과 시의적절한 정보 제공이라는 저널리즘의 본질적 역할이 AI 시대에 오히려 더욱 중요해졌음을 시사한다"고 분석했다.
+문제는 언론사가 이렇게 중요한 출처로 활용되면서도 정작 AI 서비스에서 언론사 웹사이트 방문으로 이어지지 않는다는 점이다. 글로벌 인프라 기업 클라우드플레어에 따르면 지난 6월 기준으로 챗GPT는 1700번 기사를 수집할 때 단 한 번만 원본 사이트를 연결했고, 클로드는 7만3000번 중 한 번에 그쳤다. 특히 구글은 6개월 전만 해도 웹사이트를 6번 크롤링할 때 1번 정도 사용자를 원본 사이트로 돌려보냈지만 최근에는 이 비율이 14대1에 그쳤다. 이 같은 상황을 배경으로 국내 IT 업체들은 AI의 '공짜 데이터 수집(크롤링)'에 제동을 걸고 있다. 네이버는 최근 자사 블로그와 카페 등 핵심 콘텐츠 서비스에서 오픈AI, 구글 등 글로벌 빅테크의 AI 크롤링을 차단한 것으로 알려졌다. 국내 언론사와 공공기관도 로봇제어 파일을 활용해 AI의 기사 수집을 막고 있다.
+이현우 선임연구위원 또한 보고서를 통해 대응책으로 △콘텐츠 무단 수집 차단 △공정한 보상 체계 △사용자 경험 혁신을 제시했다. 클라우드플레어처럼 기사·이미지 수집 시 비용을 부과하고, 해외 서비스 프로라타 사례처럼 출처별 기여도를 계산해 광고 수익의 절반을 언론사에 배분하는 방식이 대표적이다. 또 이커머스처럼 독자 데이터를 분석해 맞춤형 뉴스 제공, 뉴스레터 기반 충성 독자 확보, 원클릭 구독 등 사용자 경험 개선이 필요하다고 강조했다. IT업계 관계자는 "AI가 여전히 언론 기사를 인용하는 것은 과거에 축적한 학습 데이터와 일부 제휴 자료 덕분"이라며 "뉴스 포털, 보도자료, 정부·기관 문서, 다른 언론의 인용 기사 같은 간접 경로를 통해 기사 내용을 확보하고 있지만, 최신성 확보에는 한계가 있어 장기적으로는 유료 계약으로 전환할 수밖에 없을 것"이라고 말했다. 
+[김규식 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[챗GPT, 제미나이 등 생성형 인공지능(AI) 서비스가 언론 기사에 크게 의존해 사용자의 질문에 답변하는 것으로 조사됐다. 최근 콘텐츠 업계가 AI의 무단 도용을 기술적으로 차단하기 시작했지만, 여전히 AI 기업들이 별도의 수익 배분 없이 기사 내용을 활용하고 있어 논란이 예상된다.
+한국언론진흥재단은 이현우 선임연구위원이 집필한 KPF미디어브리프를 통해 AI 검색 서비스의 저널리즘 콘텐츠 인용 실태를 발표했다고 22일 밝혔다. 
+보고서에 따르면 미국 데]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/23/20250823_01110120000001_M00.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11400619]]></article_url>
+</article>
+</saltlux>

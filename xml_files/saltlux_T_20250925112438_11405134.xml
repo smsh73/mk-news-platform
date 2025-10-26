@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11405134</art_id>
+<art_year>2025</art_year>
+<art_no>615725</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-28 15:16:04</service_daytime>
+<title><![CDATA[솔트룩스, 에이전틱 AI 검색 솔루션 GS인증 1등급 획득]]></title>
+<sub_title><![CDATA[솔트룩스의 AI 검색 솔루션 ‘루시아 A.RAG’
+한국정보통신기술협회 인증 최고 수준 충족]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[안선제 기자(ahn.sunje@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-28 15:16:04</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101506</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">솔트룩스의 AI 검색 솔루션 ‘루시아 A.RAG’<br>한국정보통신기술협회 인증 최고 수준 충족</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/28/news-p.v1.20250828.6346d3749d8d44f08312790e9452e2ef_P1.png' alt=' [사진 = 솔트룩스]'>
+인공지능(AI) 전문기업 솔트룩스는 에이전틱 AI 검색 솔루션 ‘루시아 A.RAG’가 한국정보통신기술협회(TTA)로부터 GS(Good Software) 인증 1등급을 획득했다고 28일 밝혔다.
+GS인증 1등급은 기능성·신뢰성 등 모든 평가 항목에서 최고 수준을 충족한 제품에 부여되는 국가 공인 인증이다.
+‘루시아 A.RAG’는 방대한 조직 내·외부 데이터를 기반으로 사용자의 질의에 대해 근거 문서를 제시하며, 맥락 기반의 정확한 답변을 제공하는 차세대 검색증강생성(RAG) 기반 검색 솔루션이다. 기존 키워드 검색과 달리 벡터 기반 의미 검색, 대화 맥락 반영, 한·영 쿼리 확장, AI 리랭킹 기술 등을 결합해 검색 정확도와 신뢰성을 향상시켰다.
+특히 텍스트·이미지·비정형 데이터 등 다양한 형식을 지원하며, 사용자 요구에 맞춘 커스터마이징 기능을 통해 기업별 도메인 특화 검색 환경을 제공한다. 또한 솔트룩스의 지식 관리 플랫폼 ‘날리지 스튜디오’와 연동해 온톨로지 기반 지식 관리와 데이터 연결성을 강화한다.
+아울러 자체 개발한 루시아 거대언어모델(LLM)과의 연계를 통해 단순 검색을 넘어 이해, 생성, 요약까지 아우르는 지능형 검색 경험을 제공하며 민감한 정보나 개인정보 입력·출력을 필터링하는 시큐리티 가드레일을 적용해 정보 보안도 강화했다.
+이경일 솔트룩스 대표는 “루시아 A.RAG의 GS인증은 생성형 AI 시대에 요구되는 신뢰성과 품질을 입증한 성과”라며 “온톨로지 기반 지식 관리, LLM 연계, 가드레일 기술 적용을 통해 공공기관과 기업이 안심하고 사용할 수 있는 기반을 마련한 만큼 국내를 넘어 글로벌 시장에서도 책임 있는 AI 검색 표준을 제시해 나가겠다”고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[솔트룩스의 AI 검색 솔루션 ‘루시아 A.RAG’ 한국정보통신기술협회 인증 최고 수준 충족인공지능(AI) 전문기업 솔트룩스는 에이전틱 AI 검색 솔루션 ‘루시아 A.RAG’가 한국정보통신기술협회(TTA)로부터 GS(Good Software) 인증 1등급을 획득했다고 28일 밝혔다. GS인증 1등급은 기능성·신뢰성 등 모든 평가 항목에서 최고 수준을 충족한 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101506</code_id>
+<code_nm><![CDATA[스타트업]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101506</small_code_id>
+<small_code_nm><![CDATA[스타트업]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/28/news-p.v1.20250828.6346d3749d8d44f08312790e9452e2ef_P1.png]]></image_url>
+<image_caption><![CDATA[ [사진 = 솔트룩스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11405134]]></article_url>
+</article>
+</saltlux>

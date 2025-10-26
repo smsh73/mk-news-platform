@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11389231</art_id>
+<art_year>2025</art_year>
+<art_no>567912</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-08 21:26:48</service_daytime>
+<title><![CDATA[테슬라는 이미 ‘찜’, 퀄컴·구글도 러브콜…미국 첨단칩 허브 떠오른 삼성 ‘테일러 팹’]]></title>
+<sub_title><![CDATA[삼성 파운드리 부활의 중심 ‘테일러 공장’
+공정률 90% 내년초 본격 양산
+미국 반도체 공급망 재편 맞물려
+파운드리 핵심 제조기지로 부상]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김동은 기자(bridge@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-08 21:26:48</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100305</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">삼성 파운드리 부활의 중심 ‘테일러 공장’<br>공정률 90% 내년초 본격 양산<br>미국 반도체 공급망 재편 맞물려<br>파운드리 핵심 제조기지로 부상</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/08/news-p.v1.20250808.83c3caaedb8f4b97a316cdecec03152c_P1.jpg' alt=' 공사중인 삼성전자 테일러 팹.'>
+삼성전자가 미국 텍사스주 테일러에 370억달러(약 52조원) 이상을 투자해 건설 중인 첨단 파운드리 공장이 글로벌 빅테크 기업들의 관심을 한 몸에 받고 있다. 이른바 ‘테일러 팹’으로 불리는 이 공장은 삼성의 파운드리 경쟁력 회복을 상징하는 동시에 미국 내 반도체 공급망을 재편하는 데 핵심 거점이다.
+8일 반도체 업계에 따르면 테일러 팹은 공정률 90%를 넘겼으며 내년 초 본격적인 양산 가동을 앞두고 있다. 테일러 공장은 삼성전자의 미국 내 두 번째 파운드리 시설로, 기존 텍사스 오스틴 공장이 이전 세대 기술을 기반으로 한 중·저가 반도체 생산을 담당했다면 테일러 팹은 4~3나노(㎚) 이하의 첨단 게이트올어라운드(GAA·Gate-All-Around) 공정을 바탕으로 한 고성능 반도체 생산 거점이라는 점에서 차별된다. TSMC가 미국 애리조나에 짓고 있는 첨단 공장(Fab 21)과 기술적으로 막상막하라는 평가다.
+테일러 팹에 가장 먼저 관심을 보인 건 테슬라다. 테슬라는 최근 자율주행용 인공지능(AI) 칩을 삼성전자 테일러 공장에서 생산한다고 발표했다. 테슬라는 자체 개발하던 ‘도조(Dojo)’ 슈퍼컴퓨터 프로젝트를 중단하고, 외부 반도체 파트너들과의 협력을 확대하고 있는데 테일러 공장이 핵심 제조 기지로 낙점됐다.
+삼성과 오랫동안 파운드리 관계를 유지해온 퀄컴도 테일러 팹에 대한 관심이 큰 것으로 알려졌다. 퀄컴은 2022년 플래그십용 어플리케이션프로세서(AP)인 ‘스냅드래곤8 1세대(Gen1)’ 생산을 삼성에 맡겼지만, 수율 이슈와 전력 효율 문제로 이후 주력 칩셋의 생산 파트너를 TSMC로 전환했다. 업계에서는 “테일러 공장이 본격 양산에 들어가면 퀄컴이 일부 고급형 칩 생산을 테일러 팹에 맡길 가능성이 있다”고 예상한다. 삼성의 3나노 2세대 GAA 공정이 기술적으로 안정화되고 수율이 개선되면 퀄컴의 신뢰 회복이 가능하다는 얘기다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/08/news-p.v1.20250808.21a5c7c1aaa84d2a9f85c15da4b9b86d_P1.jpg' alt=''>
+구글 역시 테일러 팹의 잠재 고객으로 꼽힌다. 구글은 스마트폰 ‘픽셀’ 시리즈에 탑재하는 자체 설계 AP ‘텐서(Tensor)’ 시리즈를 삼성에 맡겨왔다. 현재까지 G1부터 G3까지 삼성의 5나노, 4나노 공정을 기반으로 생산해왔는데 발열과 배터리 소모 문제가 지속적으로 제기됐다. 이에 따라 차세대 칩(G5)을 TSMC에 위탁할 것이라는 관측도 우세했지만, 삼성 테일러 공장이 안정적으로 가동될 경우 구글이 관계 유지를 선택할 가능성이 높아진다.
+가장 큰 관심을 끄는 부분은 애플의 움직임이다. 애플은 2015년까지 아이폰에 사용하던 A시리즈 칩셋 일부를 삼성과 TSMC에 이원화 생산 방식으로 맡겨왔다. 하지만 ‘스마트폰 분야의 직접적인 경쟁자인 삼성에 핵심 칩 생산을 맡길 수 없다’는 판단하에 TSMC 단독 생산 체제로 전환했다.
+하지만 애플 역시 공급망 다변화가 불가피해지고 있다. TSMC 공장이 위치한 대만의 지정학 리스크가 커진 데다 TSMC의 애리조나 공장 가동 일정이 지연되면서 미국 내 대체 생산처 확보가 절실해졌다. 이런 맥락에서 삼성의 테일러 팹은 애플의 비핵심 칩 생산지로서 재조명되고 있다.
+실제로 지난 7일 애플은 아이폰용 이미지센서를 삼성전자의 오스틴 공장에서 생산하기로 했다. 이미지센서는 메인 AP 칩이 아닌 만큼 삼성과의 협력에 대한 부담이 상대적으로 작다. 업계에서는 이를 ‘전략적 재접촉’의 신호탄으로 해석한다. 향후 애플과 삼성전자의 협력 관계가 전력관리칩(PMIC), 터치 컨트롤러, 블루투스·초광대역(UWB) 같은 통신 서브칩 등으로 확대되면 테일러 공장이 핵심적인 역할을 하게 될 전망이다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/08/news-p.v1.20250808.44a42f55e344481db8b2825501d31293_P1.png' alt=' 공사중인 삼성전자 테일러 팹.'>
+삼성 테일러 공장은 전략적 가치도 있다. 미국 정부는 반도체 산업의 자국 회귀를 추진하면서 글로벌 반도체 기업들이 미국 내에 첨단공장을 설립하도록 독려하고 있다. 삼성전자는 테일러 공장을 통해 미국 정부가 추진하려는 국방·우주·AI용 반도체 생산의 전략적 파트너로도 참여할 가능성이 있다.
+업계 관계자는 “단순한 생산능력의 확대가 아닌 신뢰 회복과 기술 경쟁력 회복이 테일러 공장에 걸려 있다”며 “삼성의 다음 10년 파운드리 전략의 성패는 테일러에 달려 있다고 해도 과언이 아니다”고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[삼성 파운드리 부활의 중심 ‘테일러 공장’ 공정률 90% 내년초 본격 양산 미국 반도체 공급망 재편 맞물려 파운드리 핵심 제조기지로 부상삼성전자가 미국 텍사스주 테일러에 370억달러(약 52조원) 이상을 투자해 건설 중인 첨단 파운드리 공장이 글로벌 빅테크 기업들의 관심을 한 몸에 받고 있다. 이른바 ‘테일러 팹’으로 불리는 이 공장은 삼성의 파운드리 경쟁]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100305</code_id>
+<code_nm><![CDATA[전기·전자·통신]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100305</small_code_id>
+<small_code_nm><![CDATA[전기·전자·통신]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/08/news-p.v1.20250808.83c3caaedb8f4b97a316cdecec03152c_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 공사중인 삼성전자 테일러 팹.]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/08/news-p.v1.20250808.21a5c7c1aaa84d2a9f85c15da4b9b86d_P1.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/08/news-p.v1.20250808.44a42f55e344481db8b2825501d31293_P1.png]]></image_url>
+<image_caption><![CDATA[ 공사중인 삼성전자 테일러 팹.]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11389231]]></article_url>
+</article>
+</saltlux>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11391124</art_id>
+<art_year>2025</art_year>
+<art_no>573049</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-11 19:04:41</service_daytime>
+<title><![CDATA[해커 먹잇감 된 기업, 테러 협박 시달리는 개인…안전지대 사라진 한국]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김규식 기자(dorabono@mk.co.kr), 김유태 기자(ink@mk.co.kr), 양세호 기자(yang.seiho@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-11 19:04:41</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101505</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<strong><div style="border-top: 4px solid #ed6d01;border-bottom: 1px solid #ed6d01;font-size: 18px;padding: 10px 0;margin:30px 0;">해커들 먹잇감 된 한국 기업<br><br>예스24 두달만에 또 해킹 먹통<br>보안 허술 韓기업, 손쉬운 표적<br>피해 기업 23%는 백업도 없어</div></strong><img src='https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250811.d168d44a5bdf409f8f24fa826f36346a_P1.jpg' alt=' 국내 최대 규모의 인터넷서점 예스24가 두 달 만에 또 다시 랜섬웨이 해킹으로 먹통 사태를 겪었다. 사진은 6월 첫 해킹 사태 당시 서울 영등포구 예스24 본사. [사진 = 연합뉴스]'>
+국내 최대 인터넷서점 예스24가 두 달 만에 또다시 랜섬웨어 해킹으로 ‘먹통’ 사태를 겪었다. 지난 6월 닷새간 이어진 접속 장애 이후 재발 방지 대책을 내놓은 지 두 달도 채 안 돼 동일한 공격이 반복되면서 보안 체계 전반에 대한 신뢰가 흔들리고 있다.
+예스24는 11일 오전 4시 30분께 외부에서 랜섬웨어 공격을 받아 홈페이지와 앱 접속이 전면 차단됐다. 회사는 즉시 시스템을 긴급 차단하고 보안 점검에 착수했으며, 백업 데이터를 활용해 약 7시간 만인 오전 11시 30분께 서비스 복구를 완료했다.
+6월 1차 사태 당시에는 한국인터넷진흥원(KISA)이 “오프사이트 백업 체계가 구축되지 않은 것이 가장 큰 문제”라고 지적할 만큼 외부 저장소·클라우드 백업이 없어 복구까지 닷새가 걸렸다. 이번에는 백업이 작동해 피해 확산을 막았지만 동일 유형 공격이 재발했다는 점에서 대응 체계의 허점은 여전하다는 지적이다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250811.31fd234934244e209179d814ea8867aa_P1.png' alt=' 예스24 먹통'>
+특히 이번 사태와 관련해 KISA는 랜섬웨어 추가 공격 가능성을 배제하지 않고 현장 조사에 착수했다. 예스24의 서버·네트워크 환경과 복구 과정 전반을 점검해 재발 방지 대책을 마련하기 위한 것이다.
+올해 6월 첫 피해 당시 예스24는 앱과 인터넷 통신망이 마비됐음에도 해킹 사실을 즉각 이용자에게 알리지 않고, KISA 등에 신고한 뒤에야 피해 사실을 공표해 비판을 받았다.
+사태 일주일 만에 공동대표 명의로 사과문을 발표하며 “보안 체계를 원점에서 재점검하고 외부 보안 자문단을 도입해 시스템 설계부터 운영까지 복원력을 강화하겠다”고 약속했지만 두 달 만에 같은 피해를 다시 당한 것이다.
+보안업계는 이번 사례를 두고 ‘한국은 돈을 주면 재공격이 가능한 시장’이라는 나쁜 선례를 해커들에게 제공했다고 경고한다.
+업계 일각에서는 지난 6월 예스24가 장기간 장애를 겪으며 해커 측과 협상해 복구한 것으로 보고 있다. 비트코인 시세가 높은 현재 범죄자들에게 한국은 매력적인 시장으로 비칠 수 있다는 것이다.
+한국에서 공격하면 대가를 받을 수 있다는 인식이 퍼질 경우 국제 해커 조직의 표적이 될 가능성이 높다는 분석 또한 나온다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250811.826a2d3ca71c41e2aaa15d1a4476a9ef_P1.png' alt=''>
+실제로 한국에서 사이버 침해사고는 매년 증가세다.
+KISA에 따르면 국내 침해사고 신고 건수는 2022년 1142건, 2023년 1277건, 2024년 1887건으로 늘었고 2025년 상반기에만 이미 1034건이 접수됐다. 특히 랜섬웨어 피해의 93.9%가 중견·중소기업에 집중됐다. 공격 시 백업 데이터까지 감염된 비율은 44.4%에 달했으며 아예 백업을 하지 않은 기관도 23.2%였다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250811.cea1c47af2f34cf0917834df782f60c6_P1.png' alt=''>
+일상생활과 밀접한 정보기술(IT) 서비스나 유통업체는 해킹 피해 시 이미지 타격이 커 협상에 나설 가능성이 높다는 점에서 해커들의 주요 표적이 된다. 실제로 업종별 침해사고 비율을 보면 IT 분야가 37.7%로 가장 높았고 제조업(15.2%), 도매·소매업(12.8%) 순이었다.
+전문가들은 단순 복구를 넘어 침투 경로 분석과 보안 시스템 전면 재구축이 필요하다고 강조한다. 보안업계 관계자는 “정부와 기업 간 신속한 공조 체계가 필수”라며 “이번 KISA의 현장 조사도 재발 방지의 중요한 계기가 돼야 한다”고 말했다.
+예스24 측은 이날 오후 “서비스 복구 작업을 진행해 오전 11시 30분 기준 모든 서비스가 정상적으로 접속 및 이용 가능한 상태”라며 “사고 발생 직후 전사적인 비상 대응 체계를 가동해 즉시 시스템 긴급 차단 및 보안점검 조치를 실시함과 동시에 KISA 신고를 완료했다.
+서비스 이용에 불편과 우려를 끼쳐 드린 점 깊이 사과드린다”며 “앞으로 더 안정적인 서비스 제공을 위해 보안 시스템과 운영 정책을 지속 강화하도록 하겠다”고 약속했다.
+<strong><div style="border-top: 4px solid #ed6d01;border-bottom: 1px solid #ed6d01;font-size: 18px;padding: 10px 0;margin:30px 0;">일상이 된 테러 허위협박<br><br>이달 들어 테러 예고 6건<br>‘日변호사’ 관련 예고 44건<br>황산·KSPO돔도 동일 번호<br><br>예고가 모방 범죄 심리 자극<br>협박 범죄 불러오며 악순환</div></strong><img src='https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250805.10a690741d62483aa9e5f1233acb3c7d_P1.jpg' alt=' 5일 오후 한때 서울 중구 신세계백화점 본점에서 이용객들이 피난하는 소동이 있었다. 오후 1시43분 무렵 “1층에 폭발물이 설치됐다”는 협박글이 올라왔다는 신고가 접수되며 일어난 일이다. 폭발 예고 시간인 오후 3시에 별다른 상황이 발생되지 않으면서 신세계백화점 본점 영업은 정상 재개됐다.'>
+올해 들어 백화점, 대형 경기장 등 국내 주요 기관에 폭탄을 설치했다며 메일·팩스 등을 보내거나 온라인 게시글을 작성해 협박하는 사건이 잇따르고 있다.
+우리 사회에 경쟁이 심화하면서 사회에 적응하지 못한 비주류가 범죄를 모방하기 때문인 것으로 분석된다.
+시민들은 “실체도 없는 테러범의 위협 때문에 불안하다”며 “그렇다고 테러 가능성을 무시할 수 없어 삶이 방해받고 있다”고 분통을 터뜨리고 있다. 경찰은 공중협박 사건에 대해 엄정히 대처하는 한편, 청소년 등을 대상으로 예방 교육을 실시하고 다수의 경찰력이 동원된 경우 손해배상도 청구할 예정이다.
+11일 경찰 등에 따르면 이날 오전 국가인권위원회에 “서울과 광주 등 5개 백화점에 폭발물이 있다”는 취지의 협박 팩스가 들어와 경찰이 수사에 나섰다. 전날에는 “서울 송파구 올림픽공원 KSPO돔(체조경기장)에 폭발물을 설치했다”는 팩스가 수신돼 2000여 명이 대피하고 경찰이 수색했지만 폭발물은 발견되지 않았다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250805.5656582decb84dfbb02cb873816bc668_P1.png' alt=' 지난 5일 인터넷 커뮤니티 디씨인사이드에 올라온 협박글. 논란이 일자 삭제됐다. [사진 = 디씨인사이드 캡처]'>
+경찰에 따르면 KSPO돔 테러를 예고한 팩스 번호는 지난 7일 교육기관과 학생을 대상으로 ‘황산 테러’를 예고한 팩스 번호와 동일했다. 경기장 테러는 ‘변호사 조학석’이, 황산테러는 ‘가라사와 다카히로’라는 일본 변호사로 발신자 이름만 달랐을 뿐이다.
+특히 ‘가라사와 다카히로’ 명의로 팩스나 메일을 이용해 발신된 협박은 2023년 8월 당시 이재명 더불어민주당 대표를 살해하지 않으면 서울에 폭탄을 터뜨리겠다는 내용으로 처음 등장해 올해 초까지 이어지다 8개월 만에 다시 등장했다.
+올해 들어서는 학생들을 테러하겠다는 내용의 ‘팩스 협박’이 이어지고 있다. 올해 2월엔 한 지역 출입국관리사무소 출장소에 일본어로 ‘서울 시내 모든 중학교에 이미 폭탄을 설치했고 2월 14일 16시 33분에 폭파하겠다’는 내용이 적힌 팩스가 접수됐다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250811.2e053e9fe58545949a3dd5f3786c8dfe_P1.png' alt=' 11일 광주 한 백화점에서 경찰특공대 탐지견이 폭발물을 탐색하고 있다. 경찰에 따르면 이날 오전 9시 30분께 ‘서구 롯데백화점’에 폭탄을 설치하겠다는 신고가 접수됐다. [사진 = 연합뉴스]'>
+경찰에 따르면 소위 ‘일본 변호사’의 테러 협박과 관련한 팩스와 이메일이 수신된 것은 44건에 달한다. 다만 경찰은 모두 동일범에 의한 소행인지는 확인하지 못했다.
+이달 들어 온라인에 게시되는 테러 글도 시민들을 불안하게 하고 있다. 지난 5일엔 서울 중구 신세계백화점 명동 본점을 폭파하겠다는 글이 온라인에 올라와 당시 백화점에 있던 시민 4000명이 대피하는 일이 벌어졌다. 6일과 11일에 또다시 백화점 폭파 예고 글이 올라와 경찰이 출동했지만 허위 신고로 밝혀지면서 경찰력과 행정력의 낭비라는 지적이 잇따랐다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250811.21d47719f6f74d84b5a61ef85bbe62cb_P1.png' alt=''>
+이웅혁 건국대 경찰학과 교수는 “사회 비주류가 자신의 존재감을 확인하기 위해 예고 글을 올리는 것”이라며 “협박 예고는 다른 비주류의 모방 범죄 심리를 자극해 또 일어나게 하는 촉매제 역할을 한다. 국가적으로 현재 상황을 진단해야 할 필요가 있다”고 밝혔다.
+경찰은 잇따른 폭파 협박에 대해 ‘공중협박죄’를 적용해 엄정하게 대응할 방침이다. 또 경찰은 청소년을 대상으로 공중협박에 대한 예방 교육을 실시하는 한편, 경찰특공대 등 다수의 경찰력이 동원된 경우 필요시 손해배상 청구도 검토할 계획이다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[해커들 먹잇감 된 한국 기업  예스24 두달만에 또 해킹 먹통 보안 허술 韓기업, 손쉬운 표적 피해 기업 23%는 백업도 없어국내 최대 인터넷서점 예스24가 두 달 만에 또다시 랜섬웨어 해킹으로 ‘먹통’ 사태를 겪었다. 지난 6월 닷새간 이어진 접속 장애 이후 재발 방지 대책을 내놓은 지 두 달도 채 안 돼 동일한 공격이 반복되면서 보안 체계 전반에 대한 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101505</code_id>
+<code_nm><![CDATA[보안/해킹]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101505</small_code_id>
+<small_code_nm><![CDATA[보안/해킹]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101108</code_id>
+<code_nm><![CDATA[문화산업]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00505</middle_code_id>
+<middle_code_nm><![CDATA[문화]]></middle_code_nm>
+<small_code_id>MK101108</small_code_id>
+<small_code_nm><![CDATA[문화산업]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100804</code_id>
+<code_nm><![CDATA[사건·사고]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100804</small_code_id>
+<small_code_nm><![CDATA[사건·사고]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250811.d168d44a5bdf409f8f24fa826f36346a_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 국내 최대 규모의 인터넷서점 예스24가 두 달 만에 또 다시 랜섬웨이 해킹으로 먹통 사태를 겪었다. 사진은 6월 첫 해킹 사태 당시 서울 영등포구 예스24 본사. [사진 = 연합뉴스]]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250811.31fd234934244e209179d814ea8867aa_P1.png]]></image_url>
+<image_caption><![CDATA[ 예스24 먹통]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250811.826a2d3ca71c41e2aaa15d1a4476a9ef_P1.png]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250811.cea1c47af2f34cf0917834df782f60c6_P1.png]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250805.10a690741d62483aa9e5f1233acb3c7d_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 5일 오후 한때 서울 중구 신세계백화점 본점에서 이용객들이 피난하는 소동이 있었다. 오후 1시43분 무렵 “1층에 폭발물이 설치됐다”는 협박글이 올라왔다는 신고가 접수되며 일어난 일이다. 폭발 예고 시간인 오후 3시에 별다른 상황이 발생되지 않으면서 신세계백화점 본점 영업은 정상 재개됐다.]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250805.5656582decb84dfbb02cb873816bc668_P1.png]]></image_url>
+<image_caption><![CDATA[ 지난 5일 인터넷 커뮤니티 디씨인사이드에 올라온 협박글. 논란이 일자 삭제됐다. [사진 = 디씨인사이드 캡처]]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250811.2e053e9fe58545949a3dd5f3786c8dfe_P1.png]]></image_url>
+<image_caption><![CDATA[ 11일 광주 한 백화점에서 경찰특공대 탐지견이 폭발물을 탐색하고 있다. 경찰에 따르면 이날 오전 9시 30분께 ‘서구 롯데백화점’에 폭탄을 설치하겠다는 신고가 접수됐다. [사진 = 연합뉴스]]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250811.21d47719f6f74d84b5a61ef85bbe62cb_P1.png]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11391124]]></article_url>
+</article>
+</saltlux>

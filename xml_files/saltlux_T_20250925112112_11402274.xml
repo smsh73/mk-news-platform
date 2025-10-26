@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11402274</art_id>
+<art_year>2025</art_year>
+<art_no>606655</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-25 16:02:52</service_daytime>
+<title><![CDATA["어떤 AI가 한국에 맞는지 알아야하니까…사비 들여 테스트 개발했죠"]]></title>
+<sub_title><![CDATA[AI 연구팀 '해례' 손규진 연구원<br>"잠실서 광화문 가는 법은?"처럼<br>한국 언어·문화 이해하는지 평가<br>기업 아닌 비영리 단체에서 개발<br>국내 AI기업 활용하는 기준으로]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[정호준 기자(jeong.hojun@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250826</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>02</pub_section>
+<pub_page>2</pub_page>
+<reg_dt>2025-08-25 16:02:52</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK300108</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/26/20250826_01110202000002_M00.jpg' alt=''>
+
+질문에 대해 술술 답변을 써주는 챗GPT가 2022년 말 세상을 뒤흔든 후 2023년에는 세계 각지에서 인공지능(AI) 모델을 만들기 위해 뛰어들었다. 이후 수많은 모델이 쏟아지던 시점, 정작 어떤 모델이 한국에서 뛰어난 성능을 보이는지 평가할 수 있는 지표가 부족했다. 이 문제를 포착한 개발자들이 하나둘 모여 한국 시장에서 활용할 수 있는 평가지를 만들기 시작했다.
+이제는 국내 AI 기업들이 모두 활용하는 기준점이 된 벤치마크 해례(HAERAE)와 KMMLU를 개발한 해례팀이 그 주인공이다. 해례팀의 창립 멤버이자 AI 스타트업 원라인AI 소속 손규진 연구원(사진)은 최근 매일경제와 만나 "기존에도 평가지들은 있었지만, 생성형 AI로서 능력을 평가하기는 부족했다"고 당시 상황을 전했다. 이어 벤치마크 개발에 뛰어든 배경에 대해 "한국어 벤치마크가 부족하다 보니 필요성을 느껴 연구하기 시작했는데, 이제는 국내 생태계 차원에서도 목적성을 갖고 연구하고 있다"고 말했다.
+AI 모델 벤치마크란 모델의 지식과 문제 풀이 능력을 평가할 수 있는 테스트다. 문제지를 주고 AI 모델이 어느 정도의 정확도로 풀어내는지를 측정한다. 일반적인 상식을 평가하는 벤치마크부터 수학적인 문제 해결 능력, 프로그래밍 능력 등 측정하는 분야에 따라 벤치마크 종류도 다양하다. 해례팀이 개발하는 벤치마크는 한국어 관련 지식과 문화적 배경 이해도를 파악하는 데 특화돼 있다.
+어려운 수학 문제가 아니더라도 '2호선 잠실역에서 광화문으로 가려면 어떻게 가야 하는지' '한국의 전통적인 탁주 제조 방법은 무엇인지' 등 한국 관련 데이터를 학습하지 않은 모델은 풀기가 어려운 문제들이다. 국내 환경에서 사용하기에 어떤 AI 모델이 좋은 성능을 보일지를 미리 가늠해볼 수 있는 것이다.
+해례팀은 2023년 말 첫 한국어 벤치마크인 해례를 공개한 후 지난해 KMMLU, 올해 초 'K2-Eval' 등을 제작했으며 7월에는 KMMLU 난이도를 높여 AI 모델이 한국의 전문자격시험을 통과할 수 있을지 평가해보는 'KMMLU-Redux'와 'KMMLU-Pro' 2종의 벤치마크를 추가로 공개했다. 최근 공개된 KMMLU-Pro에 따르면 글로벌 주요 모델 중 앤스로픽 클로드가 유일하게 국내 변호사 시험을 통과하는 등 해외 모델들 성과가 두드러졌다. 국내 모델들 또한 선방하고 있지만 여전히 선두 그룹과 격차가 존재하는 모양새다.
+한편 기업체가 아닌 연구팀인 해례에 벤치마크 개발을 위해 데이터를 모으고 모델 테스트를 진행하는 비용은 부담이다. 초기에는 손 연구원을 포함해 해례 구성원들이 사비를 투입해가며 벤치마크를 개발해왔다. 이후 해례팀의 성과가 주목을 끌면서 KMMLU 제작에는 네이버가, 최근 KMMLU-Pro 벤치마크 개발에는 LG AI연구원이 함께 협업하며 개발 비용을 지원했다.
+손 연구원은 "최근에는 한국과학기술정보연구원(KISTI)과 협업해 연구를 진행하고 있으며, 바르셀로나 슈퍼컴퓨팅 센터(BSC) 등 언어를 연구하는 해외 기관과도 협력하고 있다"고 말했다. 그는 이어 "한국은 아직 AI 분야에서 연구 생태계가 상대적으로 부족하다"면서 "(해례가 연구하는) 벤치마크 분야는 반도체 등 다른 산업의 경험을 가진 인력들이 처음 AI를 접하기에도 좋은 분야"라고 밝혔다.
+[정호준 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[질문에 대해 술술 답변을 써주는 챗GPT가 2022년 말 세상을 뒤흔든 후 2023년에는 세계 각지에서 인공지능(AI) 모델을 만들기 위해 뛰어들었다. 이후 수많은 모델이 쏟아지던 시점, 정작 어떤 모델이 한국에서 뛰어난 성능을 보이는지 평가할 수 있는 지표가 부족했다. 이 문제를 포착한 개발자들이 하나둘 모여 한국 시장에서 활용할 수 있는 평가지를 만들기 시작했다.
+이제는 국내 AI 기업들이 모두 활용하는 기준점이 된 벤치마크 해례(HAERAE)와 K]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK300108</code_id>
+<code_nm><![CDATA[U-World (IT)]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK300108</small_code_id>
+<small_code_nm><![CDATA[U-World (IT)]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/26/20250826_01110202000002_M00.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11402274]]></article_url>
+</article>
+</saltlux>

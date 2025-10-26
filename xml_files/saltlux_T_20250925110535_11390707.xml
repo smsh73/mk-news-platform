@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11390707</art_id>
+<art_year>2025</art_year>
+<art_no>572178</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-11 15:27:04</service_daytime>
+<title><![CDATA[미래에셋증권, 미국주식 애프터마켓 거래시간 확대]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[최아영 매경 디지털뉴스룸 기자(cay@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-11 15:27:04</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100509</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250811.8b0584f5017141f7aff48fd7dfe1f964_P1.png' alt=' [사진 = 미래에셋증권]'>
+미래에셋증권은 오는 12일부터 미국주식 애프터마켓 거래시간을 확대한다고 11일 밝혔다.
+서머타임 기간에는 기존 오전 5시부터 오전 7시까지 운영하던 애프터마켓 거래시간이 오전 5시부터 오전 8시 30분까지로 늘어난다. 이외 기간에는 기존 오전 6시부터 오전 7시까지였던 거래시간이 오전 6시부터 오전 9시 30분까지 연장된다.
+이번 조치로 미래에셋증권을 이용하는 고객들은 서머타임 기간에 오후 5시부터 익일 오전 8시 30분까지, 이외 기간에는 오후 6시부터 익일 오전 9시 30분까지 총 15시간 30분 동안 미국주식을 거래할 수 있게 됐다.
+미래에셋증권은 거래시간 확대에 맞춰 내부 시스템을 개편했다. 나스닥이 내년 하반기 도입을 목표로 추진 중인 24시간 주식 거래 체계를 선제적으로 고려해 설계됐다.
+미래에셋증권은 “애프터마켓 거래시간 확대로 출근길에도 매매가 가능해져 해외주식을 거래하는 고객의 편의성이 높아질 것”이라며 “다만 애프터마켓은 정규장과 거래 환경이 다르므로 신중한 투자가 필요하다”고 말했다.
+한편, 미래에셋증권은 이날부터 미국주식 소수점 주문 가능 종목 수를 기존 480종목에서 950종목으로 대폭 확대한다. 소수점 주문은 1000원부터 가능하며, 주가가 높은 종목을 부분 매수하거나 원하는 금액에 맞춰 매매할 때 유용하다. 미국 프리마켓 개장과 동시에 실시간으로 거래할 수 있다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[미래에셋증권은 오는 12일부터 미국주식 애프터마켓 거래시간을 확대한다고 11일 밝혔다. 서머타임 기간에는 기존 오전 5시부터 오전 7시까지 운영하던 애프터마켓 거래시간이 오전 5시부터 오전 8시 30분까지로 늘어난다. 이외 기간에는 기존 오전 6시부터 오전 7시까지였던 거래시간이 오전 6시부터 오전 9시 30분까지 연장된다. 이번 조치로 미래에셋증권을 이용]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100509</code_id>
+<code_nm><![CDATA[증권계동향]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100509</small_code_id>
+<small_code_nm><![CDATA[증권계동향]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250811.8b0584f5017141f7aff48fd7dfe1f964_P1.png]]></image_url>
+<image_caption><![CDATA[ [사진 = 미래에셋증권]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11390707]]></article_url>
+</article>
+</saltlux>

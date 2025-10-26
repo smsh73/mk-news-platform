@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11388890</art_id>
+<art_year>2025</art_year>
+<art_no>567211</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-08 15:34:54</service_daytime>
+<title><![CDATA[“美 퇴직연금에 가상자산 포함” 행정명령 서명에…크립토 시장도 환호]]></title>
+<sub_title><![CDATA[“401K 가상자산 투자 허용하라”
+트럼프 대통령, 행정명령에 서명
+주요 가상자산은 일제히 상승세
+미란 위원장, 연준 이사로 지명돼]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[이종화 기자(andrewhot12@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-08 15:34:54</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100508</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/08/news-p.v1.20250808.4e8fa2bb683c45078cf5ef0ea784b9d1_P1.png' alt=' 사진=챗GPT'>
+<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">“401K 가상자산 투자 허용하라”<br>트럼프 대통령, 행정명령에 서명<br>주요 가상자산은 일제히 상승세<br>미란 위원장, 연준 이사로 지명돼</div></MKSUBTITLE>
+미국 퇴직 연금인 401K를 통해 가상자산을 투자할 수 있는 길이 열릴 기대감에 주요 가상자산이 일제히 상승했다.
+8일 코인마켓캡에 따르면 이날 오후 2시 30분 기준 비트코인은 24시간 전 대비 1.92% 오른 11만6673.12달러에 거래되고 있다.
+이더리움(6.11%), XRP(12.10%), BNB(2.37%), 솔라나(4.18%), 도지코인(7.79%) 등 다른 알트코인도 일제히 반등했다.
+이날 가상자산 시장은 도날드 트럼프 미국 대통령이 미국 퇴직 연금인 401K를 통해 가상자산을 투자할 수 있게 하라는 내용을 담은 행정명령에 서명했다는 소식에 환호했다.
+기존에 미국에서 퇴직 연금을 통한 가상자산 투자는 매우 제한되어 있었다.
+지난 2022년 미국 노동부(DOL)는 “401K를 통해 가상자산에 투자할땐 극도로 조심해야 한다”는 지침을 발표했다. DOL이 특정 투자 전략에 대한 권고를 내놓은 것은 처음이었다.
+트럼프 대통령 당선 이후인 지난 5월 DOL은 이 지침을 철회한다는 내용의 성명문을 발표했다. 트럼프 대통령의 행정명령을 통해 401K를 통한 가상자산 투자는 가속화될 것으로 보인다.
+트럼프 대통령이 새로운 미국 연방준비제도(Fed·연준) 이사로 스티브 미란 백악관 경제자문위원회 위원장을 지명했다는 소식도 가상자산 시장에 긍정적인 영향을 줬다.
+글로벌 관세 정책 설계에 참여한 대표적 ‘친트럼프 인사’인 미란 위원장은 연준 내에서 금리 인하를 강하게 압박할 것으로 보인다.
+연준 이사는 연준의 연방공개시장위원회(FOMC)에서 금리 결정 투표권도 갖고 있다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[“401K 가상자산 투자 허용하라” 트럼프 대통령, 행정명령에 서명 주요 가상자산은 일제히 상승세 미란 위원장, 연준 이사로 지명돼미국 퇴직 연금인 401K를 통해 가상자산을 투자할 수 있는 길이 열릴 기대감에 주요 가상자산이 일제히 상승했다. 8일 코인마켓캡에 따르면 이날 오후 2시 30분 기준 비트코인은 24시간 전 대비 1.92% 오른 11만6673.]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100508</code_id>
+<code_nm><![CDATA[해외증시]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100508</small_code_id>
+<small_code_nm><![CDATA[해외증시]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100502</code_id>
+<code_nm><![CDATA[시황]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100502</small_code_id>
+<small_code_nm><![CDATA[시황]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/08/news-p.v1.20250808.4e8fa2bb683c45078cf5ef0ea784b9d1_P1.png]]></image_url>
+<image_caption><![CDATA[ 사진=챗GPT]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11388890]]></article_url>
+</article>
+</saltlux>

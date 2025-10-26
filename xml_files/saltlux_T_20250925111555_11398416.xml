@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11398416</art_id>
+<art_year>2025</art_year>
+<art_no>595004</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-20 16:31:13</service_daytime>
+<title><![CDATA[삼성운용도 SMR ETF 출시경쟁 합류]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[정재원 기자(jeong.jaewon@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-20 16:31:13</reg_dt>
+<mod_dt>2025-08-20 16:46:14</mod_dt>
+<art_org_class>MK100514</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/20/news-p.v1.20230213.f7b25d0386884c3aa550636abc0e54aa_P1.png' alt=' 대형 원전(왼쪽)과 소형모듈원자로(오른쪽) 구조 비교 &lt;자료=두산에너빌리티&gt;'>
+삼성자산운용이 국내 원전주와 SMR 테마에 투자하는 상장지수펀드(ETF) 출시를 준비 중이다.
+20일 한국거래소에 따르면 삼성자산운용은 전날 ‘KODEX 원자력SMR’의 표준코드를 발급받았다. 삼성자산운용은 9월 중 상품 출시를 계획하고 있는 것으로 전해졌다.
+KODEX 원자력SMR의 기초지수는 ‘iSelect 원자력SMR’이 될 것으로 보인다. iSelect 원자력SMR은 국내 SMR 관련주 15종을 편입하고 있다. 이 지수는 두산에너빌리티, 비에이치아이, 현대건설의 비중 합이 약 60%에 달한다.
+이 상품이 출시된다면 국내 상장 ETF 중 상품명에 ‘SMR’이 들어간 상품은 3개로 늘어나게 된다. 신한운용은 지난 5월 ‘SOL 미국원자력SMR’을 내놓았고, 전날에는 ‘SOL 한국원자력SMR’을 출시했다.
+SMR이란 소형모듈원자로(Small Module Reactor)의 약자로, 기존 대형 원전보다 건설 기간·비용을 단축할 수 있는 차세대 원자로다.
+최근 자산운용사들은 국내 원전 ETF 출시에 열을 올리고 있다. 전날 미래에셋자산운용은 ‘TIGER 코리아원자력’를 신규 상장하며, ‘SMR과 대형원전 모두에서 강점을 보이는 수출기업에 집중투자하는 상품’이라고 강조했다.
+다만 ETF 상장 이후 악재가 출몰하며 올해 국내 증시를 주도해온 원전주의 상승세가 꺾인 모습이다. 전날 한국수력원자력과 한국전력이 미국 웨스팅하우스와 ‘불공정 계약’을 올 초 체결했다는 소식이 전해지자 대장주 두산에너빌리티 주가가 2거래일 동안 11.83% 하락했다.
+NH-Amundi자산운용의 ‘HANARO 원자력iSelect’ ETF는 지난 8월 6일 연중 최고 종가를 기록하며 연초 대비 122% 상승했지만, 이후 2주 동안 약 13% 하락했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[삼성자산운용이 국내 원전주와 SMR 테마에 투자하는 상장지수펀드(ETF) 출시를 준비 중이다. 20일 한국거래소에 따르면 삼성자산운용은 전날 ‘KODEX 원자력SMR’의 표준코드를 발급받았다. 삼성자산운용은 9월 중 상품 출시를 계획하고 있는 것으로 전해졌다. KODEX 원자력SMR의 기초지수는 ‘iSelect 원자력SMR’이 될 것으로 보인다. iSele]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100514</code_id>
+<code_nm><![CDATA[펀드]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100514</small_code_id>
+<small_code_nm><![CDATA[펀드]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/20/news-p.v1.20230213.f7b25d0386884c3aa550636abc0e54aa_P1.png]]></image_url>
+<image_caption><![CDATA[ 대형 원전(왼쪽)과 소형모듈원자로(오른쪽) 구조 비교 &lt;자료=두산에너빌리티&gt;]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11398416]]></article_url>
+</article>
+</saltlux>

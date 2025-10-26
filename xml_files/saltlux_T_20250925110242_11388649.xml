@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11388649</art_id>
+<art_year>2025</art_year>
+<art_no>566649</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-08 11:41:04</service_daytime>
+<title><![CDATA[체인링크 전략적 토큰 비축 조성]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[최근도 기자(recentdo@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-08 11:41:04</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100502</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/08/news-p.v1.20250808.a120cd2f256d4eb9ab069e2ed4b93993_P1.png' alt=''>
+체인링크는 7일(현지시간) LINK 토큰의 전략적 온체인 준비금 구축을 핵심으로 하는 체인링크 리저브의 출시를 발표했다.
+이는 기업들의 체인링크 서비스 사용시 발생하는 오프체인 수익과 온체인 서비스 사용량에서 발생하는 수익을 활용해 LINK 토큰을 축적하는 형태다.
+결제 추상화(Payment Abstraction)를 사용해 오프체인 및 온체인 수익을 LINK로 전환한다.
+결제 추상화는 올해 초 체인링크에 도입된 기술로, 스테이블코인 등 사용자가 선호하는 결제 수단으로 체인링크 서비스 비용을 지불할 수 있게 하는 온체인 인프라다.
+이 결제금은 체인링크 서비스와 탈중앙화 거래소 인프라의 조합을 통해 LINK토큰으로 전환될 예정이다.
+체인링크는 체인링크 표준(Standard)에 대한 수요는 이미 수억 달러의 수익을 창출했으며, 그 상당 부분이 체인링크 플랫폼 접근을 위해 오프체인에서 비용을 지불한 대기업들로부터 발생했다고 설명했다.
+체인링크는 리저브 분석 대시보드(reserve.chain.link)도 구축했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[체인링크는 7일(현지시간) LINK 토큰의 전략적 온체인 준비금 구축을 핵심으로 하는 체인링크 리저브의 출시를 발표했다. 이는 기업들의 체인링크 서비스 사용시 발생하는 오프체인 수익과 온체인 서비스 사용량에서 발생하는 수익을 활용해 LINK 토큰을 축적하는 형태다. 결제 추상화(Payment Abstraction)를 사용해 오프체인 및 온체인 수익을 LIN]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100502</code_id>
+<code_nm><![CDATA[시황]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100502</small_code_id>
+<small_code_nm><![CDATA[시황]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100514</code_id>
+<code_nm><![CDATA[펀드]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100514</small_code_id>
+<small_code_nm><![CDATA[펀드]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/08/news-p.v1.20250808.a120cd2f256d4eb9ab069e2ed4b93993_P1.png]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11388649]]></article_url>
+</article>
+</saltlux>

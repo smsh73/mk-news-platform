@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11396482</art_id>
+<art_year>2025</art_year>
+<art_no>589185</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-18 19:24:43</service_daytime>
+<title><![CDATA[[MK히든챔피언] 가상공간 만들어 PC 1대를 2대처럼 쓴다]]></title>
+<sub_title><![CDATA[강대성 제노솔루션 대표<br>가상데스크톱 'VDeX' 활용<br>시공간 제약 없는 업무환경<br>비용 확 낮추고 보안은 높여<br>금융·공공기관 잇단 러브콜]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[이호준 기자(lee.hojoon@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250819</pub_date>
+<pub_edition>16</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>14</pub_page>
+<reg_dt>2025-08-18 19:24:43</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100402</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[◆ MK 히든챔피언 ◆
+<img src='https://wimg.mk.co.kr/news/cms/202508/19/20250819_01160114000003_L00.jpg' alt=''>
+
+"제노솔루션의 가상데스크톱인프라(Virtual Desktop Infrastructure·VDI)를 사용하면 비용을 대폭 줄일 수 있습니다."
+최근 기업에서는 유연한 근무 환경 구축이 화두다. 코로나19 대유행을 거치면서 재택근무, 원격근무, 그리고 다양한 모바일 업무 환경이 보편화되면서 언제 어디서나 안정적이고 안전하게 업무를 수행할 수 있는 정보기술(IT) 인프라스트럭처의 필요성이 커지고 있다. 이에 따라 최근 떠오르는 기술이 바로 VDI다. VDI는 개인 컴퓨터(PC) 환경을 중앙 서버에 가상으로 만들어놓고 언제 어디서든 인터넷을 통해 접속해 사용할 수 있도록 하는 솔루션이다.
+금융·공공 IT 시장에서 클라우드 전환, 보안 관제, VDI 솔루션을 제공하는 정보통신기술(ICT) 전문기업 제노솔루션은 최근 비용 부담을 혁신적으로 줄인 가상 데스크톱 관리 솔루션 'VDeX'를 선보였다.
+강대성 제노솔루션 대표는 18일 매일경제와 인터뷰하면서 "기존 고가 장비와 소프트웨어 의존도를 과감히 없애고 사용자 PC 자원을 적극 활용 가능해 초기 투자비와 운영·유지비를 대폭 절감하고 운영 효율성을 개선할 수 있다"고 말했다.
+강 대표는 "별도 고가 서버나 스토리지를 구매하지 않고도 현재 사용하는 PC 성능을 활용해 독립된 가상 데스크톱을 구현할 수 있다"고 강조했다. 윈도와 리눅스에 기본으로 내장된 가상화 기술을 활용해 실제 PC 환경과 완전히 분리된 안전한 작업 공간(가상 데스크톱)을 제공하므로 데이터 보안과 프로그램 안정성을 동시에 확보할 수 있다.
+전산센터에 접속하기 위한 네트워크를 최소화해 네트워크 구축·운영비까지 절감한다. 사용자는 전용 포털에서 인증한 뒤 접속할 수 있으며, 권한이 없는 경우 환경 변경이 불가능해 보안성이 높다. 
+또 업무망과 인터넷망을 논리적으로 분리해 데이터 전송, 화면 캡처, 네트워크 드라이브 연결 등 잠재적 보안 위협을 원천적으로 차단하고 다양한 가상화 소프트웨어를 지원해 여러 가상화 플랫폼과 유연하게 연동할 수 있도록 해준다.
+강 대표는 "이 기술을 이용하면 PC 1대에서 업무망과 인터넷망을 논리적으로 분리해 사용이 가능하다"며 "즉 1대의 PC에서 2개의 서로 다른 PC를 사용할 수 있는 셈"이라고 설명했다. 그는 이어 "VDI 솔루션을 이용하면 스마트워크 환경을 구축하며 중앙 관리로 IT 관리의 효율성을 높일 수 있고, 보안까지 강화하는 효과가 있다"고 덧붙였다.
+하지만 지나치게 높은 비용이 VDI를 도입하는 데 큰 걸림돌이다. 한국 시장을 점유하고 있는 외국산 솔루션은 고성능 서버, 대용량 스토리지, 복잡한 네트워크 장비, 가상화 소프트웨어까지 모두 갖춰야 하기 때문에 초기 투자비가 막대하다.
+글로벌 IT 시장조사기관인 가트너에 따르면 500인 이하 조직에서는 VDI 솔루션의 총비용이 평균 IT 예산의 30% 이상을 차지하는 것으로 나타났다. 강 대표는 "VDI를 사용하면 비용을 대폭 줄일 수 있다"며 "IBK기업은행과 수협은행을 비롯한 금융기관과 공공기관의 디지털 인프라 구축을 주도하고 있다"고 말했다. 
+[이호준 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA["제노솔루션의 가상데스크톱인프라(Virtual Desktop Infrastructure·VDI)를 사용하면 비용을 대폭 줄일 수 있습니다."
+최근 기업에서는 유연한 근무 환경 구축이 화두다. 코로나19 대유행을 거치면서 재택근무, 원격근무, 그리고 다양한 모바일 업무 환경이 보편화되면서 언제 어디서나 안정적이고 안전하게 업무를 수행할 수 있는 정보기술(IT) 인프라스트럭처의 필요성이 커지고 있다. 이에 따라 최근 떠오르는 기술이 바로 VDI다. VDI는]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100402</code_id>
+<code_nm><![CDATA[중견/중소기업]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100402</small_code_id>
+<small_code_nm><![CDATA[중견/중소기업]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/19/20250819_01160114000003_L00.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11396482]]></article_url>
+</article>
+</saltlux>

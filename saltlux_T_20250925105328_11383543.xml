@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11383543</art_id>
+<art_year>2025</art_year>
+<art_no>551375</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-02 06:21:35</service_daytime>
+<title><![CDATA[주유소 기름값, 전주보다 소폭 상승…“휘발유 가격은 안정세”]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[이상현 매경 디지털뉴스룸 기자(lee.sanghyun@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-02 06:21:35</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100101</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/02/news-p.v1.20250802.62d427d53cdb4bc6972f718b5f04eb96_P1.jpg' alt=' 지난달 20일 서울 시내의 한 주유소 모습. 기사 내용과 직접적인 관련 없음. [사진 출처 = 연합뉴스]'>
+이번 주 국내 주유소 휘발유와 경유 가격이 동반 상승했다.
+2일 한국석유공사 유가정보시스템 오피넷에 따르면 7월 다섯째 주(27∼31일) 전국 주유소 휘발유 평균 판매가는 지난주보다 ℓ당 0.3원 오른 1667.7원을 기록했다,
+지역별로는 서울이 전주보다 1.0원 하락한 1737.6원으로 가장 가격이 높았다. 가격이 가장 낮은 대구는 0.3원 내린 1637.9원으로 집계됐다.
+상표별 가격은 SK에너지 주유소가 ℓ당 평균 1677.8원으로 가장 높았다. 자가상표 주유소가 1655.7원으로 가장 낮았다.
+경유 평균 판매 가격은 전주 대비 2.4원 오른 1534.2원을 기록했다. 지난주에 이어 2주 연속 상승했다.
+이번 주 국제유가는 트럼프 행정부의 러시아 제재 강화 예고와 주요 교역국과의 무역 합의 발표 등으로 올랐다.
+수입 원유 가격 기준인 두바이유는 지난주보다 2.5달러 오른 73.5달러를 기록했다.
+국제 휘발유 가격은 2.3달러 오른 78.7달러, 국제 자동차용 경유 가격은 0.5달러 오른 92.2달러로 각각 집계됐다.
+통상적으로 국제유가 변동은 약 2∼3주 차이를 두고 국내 주유소 가격에 반영된다.
+대한석유협회 관계자는 “국제유가 흐름을 볼 때 다음 주 휘발유 가격도 안정세를 보이며, 경유는 소폭 오를 것으로 전망된다”고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[이번 주 국내 주유소 휘발유와 경유 가격이 동반 상승했다. 2일 한국석유공사 유가정보시스템 오피넷에 따르면 7월 다섯째 주(27∼31일) 전국 주유소 휘발유 평균 판매가는 지난주보다 ℓ당 0.3원 오른 1667.7원을 기록했다, 지역별로는 서울이 전주보다 1.0원 하락한 1737.6원으로 가장 가격이 높았다. 가격이 가장 낮은 대구는 0.3원 내린 1637]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100101</code_id>
+<code_nm><![CDATA[경제일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100101</small_code_id>
+<small_code_nm><![CDATA[경제일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100103</code_id>
+<code_nm><![CDATA[경기/지표]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100103</small_code_id>
+<small_code_nm><![CDATA[경기/지표]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100106</code_id>
+<code_nm><![CDATA[생활경제]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100106</small_code_id>
+<small_code_nm><![CDATA[생활경제]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/02/news-p.v1.20250802.62d427d53cdb4bc6972f718b5f04eb96_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 지난달 20일 서울 시내의 한 주유소 모습. 기사 내용과 직접적인 관련 없음. [사진 출처 = 연합뉴스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11383543]]></article_url>
+</article>
+</saltlux>

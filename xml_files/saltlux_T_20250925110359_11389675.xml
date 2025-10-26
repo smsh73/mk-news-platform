@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11389675</art_id>
+<art_year>2025</art_year>
+<art_no>569232</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-10 10:59:14</service_daytime>
+<title><![CDATA[테슬라, 텍사스서 로보택시 허가…자율주행 서비스 본격화]]></title>
+<sub_title><![CDATA[2026년 8월까지 주 전역 운행 가능
+모델Y 기반, 부분 자율주행·원격 감독
+연방 조사·소송·리콜 등 논란 속 시장 진입]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[원호섭 기자(wonc@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-10 10:59:14</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101506</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">2026년 8월까지 주 전역 운행 가능<br>모델Y 기반, 부분 자율주행·원격 감독<br>연방 조사·소송·리콜 등 논란 속 시장 진입</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/10/news-p.v1.20250810.564b99e0e54c4b6bb19407a07d6d7bd0_P1.png' alt=' 테슬라 로고'>
+테슬라가 미국 텍사스주에서 자율주행 호출 서비스(로보택시) 운영 허가를 획득했다. 이에 따라 우버(Uber), 리프트(Lyft) 등과 경쟁하며 주 전역에서 영업할 수 있는 길이 열렸다.
+9일(현지시간) 텍사스주 면허·규제국(TDLR)에 따르면, 테슬라의 자회사 ‘테슬라 로보택시 LLC’는 ‘운송 네트워크 회사’로 등록돼 2026년 8월 6일까지 허가를 유지한다. 이번 허가로 테슬라는 인력 없이 완전 자율주행 차량도 운행할 수 있다.
+테슬라는 지난 6월 말부터 텍사스 오스틴에서 초청 인원 대상 시범 서비스를 운영해 왔다. 시범 대상에는 테슬라 팬 콘텐츠를 제작하는 SNS 인플루언서와 애널리스트들이 다수 포함됐다.
+현재 투입된 차량은 모델Y로, 최신 부분 자율주행 시스템을 장착했다. 안전 요원이 함께 타 필요시 수동 개입하고, 별도의 운영센터에서 원격 모니터링을 병행하고 있다. 일론 머스크 CEO는 지난달 실적발표에서 “올해 말까지 미국 인구 절반에 자율주행 호출 서비스를 제공할 수 있다”고 주장했다.
+허가 취득에도 불구하고 테슬라 로보택시는 안전성 논란에 휩싸여 있다. 시범 운행 초기에 철도 건널목 경고와 차단기를 무시한 차량이 목격돼 탑승한 직원이 수동 제동하는 사건이 발생했으며, 미국 고속도로교통안전국(NHTSA)이 이를 조사 중이다.
+연방 조사 외에도 테슬라는 오토파일럿·완전자율주행(FSD) 관련 충돌 사고에 따른 소송과 리콜, 캘리포니아 DMV의 ‘허위 광고’ 소송 등 다수의 법적·규제 리스크를 안고 있다. 최근 플로리다 연방법원 배심원단은 오토파일럿 관련 사망사고에서 테슬라의 과실 비율을 33%로 판정했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[2026년 8월까지 주 전역 운행 가능 모델Y 기반, 부분 자율주행·원격 감독 연방 조사·소송·리콜 등 논란 속 시장 진입테슬라가 미국 텍사스주에서 자율주행 호출 서비스(로보택시) 운영 허가를 획득했다. 이에 따라 우버(Uber), 리프트(Lyft) 등과 경쟁하며 주 전역에서 영업할 수 있는 길이 열렸다. 9일(현지시간) 텍사스주 면허·규제국(TDLR)에 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101506</code_id>
+<code_nm><![CDATA[스타트업]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101506</small_code_id>
+<small_code_nm><![CDATA[스타트업]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/10/news-p.v1.20250810.564b99e0e54c4b6bb19407a07d6d7bd0_P1.png]]></image_url>
+<image_caption><![CDATA[ 테슬라 로고]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11389675]]></article_url>
+</article>
+</saltlux>

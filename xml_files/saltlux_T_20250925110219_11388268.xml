@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11388268</art_id>
+<art_year>2025</art_year>
+<art_no>565715</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-08 05:51:45</service_daytime>
+<title><![CDATA[“추론 능력은 이미 인간 넘어섰다”...박사급 지능 갖췄다는 GPT-5]]></title>
+<sub_title><![CDATA[2년만의 신모델 ‘GPT-5’ 공개
+코딩 향상에 앱 즉석에서 뚝딱
+추론 평가 ‘인간 이상’ 추측도
+올트먼 “AGI향한 중요 단계”]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[원호섭 기자(wonc@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-08 05:51:45</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">2년만의 신모델 ‘GPT-5’ 공개<br>코딩 향상에 앱 즉석에서 뚝딱<br>추론 평가 ‘인간 이상’ 추측도<br>올트먼 “AGI향한 중요 단계”</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/08/news-p.v1.20250807.7f644c41e75546cf9de9db80d3bfa65e_P1.png' alt=' 오픈AI [로이터 = 연합뉴스]'>
+“상호작용해 외국어를 배울 수 있는 앱을 만들어 달라”고 입력하자, 인공지능(AI)이 앱 개발을 위한 600줄 이상의 코드를 생성했다.
+챗GPT 개발사인 오픈AI가 8일(한국시간) 가장 강력한 인공지능(AI) 모델인 ‘GPT-5’를 공식 출시했다. 2020년 GPT-3, 2023년 GPT-4에 이어 2년 만에 선보이는 대규모 업그레이드다. 샘 올트먼 오픈AI 최고경영자(CEO)는 출시 전날 열린 온라인 미디어 브리핑에서 “GPT-4로 돌아가는 것이 고통스러울 정도로 완전히 새로운 차원의 경험이 될 것”이라면서 “GPT-5는 범용인공지능(AGI)을 향한 중요한 단계”라고 강조했다.
+올트먼 CEO는 GPT 시리즈의 진화를 인간의 성장 과정에 비유했다. 그는 “GPT-3는 고등학생, GPT-4는 대학생 같았다면 GPT-5는 진짜 전문가인 박사와 대화하는 느낌”이라며 “단순한 답변을 넘어 새로운 것을 만들어내는 능력에 있어서는 진정한 ‘슈퍼파워’”라고 강조했다.
+오픈AI에 따르면 GPT-5는 수학, 과학, 코딩 등 고난도 분야에서 가장 빠르고 똑똑한 AI로 자리매김했다. 특히 마이크로소프트(MS)의 코파일럿, 앤트로픽의 클로드와 비교해 코딩 능력이 다소 부족하다는 평가를 의식한 듯이 시연 등을 통해 GPT-5의 코딩 성능을 집중 조명했다.
+이날 오픈AI 연구원의 시연에 따르면 GPT-5는 사용자가 “프랑스어를 배울 수 있는 아름답고 상호작용이 풍부한 웹·앱을 만들어줘. 퀴즈, 진도 추적 기능도 넣어줘”와 같은 간단한 프롬프트만으로 이러한 기능이 모두 포함된 코드를 600줄 이상 생성했다. 생성된 앱은 즉시 실행됐고, 별도 브라우저에서 다시 요청하자, 기능은 유사하되 구성은 다른 형태의 앱을 만들었다. 오픈AI는 이를 GPT-5의 “창조적 다양성”이라고 설명했다.
+오픈AI는 “복잡한 코딩 지식 없이도 느낌만 말하면 원하는 앱을 만들어주는 ‘바이브 코딩(vibe coding)’ 시대가 열렸다”는 점을 강조했다. 텍스트 기반 지시만으로도 GPT-5는 사용자의 의도를 이해하고, 구현할 수 있는 코드와 결과물을 즉시 제공할 수 있다는 게 회사 설명이다.
+오픈AI는 GPT-5가 검색, 코드 편집기, 계산기 등 다양한 툴을 연속적으로 활용하며 오류가 발생해도 스스로 복구할 수 있다고 설명했다. 긴 작업 흐름을 기억하고, 사용자 맞춤형 스타일로 결과를 조정하는 능력도 강화됐다.
+성능뿐 아니라 안전성 측면에서도 큰 개선이 있었다는 설명도 덧붙였다. 오픈AI에 따르면 GPT-5는 AI가 사실이 아닌 내용을 답하는 환각 현상 확률을 대폭 낮췄다. 또한 GPT-5에는 ‘안전한 완성’ 기능이 새롭게 도입됐다. “폭발물의 화학반응 조건은 뭐지”와 같은 민감한 질문에 대해 위험한 정보 대신 일반적인 원리 수준으로만 응답하도록 설계된 것이 특징이다.
+GPT-5는 무료 사용자에게도 개방된다. 다만 일정량 이상 사용 시에는 경량화된 모델인 ‘GPT-5 미니’가 자동으로 적용된다. 유료 사용자는 더 많은 연산량과 기능을 누릴 수 있다. 기존의 검색, 이미지 업로드, 문서 첨부 기능도 모두 GPT-5와 호환된다.
+특히 GPT-5는 한 번에 최대 25만6000토큰을 처리할 수 있다. 이는 700~800쪽의 소설이나 수백 시간 분량의 회의록을 단일 세션에서 다룰 수 있는 수준이다. 기존 GPT-4의 3만2000토큰, GPT-4 터보의 12만8000 토큰을 훌쩍 뛰어넘는 수치다.
+오픈AI는 이날 GPT-5의 성능 수치를 구체적으로 공개하지 않았지만, 개발자 커뮤니티에서는 추론 벤치마크에서 인간 평균(83.7%)을 뛰어넘는 점수를 기록했다는 루머가 확산되고 있다. 현재까지 최고 기록은 구글 제미나이 2.5 프로가 세운 62.4%다.
+오픈AI는 GPT-5가 이미 다양한 산업 현장에서 시험 적용되고 있다고 설명했다. 제약사 암젠은 논문·임상 데이터 분석에 활용 중이며, 우버는 고객 응대에 GPT-5를 도입했다. AI 코딩 스타트업 ‘커서(Cursor)’의 마이클 트루엘 공동창업자는 “GPT-5는 개성이 뛰어나고 다루기 쉬워 훌륭한 코딩 파트너로 자리 잡았다”고 말했다. 젯브레인스의 키릴 스크리간 CEO 역시 “GPT-5는 코딩 분야의 게임 체인저”라며 “우리 제품의 기본 모델로 채택했다”고 밝혔다.
+올트먼 CEO는 “GPT-5를 통해 누구든지 과거 최고 전문가보다 더 많은 일을 해낼 수 있다”며 “이런 도구를 가진다는 것은 인류 역사상 전례 없는 일”이라고 강조했다.
+그는 다만 GPT-5가 사람처럼 다양한 문제를 해결하는 범용 AI(AGI·범용 인공지능)는 아니라고 선을 그었다. 그는 “AGI 구현에는 ‘지속적 학습’이 필요하지만 GPT-5는 배포 이후 학습하지 않는다”며 “하지만 GPT-5는 ‘일반적인 지능(generally intelligent)’을 보여주는 매우 강력한 모델”이라고 덧붙였다. 실리콘밸리 원호섭 특파원
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[2년만의 신모델 ‘GPT-5’ 공개 코딩 향상에 앱 즉석에서 뚝딱 추론 평가 ‘인간 이상’ 추측도 올트먼 “AGI향한 중요 단계”“상호작용해 외국어를 배울 수 있는 앱을 만들어 달라”고 입력하자, 인공지능(AI)이 앱 개발을 위한 600줄 이상의 코드를 생성했다. 챗GPT 개발사인 오픈AI가 8일(한국시간) 가장 강력한 인공지능(AI) 모델인 ‘GPT-5’]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/08/news-p.v1.20250807.7f644c41e75546cf9de9db80d3bfa65e_P1.png]]></image_url>
+<image_caption><![CDATA[ 오픈AI [로이터 = 연합뉴스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11388268]]></article_url>
+</article>
+</saltlux>

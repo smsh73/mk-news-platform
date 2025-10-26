@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11398605</art_id>
+<art_year>2025</art_year>
+<art_no>595354</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-20 17:53:30</service_daytime>
+<title><![CDATA[엔비디아, 중국용 새 AI칩 내놓는다]]></title>
+<sub_title><![CDATA[H20보다 성능 좋은 B30A<br>美정부도 수출 허용 시사]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[원호섭 기자(wonc@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250821</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>8</pub_page>
+<reg_dt>2025-08-20 17:53:30</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[엔비디아가 미국 행정부의 중국 수출규제 완화 움직임을 발판으로 핵심 수요처인 중국에 특화한 새 인공지능(AI) 칩 개발에 착수했다.
+19일(현지시간) 로이터통신에 따르면 엔비디아는 현재 중국 판매가 허용된 AI칩 H20보다 성능이 뛰어난 신형 'B30A'를 개발하고 있다. 이 제품은 엔비디아의 최신 AI칩인 '블랙웰'을 기반으로 제작되며 이르면 다음달 중국 고객사에 샘플을 제공할 계획인 것으로 전해졌다.
+이에 엔비디아는 "우리는 정부가 허용하는 범위 안에서 경쟁할 수 있도록 여러 제품 로드맵을 검토한다"면서 "우리가 제공하는 모든 제품은 당국의 승인을 거치며 민간 상업 활동에 필요한 목적으로만 설계된다"고 밝혔다.
+엔비디아는 이와 함께 블랙웰을 기반으로 AI 추론 작업을 위해 설계된 또 다른 중국 전용 신규 칩을 공급할 준비도 하고 있다고 로이터통신은 전했다.
+추론 작업 전용 칩은 대형 AI 모델을 운영하는 중국 빅테크 기업들의 수요를 겨냥한 것으로 현재 바이두·알리바바·텐센트·바이트댄스 등이 엔비디아 칩을 활용해 AI 서비스 경쟁을 벌이고 있다.
+지난 11일 도널드 트럼프 미국 대통령은 백악관에서 열린 기자회견에서 "엔비디아의 블랙웰 칩으로 거래하지 않겠다"면서도 "성능을 30~50% 낮춘 블랙웰 칩에 대해서는 거래할 가능성이 있다"고 말한 바 있다. 엔비디아의 H20보다 성능이 우수한 칩도 중국 수출을 허용할 수 있다고 시사한 셈이다.
+엔비디아의 이번 신제품 개발은 미·중 간 기술패권 경쟁이 고조되는 가운데 진행되고 있다. 이달 초 AI칩 제조사인 엔비디아와 AMD는 중국에서 판매해 거둔 수익의 15%를 미국 정부에 제공하는 조건으로 수출 재개 허가를 받았다.
+[실리콘밸리 원호섭 특파원]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[엔비디아가 미국 행정부의 중국 수출규제 완화 움직임을 발판으로 핵심 수요처인 중국에 특화한 새 인공지능(AI) 칩 개발에 착수했다.
+19일(현지시간) 로이터통신에 따르면 엔비디아는 현재 중국 판매가 허용된 AI칩 H20보다 성능이 뛰어난 신형 'B30A'를 개발하고 있다. 이 제품은 엔비디아의 최신 AI칩인 '블랙웰'을 기반으로 제작되며 이르면 다음달 중국 고객사에 샘플을 제공할 계획인 것으로 전해졌다.
+이에 엔비디아는 "우리는 정부가 허용하는 범위 안]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11398605]]></article_url>
+</article>
+</saltlux>

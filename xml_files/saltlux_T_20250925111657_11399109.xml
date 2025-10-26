@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11399109</art_id>
+<art_year>2025</art_year>
+<art_no>596862</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-21 11:11:00</service_daytime>
+<title><![CDATA[SK hynix stock falls amid AI bubble concerns]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-21 11:11:00</reg_dt>
+<mod_dt>2025-08-21 15:52:29</mod_dt>
+<art_org_class>MK400110</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250821.19ebb60b5a954dff9a7ad86674a15f2e_P1.png' alt=' (Yonhap)'>
+South Korean chipmaker SK hynix Inc. saw its shares tumble Thursday morning due to concerns about a potential bubble in the artificial intelligence (AI) industry.
+SK hynix shares were trading at 249,500 won ($178.39) as of 9:13 a.m. on Thursday, down 2.35 percent from the previous session, marking its fifth consecutive day of losses.
+It is the first time since June 23, 2025 that the stock has fallen below the 250,000 won mark during the day.
+Overnight on the New York Stock Exchange, the tech-heavy Nasdaq closed down 0.67 percent, while the Philadelphia Semiconductor Index, which consists of semiconductor-related stocks, slipped 0.72 percent.
+Nvidia Corp., one of SK hynix’s major clients, also edged down 0.14 percent to close at $175.4.
+Meanwhile, expectations of rising global arms demand lifted defense-related stocks on Thursday.
+Hanwha Aerospace Co., was trading at 841,000 won as of 9:12 a.m., up 3.06 percent from the previous session.
+Hyundai Rotem Co. also rose 3.4percent, LIG Nex1 Co. 4.31 percent, Hanwha Systems Co. 2.13 percent, SNT Dynamics Co 3.05 percent, and Poongsan Corp. 2.62 percent.
+Defense stocks had recently declined due to peace talks between Russia and Ukraine, as well as concerns over elevated share prices and valuations.
+The rebound appears to be driven by growing analyst expectations that global arms demand will continue to rise.
+“Even if a ceasefire is reached (between Russia and Ukraine), it is not likely to resolve the fundamental security threat of Russia’s territorial expansion,” NH Investment & Securities Co. analyst Lee Jae-kwang noted. “Therefore, it will not lead to reduced weapons demand in Europe.”
+“The situation also serves as a lesson to countries in the Middle East and Asia that territorial aggression through force is possible, suggesting that the trend of rising global arms demand will remain intact,” he added.
+Medical device manufacturer JPI Healthcare Co., in the meantime, saw its shares surge more than 40 percent on the first day of trading on the secondary Kosdaq market on Thursday.
+JPI Healthcare shares were trading at 28,300 won as of 9:32 a.m. on Thursday, up 41.5 percent from its initial public offering (IPO) price of 20,000 won.
+The company specializes in X-ray equipment and holds the No. 1 global market share in X-Ray Grid, a core component that enhances X-ray image quality.
+Its IPO price was set at the top end of the desired range of between 16,500 won and 20,000 won.
+Shares of SK hynix closed at 245,000 won, down 4.11 percent from the previous session. Hanwha Aerospace closed at 834,000 won, Hyundai Rotem at 173,800 won, and LIG Nex1 at 495,500 won. Shares of JPI Healthcare finished at 21,700 won, up 8.50 percent from the offering price.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[South Korean chipmaker SK hynix Inc. saw its shares tumble Thursday morning due to concerns about a potential bubble in the artificial intelligence (AI) industry. SK hynix shares were trading at 249,5]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK400110</code_id>
+<code_nm><![CDATA[Market]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00308</middle_code_id>
+<middle_code_nm><![CDATA[English]]></middle_code_nm>
+<small_code_id>MK400110</small_code_id>
+<small_code_nm><![CDATA[Market]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250821.19ebb60b5a954dff9a7ad86674a15f2e_P1.png]]></image_url>
+<image_caption><![CDATA[ (Yonhap)]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11399109]]></article_url>
+</article>
+</saltlux>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11396855</art_id>
+<art_year>2025</art_year>
+<art_no>590196</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-19 10:42:40</service_daytime>
+<title><![CDATA[Korean companies resort to costly debt rollovers to repay private equity funds]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-19 10:42:40</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK400110</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/19/news-p.v1.20250819.653e62cb420442949a574b4be6cee5c4_P1.png' alt=' (LTC)'>
+Kosdaq-listed LTC Co. filed a preliminary application with the Korea Exchange in June to list its subsidiary LSE Co. but the plan faced strong opposition from shareholders.
+LTC noted that the listing does not amount to a so-called “split-off IPO,” since LSE originated from semiconductor cleaning equipment operations from Mujin Electronics Co., which it acquired in 2022.
+The company also stressed that LSE’s business scope differs from LTC’s core display materials business, and that an independent listing is necessary for growth.
+LTC even proposed other measures such as stock dividends, but the listing outlook remains uncertain.
+<img src='https://wimg.mk.co.kr/news/cms/202508/19/news-p.v1.20250819.6b46f0ab07bf41458b5a87584cbf4c1f_P1.png' alt=' (Yonhap)'>
+On August 19, HD Hyundai Co. announced it would repurchase a 19.78 percent stake in its construction equipment intermediate holding company, HD Hyundai XiteSolution from financial investor KDB Investment for 544.1 billion won ($392 million), making it a wholly owned subsidiary.
+Although the firm had raised pre-IPO funding, it concluded that an IPO was unrealistic, given that the parent HD Hyundai and subsidiaries HD Hyundai Construction Equipment and HD Hyundai Infracore are already listed.
+These cases stem from revisions to the Commercial Act that effectively block multiple listings of subsidiaries.
+While the law does not explicitly ban overlapping listings, companies widely interpret it as doing so. As a result, firms are struggling to repay private equity fund investors from whom they had previously raised capital.
+Industry insiders noted that the simplest solution, assuming sufficient liquidity, is to exercise call or put options – buying back FI stakes.
+This expands the parent company’s ownership, concentrating future gains if the subsidiary’s value increases.
+However, this inevitably strains major shareholders’ liquidity, often forcing asset sales to secure funds. Such debt rollovers divert time and resources away from core business focus.
+Recently, SK innovation Co. repurchased shares from SK enmove from IMM Credit & Solutions and of SK on from a consortium led by MBK Partners. The deals required massive cash outflows, prompting SK innovation to securitize LNG terminal assets held by SK E&S.
+If a subsidiary cannot be listed and must instead be sold to a third party, existing parent company shareholders may see their interests diluted.
+When liquidity is insufficient to absorb financial investor put options, companies often turn to total return swaps (TRS) or price return swaps (PRS) with financial institutions.
+In these structures, a bank or securities firm formally acquires the PEF’s stake but the parent retains the economic benefits, including gains and losses from share price movements, in exchange for paying annual fees.
+For example, when SSG.com, e-commerce arm of Emart, replaced its financial investors last year, it transferred a 30 percent stake held by Affinity and BRV Capital to an SPC formed by a consortium of banks and securities firms, securing 1.15 trillion won.
+Under the deal, the financial institutions agreed to hold the stake for three years while receiving a 5-6 percent annual fee from Emart.
+The advantage of TRS/PRS is that, as derivative contracts, they are not recorded as liabilities. However, the fees are typically high, making them costlier than traditional financing, and the structures carry regulatory risks.
+If TRS/PRS arrangements also prove unsustainable, the last resort is selling subsidiary stakes outright.
+SK square, for instance, abandoned its attempt to list SK shieldus and instead sold its holdings, together with those of Macquarie PE, to EQT Partners.
+“With an IPO, there’s potential upside beyond the offering price, allowing financial investors to decide whether to sell during the offering or later on the market,” said an industry insider. “In M&A, however, shares must be sold at a predetermined price, which often creates friction.”
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[Kosdaq-listed LTC Co. filed a preliminary application with the Korea Exchange in June to list its subsidiary LSE Co. but the plan faced strong opposition from shareholders. LTC noted that the listing ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK400110</code_id>
+<code_nm><![CDATA[Market]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00308</middle_code_id>
+<middle_code_nm><![CDATA[English]]></middle_code_nm>
+<small_code_id>MK400110</small_code_id>
+<small_code_nm><![CDATA[Market]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/19/news-p.v1.20250819.653e62cb420442949a574b4be6cee5c4_P1.png]]></image_url>
+<image_caption><![CDATA[ (LTC)]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/19/news-p.v1.20250819.6b46f0ab07bf41458b5a87584cbf4c1f_P1.png]]></image_url>
+<image_caption><![CDATA[ (Yonhap)]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11396855]]></article_url>
+</article>
+</saltlux>

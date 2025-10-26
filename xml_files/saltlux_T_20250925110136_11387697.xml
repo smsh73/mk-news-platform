@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11387697</art_id>
+<art_year>2025</art_year>
+<art_no>564609</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-07 15:38:41</service_daytime>
+<title><![CDATA[“미신고 코인거래소 주의”...FIU 해외 미신고 거래소 2곳 수사기관 통보]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[최근도 기자(recentdo@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-07 15:38:41</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100502</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/07/news-p.v1.20250807.cc8d9ba8deb04f6bba051c322b125150_P1.png' alt=''>
+금융위원회 산하 금융정보분석원(FIU)가 국내에 영업신고를 하지 않고 불법으로 한국인 대상 영업을 해온 가상자산 거래소 2곳을 적발해 수사기관에 통보했다.
+7일 FIU는 KCEX, QXALX 2개 해외 가상자산사업자의 미신고 영업행위를 확인했다고 밝혔다. FIU는 수사기관에 위법사실을 통보했다. 또 인터넷 사이트·휴대전화 어플에 대한 국내 접속차단 조치도 취할 예정이다.
+이번에 2개 거래소가 추가로 적발되면서 한국인을 대상으로 영업행위가 확인된 국내 미신고 해외 가상자산사업자는 총 25곳으로 늘었다.
+현재 미신고사업자는 △쿠코인 △MEXC △Phemex △XT.com △Bitrue △Bitglobal △CoinW △CoinEX △BTCC 등 25개사다.
+FIU는 “미신고 가상자산사업자 이용을 유도하는 정보가 블로그·오픈채팅·SNS 등 다양한 매체를 통해 전파되고 고수익 보장 등 허위·과장 정보가 많다”면서 “이용자들은 자신이 거래하는 가상자산사업자가 특금법에 따라 적법하게 신고된 가상자산사업자인지 여부를 반드시 확인해야 한다”고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[금융위원회 산하 금융정보분석원(FIU)가 국내에 영업신고를 하지 않고 불법으로 한국인 대상 영업을 해온 가상자산 거래소 2곳을 적발해 수사기관에 통보했다. 7일 FIU는 KCEX, QXALX 2개 해외 가상자산사업자의 미신고 영업행위를 확인했다고 밝혔다. FIU는 수사기관에 위법사실을 통보했다. 또 인터넷 사이트·휴대전화 어플에 대한 국내 접속차단 조치도 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100502</code_id>
+<code_nm><![CDATA[시황]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100502</small_code_id>
+<small_code_nm><![CDATA[시황]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100514</code_id>
+<code_nm><![CDATA[펀드]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100514</small_code_id>
+<small_code_nm><![CDATA[펀드]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/07/news-p.v1.20250807.cc8d9ba8deb04f6bba051c322b125150_P1.png]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11387697]]></article_url>
+</article>
+</saltlux>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11404764</art_id>
+<art_year>2025</art_year>
+<art_no>614253</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-28 09:55:49</service_daytime>
+<title><![CDATA[[속보] 한은 기준금리 연 2.5% 동결…“올해 성장률 전망 0.9%로 상향”]]></title>
+<sub_title><![CDATA[집값·가계대출 불안 등 금리 동결
+한미 금리차 2.25%p 확대도 부담]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[류영상 매경 디지털뉴스룸 기자(ifyouare@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-28 09:55:49</reg_dt>
+<mod_dt>2025-08-28 10:16:27</mod_dt>
+<art_org_class>MK100101</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">집값·가계대출 불안 등 금리 동결<br>한미 금리차 2.25%p 확대도 부담</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/28/news-p.v1.20250828.cab8f7debe034e66b160f3e9a969d27e_P1.jpg' alt=' [사진 = 한국은행]'>
+한국은행 금융통화위원회(금통위)가 28일 통화정책방향 회의를 갖고 기준금리를 동결했다.
+가계부채와 부동산시장 불안정이 계속되고 외환시장 변동성이 확대된 영향으로 풀이된다. 시장 전문가들은 한은의 10월 이후 금리 인하 가능성에 무게를 두고 있다.
+다만, 최근 한미 정상회담 이후 금리 인하 시점이 불투명 했다는 분석과 함께 파월 의장 발언 이후 과열됐던 금리 인하 기대감이 다소 조정되는 모습이다.
+앞서 이창용 한은 총재는 지난 19일 국회 기획재정위원회에 출석해 “과열 양상을 보였던 수도권 주택시장과 가계부채 증가세가 ‘6·27 대책’ 이후 다소 진정되는 모습이지만, 서울 일부 지역에서는 여전히 높은 주택가격 상승세가 이어지고 있어 추세적 안정 여부는 좀 더 지켜볼 필요가 있다”고 언급한 바 있다.
+한은은 지난 5월 기준금리를 0.25%포인트 인하한 뒤 7월 회의에서도 기준금리를 동결했다. 당시 금리 동결 이유로 저성장과 부동산 가격 상승세, 가계부채 증가 등을 지목했다
+미국과의 금리 격차 확대도 부담이다.
+이번에 한은이 미국 연방준비제도(연준·Fed)보다 먼저 금리를 내리면 이미 역대 최대 2.00%포인트인 금리차는 2.25%포인트까지 벌어지고, 원달러 환율 상승과 외국인 자금 유출 위험이 커진다.
+성장 불확실성에도 내수 회복세가 일부 보완할 것이라는 인식도 금리인하 시점을 늦추는 요소로 작용한 것으로 보인다. 한은은 5월 전망을 통해 올해 우리 성장률을 0.8%로 예상했으나 이후 2차 추경 효과가 성장률을 0.1%포인트 개선시킬 것으로 봤다.
+한편 향후 연내 10월, 11월 등 총 2회의 금통위 기준금리 발표가 남아 있다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[집값·가계대출 불안 등 금리 동결 한미 금리차 2.25%p 확대도 부담한국은행 금융통화위원회(금통위)가 28일 통화정책방향 회의를 갖고 기준금리를 동결했다. 가계부채와 부동산시장 불안정이 계속되고 외환시장 변동성이 확대된 영향으로 풀이된다. 시장 전문가들은 한은의 10월 이후 금리 인하 가능성에 무게를 두고 있다. 다만, 최근 한미 정상회담 이후 금리 인하]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100101</code_id>
+<code_nm><![CDATA[경제일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100101</small_code_id>
+<small_code_nm><![CDATA[경제일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100103</code_id>
+<code_nm><![CDATA[경기/지표]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100103</small_code_id>
+<small_code_nm><![CDATA[경기/지표]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100201</code_id>
+<code_nm><![CDATA[금융정책·일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100201</small_code_id>
+<small_code_nm><![CDATA[금융정책·일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100202</code_id>
+<code_nm><![CDATA[외환·환율]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100202</small_code_id>
+<small_code_nm><![CDATA[외환·환율]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100203</code_id>
+<code_nm><![CDATA[은행]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100203</small_code_id>
+<small_code_nm><![CDATA[은행]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/28/news-p.v1.20250828.cab8f7debe034e66b160f3e9a969d27e_P1.jpg]]></image_url>
+<image_caption><![CDATA[ [사진 = 한국은행]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11404764]]></article_url>
+</article>
+</saltlux>

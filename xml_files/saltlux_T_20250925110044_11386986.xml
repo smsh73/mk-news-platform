@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11386986</art_id>
+<art_year>2025</art_year>
+<art_no>562091</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-06 17:59:39</service_daytime>
+<title><![CDATA[日기업 "보안능력 갖춘 협력사와만 거래"]]></title>
+<sub_title><![CDATA[키옥시아 공급망 보안 강화]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[이승훈 특파원(thoth@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250807</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>10</pub_page>
+<reg_dt>2025-08-06 17:59:39</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101007</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[일본 기업이 협력사에 대해서도 사이버 보안 대책을 강화하고 나섰다. 협력업체 한 곳에 문제가 생겨 생산이 전면 중단되는 사례가 잇따르고 있기 때문이다.
+6일 니혼게이자이신문(닛케이)은 반도체 기업 키옥시아가 협력사 3000여 곳 중 사이버 대책이 기준 이하인 업체와는 계약을 재검토하기로 했다고 보도했다. 이를 위해 키옥시아는 기업의 보안 위험을 평가해주는 미국의 시큐리티 스코어카드를 통해 협력업체마다 약 200개 항목을 평가할 예정이다.
+키옥시아는 반도체 업종 특성상 사이버 보안 문제로 공장 가동이 중단되면 재개되기까지 큰 피해가 날 것으로 보고 있다. 이에 따라 업체에 개선할 시간을 주고 그래도 안 되면 해당 제품 공급처를 다른 곳으로 돌린다는 계획이다. 
+[도쿄 이승훈 특파원]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[일본 기업이 협력사에 대해서도 사이버 보안 대책을 강화하고 나섰다. 협력업체 한 곳에 문제가 생겨 생산이 전면 중단되는 사례가 잇따르고 있기 때문이다.
+6일 니혼게이자이신문(닛케이)은 반도체 기업 키옥시아가 협력사 3000여 곳 중 사이버 대책이 기준 이하인 업체와는 계약을 재검토하기로 했다고 보도했다. 이를 위해 키옥시아는 기업의 보안 위험을 평가해주는 미국의 시큐리티 스코어카드를 통해 협력업체마다 약 200개 항목을 평가할 예정이다.
+키옥시아는 반도]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101007</code_id>
+<code_nm><![CDATA[국제사건/사고]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101007</small_code_id>
+<small_code_nm><![CDATA[국제사건/사고]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11386986]]></article_url>
+</article>
+</saltlux>

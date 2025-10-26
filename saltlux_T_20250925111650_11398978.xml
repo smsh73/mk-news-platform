@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11398978</art_id>
+<art_year>2025</art_year>
+<art_no>596461</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-21 10:07:41</service_daytime>
+<title><![CDATA[NASA·IBM, 태양 폭발 예측하는 AI ‘수리야’ 공개]]></title>
+<sub_title><![CDATA[9년간 태양 관측 데이터로 학습
+플레어 예측 정확도 16% 향상
+위성·전력망·통신망 보호 위한
+ ‘우주 기상 예보’ 본격화]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[원호섭 기자(wonc@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-21 10:07:41</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">9년간 태양 관측 데이터로 학습<br>플레어 예측 정확도 16% 향상<br>위성·전력망·통신망 보호 위한<br> ‘우주 기상 예보’ 본격화</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250821.d1f3106b6e2641f3b52bb3597231d35a_P1.png' alt=' NASA가 관측한 태양 플레어 [사진=NASA]'>
+미국 항공우주국(NASA)과 IBM이 태양 폭발과 우주 기상을 예측하는 인공지능(AI) 모델 ‘수리야(Surya)’를 공동 개발해 20일(현지시간) 공개했다. 이 AI는 태양 활동을 정밀하게 분석해 인류가 의존하는 전력망, 위성, 통신망을 태양 폭풍으로부터 보호하는 데 활용될 전망이다.
+수리야는 NASA의 태양 동역학 관측위성(SDO)이 지난 9년간 12초 마다 촬영한 다중 파장 이미지와 자기장 데이터 등을 학습한 파운데이션 모델이다. 일반 AI처럼 데이터에 사람이 일일이 ‘라벨’을 붙일 필요 없이, 원천 관측값으로부터 직접 패턴을 찾아내는 방식이다. 이를 토대로 태양 플레어(폭발) 예측 외에 태양풍 속도 추정, 자기장 변화 분석, 다른 관측 장비 데이터와의 통합 등 다양한 연구에 활용할 수 있다.
+NASA에 따르면 수리야는 태양 플레어를 최대 두 시간 전 시각적으로 예측할 수 있으며, 예측 정확도는 기존 모델 대비 16% 개선됐다. 기존에 난제로 꼽히던 태양 플레어 조기 예측에서 큰 진전을 이룬 셈이다. NASA는 모델과 코드, 학습 데이터를 모두 오픈소스로 공개해 전 세계 연구자들이 실험과 응용을 이어갈 수 있도록 했다.
+태양 폭발은 단순한 천문 현상을 넘어 지구 문명에 직접적 피해를 준다. 강력한 태양 플레어와 코로나 질량 방출은 지구 전리층을 교란해 GPS 오류, 위성 통신 두절, 항공기 항로 변경을 초래할 수 있고, 대규모 전력망을 마비시켜 정전 사태를 일으킬 수도 있다. 저궤도 위성은 대기 저항이 급격히 커져 궤도에서 이탈하거나 조기 재진입하기도 한다. 앞으로 달·화성 유인 탐사가 본격화되면, 우주 비행사의 생명 보호를 위한 태양 폭발 예측은 더욱더 필수적이다.
+NASA는 이번 프로젝트를 통해 “날씨 예보에 기상학이 필요하듯, 우주 기상 예보에는 AI 기반의 새로운 도구가 필요하다”라고 강조했다. 수리야 개발에는 NASA와 IBM 외에도 여러 대학과 연구소가 참여했다. NASA는 향후 행성 탐사와 지구 관측 등 다른 분야에도 같은 방식의 파운데이션 모델을 확산시킬 계획이다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[9년간 태양 관측 데이터로 학습 플레어 예측 정확도 16% 향상 위성·전력망·통신망 보호 위한  ‘우주 기상 예보’ 본격화미국 항공우주국(NASA)과 IBM이 태양 폭발과 우주 기상을 예측하는 인공지능(AI) 모델 ‘수리야(Surya)’를 공동 개발해 20일(현지시간) 공개했다. 이 AI는 태양 활동을 정밀하게 분석해 인류가 의존하는 전력망, 위성, 통신망]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250821.d1f3106b6e2641f3b52bb3597231d35a_P1.png]]></image_url>
+<image_caption><![CDATA[ NASA가 관측한 태양 플레어 [사진=NASA]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11398978]]></article_url>
+</article>
+</saltlux>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11385491</art_id>
+<art_year>2025</art_year>
+<art_no>557687</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-05 11:01:10</service_daytime>
+<title><![CDATA[Korea’s inflation rises 2.1% in July]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-05 11:01:10</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK400102</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/05/news-p.v1.20250805.6e75476c36fa4e0f9e4239bb50e13562_P1.jpg' alt=' (Yonhap News)'>
+South Korea’s inflation rose by over 2 percent for the second consecutive month in July 2025, driven by increases in prices of processed foods, seafood, and other items.
+According to data released by Statistics Korea on Tuesday, the country’s consumer price index (CPI) rose 2.1 percent in July compared to the same month a year ago. The index, which had remained above 2 percent from January to April, briefly dropped to 1.9 percent in May before returning to the 2 percent range in June.
+Prices of processed food rose 4.1 percent in July due to factory price hikes. Although this was slightly lower than June’s 4.6 percent increase, it still contributed 0.35 percentage point to the overall CPI increase.
+Prices of seafood, including mackerel (up 12.6 percent), rose 7.3 percent, which was similar to the previous month’s 7.4 percent. Increased demand for seaweed exports was cited as a key factor.
+Agricultural product prices fell 0.1 percent in July, but the decline narrowed from a 1.8 percent drop a month ago. This was due to significant price increases in fruits and vegetables compared to June thanks to the extreme weather.
+Fruit prices fell 3.8 percent year-on-year, but this decline was narrower than a 7.4 percent drop in June. Watermelon prices surged 20.7 percent, contributing significantly to the rise.
+Vegetable prices rose sharply compared to the previous month, with spinach up 78.4 percent, cabbage up 25 percent, and lettuce up 30 percent. Spinach was also up 13.6 percent from a year earlier.
+“Due to heatwaves and heavy rain, supply was constrained while demand rose sharply, leading to higher watermelon prices,” Statistics Korea official Park Byung-seon said. “Given that vegetable and fruit prices were already high in 2024, the year-on-year increase is not significant, but the month-on-month increase is still large.”
+There are also signs that the government’s consumer coupon program, which began on July 21st, 2025, is affecting prices.
+Domestic beef prices rose 4.9 percent in July, up from 3.3 percent a month ago, while beef for restaurant prices rose 1.6 percent, also higher than the previous month’s 1.2 percent.
+However, the statistics agency noted that recent declines in slaughter volumes have already driven beef and pork prices higher, making it difficult to isolate the effect of the coupons.
+“Since the coupon program started in late July, its impact is likely minimal for now,” Park added.
+Monthly rent and prices of jeonse, or long-term housing rental deposits, rose 1.1 percent and 0.5 percent year-on-year in July respectively, with each up 0.1 percent compared to June. The agency believes the June 27 loan restrictions led to reduced jeonse listings, pushing prices up slightly.
+Prices of petroleum products fell 1 percent due to declining global oil prices, reversing the 0.3 percent increase seen in June. Public service prices rose 1.4 percent, up from 1.2 percent the previous month, largely due to fare hikes for metropolitan subway systems.
+The core inflation index, which excludes food and energy prices, rose 2 percent, the same as the previous month. The living necessities price index, which focuses on frequently purchased items and better reflects perceived inflation, also remained unchanged from June at 2.5 percent.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[South Korea’s inflation rose by over 2 percent for the second consecutive month in July 2025, driven by increases in prices of processed foods, seafood, and other items. According to data released by ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK400102</code_id>
+<code_nm><![CDATA[Economy]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00308</middle_code_id>
+<middle_code_nm><![CDATA[English]]></middle_code_nm>
+<small_code_id>MK400102</small_code_id>
+<small_code_nm><![CDATA[Economy]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/05/news-p.v1.20250805.6e75476c36fa4e0f9e4239bb50e13562_P1.jpg]]></image_url>
+<image_caption><![CDATA[ (Yonhap News)]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11385491]]></article_url>
+</article>
+</saltlux>

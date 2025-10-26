@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11405077</art_id>
+<art_year>2025</art_year>
+<art_no>615529</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-28 14:40:16</service_daytime>
+<title><![CDATA[경기침체 여파에 상반기 창업기업 4만8000개 감소]]></title>
+<sub_title><![CDATA[중기부 ‘2025년 상반기 창업기업 동향’ 발표]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[서정원 기자(jungwon.seo@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-28 14:40:16</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100402</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">중기부 ‘2025년 상반기 창업기업 동향’ 발표</div></MKSUBTITLE>
+경기침체로 올해 상반기 창업기업 수가 작년 같은 기간보다 4만8000여 개 감소했다.
+28일 중소벤처기업부가 발표한 ‘2025년 상반기 창업기업 동향’에 따르면 올해 상반기 창업기업 수가 57만4401개로 집계됐다. 전년 동기 62만2760개보다 7.8%(4만8359개) 감소한 수치다.
+상반기 창업기업 수는 지난 2021년 73만260개, 2022년 69만5891개, 2023년 65만504개, 지난해 62만2760개로 매년 감소 추세다.
+업종별로 보면 숙박·음식점업이 14.7% 감소했고, 부동산업(-12.8%)과 도매·소매업(-8.1%) 등 순으로 줄었다. 숙박·음식점업은 외식산업 경기 침체, 카페시장 경쟁 심화에 따른 사업자 감소 등 영향으로 음식점을 중심으로 창업이 감소한 것으로 조사됐다. 부동산업도 건설경기 부진과 상업용 부동산 투자수익률 하락 등으로 인해 부동산 임대업을 중심으로 창업이 감소했다.
+반면 금융·보험업은 투자자금 유입 등으로 금융업 중심으로 창업이 증가하며 21.9% 늘었다. 전문·과학기술서비스업도 온라인 유통 활성화에 따른 광고 대행업과 디지털 전환 확대 등에 따른 전문기술 관련 경영컨설팅 창업이 활성화하며 1.7% 증가했다.
+창업은 전 연령대에서 지난해 같은 기간보다 감소했다. 다만 60세 이상 연령대의 창업 감소율은 3.7%로 30세 미만(-14.0%), 30대(-8.2%), 40대(-7.8%), 50대(-7.7%)를 비롯한 다른 연령대에 비해 상대적으로 낮았다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/28/news-p.v1.20250828.87786a054a874427a64f67db6971faba_P1.png' alt=''>
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[중기부 ‘2025년 상반기 창업기업 동향’ 발표경기침체로 올해 상반기 창업기업 수가 작년 같은 기간보다 4만8000여 개 감소했다. 28일 중소벤처기업부가 발표한 ‘2025년 상반기 창업기업 동향’에 따르면 올해 상반기 창업기업 수가 57만4401개로 집계됐다. 전년 동기 62만2760개보다 7.8%(4만8359개) 감소한 수치다. 상반기 창업기업 수는 지]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100402</code_id>
+<code_nm><![CDATA[중견/중소기업]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100402</small_code_id>
+<small_code_nm><![CDATA[중견/중소기업]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100403</code_id>
+<code_nm><![CDATA[벤쳐/벤쳐캐피탈]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100403</small_code_id>
+<small_code_nm><![CDATA[벤쳐/벤쳐캐피탈]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/28/news-p.v1.20250828.87786a054a874427a64f67db6971faba_P1.png]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11405077]]></article_url>
+</article>
+</saltlux>

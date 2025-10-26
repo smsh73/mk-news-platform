@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11384837</art_id>
+<art_year>2025</art_year>
+<art_no>555929</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-04 15:50:46</service_daytime>
+<title><![CDATA[오펙 또 증산 2년 전 수준 복귀…다시 추락하는 기름값]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[오찬종 기자(ocj2123@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-04 15:50:46</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100501</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/04/news-p.v1.20250804.3092567095144fb5bb8b8180a4ecde43_P1.png' alt=''>
+오펙플러스(OPEC+)가 원유 생산량을 2년 만에 최고 수준으로 올리기로 하면서 국제유가가 하락했다.
+3일(현지시간) 블룸버그통신에 따르면 이날 OPEC+는 화상 회의를 열고 9월 추가 증산에 합의했다. 지난 4월 이후 6개월 연속 증산 결정이다.
+이번 회의는 미국이 인도에 러시아산 원유 수입을 중단하라고 압박하는 가운데 열리며 더욱 주목을 받았다. 도널드 트럼프 미국 대통령은 오는 8일까지 러시아가 휴전에 합의하지 않을 경우 2차 관세를 부과하겠다고 경고한 바 있다.
+OPEC+는 성명을 통해 “안정적인 세계 경제 전망과 현재의 건강한 시장 기본 상황을 고려해 내린 결정”이라고 이유를 밝혔다.
+앞서 OPEC+ 지난 2023년 일일 220만 배럴 규모의 자발적 감산을 발표했다. 이후 올해 4월부터 단계적 증산을 이어왔다. 이번 추가 증산 결정까지 더해지면서 총생산 규모는 원상 복구 수준이 됐다.
+국제 유가는 전일 선반영에 더해 이날 발표 이후 소폭 추가 하락했다. 브렌트유 10월 인도분은 1% 하락해 배럴당 69.27달러로 내려왔다. 서부 텍사스산 원유 9월 인도분은 0.6% 떨어진 66.93달러에 거래됐다.
+시장은 공급 확대에 따라 유가에 하방 압력이 지속될 것으로 보고 있다. IEA에 따르면 오는 4분기 국제 시장엔 하루 200만 배럴의 공급 과잉 예상된다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[오펙플러스(OPEC+)가 원유 생산량을 2년 만에 최고 수준으로 올리기로 하면서 국제유가가 하락했다. 3일(현지시간) 블룸버그통신에 따르면 이날 OPEC+는 화상 회의를 열고 9월 추가 증산에 합의했다. 지난 4월 이후 6개월 연속 증산 결정이다. 이번 회의는 미국이 인도에 러시아산 원유 수입을 중단하라고 압박하는 가운데 열리며 더욱 주목을 받았다. 도널드]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100501</code_id>
+<code_nm><![CDATA[증권정책]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100501</small_code_id>
+<small_code_nm><![CDATA[증권정책]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100502</code_id>
+<code_nm><![CDATA[시황]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100502</small_code_id>
+<small_code_nm><![CDATA[시황]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101002</code_id>
+<code_nm><![CDATA[국제경제]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101002</small_code_id>
+<small_code_nm><![CDATA[국제경제]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101003</code_id>
+<code_nm><![CDATA[국제산업]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101003</small_code_id>
+<small_code_nm><![CDATA[국제산업]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/04/news-p.v1.20250804.3092567095144fb5bb8b8180a4ecde43_P1.png]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11384837]]></article_url>
+</article>
+</saltlux>

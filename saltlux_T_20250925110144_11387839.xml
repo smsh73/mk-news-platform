@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11387839</art_id>
+<art_year>2025</art_year>
+<art_no>569645</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-08 18:00:00</service_daytime>
+<title><![CDATA[커피 한잔하고 오니 이미 실험 끝…코로나 항체 단 며칠만에 설계한 비결은 AI [교과서로 과학뉴스 읽기]]]></title>
+<sub_title><![CDATA[GPT-4o 기반 ‘가상 연구실’
+92개 나노항체 설계후 효과 입증
+책임연구자부터 비평가까지 모두 AI
+인간 개입은 단 1%, 과학 패러다임 바꿔]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[원호섭 기자(wonc@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-07 17:19:55</reg_dt>
+<mod_dt>2025-08-10 15:57:07</mod_dt>
+<art_org_class>MK101401</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">GPT-4o 기반 ‘가상 연구실’<br>92개 나노항체 설계후 효과 입증<br>책임연구자부터 비평가까지 모두 AI<br>인간 개입은 단 1%, 과학 패러다임 바꿔</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/10/news-p.v1.20250807.2b97086e744f4394bade1783cd1e92a5_P1.png' alt=' AI 과학자를 이용해 코로나 바이러스 항체를 만든 연구 논문'>
+지난 몇 년간 전 세계 과학자들은 코로나19 바이러스의 변이에 대응할 수 있는 새로운 항체를 찾기 위해 수많은 실험을 반복해 왔습니다. 이 과정은 고도의 생물학 지식과 오랜 실험 시간이 필요한 복잡한 일이었습니다.
+그런데 이제, 단 며칠 만에 효과적인 백신 후보를 제시하고, 실험적으로 입증된 항체까지 설계해내는 ‘AI 연구실’이 등장했습니다. 이번엔 진짜 과학 실험을 수행하는 AI 이야기입니다.
+<strong><div style="border-top: 4px solid #ed6d01;border-bottom: 1px solid #ed6d01;font-size: 18px;padding: 10px 0;margin:30px 0;">AI 과학자들이 만든 백신 후보</div></strong>이번 논문은 미국 스탠퍼드대 제임스 조 교수와 찬 저커버그 바이오허브의 공동연구팀이 주도했습니다. 이들은 AI 에이전트로 구성된 ‘가상 연구실(Virtual Lab)’이 코로나19의 최근 변이에 효과적인 나노항체(nanobody)를 설계하고, 이를 실제 실험으로 검증한 성과를 국제학술지 네이처(Nature)에 발표했습니다.
+이 가상 연구실은 GPT-4o 같은 언어 모델을 기반으로 구성된 다중 AI 에이전트 시스템입니다. PI(책임 연구자), 면역학자, 계산생물학자, 머신러닝 전문가, 비평가 등 각자 전문 분야를 맡은 에이전트들이 존재하고, 인간은 단지 연구 방향을 제시하는 역할만 수행합니다. 논문에 따르면, 사람의 개입은 전체 텍스트의 1.3%에 불과했습니다.
+조 교수는 “좋은 과학은 서로 다른 배경의 사람들이 협업할 때 나온다”라며 “하지만 그게 가장 어렵다. 우리는 AI 에이전트가 그 문제를 해결할 수 있을지 실험해 봤다”라고 말합니다.
+AI 과학자들은 먼저 기존에 우한 초기 변이에 결합하던 4종의 나노항체를 선택하고, 이들을 최근 코로나19 변이에 맞게 변형하는 전략을 제안했습니다. AI는 알파폴드와 같은 생명과학 도구를 조합해 92개의 새로운 항체 후보를 설계했습니다.
+모든 코드는 AI가 작성했고, 각 항체는 다단계 회의와 점수 계산을 통해 선별됐습니다. 흥미롭게도 회의는 몇 초~몇 분 안에 완료되며, 병렬로 수백 개씩 진행됩니다. 조 교수는 “제가 아침 커피를 마시는 동안, AI는 이미 수백 번의 실험을 마친다”라고 말합니다.
+이렇게 설계된 92개 항체 중 일부는 실제 실험에서 뛰어난 성능을 보였습니다. 연구팀이 실험한 결과, 특졍 돌연변이 항체가 변이에 잘 결합함을 확인했습니다. 이 나노항체들은 기존 항체보다 크기가 작고 안정적이며, 초기 바이러스에도 여전히 잘 결합하는 특징이 있어 범용 백신 후보로도 주목받고 있습니다.
+<strong><div style="border-top: 4px solid #ed6d01;border-bottom: 1px solid #ed6d01;font-size: 18px;padding: 10px 0;margin:30px 0;">커피 마시는 사이 실험 수백번</div></strong><img src='https://wimg.mk.co.kr/news/cms/202508/10/news-p.v1.20250807.1d67b20a5be340ec8a85174051270dd6_P1.png' alt=' 기사 내용으로 제미나이가 만든 그림 [그림=제미나이]'>
+흥미로운 점은, 이 AI 연구실이 단지 언어 생성 도구가 아니라, ‘과학적 추론을 수행하는 독립적 존재’처럼 행동한다는 것입니다. 각 에이전트는 토론하고, 도구를 요청하고, 서로 반박하며 실험 계획을 수립합니다. 조 교수는 “이들은 단순한 질문 응답 봇이 아니다. 서로 다른 관점을 가진 과학자들이 협업하듯이 움직인다”라며 “새로운 아이디어와 방법을 제시할 수 있다”라고 설명합니다.
+연구팀은 이 시스템을 다른 과학 분야에도 확장할 계획입니다. 이미 과거 논문을 재해석하고 새로운 가설을 제안하는 ‘AI 데이터 분석가’도 개발 중입니다. 인간 연구자가 간과했던 점을 AI가 발견하는 경우도 생기고 있습니다.
+이번 연구는 AI가 실제 과학 실험의 주체로 나설 수 있다는 것을 보여주는 사례입니다. 단순 도구나 보조자가 아닌, 창의적이고 독립적인 연구 파트너로서의 가능성을 증명한 것입니다.
+“과학에는 해결해야 할 과제가 끝없이 많습니다. 이 가상 연구실은 그런 문제들에 대한 해답을 훨씬 빠르게 찾을 수 있게 해줄 것입니다.”
+AI가 논문을 쓰는 시대는 이미 왔습니다. 그리고 이제는, AI가 스스로 과학을 ‘하는’ 시대가 시작되고 있습니다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[GPT-4o 기반 ‘가상 연구실’ 92개 나노항체 설계후 효과 입증 책임연구자부터 비평가까지 모두 AI 인간 개입은 단 1%, 과학 패러다임 바꿔지난 몇 년간 전 세계 과학자들은 코로나19 바이러스의 변이에 대응할 수 있는 새로운 항체를 찾기 위해 수많은 실험을 반복해 왔습니다. 이 과정은 고도의 생물학 지식과 오랜 실험 시간이 필요한 복잡한 일이었습니다.]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101401</code_id>
+<code_nm><![CDATA[과학일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101401</small_code_id>
+<small_code_nm><![CDATA[과학일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/10/news-p.v1.20250807.2b97086e744f4394bade1783cd1e92a5_P1.png]]></image_url>
+<image_caption><![CDATA[ AI 과학자를 이용해 코로나 바이러스 항체를 만든 연구 논문]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/10/news-p.v1.20250807.1d67b20a5be340ec8a85174051270dd6_P1.png]]></image_url>
+<image_caption><![CDATA[ 기사 내용으로 제미나이가 만든 그림 [그림=제미나이]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11387839]]></article_url>
+</article>
+</saltlux>

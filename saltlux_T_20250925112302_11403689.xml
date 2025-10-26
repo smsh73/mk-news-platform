@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11403689</art_id>
+<art_year>2025</art_year>
+<art_no>610840</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-27 08:21:03</service_daytime>
+<title><![CDATA[“내 땅 못지나가”…담장 설치로 갈등 커진 이웃, 대법원이 내린 결단]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[이상규 매경 디지털뉴스룸 기자(boyondal@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-27 08:21:03</reg_dt>
+<mod_dt>2025-08-27 08:22:20</mod_dt>
+<art_org_class>MK100804</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/27/news-p.v1.20250827.9ee7a170b337420eab08da118a64749a_P1.jpg' alt=' 대법원. [사진출처 = 연합뉴스]'>
+다른 토지에 둘러싸여 통행이 어려운 이웃에게 땅 주인이 지나다니지 못하도록 담을 설치해 시작된 소송전에서 대법원이 통행을 허락해주라고 판결했다.
+27일 법조계에 따르면 대법원 1부(주심 신숙희 대법관)는 광주에 있는 1000㎡규모 토지주인 A씨가 인근 토지주 B씨를 상대로 낸 통행방해금지 및 주위통지통행권 확인 청구 소송에서 원심의 원고패소 판결을 깨고 사건을 수원고법에 돌려보냈다.
+A씨는 2020년 12월 강제경매로 광주시 땅 1000㎡ 소유권을 취득해 수박이나 두릅 등을 경작했다. 이 땅은 진입도로가 없는 탓에 A씨는 인접한 B씨 토지를 이용해 드나들었다.
+그런데 B씨가 이듬해 8월 본인의 땅에 펜스를 설치해 A씨가 통행하지 못하도록 막으면서 갈등이 시작됐다. 1심은 B씨 펜스를 철거하라며 A씨 손을 들어줬으나, 2심은 “주변 둑길과 임야를 이용할 수 있어 B씨 땅을 지나가는 게 유일한 통행 방법이라고 볼 수 없다”며 B씨 손을 들어줬다.
+그러나 2심 판단은 대법원에서 다시 뒤집혔다. 대법원은 “민법상 주위토지통행권은 그 토지 소유자가 주위 토지를 통행 또는 통로로 하지 않으면 전혀 출입할 수 없는 경우뿐 아니라 과다한 비용을 요하는 때에도 인정할 수 있고, 이미 기존 통로가 있더라도 실제로 통로로서 충분한 기능을 하지 못하고 있는 경우에도 인정된다”는 법리를 재확인했다.
+또 2심에서 대체 통로로 지목된 임야의 경우 사람은 통행할 수 있더라도 농작물이나 경작에 필요한 장비 등을 운반하기는 매워 어려워 보인 점도 고려했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[다른 토지에 둘러싸여 통행이 어려운 이웃에게 땅 주인이 지나다니지 못하도록 담을 설치해 시작된 소송전에서 대법원이 통행을 허락해주라고 판결했다. 27일 법조계에 따르면 대법원 1부(주심 신숙희 대법관)는 광주에 있는 1000㎡규모 토지주인 A씨가 인근 토지주 B씨를 상대로 낸 통행방해금지 및 주위통지통행권 확인 청구 소송에서 원심의 원고패소 판결을 깨고 사]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100804</code_id>
+<code_nm><![CDATA[사건·사고]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100804</small_code_id>
+<small_code_nm><![CDATA[사건·사고]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100805</code_id>
+<code_nm><![CDATA[법원·검찰·경찰]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100805</small_code_id>
+<small_code_nm><![CDATA[법원·검찰·경찰]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/27/news-p.v1.20250827.9ee7a170b337420eab08da118a64749a_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 대법원. [사진출처 = 연합뉴스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11403689]]></article_url>
+</article>
+</saltlux>

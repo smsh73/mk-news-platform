@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11405930</art_id>
+<art_year>2025</art_year>
+<art_no>617774</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-29 11:01:32</service_daytime>
+<title><![CDATA[July consumption jumps 2.5%, output and investment rise]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-29 11:01:32</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK400102</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/29/news-p.v1.20250829.e249d322081a41c6aa537d0e6ad2a861_P1.png' alt=' (Yonhap)'>
+South Korea’s industrial output, consumption, and investment all rose in July 2025, the first “3-in-1 increase” in five months. Consumption saw the largest jump in two years and five months, fueled by consumer recovery coupons distributed from July 21st and improving consumer sentiment.
+According to data released by Statistics Korea on Friday, the seasonally adjusted index of all industrial production rose 0.3 percent from a month earlier to 114.4 (2020=100). After contracting in April and May, overall output turned positive in June with 1.5 percent growth and extended the gain into July.
+Manufacturing output increased 0.3 percent on stronger production of electronic components (20.9 percent) and machinery (6.5 percent), although auto output fell 7.3 percent, the sharpest decline since July 2024. The statistics agency attributed the drop to summer holidays, partial strikes, and the impact of U.S. tariffs alongside local electric vehicle production. Semiconductor output also fell 3.6 percent, the steepest decline since July 2024.
+Consumption indicators were robust. Retail sales, a proxy for consumer spending, grew 2.5 percent on-month, the largest gain since February 2023 (6.1 percent). Compared with a year earlier, sales rose 2.4 percent, the highest year-on-year increase in 42 months. Durable goods sales rose 5.4 percent, driven by new smartphone releases such as the Galaxy Z Flip and Fold 7, which boosted demand for communication devices and computers (16.8 percent) and home appliances (6.6 percent). Nondurable goods, including food and beverages, rose 1.1 percent and semi-durable goods such as clothing increased 2.7 percent.
+Service output grew 0.2 percent from June as consumption coupons spurred spending on dining, beauty services, and gyms. Wholesale and retail trade increased 3.3 percent, with gains also seen in accommodation and food services (2 percent), arts, sports, and leisure (7.5 percent), and other personal services (8.4 percent).
+Facility investment climbed 7.9 percent, the first rise in five months, as spending on transportation equipment (18.1 percent) and machinery (3.7 percent) increased. In contrast, construction output fell 1 percent, returning to negative growth.
+The coincident index, which tracks current economic conditions, slipped 0.1 point from June 2025 while the leading index, which signals future trends, rose 0.5 point.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[South Korea’s industrial output, consumption, and investment all rose in July 2025, the first “3-in-1 increase” in five months. Consumption saw the largest jump in two years and five months, fueled by]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK400102</code_id>
+<code_nm><![CDATA[Economy]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00308</middle_code_id>
+<middle_code_nm><![CDATA[English]]></middle_code_nm>
+<small_code_id>MK400102</small_code_id>
+<small_code_nm><![CDATA[Economy]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/29/news-p.v1.20250829.e249d322081a41c6aa537d0e6ad2a861_P1.png]]></image_url>
+<image_caption><![CDATA[ (Yonhap)]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11405930]]></article_url>
+</article>
+</saltlux>

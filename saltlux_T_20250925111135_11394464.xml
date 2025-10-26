@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11394464</art_id>
+<art_year>2025</art_year>
+<art_no>583635</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-15 11:39:41</service_daytime>
+<title><![CDATA[일본 어부가 마구 잡아 멸종됐는데…세계 학계서 ‘Dokdo’로 첫 등장한 이 녀석]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[이상규 매경 디지털뉴스룸 기자(boyondal@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-15 11:39:41</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101008</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/15/news-p.v1.20250815.23848c635fd34958906d92a27c85a700_P1.jpg' alt=' 일제강점기 일본인 어부들에 의해 자행된 강치잡이. [사진출처 = 국립해양박물관]'>
+‘독도 강치’라는 명칭으로 익숙한 독도 바다사자(Dokdo sea lion)는 한반도를 중심으로 서식하다가 일제강점기 남획으로 1950~1970년대에 멸종됐다.
+국제자연보호연맹(IUCN)에 따르면 1800년대 중반까지 동북아시아 해역에서 약 5만마리가 서식했지만 1950년대 50마리로 급감하더니 1994년 멸종이 공식선언했다.
+우리에게는 독도 강치로 알려졌지만 사실 세계 학계에서는 일본 강치, 일본 바다사자를 뜻하는 ‘Japaneses sea lion’으로 등록돼 있다.
+심지어 우리 정부가 발간한 논문이나 통계자료, 홈페이지에서도 ‘Japanese sea lion’이라는 영문 표기를 쓰기도 했다. 이 명칭은 일제강점기 당시 연구와 남획 과정에서 붙여진 뒤 학계에 정착한 것으로 추정된다.
+그런데 최근 국립수산과학원이 세계 최초로 독도 바다사자의 전장(全長) 게놈을 해독한 연구를 국제학술지에 발표하면서 표제에 ‘Dokdo sea lion’이라는 명칭을 처음 사용했다.
+표제에 ‘Dokdo sea lion’을 넣은 것은 논문을 구상하는 과정에서 주요 저자 중 한명인 울산과학기술원(UNIST)의 박종화 교수의 제안에서 비롯됐다.
+연합뉴스에 따르면 이경리 국립수산과학원 고래연구소 연구사는 “우리가 주도하는 연구인 만큼 해당 명칭을 써보자는 의견이 나왔고 연구자 모두가 동의했다”고 말했다.
+다만 기존 학계에서 사용하지 않았던 이름이기에 수정의견, 게재 반려 등에 대한 우려도 있었으나 다행히 논문은 무사히 통과됐다.
+이에 표제에 ‘Dokdo sea lion’을 담은 연구 성과는 저명한 국제학술지 BMC Biology(Springer) 온라인판에 당당히 게재됐다.
+이번 성과는 앞으로 ‘Dokdo sea lion’이라는 명칭이 학계에서 적극적으로 쓰이는 것은 물론 독도를 세계에 알리는 데에도 기여할 것으로 기대된다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[‘독도 강치’라는 명칭으로 익숙한 독도 바다사자(Dokdo sea lion)는 한반도를 중심으로 서식하다가 일제강점기 남획으로 1950~1970년대에 멸종됐다. 국제자연보호연맹(IUCN)에 따르면 1800년대 중반까지 동북아시아 해역에서 약 5만마리가 서식했지만 1950년대 50마리로 급감하더니 1994년 멸종이 공식선언했다. 우리에게는 독도 강치로 알려졌]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101008</code_id>
+<code_nm><![CDATA[국제사회]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101008</small_code_id>
+<small_code_nm><![CDATA[국제사회]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101010</code_id>
+<code_nm><![CDATA[아시아/호주]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101010</small_code_id>
+<small_code_nm><![CDATA[아시아/호주]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/15/news-p.v1.20250815.23848c635fd34958906d92a27c85a700_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 일제강점기 일본인 어부들에 의해 자행된 강치잡이. [사진출처 = 국립해양박물관]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11394464]]></article_url>
+</article>
+</saltlux>

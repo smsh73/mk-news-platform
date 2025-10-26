@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11383392</art_id>
+<art_year>2025</art_year>
+<art_no>550890</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-01 18:22:08</service_daytime>
+<title><![CDATA[빅테크 AI투자 외치자 삼성·SK 수주 넓은문]]></title>
+<sub_title><![CDATA[애플·MS·메타 4~6월 깜짝실적…AI 추가투자 일제히 발표<br>MS·메타 데이터센터 증설<br>파운드리 수요 끌어올릴듯<br>AI서버용 HBM도 인기 지속<br>애플 자체칩 설계 확대는 부담]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김동은 기자(bridge@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250802</pub_date>
+<pub_edition>16</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>9</pub_page>
+<reg_dt>2025-08-01 18:22:08</reg_dt>
+<mod_dt>2025-08-01 20:26:04</mod_dt>
+<art_org_class>MK100305</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/02/20250802_01160109000001_L00.jpg' alt=''>
+
+애플, 마이크로소프트(MS), 메타 등 글로벌 빅테크 업체들이 인공지능(AI) 인프라 투자 확대 방침을 재확인했다. 이 같은 움직임이 삼성전자와 SK하이닉스에 기회가 될 것이란 기대감이 커지고 있다. 
+지난달 31일(현지시간) 애플은 2025회계연도 3분기(4~6월)에 매출 944억4000만달러, 주당순이익 1.57달러를 기록했다고 발표했다. 매출은 전년 동기 대비 9.6% 늘어나 2022회계연도 1분기(2021년 10~12월) 이후 가장 큰 폭으로 성장했다. 아이폰과 맥 판매가 안정세였고, 서비스 부문도 성장세를 이어갔다는 설명이다. 애플은 호실적에 힘입어 AI 투자를 확대할 것을 약속했다. 팀 쿡 애플 최고경영자(CEO)는 실적을 발표하면서 "AI에 대한 투자를 의미 있게 확대하고 있다"며 "AI 투자 증가가 올해 설비·인프라투자의 주요 동인이 될 것"이라고 강조했다.
+하루 앞서 시장 예상을 뛰어넘는 실적을 발표한 마이크로소프트와 메타 역시 AI 투자를 강조했다. 지난달 30일 MS는 클라우드 부문의 호조에 힘입어 전년 대비 12% 늘어난 750억달러의 2024회계연도 4분기(2025년 4~6월) 매출을 기록했다고 발표했다. 이 자리에서 사티아 나델라 CEO는 "AI 수요 확대에 대응하기 위해 올해 3분기(7~9월) 자본지출을 최대 300억달러로  확대할 것"이라고 말했다.
+메타는 2분기 매출이 전년 동기 대비 22% 증가한 475억달러, 순이익은 38% 늘어난 197억달러를 기록했다고 밝혔다. 마크 저커버그 CEO는 "AI 기반 광고와 데이터센터 인프라 확충에 무게를 두고 올해 설비·인프라 투자 가이던스를 최대 720억달러로 상향한다"고 말했다.
+이는 국내 반도체 업계의 실적에 호재가 될 것이란 분석이다. 글로벌 빅테크의 AI 투자 확대는 AI 서버용 고대역폭메모리(HBM3E·HBM4)와 DDR5 등 차세대 메모리 수요를 크게 끌어올린다. SK하이닉스는 엔비디아를 중심으로 HBM3E 공급을 늘려나가고 있다. 
+조만간 HBM4도 의미 있는 공급처를 찾을 것이란 전망이 나온다. 삼성전자도 HBM3E 물량 확대를 준비 중이며 HBM4 샘플을 생산해 글로벌 빅테크 업체들에 공급했다.
+파운드리 부문 역시 수혜가 예상된다. MS·메타의 대규모 AI 데이터센터 증설은 AI 가속기, GPU, AI 전용 ASIC 등 첨단 반도체 수요를 동반하기 때문이다. 삼성전자는 테슬라 AI 칩, 구글 TPU 일부 물량 등 AI 전용 칩 수주를 확보한 상태로 여기에 AI 추가 투자로 인한 수요가 더해질 경우 파운드리 가동률과 수익성이 개선될 가능성이 높다. 
+다만 애플의 모뎀칩 자체 설계 확대는 삼성전자에 부담으로 작용할 수 있다. 애플은 파운드리 생산을 TSMC에 집중하고 있어 자체 칩 설계가 늘어날수록 삼성 파운드리의 애플 칩 수주 가능성이 낮아진다. 
+이에 더해 시장에서는 장기적으로 AI 투자로 인해 반도체 경기의 변동성이 커질 가능성을 경계하고 있다. 반도체 업체들이 AI 서버용 반도체를 대량으로 생산하기 위해선 초기에 대규모 투자를 해야 할 뿐 아니라 빅테크 업체들이 외부 변수 등으로 투자액을 확 줄여버릴 경우 그 영향을 크게 받을 수 있다고 분석한다.
+한 반도체 업계 관계자는 "현시점에서는 AI 투자액 확대 움직임이 이어질 가능성이 큰 만큼 국내 업체들은 기술력 확보와 고객 다변화를 통해 중장기 경쟁력을 강화하는 전략이 필요하다"고 조언했다. 
+[김동은 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[애플, 마이크로소프트(MS), 메타 등 글로벌 빅테크 업체들이 인공지능(AI) 인프라 투자 확대 방침을 재확인했다. 이 같은 움직임이 삼성전자와 SK하이닉스에 기회가 될 것이란 기대감이 커지고 있다. 
+지난달 31일(현지시간) 애플은 2025회계연도 3분기(4~6월)에 매출 944억4000만달러, 주당순이익 1.57달러를 기록했다고 발표했다. 매출은 전년 동기 대비 9.6% 늘어나 2022회계연도 1분기(2021년 10~12월) 이후 가장 큰 폭으로 성]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100305</code_id>
+<code_nm><![CDATA[전기·전자·통신]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100305</small_code_id>
+<small_code_nm><![CDATA[전기·전자·통신]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/02/20250802_01160109000001_L00.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11383392]]></article_url>
+</article>
+</saltlux>

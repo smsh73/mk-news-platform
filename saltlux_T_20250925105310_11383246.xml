@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11383246</art_id>
+<art_year>2025</art_year>
+<art_no>550668</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-01 17:04:22</service_daytime>
+<title><![CDATA[하이젠알앤엠, 휴머노이드용 액추에이터 개발 정부과제 참여]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[이윤식 기자(leeyunsik@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-01 17:04:22</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100305</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/01/news-p.v1.20250801.b79d2d7091d24a5f9fd0cde71c193478_P1.png' alt=' 산업통상자원부의 ‘휴머노이드 액추에이터 개발’ 프로젝트 개요 [자료제공=하이젠알엔엠]'>
+하이젠알앤엠이 정부의 휴머노이드용 액추에이터(구동모듈) 개발 과제에 참여한다.
+1일 하이젠알앤엠은 최근 산업통상자원부의 국가R&D사업과제인 ‘휴머노이드 액추에이터 개발’ 프로젝트의 총괄주관 기관으로 선정됐다고 밝혔다. 총 사업비 94억원규모의 이 프로젝트는 지난달 기준 약 42개월간 진행되며 정부는 79억원을 지원한다.
+하이젠알앤엠은 총괄주관기관이면서 휴머노이드 전신 구성이 가능한 액추에이터 시리즈 개발(2세부)을 주도하게 된다. 이와 함 로봇핸드개발(1세부)을 주관하는 만드로, 원익로보틱스, 브이디, 한국과학기술연구원(KIST), 한국생산기술연구원(KITECH), 한양대 ERICA캠퍼스, 블루로빈과 컨소시엄을 구성해 휴머노이드 로봇을 제작하게 된다.
+하반신의 고속이동과 상반신의 정교한 조작이 가능하도록 개발하는 차세대 액추에이터는 AFPM(Axial Flux Permanent Magnet)모터, 역구동성과 정밀제어가 가능한 감속기, 중력.마찰보상과 유연제어기능이 내장된 서보드라이브 등 신개념 기술을 적용된다.
+하이젠알앤엠 측은 “이번 과제를 통해 성능과 원가경쟁력이 높은 제품을 개발해 국내와 세계를 향한 사업화 도전을 계속하겠다”고 밝혔다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[하이젠알앤엠이 정부의 휴머노이드용 액추에이터(구동모듈) 개발 과제에 참여한다. 1일 하이젠알앤엠은 최근 산업통상자원부의 국가R&D사업과제인 ‘휴머노이드 액추에이터 개발’ 프로젝트의 총괄주관 기관으로 선정됐다고 밝혔다. 총 사업비 94억원규모의 이 프로젝트는 지난달 기준 약 42개월간 진행되며 정부는 79억원을 지원한다. 하이젠알앤엠은 총괄주관기관이면서 휴머]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100305</code_id>
+<code_nm><![CDATA[전기·전자·통신]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100305</small_code_id>
+<small_code_nm><![CDATA[전기·전자·통신]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100406</code_id>
+<code_nm><![CDATA[과학기술/특허]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK100406</small_code_id>
+<small_code_nm><![CDATA[과학기술/특허]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/01/news-p.v1.20250801.b79d2d7091d24a5f9fd0cde71c193478_P1.png]]></image_url>
+<image_caption><![CDATA[ 산업통상자원부의 ‘휴머노이드 액추에이터 개발’ 프로젝트 개요 [자료제공=하이젠알엔엠]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11383246]]></article_url>
+</article>
+</saltlux>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11390762</art_id>
+<art_year>2025</art_year>
+<art_no>572355</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-11 16:03:31</service_daytime>
+<title><![CDATA[초거대 AI인프라 필요한 시대…그래서 머스크도 오라클 택했죠]]></title>
+<sub_title><![CDATA[페데리코 토레티 오라클 시니어디렉터]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[고민서 기자(esms46@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250812</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>02</pub_section>
+<pub_page>2</pub_page>
+<reg_dt>2025-08-11 16:03:31</reg_dt>
+<mod_dt>2025-08-11 18:50:40</mod_dt>
+<art_org_class>MK300108</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/12/20250812_01110202000002_M00.jpg' alt=''>
+
+"기업·기관들이 오라클 클라우드 인프라스트럭처(OCI)를 선택하는 이유는 명확합니다. 초거대 인공지능(AI) 모델을 빠르게 훈련하고 안전하게 배포하고자 하는 시장 수요에 최적화돼 있기 때문입니다."
+오라클이 일론 머스크가 설립한 xAI와 협업을 시작했다. 이번 협력을 통해 오라클은 OCI의 생성형 AI 서비스로 xAI가 개발한 초거대 언어모델 '그록'을 제공 중이다.
+최근 매일경제와 인터뷰에 나선 페데리코 토레티 오라클 AI 및 머신러닝 제품 부문 시니어 디렉터는 "코히어, 메타, xAI 등 다양한 유형의 AI 모델이 OCI에서 활용되면서 이제 고객들은 각 모델의 특성과 목적에 따라 자신들에게 가장 적합한 대안을 선택할 수 있게 됐다"며 "이는 오라클이 검증된 AI 모델을 선별해 통합하고 다양한 규제 환경에 맞춘 유연한 배포 구조를 갖췄기 때문에 가능한 일"이라고 말했다.
+AI 전문가인 그는 시장에서 OCI를 찾는 이유로 △고성능 인프라스트럭처에 최적화된 훈련 환경 △엔터프라이즈급 보안과 규제 대응 △큐레이션된 모델 선택권 △멀티 클라우드 연동 유연성 등을 꼽았다.
+우선 그는 초거대 AI 시대에 필요한 인프라는 단순한 그래픽처리장치(GPU) 자원 공급 이상을 요구한다고 강조했다. 그는 "GPU는 이제 범용화된 자원"이라며 "GPU만으로는 부족하고, 이를 연결하는 초저지연 네트워크, 고성능 스토리지, 그리고 데이터 최적화까지 모두 통합된 인프라가 필요한 시대"라고 말했다. 이어 "오라클의 슈퍼클러스터 아키텍처는 이러한 통합 역량을 기반으로 하고 있으며, 여러 AI 선도 기업이 OCI를 선택하는 이유도 이 클러스터 구조에 있다"고 덧붙였다. 토레티 디렉터는 모델 선택의 중요성도 짚었다. 그는 "클라우드 환경에서 모든 AI 모델을 제공하는 것이 능사는 아니다"면서 "오라클은 기업 고객의 구체적 사례에 맞춰 선별된 모델만을 제공한다"고 강조했다. 이어 "오라클은 오픈소스 모델부터 고유(proprietary) 모델까지 고객의 필요에 맞는 선택을 지원하고 있다"고 전했다. 
+특히 국가마다 데이터 주권(데이터가 자국 내에 저장·관리돼야 한다는 원칙)을 둘러싼 규제가 강화되면서 오라클은 다양한 클라우드 배포 방식을 통해 이에 대응하고 있다. 오라클은 일반적인 퍼블릭 클라우드(공용 클라우드 서비스)뿐 아니라 고객사가 자체 데이터센터에 직접 설치할 수 있는 전용 클라우드(전용 리전), 기업이 자체 상표로 클라우드 서비스를 제공할 수 있도록 돕는 오라클 알로이, 유럽 지역 규제를 충족하는 유럽연합(EU) 소버린 클라우드, 정부와 공공기관을 위한 정부용 클라우드 등 다양한 옵션을 마련했다.
+한국에는 서울과 춘천 두 곳에 퍼블릭 클라우드 센터가 운영 중이다. 기업들은 이 두 리전 간에 데이터를 이중으로 저장하고 안정적으로 운영해 장애에 대비한 고가용성 환경을 구성할 수 있다. 또한 규제상 퍼블릭 클라우드를 사용할 수 없는 경우 단 3개의 서버 장비(랙)만으로도 고객사의 자체 데이터센터 안에 오라클 클라우드를 설치할 수 있다고 오라클은 설명했다.
+토레티 디렉터는 "한국, 유럽처럼 데이터를 국가 안에서 안전하게 보관해야 하는 규제가 강한 시장일수록 OCI의 진가가 드러난다"며 "클라우드를 직접 운영하는 고객 환경에 맞춰 배포할 수 있는 구조가 필요한 시대"라고 강조했다. 이를 위해 오라클은 최근 외부 인터넷과 완전히 단절된 상태에서도 AI를 운영할 수 있는 '오라클 컴퓨트 클라우드앳커스터머 아이솔레이티드' 솔루션도 내놓았다. 이는 고도의 보안이 필요한 산업에서 사용할 수 있도록 설계된 전용 AI 클라우드 서비스다. 
+[고민서 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA["기업·기관들이 오라클 클라우드 인프라스트럭처(OCI)를 선택하는 이유는 명확합니다. 초거대 인공지능(AI) 모델을 빠르게 훈련하고 안전하게 배포하고자 하는 시장 수요에 최적화돼 있기 때문입니다."
+오라클이 일론 머스크가 설립한 xAI와 협업을 시작했다. 이번 협력을 통해 오라클은 OCI의 생성형 AI 서비스로 xAI가 개발한 초거대 언어모델 '그록'을 제공 중이다.
+최근 매일경제와 인터뷰에 나선 페데리코 토레티 오라클 AI 및 머신러닝 제품 부문 시니]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK300108</code_id>
+<code_nm><![CDATA[U-World (IT)]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK300108</small_code_id>
+<small_code_nm><![CDATA[U-World (IT)]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/12/20250812_01110202000002_M00.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11390762]]></article_url>
+</article>
+</saltlux>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11398019</art_id>
+<art_year>2025</art_year>
+<art_no>593499</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-20 11:00:09</service_daytime>
+<title><![CDATA[Korean nuclear stocks fall on Westinghouse settlement]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-20 11:00:09</reg_dt>
+<mod_dt>2025-08-20 15:52:32</mod_dt>
+<art_org_class>MK400110</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/20/news-p.v1.20250820.c5ce5cb9a69a42a398fde3ab86f7b644_P1.png' alt=' (KHNP)'>
+South Korean nuclear-related stocks fell Wednesday morning after reports that Korea Electric Power Corp. (KEPCO) and Korea Hydro & Nuclear Power Co. (KHNP) have been blocked from entering the U.S., European, and Ukrainian markets under a settlement reached earlier this year with Westinghouse Electric Co.
+As of 9:14 a.m., KEPCO shares traded at 35,350 won ($25.32), down 5.49 percent from the previous session. Doosan Enerbility Co. fell 8.57 percent to 54,400 won, while Hyundai Engineering & Construction Co. lost 7.15 percent.
+Other nuclear-related stocks also lost ground, with BHI Co. down 4.13 percent, KEPCO Plant Service & Engineering Co. down 3.91 percent, KEPCO Engineering & Construction Company Inc. down 9.19 percent, Hanshin Machinery Co. down 2.89 percent, and Woori Technology Inc. down 5.34 percent.
+The decline followed controversy over the settlement signed in January by KHNP, KEPCO, and Westinghouse to end an intellectual property dispute. The agreement reportedly included terms highly unfavorable to the Korean side.
+Additional reports on Tuesday indicated the deal restricts KHNP and KEPCO from pursuing new projects in North America, Europe, and Japan, limiting their expansion to the Middle East, Southeast Asia, and South America, which further weighed on investor sentiment.
+Artificial intelligence semiconductor stocks also declined on Wednesday amid mounting concerns over an AI bubble in U.S. markets.
+As of 9:19 a.m., SK hynix Inc. dropped 4.09 percent to 252,250 won, while Samsung Electronics Co. slipped 0.86 percent to 69,400 won.
+The drop followed the Nasdaq index fell 1.46 percent on Tuesday after OpenAI Chief Executive Officer Sam Altman acknowledged that AI valuations may have entered “bubble phase.” Altman said on Monday that investors had become “overexcited” about AI.
+Chinese moves to restrict the use of foreign-made chips added further pressure on technology shares. Samsung Electronics saw limited losses.
+Meanwhile, Reuters reported on Tuesday that the U.S. government is considering taking equity stakes in companies receiving support under the Creating Helpful Incentives to Produce Semiconductors and Science Act of 2022 (CHIPS Act) instead of providing subsidies.
+Companies like Taiwan Semiconductor Manufacturing Co. (TSMC), Micron Technology Inc., and Samsung Electronics may be affected.
+The Biden administration had previously approved subsidies of $6.6 billion for TSMC, $6.2 billion for Micron, and $4.75 billion for Samsung. TSMC declined to comment to the Reuters report, while Micron, Samsung, and the White House did not respond to requests for comment.
+Separately, materials parts maker Hallacast Co. made a strong debut on the Kosdaq.
+As of 9:14 a.m., the stock was trading at 6,630 won, about 14 percent above its initial public offering (IPO) price of 5,800 won. The shares briefly surged to 8,480 won, 1.5 times the IPO price, before trimming gains on profit-taking.
+Hallacast manufactures precision lightweight thermal materials used in next-generation vehicles and robotics. The IPO drew strong institutional demand with a subscription ratio of 832.88 to 1, and the offering price was fixed at the top of the desired range between 5,100 and 5,800 won.
+KEPCO shares closed at 37,500 won, up 0.40 percent from the previous session. Doosan Enerbility ended at 57,400 won and Hyundai E&C at 58,800 won.
+SK hynix shares finished at 255,500 won and Samsung Electronics at 70,500 won. Hallacast closed at 5,920 won.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[South Korean nuclear-related stocks fell Wednesday morning after reports that Korea Electric Power Corp. (KEPCO) and Korea Hydro & Nuclear Power Co. (KHNP) have been blocked from entering the U.S., Eu]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK400110</code_id>
+<code_nm><![CDATA[Market]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00308</middle_code_id>
+<middle_code_nm><![CDATA[English]]></middle_code_nm>
+<small_code_id>MK400110</small_code_id>
+<small_code_nm><![CDATA[Market]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/20/news-p.v1.20250820.c5ce5cb9a69a42a398fde3ab86f7b644_P1.png]]></image_url>
+<image_caption><![CDATA[ (KHNP)]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11398019]]></article_url>
+</article>
+</saltlux>

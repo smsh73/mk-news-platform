@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11387478</art_id>
+<art_year>2025</art_year>
+<art_no>563560</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-07 11:24:50</service_daytime>
+<title><![CDATA[네이버웹툰, APEC 국제 워크숍에서 불법 사이트 대응 모범 사례로 소개]]></title>
+<sub_title><![CDATA[저작권 보호 위한 기술 ‘툰레이더’ 소개
+ACE 가입, 미국 소환장 조치 등 
+저작권 보호 관련 활동 국외 확장]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[안선제 기자(ahn.sunje@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-07 11:24:50</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">저작권 보호 위한 기술 ‘툰레이더’ 소개<br>ACE 가입, 미국 소환장 조치 등 <br>저작권 보호 관련 활동 국외 확장</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/07/news-p.v1.20250807.0b3ee389bbbb48948f2393e42eb72a39_P1.jpg' alt=' 네이버웹툰은 6일 아시아태평양경제협력체(APEC) 국제 워크숍에서 저작권 보호를 위한 기술적 대응 방법·성과를 발표했다. 김규남 네이버웹툰 최고위험관리책임자(CRO)가 행사장에서 발표하고 있다. [사진 = 네이버웹툰]'>
+웹툰 불법 유통을 막기 위한 네이버웹툰의 기술적 대응 방법이 APEC(아시아태평양경제협력체) 저작권 보호 정책 담당자들에게 모범 사례로 소개됐다.
+네이버웹툰은 지난 6일 인천 송도 컨벤시아에서 열린 APEC 국제 워크숍 ‘불법 스트리밍 단속을 위한 접근법 및 전략’에서 국내 콘텐츠 업계를 대표해 저작권 보호를 위한 기술적 대응 방법 및 성과를 발표했다고 7일 밝혔다.
+이 날 발표를 진행한 김규남 네이버웹툰 최고위험관리책임자(CRO)는 국내외 불법 웹툰 사이트 현황과 피해 규모를 설명하며 “불법 사이트는 계속해서 진화하기 때문에 모니터링 후 삭제, 법적 대응, 불법 콘텐츠 삭제 요청(테이크다운 노티스)과 같은 전통적인 방식에만 의존하는 것에는 한계가 있다”고 말했다.
+이어서 “기존 방식의 한계를 극복하기 위해서는 기술적 대응이 필수”라고 강조하며 네이버웹툰의 불법 유통 대응 기술 ‘툰레이더’를 소개했다.
+네이버웹툰은 웹툰 이미지에 보이지 않는 사용자 식별 정보를 삽입하여 최초 불법 유출자를 식별하고 차단하는 기술인 ‘툰레이더’ 시스템을 자체 연구 개발하여 2017년 7월부터 국내외 불법 웹툰 복제물 추적에 활용하고 있으며 끊임없이 고도화하고 있다. 최근에는 불법 복제 활동의 징후를 포착하고 의심스러운 계정을 선제적으로 차단하는 머신 러닝 기술 고도화에 집중하고 있다.
+네이버웹툰은 해외 불법 사이트 대응을 강화하기 위해 다양한 방책을 찾고 있다. 올해 초에는 한국 기업 최초이자 웹툰・웹소설 플랫폼 자격으로 유일하게 글로벌 저작권 보호 전문조직 ACE 회원사로 가입했다. ACE는 미국영화협회(MPA) 산하의 글로벌 저작권 보호 전문 조직으로, 불법 유통 콘텐츠 대응과 관련해 세계에서 가장 영향력 있는 단체 중 하나다. 넷플릭스, 아마존, 애플 TV+, 유니버설 스튜디오, 월트 디즈니 스튜디오 등 전 세계 주요 미디어・엔터테인먼트 기업이 회원사로 활동하고 있다.
+2023년부터는 업계 최초로 창작자들을 대리해 모든 비용을 부담하여 미국 법원을 통한 소환장 조치를 시도하고 있다. 소환장 조치는 미국 DMCA(디지털 밀레니엄 저작권법)에 근거하여 온라인 서비스 상에서 저작권 침해가 있는 경우 저작권자가 서비스 제공자에게 저작권 침해자로 의심되는 회원들의 개인정보 제출을 요구할 수 있는 제도다.
+네이버웹툰은 이를 통해 2024년 150여 개, 2023년 70여 개 불법 사이트의 활동을 멈추는 성과를 얻었다. 트래픽 통계 사이트 ‘시밀러웹’ 집계에 따르면 네이버웹툰의 소환장 조치로 영향을 받은 220여 개 사이트의 연간 이용자 방문 트래픽은 38억 회 이상에 달한다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[저작권 보호 위한 기술 ‘툰레이더’ 소개 ACE 가입, 미국 소환장 조치 등  저작권 보호 관련 활동 국외 확장웹툰 불법 유통을 막기 위한 네이버웹툰의 기술적 대응 방법이 APEC(아시아태평양경제협력체) 저작권 보호 정책 담당자들에게 모범 사례로 소개됐다. 네이버웹툰은 지난 6일 인천 송도 컨벤시아에서 열린 APEC 국제 워크숍 ‘불법 스트리밍 단속을 위한]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/07/news-p.v1.20250807.0b3ee389bbbb48948f2393e42eb72a39_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 네이버웹툰은 6일 아시아태평양경제협력체(APEC) 국제 워크숍에서 저작권 보호를 위한 기술적 대응 방법·성과를 발표했다. 김규남 네이버웹툰 최고위험관리책임자(CRO)가 행사장에서 발표하고 있다. [사진 = 네이버웹툰]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11387478]]></article_url>
+</article>
+</saltlux>

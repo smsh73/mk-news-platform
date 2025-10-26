@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11383611</art_id>
+<art_year>2025</art_year>
+<art_no>551543</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-02 09:42:13</service_daytime>
+<title><![CDATA[“도심 곳곳에 불꺼진 아파트”…부산 ‘악성 미분양’ 2010년 7월 이후 최다]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[조성신 매경 디지털뉴스룸 기자(robgud@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-02 09:42:13</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100106</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/02/news-p.v1.20250802.7e9a5856a013464e8d2dae2103baaac4_P1.jpg' alt=' 한 아파트 건설현장에 멈춰 서 있는 타워크레인 모습 [박형기기자]'>
+주택시장 침체가 길어지면서 부산 내 ‘준공 후 미분양 주택’ 물량이 14년 11개월 만에 최고치를 기록한 것으로 나타났다.
+준공 후 미분양은 공사가 끝났지만 팔리지 않은 주택으로, ‘악성 미분양’으로 불린다.
+2일 국가통계포털 자료에 따르면 올해 6월 말 기준 부산의 준공 후 미분양 주택은 총 2663가구로 집계됐다. 올해 1월 2268가구로 2000가구대에 진입한 뒤 증가세를 이어오고 있다.
+특히 악성 미분양 물량은 2월 2261가구에서 3월 2438가구, 4월 2462가구, 5월 2596가구로 매월 증가세를 보이다 6월(2663가구) 2010년 7월 이후 14년 11개월 만에 최고치를 찍었다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/02/news-p.v1.20250802.813fdb1043f8414fa58977cb137f3e02_P1.jpg' alt=' 2010년 1월∼2025년 6월까지 부산 준공 후 미분양 [지료 = 국가통계포털]'>
+부산은 미국발 금융위기 시기인 2009∼2010년 악성 미분양이 5000가구를 넘으며 최악의 시기를 지난 이후 장기간 1000가구 이하로 안정세를 유지해왔다.
+사전 분양까지 포함한 부산 전체 미분양 가구는 6월 말 기준 5375가구로, 전월(5420가구)보다 소폭 감소했다.
+전체 미분양 가구는 지난해 7월 5862가구로 2013년 이후 최대치를 찍은 뒤 4000가구대까지 하락했다가 다시 증가폭을 키우고 있다. 아직 통계에는 반영되지 않는 지난달 아파트 분양물량까지 합치면 미분양 물량은 더욱 늘어날 것으로 추산된다.
+업계 관계자들은 부산 주택시장에 활기를 줄 요인 없이는 부산 부동산 경기 침체는 당분간 이어질 것으로 입을 모은다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[주택시장 침체가 길어지면서 부산 내 ‘준공 후 미분양 주택’ 물량이 14년 11개월 만에 최고치를 기록한 것으로 나타났다. 준공 후 미분양은 공사가 끝났지만 팔리지 않은 주택으로, ‘악성 미분양’으로 불린다. 2일 국가통계포털 자료에 따르면 올해 6월 말 기준 부산의 준공 후 미분양 주택은 총 2663가구로 집계됐다. 올해 1월 2268가구로 2000가구대]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100106</code_id>
+<code_nm><![CDATA[생활경제]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100106</small_code_id>
+<small_code_nm><![CDATA[생활경제]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100602</code_id>
+<code_nm><![CDATA[시세/시황]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00503</middle_code_id>
+<middle_code_nm><![CDATA[부동산]]></middle_code_nm>
+<small_code_id>MK100602</small_code_id>
+<small_code_nm><![CDATA[시세/시황]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100809</code_id>
+<code_nm><![CDATA[지역경제]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100809</small_code_id>
+<small_code_nm><![CDATA[지역경제]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/02/news-p.v1.20250802.7e9a5856a013464e8d2dae2103baaac4_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 한 아파트 건설현장에 멈춰 서 있는 타워크레인 모습 [박형기기자]]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/02/news-p.v1.20250802.813fdb1043f8414fa58977cb137f3e02_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 2010년 1월∼2025년 6월까지 부산 준공 후 미분양 [지료 = 국가통계포털]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11383611]]></article_url>
+</article>
+</saltlux>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11384733</art_id>
+<art_year>2025</art_year>
+<art_no>555437</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-04 14:07:40</service_daytime>
+<title><![CDATA[[속보] AI 국가대표 가려졌다…네이버·SKT·LG·엔씨·업스테이지]]></title>
+<sub_title><![CDATA[K-AI 구축할 5개 정예팀 확정
+카카오·KT·카이스트 등 탈락]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[이가람 매경 디지털뉴스룸 기자(r2ver@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-04 14:07:40</reg_dt>
+<mod_dt>2025-08-05 14:43:36</mod_dt>
+<art_org_class>MK100307</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">K-AI 구축할 5개 정예팀 확정<br>카카오·KT·카이스트 등 탈락</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/05/news-p.v1.20250804.49fdd85128854134a2083f593b8053f3_P1.jpg' alt=' [사진 = 연합뉴스]'>
+국가대표 인공지능(AI) 개발을 주도할 정예팀이 가려졌다. 치열한 경쟁 끝에 △네이버클라우드 △업스테이지 △SK텔레콤 △엔씨AI △LG그룹 경영개발원 AI연구원이 선정됐다. 정예팀은 앞으로 정부·기관의 전폭적인 지원을 받으며 K-AI 모델을 구축하게 된다.
+4일 과학기술정보통신부는 한국형 초대형언어모델(LLM) 개발을 위한 ‘독자 AI 파운데이션 모델 프로젝트’ 사업 선정 결과를 발표했다.
+과기정통부는 지난달 서면평가를 진행해 15개팀을 10개팀으로 압축시켰다. 이후 발표평가를 통해 10개팀 가운데 5개팀을 통과시켰다. 이 과정에서 카카오와 KT, 한국과학기술원(KAIST), 코난테크놀로지, 모티프테크놀로지스 등이 탈락했다.
+과기정통부는 공모팀의 △AI 개발 경험 및 기술력 △개발목표 우수성 △개발 전략·기술 우수성 △사회적 파급효과 및 기여계획 등을 종합적으로 평가해 정예팀을 선발한 것으로 알려졌다. 과기정통부는 사업비 심의·조정 절차를 거쳐 정예팀의 사업 범위와 지원 내역을 확정하고 이르면 이번 주 안으로 협약을 체결할 계획이다. 이후 AI 모델 개발 상황과 수준을 기준으로 반기마다 1개팀씩 제외시킨다. 최종적으로 오는 2027년 2개팀이 살아남는 서바이벌 구조다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/05/news-p.v1.20250804.76e12bc5a21c46428480fa57adc27c29_P1.png' alt=''>
+네이버클라우드 컨소시엄은 텍스트·음성·이미지·비디오 데이터를 통합적으로 이해하고 생성할 수 있는 멀티모달모델에 집중한다. 네이버클라우드는 이 모델을 기반으로 구축한 AI 플랫폼을 운영하며 범국민 AI 접근성 확대를 지원한다.
+업스테이지 컨소시엄은 글로벌 수준의 AI 모델을 개발하고 대국민 AI 서비스를 3년간 제공해 사용자 1000만명을 달성하겠다는 목표를 세웠다. 추후 전문 지식이 필요한 법률·제조·국방 등으로 서비스 제공 부문을 확장한다.
+SK텔레콤 컨소시엄은 범용 AI 에이전트 및 전문 지식 특화 AI 에이전트를 만든다. 제조·자동차·게임·로봇 등의 영역에서 기업대기업(B2B) 서비스를 발굴할 계획이다. 엔씨AI 컨소시엄은 200B급 AI 모델을 설계해 산업 분야에서 자동화·최적화가 가능한 플랫폼을 구축한다. LG그룹 AI연구원 컨소시엄은 전문성·범용성을 모두 갖춘 고성능 AI 모델에 주력한다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/05/news-p.v1.20250804.2774f62ab8154aa3ab3422b3375a671d_P2.png' alt=''>
+정부는 다음 달부터 정예팀에 자원과 인력을 지원을 시작한다. 구체적으로 그래픽처리장치(GPU) 대여에 1500억원, 데이터 확보에 620억원, 인재 영입 비용에 250억원 등 2000억원이 넘는 예산이 편성됐다.
+배경훈 과기정통부 장관은 “이번 프로젝트의 담대한 도전은 이제 시작이자 ‘모두의 AI’ 출발점이 될 것”이라며 “대한민국 AI 기업·기관들의 도약, 소버린 AI 생태계 확장을 정부가 적극 뒷받침하겠다“고 강조했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[K-AI 구축할 5개 정예팀 확정 카카오·KT·카이스트 등 탈락국가대표 인공지능(AI) 개발을 주도할 정예팀이 가려졌다. 치열한 경쟁 끝에 △네이버클라우드 △업스테이지 △SK텔레콤 △엔씨AI △LG그룹 경영개발원 AI연구원이 선정됐다. 정예팀은 앞으로 정부·기관의 전폭적인 지원을 받으며 K-AI 모델을 구축하게 된다. 4일 과학기술정보통신부는 한국형 초대형]]></summary>
+</wms_article_summary>
+<stock_codes>
+<stock_code>017670</stock_code>
+<stock_code>035420</stock_code>
+<stock_code>036570</stock_code>
+<stock_code>003550</stock_code>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100307</code_id>
+<code_nm><![CDATA[기업일반·재계동향]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100307</small_code_id>
+<small_code_nm><![CDATA[기업일반·재계동향]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/05/news-p.v1.20250804.49fdd85128854134a2083f593b8053f3_P1.jpg]]></image_url>
+<image_caption><![CDATA[ [사진 = 연합뉴스]]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/05/news-p.v1.20250804.76e12bc5a21c46428480fa57adc27c29_P1.png]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/05/news-p.v1.20250804.2774f62ab8154aa3ab3422b3375a671d_P2.png]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11384733]]></article_url>
+</article>
+</saltlux>

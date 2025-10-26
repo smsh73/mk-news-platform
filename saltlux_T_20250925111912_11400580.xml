@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11400580</art_id>
+<art_year>2025</art_year>
+<art_no>601247</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-22 16:14:04</service_daytime>
+<title><![CDATA[엔비디아, 중국 전용 H20 칩 생산 중단]]></title>
+<sub_title><![CDATA[트럼프 행정부, 수출 재개 허용
+中 정부, 자국 기업에 구매 중단 지시]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[원호섭 기자(wonc@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-22 16:14:04</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">트럼프 행정부, 수출 재개 허용<br>中 정부, 자국 기업에 구매 중단 지시</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/22/news-p.v1.20250822.b4d89125b6324e8980cbf60baa1e8232_P1.png' alt=' 엔비디아 로고'>
+세계 최대 인공지능(AI) 반도체 기업 엔비디아가 중국 전용 H20 칩 생산을 일부 중단한 것으로 확인됐다. 미 정부의 수출 재개 허용에도 불구하고 중국 정부가 자국 기업들에 구매를 금지하면서 사실상 수요 기반이 무너졌기 때문이다.
+21일(현지시간) 미 IT 전문매체 디인포메이션에 따르면, 엔비디아는 최근 애리조나에 본사를 둔 앰코 테크놀로지와 한국의 삼성전자에 H20 관련 생산 작업을 중단하라는 지시를 내렸다. 앰코는 H20 칩의 고급 패키징을 담당하고, 삼성전자는 HBM(고대역폭 메모리)을 공급한다. 하지만 반가공 상태의 칩들이 앰코에 쌓여 있는 것으로 전해지며 향후 처리 방향도 불투명해졌다.
+앞서 트럼프 행정부는 지난봄 엔비디아의 중국 맞춤형 칩 수출을 금지했으나, 지난달 정책을 뒤집어 재개를 허용했다. 다만 조건으로 판매 매출의 15%를 미 정부가 가져가기로 했다. 이후 엔비디아는 삼성에 추가 HBM 주문을 넣고, TSMC에서 생산된 반가공 칩을 앰코로 옮겨 포장 작업에 착수했다. 중국 기술기업들은 규제 완화 직후 70만 개 규모의 H20을 발주하며 ‘사재기’에 나섰다.
+하지만 중국 정부는 돌연 구매 금지 지침을 내렸다. 엔비디아 칩에 미국으로 데이터를 유출할 수 있는 ‘백도어’가 존재할 수 있다는 안보 우려를 이유로 내세웠다. 동시에 화웨이를 비롯한 자국 반도체 기업의 칩 사용을 권장하며 사실상 ‘자급자족’ 체제로 방향을 틀었다. 이에 엔비디아는 “칩에 원격 접근이 가능한 백도어는 존재하지 않는다”라며 부인했다. 엔비디아의 매출 중 중국 비중은 2022년 26%에서 2025년 13%로 반토막이 났다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[트럼프 행정부, 수출 재개 허용 中 정부, 자국 기업에 구매 중단 지시세계 최대 인공지능(AI) 반도체 기업 엔비디아가 중국 전용 H20 칩 생산을 일부 중단한 것으로 확인됐다. 미 정부의 수출 재개 허용에도 불구하고 중국 정부가 자국 기업들에 구매를 금지하면서 사실상 수요 기반이 무너졌기 때문이다. 21일(현지시간) 미 IT 전문매체 디인포메이션에 따르면]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/22/news-p.v1.20250822.b4d89125b6324e8980cbf60baa1e8232_P1.png]]></image_url>
+<image_caption><![CDATA[ 엔비디아 로고]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11400580]]></article_url>
+</article>
+</saltlux>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11385437</art_id>
+<art_year>2025</art_year>
+<art_no>557393</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-05 10:18:51</service_daytime>
+<title><![CDATA[크래프톤-SK텔레콤 컨소시엄 ‘독자AI 파운데이션 모델’ 선정]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>60</media_code>
+<writers><![CDATA[안희찬 게임진 기자(chani@mkinternet.com)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-05 10:18:51</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>GM900202</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/05/news-p.v1.20250805.3a7bf42962fa499aba29f9b6a65fdaef_P1.jpg' alt='크래프톤 크래프톤이 참여한 SK텔레콤 컨소시엄이 과기정통부가 주관하는 ‘독자 AI 파운데이션 모델’ 프로젝트의 정예팀으로 선정됐다.'>
+크래프톤(대표 김창한)이 참여한 SK 텔레콤 컨소시엄이 과학기술정보통신부가 주관하는 ‘독자 AI 파운데이션 모델’ 프로젝트의 정예팀으로 선정됐다.
+SK텔레콤 컨소시엄은 반도체, 모델, 데이터, 서비스로 이어지는 독자 기술 기반의 풀스택 AI를 구현하고 개발된 AI 모델을 국내 생태계에 오픈소스로 공개하는 것을 목표로 한다.
+특히 포스트-트랜스포머 AI 모델로 K-AI 서비스를 실현, 국민의 AI 접근성을 높이며 글로벌 AI 리더십을 확보하겠다는 계획이다.
+크래프톤은 이번 컨소시엄에서 차세대 멀티모달 모델의 아키텍쳐 설계와 학습 알고리즘 연구를 주도한다.
+이를 기반으로 게임 등 도메인에 특화된 AI 솔루션을 개발하고 AI NPC 및 스토리 엔진 등 게임 콘텐츠에 활용 가능한 API 개발도 함께 추진한다.
+크래프톤은 실제 게임 플레이 데이터를 기반으로 Vision, Text, Speech, Action 이 유기적으로 연결된 멀티 모달 데이터셋 수집 플랫폼을 보유하고 있어다.
+이러한 역량을 바탕으로 한국형 독자 AI 파운데이션 모델 개발에서 핵심 역할을 담당할 예정이다.
+엔비디아와 공동 개발한 Co-Playable Character(CPC)를 비롯, AI 에이전트의 게임 플레이 능력을 평가하는 벤치마크 ‘Orak’을 공개하며 기술력을 입증했다.
+올해에만 세계 최고 권위의 AI 학회에 15편의 논문을 게재하며 연구 활동도 지속적으로 이어가고 있다.
+이와 함께 SK텔레콤과 공동으로 개발한 post-training 기법을 7B(70억개 파라미터) 규모의 오픈소스 추론 특화 언어 모델(Language Model) 3종에 적용한 결과물을 선보이기도 했다.
+이번에 공개한 모델들은 크래프톤이 독자적으로 개발한 학습 기법을 적용한 결과물로 도메인 특화 AI 모델 개발 역량을 입증한 사례로 평가받고 있다.
+이강욱 크래프톤 딥러닝 본부장은 “멀티모달과 게임 특화 AI 분야에서 크래프톤이 보유한 고유의 기술력은 컨소시엄에서도 중요한 차별화 요소가 될 것”이라고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[크래프톤(대표 김창한)이 참여한 SK 텔레콤 컨소시엄이 과학기술정보통신부가 주관하는 ‘독자 AI 파운데이션 모델’ 프로젝트의 정예팀으로 선정됐다. SK텔레콤 컨소시엄은 반도체, 모델, 데이터, 서비스로 이어지는 독자 기술 기반의 풀스택 AI를 구현하고 개발된 AI 모델을 국내 생태계에 오픈소스로 공개하는 것을 목표로 한다. 특히 포스트-트랜스포머 AI 모델]]></summary>
+</wms_article_summary>
+<stock_codes>
+<stock_code>259960</stock_code>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>GM900202</code_id>
+<code_nm><![CDATA[상장사뉴스]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>GM900202</small_code_id>
+<small_code_nm><![CDATA[상장사뉴스]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/05/news-p.v1.20250805.3a7bf42962fa499aba29f9b6a65fdaef_P1.jpg]]></image_url>
+<image_caption><![CDATA[크래프톤 크래프톤이 참여한 SK텔레콤 컨소시엄이 과기정통부가 주관하는 ‘독자 AI 파운데이션 모델’ 프로젝트의 정예팀으로 선정됐다.]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11385437]]></article_url>
+</article>
+</saltlux>

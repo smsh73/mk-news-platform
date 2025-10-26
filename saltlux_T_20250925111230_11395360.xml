@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11395360</art_id>
+<art_year>2025</art_year>
+<art_no>586233</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-17 17:42:12</service_daytime>
+<title><![CDATA["나를 잘 아는 에이전트로 전국민 맞춤형 AI서비스"]]></title>
+<sub_title><![CDATA[성낙호 네이버클라우드 총괄<br>인프라·서비스 모두 아우르는<br>풀스택 역량은 네이버가 유일<br>국대 AI모델 최종선정 자신감]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[안선제 기자(ahn.sunje@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250818</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>16</pub_page>
+<reg_dt>2025-08-17 17:42:12</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/18/20250818_01110116000005_L00.jpg' alt=''>
+
+"인프라에서 서비스까지 아우르는 진정한 인공지능(AI) 풀스택 역량을 지닌 곳은 네이버뿐입니다."
+성낙호 네이버클라우드 하이퍼스케일 기술총괄(사진)은 지난 11일 경기 성남시 네이버 그린팩토리에서 진행한 인터뷰에서 "네이버는 풀스택 역량을 보유하고 글로벌 비즈니스까지 수행하는, 정부가 하고자 하는 모든 포트폴리오를 커버하는 회사"라며 이같이 강조했다. AI 분야에서 풀스택은 AI 클라우드 등 인프라부터 이용자 대상 응용 서비스까지 모두 운영하는 것을 말한다. 최근 네이버클라우드는 SK텔레콤, LG AI연구원, NC AI, 업스테이지와 함께 정부가 추진하는 '독자 AI 파운데이션 모델' 프로젝트 사업의 정예팀으로 선정돼 본격적인 개발 경쟁에 돌입했다.
+경쟁사들도 풀스택 역량을 이야기하지만 제일 앞서 초거대 언어 모델 '하이퍼클로바'를 구축하고 고성능컴퓨팅(HPC)을 운영하며 여러 서비스도 직접 설계해본 경험을 합하면 네이버가 가장 압도적인 우위를 갖췄다는 게 그의 설명이다. 성 총괄이 그리고 있는 미래는 단순 AI 기술을 넘어 플랫폼을 통해 새로운 생태계를 구축하는 것이다. 즉 다양한 분야의 버티컬 AI 에이전트를 쉽게 만들도록 지원하고, 이들이 서로 연결되는 플랫폼을 조성하는 것이다. 네이버는 이 플랫폼에서 AI 에이전트가 개인 데이터를 축적·관리하도록 함으로써 전 국민이 맞춤형 AI 서비스를 제공받을 수 있게 할 계획이다. 
+기술 축의 핵심은 '옴니모달'이다. 옴니모달은 멀티모달과 비슷해 보이지만 초기 단계에서 텍스트를 학습한 뒤 다른 형태 데이터를 추가하는 방식이 아니라 처음부터 텍스트·이미지·음성 등 다양한 감각 정보를 동시에 학습시키는 점에서 차이가 있다.
+옴니모달에 집중하는 이유도 전 국민이 쉽게 경험할 수 있는 AI 서비스를 만드는 것과 맞닿아 있다. 네이버클라우드 컨소시엄에는 네이버를 비롯해 트웰브랩스, 서울대 산학협력단, KAIST, 포항공대 산학협력단, 고려대 산학협력단, 한양대 산학협력단이 참여하고 있다. 성 총괄은 이번 프로젝트의 최종 팀 선정에 대해 "이겨야 하고, 이길 수 있다"며 강한 자신감을 드러냈다. 
+[안선제 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA["인프라에서 서비스까지 아우르는 진정한 인공지능(AI) 풀스택 역량을 지닌 곳은 네이버뿐입니다."
+성낙호 네이버클라우드 하이퍼스케일 기술총괄(사진)은 지난 11일 경기 성남시 네이버 그린팩토리에서 진행한 인터뷰에서 "네이버는 풀스택 역량을 보유하고 글로벌 비즈니스까지 수행하는, 정부가 하고자 하는 모든 포트폴리오를 커버하는 회사"라며 이같이 강조했다. AI 분야에서 풀스택은 AI 클라우드 등 인프라부터 이용자 대상 응용 서비스까지 모두 운영하는 것을 말]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/18/20250818_01110116000005_L00.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11395360]]></article_url>
+</article>
+</saltlux>

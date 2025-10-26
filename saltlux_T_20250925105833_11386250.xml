@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11386250</art_id>
+<art_year>2025</art_year>
+<art_no>559994</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-06 09:15:24</service_daytime>
+<title><![CDATA[Kakao aims to unify wallet, payment, and banking for stablecoin ecosystem]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-06 09:15:24</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK400110</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/06/news-p.v1.20250806.951713f971614ba7ad57ef705370394b_P1.jpg' alt=' (Kakao Pay)'>
+Kakao Group is moving aggressively to build an integrated stablecoin ecosystem that combines its banking, payment, and platform infrastructure as the global token economy, led by the United States, continues to expand rapidly.
+Stablecoins, which are pegged to a fixed value such as $1, are used primarily for remittances and payments rather than for speculative gains. As of Monday, the global market capitalization of stablecoins was $257.3 billion, up 23 percent since U.S. President Donald Trump took office, according to blockchain analytics firm RWA.xyz.
+In South Korea, stablecoin usage is also growing fast. Blockchain data provider CryptoQuant reported that domestic stablecoin transactions reached nearly $60 billion in the first half of 2025. Industry analysts see this as part of a broader effort by the United States to assert dominance over digital finance by controlling three pillars: currency (stablecoins), digital gold (bitcoin), and capital markets (tokenized securities). The strategy mirrors the historical use of gold to underpin the dollar’s global dominance.
+Among Korean tech giants, Kakao is considered best positioned to lead stablecoin issuance, with capabilities spanning mobile platforms (Kakao), digital banking (KakaoBank), and payments (Kakao Pay).
+Issuing stablecoins typically requires both a bank and a blockchain-based issuer. Tether (USDT), the world’s leading stablecoin, is issued by crypto firm Tether but backed by fiat reserves held by partner banks and operates on networks like Ethereum and Tron.
+To circulate stablecoins in the real economy, platform infrastructure, such as crypto exchanges or mobile payment apps, where users can convert between cash and stablecoins, is essential. In the United States, PayPal distributes its stablecoin, PayPal USD (PYUSD), via its payment platform, although the coin itself is issued by Paxos. Similarly, Stripe supports payments using USDC, a stablecoin issued by Circle.
+Kakao has all the necessary infrastructure in-house. The group could embed a blockchain wallet into its KakaoTalk messenger, use Kakao Pay’s payment network to handle transactions, and manage fiat reserves via KakaoBank.
+Notably, Kakao is also the Korean conglomerate with the deepest blockchain experience, and its blockchain subsidiary Ground X launched the cryptocurrency Klaytn in 2019. Though Klaytn became independent in 2023, it later merged with Line-affiliated Finschia to form KAIA. Kakao, Kakao Pay, and Kakao Entertainment remain part of the governing KAIA Governance Council and recently collaborated with Tether to issue USDT on the KAIA blockchain.
+Kakao is also poised to enter the next phase of tokenization - capital markets. As the United States pushes forward with tokenizing stocks and ETFs to consolidate its capital dominance, Kakao’s ownership of Kakao Pay Securities gives it a competitive edge. The firm is expected to join the group’s stablecoin-focused task force (TF) soon.
+This stablecoin initiative comes as Kakao seeks new growth engines to offset setbacks in its core business. According to financial data provider FnGuide, Kakao’s second-quarter 2025 revenue is forecast at 1.95 trillion won ($1.41 billion), down 2.7 percent year-on-year, with operating profit projected to fall 6.7 percent to 125 billion won. Its AI business has also been slow to gain traction.
+To reverse the trend, Kakao plans to launch an AI agent service in partnership with OpenAI later this year, while simultaneously entering the stablecoin business to accelerate recovery.
+Meanwhile, domestic competition to issue a Korean won-based stablecoin is heating up as the token economy gains traction. In addition to Kakao, tech rivals Naver and Toss are also moving quickly to enter the space.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[Kakao Group is moving aggressively to build an integrated stablecoin ecosystem that combines its banking, payment, and platform infrastructure as the global token economy, led by the United States, co]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK400110</code_id>
+<code_nm><![CDATA[Market]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00308</middle_code_id>
+<middle_code_nm><![CDATA[English]]></middle_code_nm>
+<small_code_id>MK400110</small_code_id>
+<small_code_nm><![CDATA[Market]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/06/news-p.v1.20250806.951713f971614ba7ad57ef705370394b_P1.jpg]]></image_url>
+<image_caption><![CDATA[ (Kakao Pay)]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11386250]]></article_url>
+</article>
+</saltlux>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11402380</art_id>
+<art_year>2025</art_year>
+<art_no>606847</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-25 17:18:40</service_daytime>
+<title><![CDATA[“TSMC, 2나노 생산라인서 중국산 제조장치 배제…美규제 염두”]]></title>
+<sub_title><![CDATA[닛케이 보도...미국내 투자 가속화 속 2나노 장비 조달 전환
+중국산 재료 이용 줄이기 위한 조사도 진행]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[신윤재 기자(shishis111@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-25 17:18:40</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101002</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">닛케이 보도...미국내 투자 가속화 속 2나노 장비 조달 전환<br>중국산 재료 이용 줄이기 위한 조사도 진행</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/25/news-p.v1.20250825.45323216880a48e499855552cd47a5d8_P1.jpeg' alt=' TSMC 로고. [로이터 연합뉴스]'>
+세계 최대 반도체 위탁생산(파운드리) 업체인 대만 TSMC가 연내 양산에 들어가 2나노(㎚·1㎚=10억분의 1m) 생산라인에서 중국 제조장치 사용을 배제한다고 25일 니혼게이자이신문(닛케이)이 보도했다.
+닛케이는 해당 사안에 정통한 관계자를 인용해 TSMC가 “미국의 잠재적 규제를 피하고 향후 생산에 지장이 생기는 것을 막으려는 것”이라고 해설했다.
+마크 켈리 상원의원 주도로 미국에서는 미 연방 지원금과 세액 공제를 받는 기업들이 중국 공급업체를 겨냥해 ‘우려되는 외국 기관(foreign entities of concern)’으로부터 장비를 구매하지 못하도록 하는 법안을 발의한 상태다.
+TSMC는 우선 대만 북부 신주에서 2나노 공정 제품 양산을 시작하고, 이후 대만 남부 가오슝과 미국 애리조나주에서도 2나노 제품을 만들 예정이다.
+TSMC는 지금까지 중국 반도체 장비회사 중웨이반도체(AMEC)와 중국 기업 산하 업체인 미국 맷슨 테크놀로지 장비를 사용해 왔다.
+다만 이미 양산 중인 3나노 생산라인에서도 1년 전쯤 중국산 장치 제외를 검토했으나, 제반 상황을 고려해 보류한 것으로 전해졌다.
+TSMC는 반도체 제조장치뿐만 아니라 중국산 재료 이용도 줄이기 위한 조사를 진행 중인 것으로 알려졌다.
+닛케이는 “TSMC가 중국 제조장치 등을 배제하려는 것은 미국에서 규제가 강화될 가능성이 있기 때문”이라며 지난해 미국에서 반도체법 지원 아래 건설된 미국 공장에서 중국산 장비를 사용하지 못하도록 하는 법안이 발의됐다고 전했다.
+이어 TSMC의 이번 결정이 “주요 반도체 제조업체들이 커져가는 지정학적 불확실성에 대응하려는 가장 최신 사례”라고 짚었다.
+TSMC는 미국 정부의 보조금을 받아 애리조나주에 3번째 공장을 건설해 첨단 반도체 공장을 생산할 계획이다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[닛케이 보도...미국내 투자 가속화 속 2나노 장비 조달 전환 중국산 재료 이용 줄이기 위한 조사도 진행세계 최대 반도체 위탁생산(파운드리) 업체인 대만 TSMC가 연내 양산에 들어가 2나노(㎚·1㎚=10억분의 1m) 생산라인에서 중국 제조장치 사용을 배제한다고 25일 니혼게이자이신문(닛케이)이 보도했다. 닛케이는 해당 사안에 정통한 관계자를 인용해 TSM]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101002</code_id>
+<code_nm><![CDATA[국제경제]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101002</small_code_id>
+<small_code_nm><![CDATA[국제경제]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/25/news-p.v1.20250825.45323216880a48e499855552cd47a5d8_P1.jpeg]]></image_url>
+<image_caption><![CDATA[ TSMC 로고. [로이터 연합뉴스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11402380]]></article_url>
+</article>
+</saltlux>

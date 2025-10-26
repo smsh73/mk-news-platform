@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11386240</art_id>
+<art_year>2025</art_year>
+<art_no>559973</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-06 09:10:42</service_daytime>
+<title><![CDATA[삼성·하이닉스, AI 인프라 전략 놓고 ‘메모리 vs 스토리지’ 차별화]]></title>
+<sub_title><![CDATA[플래시메모리 서밋 2025 개최
+SK하이닉스 “AI는 전력 효율 싸움…HBM이 핵심”
+삼성전자 “스토리지가 AI 추론의 속도와 성능 결정”]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[원호섭 기자(wonc@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-06 09:10:42</reg_dt>
+<mod_dt>2025-08-06 10:11:58</mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">플래시메모리 서밋 2025 개최<br>SK하이닉스 “AI는 전력 효율 싸움…HBM이 핵심”<br>삼성전자 “스토리지가 AI 추론의 속도와 성능 결정”</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/06/news-p.v1.20250806.4d6f37d72b2b4ab590b4b323def7a713_P1.png' alt=' FMS 2025 [사진=원호섭 기자]'>
+세계 최대 플래시 메모리 기술 행사 ‘퓨처 오브 메모리 앤드 스토리지 2025(FMS 2025)’에서 삼성전자와 SK하이닉스가 나란히 기조연설에 나섰다. 두 회사 모두 AI 시대의 컴퓨팅 한계를 해결할 새로운 반도체 전략을 제시했지만, 그 초점은 다소 달랐다.
+SK하이닉스는 ‘AI는 메모리에서 시작된다’라는 메시지를 앞세워 연산보다 전력 효율 중심의 메모리 인프라 전략을 강조했고, 삼성전자는 ‘AI의 병목은 스토리지에 있다’며 저장장치를 인공지능 추론의 핵심 인프라로 규정했다.
+<strong><div style="border-top: 4px solid #ed6d01;border-bottom: 1px solid #ed6d01;font-size: 18px;padding: 10px 0;margin:30px 0;">하이닉스 “AI 인프라 핵심은 연산 아닌 메모리”</div></strong>5일(현지시간) 미국 산타클라라에서 열린 ‘플래시메모리 서밋 2025(FMS 2025)’에서 SK하이닉스는 AI는 메모리에서 시작됨을 강조했다. 첫 번째 기조연설자로 나선 최준용 SK하이닉스 부사장(HBM사업 담당)은 “AI는 이제 연산력보다 전력 효율의 싸움이며, 우리는 전력 제한 산업(power-limited industry)에 진입하고 있다”라고 진단했다. 그는 “많은 데이터센터가 서버를 설치할 공간은 있지만, 전력 공급이 부족해 작동시키지 못하는 상황”이라며, 효율적인 메모리 설계가 AI 인프라의 지속 가능성을 좌우한다고 강조했다.
+SK하이닉스는 이날 차세대 고대역폭 메모리 HBM4를 선보였다. 기존 HBM3 대비 대역폭은 2배, 전력 효율은 최대 40% 향상됐다. 최 부사장은 “HBM은 단순한 부품이 아니라 전체 AI 인프라의 전력과 성능을 좌우하는 핵심”이라며 “HBM 전력을 10% 줄이면 전체 AI 칩 전력을 2% 절감할 수 있다. 이는 곧 데이터센터 규모 자체를 줄일 수 있다는 뜻”이라고 설명했다. 또한 SK하이닉스는 표준 규격을 넘어 고객별 맞춤형 메모리 전략을 추진 중이다. 최 부사장은 “AI 모델과 칩 아키텍처가 다양해지는 만큼, 각 고객에 최적화된 메모리를 공동 설계(co-design)하는 방식으로 진화할 것”이라고 밝혔다.
+두 번째 발표자로 나선 김천성 SK하이닉스 부사장은 스토리지 분야에서 AI 최적화를 강조했다. 그는 “AI 모델이 생성하는 토큰 수가 몇 달 사이 10배 이상 증가하면서, 메모리뿐 아니라 스토리지도 AI 중심 구조로 재편되고 있다”고 말했다. 김 부사장은 특히 자사의 AI 특화 낸드 제품군 ‘AIN(AI NAND)’ 시리즈를 소개하며, 기존 SSD의 한계를 넘는 초고속 입출력(IOPS) 및 대용량 캐시 처리를 위한 제품이라고 설명했다. AIN은 웹 기반 AI 에이전트, 멀티 유저 환경, 대규모 검색(Vector DB), KB 캐시 재활용 등 실제 AI 워크로드에서의 병목을 해결하도록 설계됐다.
+SK하이닉스는 이를 기반으로 초고속 SSD, 245TB급 고용량 SSD, 그리고 HBM·AIN·XPU를 통합하는 차세대 아키텍처까지 구축해 나간다는 계획이다. 김 부사장은 “기존처럼 메모리, 스토리지, 컴퓨트가 각각 동작하는 구조로는 AI 확장이 어렵다”라며 “SK하이닉스는 이 세 요소를 하나로 통합해 진정한 AI 풀스택 시스템을 구현하겠다”라고 말했다.
+<strong><div style="border-top: 4px solid #ed6d01;border-bottom: 1px solid #ed6d01;font-size: 18px;padding: 10px 0;margin:30px 0;">삼성전자 “AI 인프라 플랫폼 기업으로 성장할 것”</div></strong>이어진 삼성전자는 스토리지와 함께 AI 인프라 플랫폼 전반을 아우르는 기업으로 성장해 나갈 것을 이야기했다. 이날 연사로 나선 임대현 삼성전자 메모리사업부 부사장은 “에이전트형 AI는 생성형 AI보다 더 많은 상태를 저장하고, 도구를 사용하는 능력이 필요하며, 이 모든 것을 지연(latency) 없이 수행해야 한다”라며 “AI가 더 똑똑해질수록, 스토리지는 더 빠르고 정교해져야 한다”라고 말했다.
+이어 그는 “에이전트형 AI의 추론 단계에서는 데이터를 오래 보존해야 최적의 결과를 도출할 수 있다”라며 “이러한 변화에 대응하기 위해 메모리와 스토리지는 더욱 고도화되고 특화되며, 차세대 지능형 인프라의 필수 요소로 자리 잡고 있다”라고 진단했다. 이어 삼성전자는 CXL 메모리 확장 기술이 유망한 대안으로 떠오르고 있다고 강조했다. 삼성전자는 2021년 CXL 제품을 처음 출시한 이후, 올해 하반기에도 신제품을 출시한다는 계획이다.
+임 부사장은 “CXL 메모리와 HBM 기술의 발전이 AI 모델의 성능을 한층 더 향상시킬 것”이라며 “이러한 기술은 AI 인프라의 핵심 요소로 자리 잡고 있으며, 삼성전자는 이를 통해 차세대 AI 시스템의 성능을 끌어올리고, 고도화된 메모리 솔루션을 제공할 준비가 되어 있다”라고 강조했다.
+이어 연단에 오른 오화석 삼성전자 부사장은 “AI가 고도화될수록, 저장장치는 단순한 보조 장치가 아니라 AI 추론의 실시간성과 효율성을 결정하는 핵심 인프라가 된다”라며 고성능, 고용량, 냉각, 보안 등 4개 분야를 중심으로 삼성의 기술을 소개했다. 이날 오 부사장은 내년 초 출시를 계획하고 있는 PCle Gen6 기반 SSD PM1763의 사양도 공개했다. 그는 “25W 전력 제한 내에서도 2배 성능과 1.6배 향상된 전력 효율을 제공하며, 고속화에 따른 신호 간섭 문제 해결을 위한 SI(신호 무결성) 마진 분석을 업계 최초로 수행했다”라고 강조했다.
+저장 용량 확대도 본격화된다. 이와 함께 냉각 기술을 공랭에서 액체 냉각으로, 나아가 ‘침지 냉각’ 방식으로 전환을 예고했다.
+삼성전자는 이번 발표를 통해 저장장치를 단순한 데이터 저장 수단이 아닌, AI 인프라의 성능과 확장성을 결정짓는 핵심 축으로 재정의했다. 오 부사장은 “우리는 더 이상 데이터를 저장하는 기업이 아니다”라며 “AI의 가능성을 현실로 만드는 인프라를 설계하는 기업이다. 앞으로도 기술 한계를 뛰어넘는 스토리지 혁신을 지속하겠다”라고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[플래시메모리 서밋 2025 개최 SK하이닉스 “AI는 전력 효율 싸움…HBM이 핵심” 삼성전자 “스토리지가 AI 추론의 속도와 성능 결정”세계 최대 플래시 메모리 기술 행사 ‘퓨처 오브 메모리 앤드 스토리지 2025(FMS 2025)’에서 삼성전자와 SK하이닉스가 나란히 기조연설에 나섰다. 두 회사 모두 AI 시대의 컴퓨팅 한계를 해결할 새로운 반도체 전략]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/06/news-p.v1.20250806.4d6f37d72b2b4ab590b4b323def7a713_P1.png]]></image_url>
+<image_caption><![CDATA[ FMS 2025 [사진=원호섭 기자]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11386240]]></article_url>
+</article>
+</saltlux>

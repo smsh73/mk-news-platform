@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11385578</art_id>
+<art_year>2025</art_year>
+<art_no>558151</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-05 13:26:06</service_daytime>
+<title><![CDATA[금감원 “카톡 리딩방 막고, 유튜브 사기광고 반토막… AI 자율규제·광고 인증 효과 컸다”]]></title>
+<sub_title><![CDATA[카카오 사칭 계정엔 경고 표시
+유튜브 금융 광고도 사전 ‘체크’]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[이소연 기자(lee.soyeon2@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-05 13:26:06</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100201</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">카카오 사칭 계정엔 경고 표시<br>유튜브 금융 광고도 사전 ‘체크’</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/05/news-p.v1.20250805.79fe3a207aee455aaa796a0d5caca73a_P1.png' alt=' 챗GPT가 그린 불법 금융 광고와 리딩방을 차단하는 당국의 모습. &lt;챗GPT&gt;'>
+금융감독원이 온라인 기업과 손잡고 도입한 ‘AI 기반 사기 탐지 시스템’과 ‘금융광고 사전 인증제’가 불법 투자권유와 사기광고 차단에 실질적 성과를 거둔 것으로 나타났다. 플랫폼과의 협업을 통해 온라인 금융사기 유통을 사전에 막겠다는 당국의 규제 시도가 효과를 보이고 있다는 평가다.
+5일 금융감독원에 따르면, 카카오는 지난해 8월부터 ‘페이크시그널(사칭 의심 프로필 탐지 및 알림 시스템)’ 시스템을 도입해 금융회사 임직원 등을 사칭한 계정 22만1000건에 대해 이용제한 조치를 취한 것으로 나타났다. 페이크시그널은 AI 기반 탐지 기술로, 카카오톡 프로필 이미지와 계정 활동 이력을 분석해 사칭 의심 계정에 경고 표시나 팝업을 띄우는 방식이다.
+또 같은 기간 불법 투자 리딩방 운영에 활용된 카카오 계정 5만2000건도 이용제한 조치를 받았다. 이는 리딩방 가입 유도를 통한 불법투자권유 및 사설 트레이딩 시스템 설치 및 이용 권유를 막기 위함이다.
+구글도 지난해 11월부터 유튜브 등에서 금융광고를 게재하려면 사전 인증을 받도록 하는 ‘금융서비스 인증(FSV)’ 제도를 국내에서 국외 온라인 플랫폼 중 최초로 도입했다. 이 제도에 따르면 금융상품 광고주는 광고 게재에 앞서 구글로부터 해당 광고가 적절한지 등 사전 인증을 받아야 한다. 도입 이후 첫 6개월간 불법금융광고에 대한 이용자 신고 건수는 월평균 50% 줄었다.
+금감원은 이번 성과를 바탕으로 자율규제를 다른 온라인 플랫폼으로 확대하는 한편, 관련 입법도 추진한다는 방침이다. 온라인 플랫폼에 대한 불법금융광고 유통방지 노력 의무 부과 등 온라인 플랫폼에게 책임을 부과하는 제도가 법제화될 수 있도록 관계기관 간 협의를 계속 하겠다는 것이다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[카카오 사칭 계정엔 경고 표시 유튜브 금융 광고도 사전 ‘체크’금융감독원이 온라인 기업과 손잡고 도입한 ‘AI 기반 사기 탐지 시스템’과 ‘금융광고 사전 인증제’가 불법 투자권유와 사기광고 차단에 실질적 성과를 거둔 것으로 나타났다. 플랫폼과의 협업을 통해 온라인 금융사기 유통을 사전에 막겠다는 당국의 규제 시도가 효과를 보이고 있다는 평가다. 5일 금융감]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100201</code_id>
+<code_nm><![CDATA[금융정책·일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100201</small_code_id>
+<small_code_nm><![CDATA[금융정책·일반]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/05/news-p.v1.20250805.79fe3a207aee455aaa796a0d5caca73a_P1.png]]></image_url>
+<image_caption><![CDATA[ 챗GPT가 그린 불법 금융 광고와 리딩방을 차단하는 당국의 모습. &lt;챗GPT&gt;]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11385578]]></article_url>
+</article>
+</saltlux>

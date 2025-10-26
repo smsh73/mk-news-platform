@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11394444</art_id>
+<art_year>2025</art_year>
+<art_no>583591</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-15 11:20:43</service_daytime>
+<title><![CDATA[연말 비과세혜택 종료…상호금융, 벌써부터 자금이탈에 전전긍긍]]></title>
+<sub_title><![CDATA[상호금융 수신 증가액 점차 줄어
+실무자 모여 대응 방안 논의 나서]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[한상헌 기자(aries@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-15 11:20:43</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100201</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">상호금융 수신 증가액 점차 줄어<br>실무자 모여 대응 방안 논의 나서</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/15/news-p.v1.20250815.22822524a8d341d5a93affe71ef65fc6_P1.png' alt=' 사진 = 챗GPT'>
+상호금융 비과세 혜택이 올해 말 끝나면서 고객들의 예금 이탈이 벌써 감지되고 있다. 상호금융권 수신 증가액 규모가 최근 들어 지속해서 줄고 있기 때문이다.
+15일 한국은행 경제통계시스템에 따르면 올해 6월 기준 신협·새마을금고와 농협·수협·산림조합 등이 포함된 상호금융권 총수신 잔액은 927조268억원으로 전월보다 2조6203억원 증가했다. 월별 수신 증가 폭은 최근 들어 감소하고 있다. 증가 폭이 2조원대를 기록한 것은 올해 2월 3조4071억원 증가한 이래로 가장 적은 수준이다. 증가 폭은 최근 들어 줄어들고 있다. 3월 7조7871억원에서 꾸준히 하락하며 2조원 규모로 축소된 것이다.
+상호금융권을 이탈하는 소비자가 많아지는 것은 비과세 혜택이 단계적으로 축소되는 영향으로 분석된다. 기획재정부가 최근 발표한 세제개편안에 따르면 총급여 5000만원이 넘는 신협·새마을금고·농협 등 상호금융 준조합원은 내년부터 5% 분리과세가 적용된다. 2027년부터는 9%로 요율이 올라간다.
+상호금융권은 이자에 거의 세금이 붙지 않아 재테크족들이 많이 찾았다. 같은 금리에 예·적금을 들어도 세금을 크게 아낄 수 있기 때문이다. 이자소득에는 은행과 달리 1인당 3000만원까지 농어촌특별세 1.4%만 부과된다.
+고객 이탈에 비상이 걸린 상호금융기관은 비과세 혜택 폐지를 두고 대책 마련에 나섰다. 신협, 새마을금고, 농협, 수협, 산림조합 등 실무진은 지난 12일 공동 대책회의를 열고 비과세 혜택 축소 국회와 소통을 확대하기로 결정했다.
+한 상호금융권 관계자는 “국회에서 정부안이 논의될 때 상호금융권의 대응방안은 어떤 방향으로 가져가야 할지 등에 대해 논의한 것”이라고 설명했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[상호금융 수신 증가액 점차 줄어 실무자 모여 대응 방안 논의 나서상호금융 비과세 혜택이 올해 말 끝나면서 고객들의 예금 이탈이 벌써 감지되고 있다. 상호금융권 수신 증가액 규모가 최근 들어 지속해서 줄고 있기 때문이다. 15일 한국은행 경제통계시스템에 따르면 올해 6월 기준 신협·새마을금고와 농협·수협·산림조합 등이 포함된 상호금융권 총수신 잔액은 927조]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100201</code_id>
+<code_nm><![CDATA[금융정책·일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100201</small_code_id>
+<small_code_nm><![CDATA[금융정책·일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100205</code_id>
+<code_nm><![CDATA[저축은행·기타]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100205</small_code_id>
+<small_code_nm><![CDATA[저축은행·기타]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/15/news-p.v1.20250815.22822524a8d341d5a93affe71ef65fc6_P1.png]]></image_url>
+<image_caption><![CDATA[ 사진 = 챗GPT]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11394444]]></article_url>
+</article>
+</saltlux>

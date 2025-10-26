@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11406313</art_id>
+<art_year>2025</art_year>
+<art_no>619088</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-29 17:37:18</service_daytime>
+<title><![CDATA[반도체 결함 분석에 딱!…3차원 초미세 구조, AI가 자동 구현]]></title>
+<sub_title><![CDATA[표준연 연구팀 성과
+시간·비용 8분의 1로
+생물학·신소재도 활용]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[고재원 기자(ko.jaewon@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-29 17:37:18</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101401</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">표준연 연구팀 성과<br>시간·비용 8분의 1로<br>생물학·신소재도 활용</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/29/news-p.v1.20250829.9fbbba6e837c4550bfbd1986f24f0c23_P1.jpg' alt=' 한국표준과학연구원 미래선도연구장비그룹. [사진=표준연]'>
+국내 연구팀이 생물학 시료의 2차원(2D) 단면 이미지를 3차원(3D) 구조로 형상화할 수 있는 인공지능(AI)을 개발했다. 사람이 하는 것에 비교해 분석 정확도는 유지하면서 소요되는 시간과 비용은 8분의 1 수준으로 줄었다.
+박인용 한국표준과학연구원 미래선도연구장비그룹장 연구팀은 29일 주사전자현미경(SEM)으로 촬영한 생물학 시료의 2D 단면 이미지를 3D 구조로 형상화할 수 있는 AI 기반 영상 분할 알고리즘을 개발했다고 밝혔다.
+SEM은 분석 대상의 단층을 수십 나노미터 간격으로 연속 촬영한 후, 확보한 단면 이미지들을 결합해 3차원 입체 구조로 재구성하는 장비다. 이 장비는 미세한 세포 내부 구조를 고해상도로 정밀하게 관측할 수 있어 생명과학 연구와 의료 진단 분야에 널리 활용된다.
+영상 분할은 SEM으로 촬영한 이미지를 3차원 구조로 재구성하기 위한 전처리 과정이다. 각 단면 이미지에서 세포핵, 미토콘드리아 등 분석 대상의 정확한 위치와 형태를 구분하려면 이 과정이 필수다.
+기존에는 수백에서 수천 장에 이르는 단면 이미지를 전문가가 직접 확인하고 분석 대상을 수작업으로 표시하는 ‘지도학습’ 방식을 이용했다.
+이 방식은 막대한 시간과 인력이 필요하고, 연구자의 주관적 판단과 실수가 발생해 3차원 재구성 결과의 일관성·신뢰성을 확보하기 어렵다.
+표준연 연구팀이 개발한 알고리즘은 전체 이미지 데이터의 약 10%만 사람이 분석하면 나머지 부분은 AI가 자동으로 구조를 예측해 3D로 재구성한다. 실제 쥐 뇌세포 데이터를 대상으로 한 성능 시험에서 연구진이 개발한 알고리즘은 기존 방식과 정확도 차이가 3% 이내에 불과할 정도로 유사했다.
+윤달재 표준연 선임연구원은 “이번에 개발한 기술은 생물학 분야, 반도체 결함 분석, 신소재 개발 등 영상 분석 자동화가 필요한 다양한 분야에서 쓰일 수 있다”라며 “특히 개인정보 보호나 예산 부족 등으로 AI 학습데이터 확보가 어려운 영역에서 유용하게 활용할 수 있을 것”이라고 말했다.
+관련 연구결과는 현미경 영상 분석 분야 학술지인 ‘마이크로스코피 앤 마이크로애널리시스’에 지난 6월 게재됐다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[표준연 연구팀 성과 시간·비용 8분의 1로 생물학·신소재도 활용국내 연구팀이 생물학 시료의 2차원(2D) 단면 이미지를 3차원(3D) 구조로 형상화할 수 있는 인공지능(AI)을 개발했다. 사람이 하는 것에 비교해 분석 정확도는 유지하면서 소요되는 시간과 비용은 8분의 1 수준으로 줄었다. 박인용 한국표준과학연구원 미래선도연구장비그룹장 연구팀은 29일 주사전]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101401</code_id>
+<code_nm><![CDATA[과학일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101401</small_code_id>
+<small_code_nm><![CDATA[과학일반]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/29/news-p.v1.20250829.9fbbba6e837c4550bfbd1986f24f0c23_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 한국표준과학연구원 미래선도연구장비그룹. [사진=표준연]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11406313]]></article_url>
+</article>
+</saltlux>

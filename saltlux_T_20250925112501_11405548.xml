@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11405548</art_id>
+<art_year>2025</art_year>
+<art_no>616705</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-28 19:32:53</service_daytime>
+<title><![CDATA[러, 한밤중 우크라 수도 대규모 공격…어린이 포함 10명 사망]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[최아영 매경 디지털뉴스룸 기자(cay@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-28 19:32:53</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101007</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/28/rcv.YNA.20250828.PAF20250828201001009_P1.jpg' alt=''>
+러시아군이 우크라이나 수도 키이우에 대규모 미사일·드론 공격을 가해 어린이 등 최소 10명이 사망하고 48명이 부상했다.
+28일(현지시간) 로이터·AP통신은 우크라이나 측 발표를 인용해 이같이 밝혔다.
+이번 키이우 공격은 한밤중 드론과 순항·탄도미사일을 동원해 이뤄진 것으로, 주택가의 고층 아파트를 비롯해 여러 건물이 심하게 파손되고 시내 곳곳에 화재가 발생했다.
+티무르 트카츠헨코 키이우 군사행정청장은 “전형적인 러시아식 공격”이라며 “평범한 주택가 건물들을 겨냥해 여러 방향에서 합동 공격이 이뤄졌다”고 전했다.
+그는 키이우 시내에서 7개 지역 20여 곳에 공격 여파가 있었고, 시내 중심가의 쇼핑센터를 비롯해 약 100동의 건물이 파손됐다고 설명했다. 또 드니프로강 반대편의 아파트 두 동이 심각한 손상을 입었다면서 동쪽 교외지역에서도 5층 건물이 부분 파손됐고, 구조대가 출동해 매몰자를 수색하고 있다고 덧붙였다.
+볼로디미르 젤렌스키 우크라이나 대통령은 이날 사회관계망서비스(SNS) 엑스(X)에 게시물을 올려 러시아가 외교적 해결과 종전 대신 살상을 선택하고 있다며 러시아에 대한 강력한 제재를 촉구했다. 그는 또 “평화를 촉구하면서 주로 침묵을 지키고 있는 전세계 모두의 대응을 기대한다”고 강조했다.
+우크라이나도 러시아 에너지 시설에 대한 공격을 이어갔다. 우크라이나 측은 간밤에 러시아 남부 흑해연안의 크라스노다르 지역 아핍스키 정유공장과 사마라 지역 정유공장을 공격했다고 밝혔다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[러시아군이 우크라이나 수도 키이우에 대규모 미사일·드론 공격을 가해 어린이 등 최소 10명이 사망하고 48명이 부상했다. 28일(현지시간) 로이터·AP통신은 우크라이나 측 발표를 인용해 이같이 밝혔다. 이번 키이우 공격은 한밤중 드론과 순항·탄도미사일을 동원해 이뤄진 것으로, 주택가의 고층 아파트를 비롯해 여러 건물이 심하게 파손되고 시내 곳곳에 화재가 발]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101007</code_id>
+<code_nm><![CDATA[국제사건/사고]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101007</small_code_id>
+<small_code_nm><![CDATA[국제사건/사고]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101008</code_id>
+<code_nm><![CDATA[국제사회]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101008</small_code_id>
+<small_code_nm><![CDATA[국제사회]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/28/rcv.YNA.20250828.PAF20250828201001009_P1.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11405548]]></article_url>
+</article>
+</saltlux>

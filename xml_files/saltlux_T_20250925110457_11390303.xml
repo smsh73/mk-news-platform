@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11390303</art_id>
+<art_year>2025</art_year>
+<art_no>570721</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-11 10:05:51</service_daytime>
+<title><![CDATA[민주 “주식 양도세 대주주 기준 ‘50억원 유지’ 정부에 전달”]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[이상현 매경 디지털뉴스룸 기자(lee.sanghyun@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-11 10:05:51</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100701</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250811.82dbff463db04074bbbe374983d1a37c_P1.jpg' alt=' 한정애 더불어민주당 정책위의장. [사진 출처 = 연합뉴스]'>
+여당은 주식 양도소득세 과세 대상이 되는 대주주 기준을 기존의 ‘종목당 50억원 이상 보유’로 유지해야 한다는 의견을 정부에 전달했다.
+한정애 더불어민주당 정책위의장은 11일 국회에서 기자들과 만나 주식 거래 차익에 대해 양도소득세를 내야 하는 대주주 기준과 관련, 전날 열린 고위당정협의회에서 “건드리지 않았으면 좋겠다는 의견을 정부에 제시했다”고 말했다.
+한 정책위의장은 “정부에 복수 안 같은 것은 제시하지 않았다”며 “당내에도 이런저런 의견이 있었는데, (정부의 세제개편안은) 자본 시장의 흐름을 바꾸려는 것 아니냐는 것”이라고 설명했다.
+이어 “지금 주식 시장에 들어온 투자자 외에 부동산 투자하는 분들 등을 유인해 기업이 자본시장을 통해 자본을 제대로 조달받을 수 있게 한다면 결국 기업에도 도움이 될 것”이라며 “우리도 일반회계를 써서 기업을 지원하는 것을 줄일 수 있다”고 부연했다.
+그러면서 “당정협의 결과는 조금 더 논의가 필요하다는 것이었다”며 “충분하게 당의 의견을 전달했고, 당과 정부의 의견이 합치가 안 돼 논의를 더 하자는 것”이라고 했다.
+한 정책위의장은 이 같은 당정협의 결과를 이날 중 당내 ‘코스피5000특위’나 기획재정위원회 위원들에게도 전달할 예정이다.
+그는 “내년도 예산안 발표가 곧 있어서 기재부와는 이래저래 실무적으로 논의할 수 있고, 다음 당정 전까지는 (세제개편안 관련) 정리해야 하지 않나 싶다”고 덧붙였다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[여당은 주식 양도소득세 과세 대상이 되는 대주주 기준을 기존의 ‘종목당 50억원 이상 보유’로 유지해야 한다는 의견을 정부에 전달했다. 한정애 더불어민주당 정책위의장은 11일 국회에서 기자들과 만나 주식 거래 차익에 대해 양도소득세를 내야 하는 대주주 기준과 관련, 전날 열린 고위당정협의회에서 “건드리지 않았으면 좋겠다는 의견을 정부에 제시했다”고 말했다.]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100701</code_id>
+<code_nm><![CDATA[정치일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00302</middle_code_id>
+<middle_code_nm><![CDATA[정치]]></middle_code_nm>
+<small_code_id>MK100701</small_code_id>
+<small_code_nm><![CDATA[정치일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100706</code_id>
+<code_nm><![CDATA[국회]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00302</middle_code_id>
+<middle_code_nm><![CDATA[정치]]></middle_code_nm>
+<small_code_id>MK100706</small_code_id>
+<small_code_nm><![CDATA[국회]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100707</code_id>
+<code_nm><![CDATA[정당]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00302</middle_code_id>
+<middle_code_nm><![CDATA[정치]]></middle_code_nm>
+<small_code_id>MK100707</small_code_id>
+<small_code_nm><![CDATA[정당]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250811.82dbff463db04074bbbe374983d1a37c_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 한정애 더불어민주당 정책위의장. [사진 출처 = 연합뉴스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11390303]]></article_url>
+</article>
+</saltlux>

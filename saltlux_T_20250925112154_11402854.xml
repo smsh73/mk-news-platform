@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11402854</art_id>
+<art_year>2025</art_year>
+<art_no>608384</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-26 10:27:52</service_daytime>
+<title><![CDATA[노암 샤지어 “AI 혁명의 열쇠는 하드웨어와 스케일”]]></title>
+<sub_title><![CDATA[트랜스포머 공동 개발자
+거대언어모델 10년 회고
+“클수록 똑똑해진다”
+ 하드웨어·메모리·속도 관건]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[원호섭 기자(wonc@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-26 10:27:52</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">트랜스포머 공동 개발자<br>거대언어모델 10년 회고<br>“클수록 똑똑해진다”<br> 하드웨어·메모리·속도 관건</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/26/news-p.v1.20250826.fdae1be1fae345189f8806dd8bb409d5_P1.jpg' alt=' 노암 샤지어 구글 제미나이 리더가 25일 스탠퍼드대 강당에서 개최된 ‘핫칩스 2025’에서 청중의 질문에 답하고 있다. [사진=원호섭 기자]'>
+“인공지능(AI) 혁명은 하드웨어와 슈퍼컴퓨터(데이터센터) 없이는 불가능합니다.”
+구글 트랜스포머 공동 개발자인 노암 샤지어 구글 제미나이 AI 프로젝트 공동 리더는 26일(현지시간) 미국 스탠퍼드대에서 열린 ‘핫칩스 2025’에서 기조연설을 통해 AI 혁명의 근본 동력이 소프트웨어가 아닌 하드웨어와 대규모 훈련 인프라에 있다고 강조했다.
+샤지어 리더는 듀크대에서 수학·컴퓨터과학을 전공하고, 스탠퍼드대 전산학 석사를 거쳐 구글 브레인에 합류해 검색 알고리즘과 AI 연구를 이끌었다. 2017년 ‘어텐션 이스 올 유 니드(Attention Is All You Need)’ 논문을 통해 트랜스포머를 공동 개발하며 대규모 언어모델(LLM)의 시대를 열었다. 이후 스타트업 캐릭터AI를 창업했으나 2024년 구글이 인수하면서 재합류, 현재 제미나이 프로젝트를 이끌고 있다.
+그는 이날 행사에서 지난 10년간의 LLM 발전 과정을 정리했다. 샤지어 리더가 언어모델에 매료된 건 2015년이다. 그는 텍스트를 ‘정제된 추상적 사고’라고 표현하며 수많은 단어 속에서 ‘다음 단어 맞히기‘라는 단순한 문제 정의가 결국 AI의 본질을 건드릴 수 있다고 봤다.
+2017년 구글이 공개한 트랜스포머는 언어모델의 판도를 바꿨다. 문장 전체를 보면서 단어 간 관계를 동시에 파악하는 구조 덕분에 학습 효율이 크게 향상됐고, 이후 사실상 모든 LLM의 표준이 됐다.
+샤지어 리더는 2018년 실험 사례도 소개했다. 당시 3300만 개 매개변수(파라미터)를 가진 모델은 어설픈 문장만 만들었지만 50억 개 파라미터 모델은 훨씬 더 사실적이고 논리적인 문장을 만들어냈다. 그는 “이 경험은 ‘클수록 똑똑해진다’는 단순한 법칙을 업계에 각인시켰다”고 말했다. 이어 “LLM을 가로막는 세 가지 제약은 일반화 능력, 속도, 메모리”라며 “이 한계가 곧 AI 발전의 방향을 결정한다”고 덧붙였다.
+샤지어 리더의 핵심은 명확하다. AI의 성능은 알고리즘 자체보다는 연산 능력, 메모리, 네트워크 대역폭 등 하드웨어적 제약에서 결정된다는 것이다. 그는 연산 속도를 나타내는 ‘플롭스(FLOPs, 초당 부동소수점 연산량)’를 AI 지능 향상의 중요한 조건으로 꼽으며 더 강력한 컴퓨팅 인프라가 곧 더 ‘똑똑한’ AI로 이어진다고 분석했다.
+이는 최근 업계의 흐름과도 맞닿아 있다. 초거대 모델 훈련에서 GPU, TPU, 그리고 차세대 메모리 확보 경쟁이 기업 생존을 좌우하고 있기 때문이다. 샤지어 리더의 메시지는 AI 경쟁의 승부처가 소프트웨어 창의성보다 하드웨어 투자와 자원 동원력임을 다시 한번 확인시킨다.
+그는 AI가 현재 맞닥트린 문제를 크게 세 가지로 꼽았다. 첫째 데이터 품질 관리다. 모델이 훈련 데이터를 그대로 베끼거나 스스로 만든 결과물을 다시 학습하면 성능은 쉽게 왜곡된다. 둘째는 하드웨어와 소프트웨어 개발 주기의 엇갈림이다. 기업들이 당장 쓰이는 기능에 맞춘 하드웨어만 설계하고, 개발자들은 기존 하드웨어에 맞춰 코드를 짜면서 혁신이 지체된다는 문제다. 그는 위험 감수와 선제적 투자가 필요하다고 강조했다. 궁극적으로 샤지어는 AI가 인간 지식을 단순 모방하는 데 그치지 않고 인류가 아직 발견하지 못한 새로운 아이디어와 지식의 영역을 개척할 것이라고 전망했다. [실리콘밸리 원호섭 특파원]
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[트랜스포머 공동 개발자 거대언어모델 10년 회고 “클수록 똑똑해진다”  하드웨어·메모리·속도 관건“인공지능(AI) 혁명은 하드웨어와 슈퍼컴퓨터(데이터센터) 없이는 불가능합니다.” 구글 트랜스포머 공동 개발자인 노암 샤지어 구글 제미나이 AI 프로젝트 공동 리더는 26일(현지시간) 미국 스탠퍼드대에서 열린 ‘핫칩스 2025’에서 기조연설을 통해 AI 혁명의 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/26/news-p.v1.20250826.fdae1be1fae345189f8806dd8bb409d5_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 노암 샤지어 구글 제미나이 리더가 25일 스탠퍼드대 강당에서 개최된 ‘핫칩스 2025’에서 청중의 질문에 답하고 있다. [사진=원호섭 기자]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11402854]]></article_url>
+</article>
+</saltlux>

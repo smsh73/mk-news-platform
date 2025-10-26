@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11401848</art_id>
+<art_year>2025</art_year>
+<art_no>605142</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-25 10:02:25</service_daytime>
+<title><![CDATA[에버스핀, 피싱방지 보안 앱 ‘피싱블락’ 출시]]></title>
+<sub_title><![CDATA[AI가 수집한 앱 데이터 기반해
+악성·사칭 앱 설치만 해도 경고]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[이영욱 기자(leeyw@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-25 10:02:25</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101501</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">AI가 수집한 앱 데이터 기반해<br>악성·사칭 앱 설치만 해도 경고</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/25/news-p.v1.20250825.9dad76268c224d8493d072ad1b6bd08f_P1.png' alt=' 에버스핀의 안드로이드 보안 앱 ‘피싱블락’ [에버스핀]'>
+AI(인공지능)보안 기업 에버스핀이 개인 사용자도 쉽게 사용할 수 있는 안드로이드 보안 앱 ‘피싱블락’을 출시했다고 25일 밝혔다.
+최근 대형 포털 계정 탈취, 악성앱 유포, 위장 문자 등 일반 사용자를 직접 겨냥한 사이버 공격이 급증하고 있다. 통신사, 검찰, 경찰 사칭 , 부고장, 청첩장, 카드 배송 등을 통해 악성앱이 설치돼 일상생활에서 발생하는 스마트폰 해킹 범죄는 그 원인이 신종 악성앱 제작이 용이해 신종 악성앱이 끊임없이 배포된다. 기존 백신 앱이나 과거 피싱(해킹)피해를 일으킨 악성 앱 리스트만으로 차단하는데 한계가 있는 이유다.
+에버스핀은 이러한 악성앱 탐지 기술을 이용해 국민들이 악성앱에 의한 피싱(해킹) 피해를 줄이고자 B2C 전용 앱 ‘피싱블락’을 개발했다.
+피싱블락은 과거에 배포된 악성앱뿐만 아니라 신종 악성앱까지 모두 탐지할 수 있는 화이트리스트 방식을 활용한다. AI가 실시간으로 수집한 전 세계 모든 앱마켓의 정상 앱 데이터(2300만개 이상 정상앱 정보)와 960만개 이상의 악성앱 정보를 학습한 AI필터가 악성행위까지 정밀분석해 최종적으로 악성앱을 가려낸다. 이처럼 화이트리스트 기술은 단순한 블랙리스트 방식으로는 대응이 어려운 신종 악성앱 뿐만 아니라 위변조된 사칭 앱도 사전에 차단할 수 있는 기술로 국내 수많은 금융사 앱에 탑재되어 일평균 1700개의 신종 악성앱을 탐지·차단하고 있다.
+피싱블락은 최초 설치 후 스마트폰 내 앱을 전수 스캔하며, 이후 사용자가 새 앱을 설치할 때마다 실시간으로 악성 여부를 탐지한다. 앱을 실행하지 않더라도 악성 앱이 설치되기만 하면 즉시 탐지하고 사용자에게 알림을 제공, 악성 행위 유형까지 구체적으로 설명해 사용자가 이해하고 삭제할 수 있도록 돕는다. 또 악성앱이 설치되면 등록된 가족에게 알림이 전달되는 기능을 무료로 제공해 가족의 피싱피해까지 예방하는 효과가 있다.
+에버스핀 관계자는 “악성앱과 그 배포방식이 점점 고도화되고 있어 일반 사용자가 정상여부를 구분하기 매우 어려운 수준에 이르렀다”며 “피싱블락은 사전 예방에 초점을 둔 AI 기반 탐지 시스템으로, 개개인이 모바일 피싱범죄 및 금융사기를 원천적으로 예방할 수 있는 유일한 대안”이라고 설명했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[AI가 수집한 앱 데이터 기반해 악성·사칭 앱 설치만 해도 경고AI(인공지능)보안 기업 에버스핀이 개인 사용자도 쉽게 사용할 수 있는 안드로이드 보안 앱 ‘피싱블락’을 출시했다고 25일 밝혔다. 최근 대형 포털 계정 탈취, 악성앱 유포, 위장 문자 등 일반 사용자를 직접 겨냥한 사이버 공격이 급증하고 있다. 통신사, 검찰, 경찰 사칭 , 부고장, 청첩장, ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101501</code_id>
+<code_nm><![CDATA[모바일]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101501</small_code_id>
+<small_code_nm><![CDATA[모바일]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101505</code_id>
+<code_nm><![CDATA[보안/해킹]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101505</small_code_id>
+<small_code_nm><![CDATA[보안/해킹]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101508</code_id>
+<code_nm><![CDATA[빅데이터]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101508</small_code_id>
+<small_code_nm><![CDATA[빅데이터]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/25/news-p.v1.20250825.9dad76268c224d8493d072ad1b6bd08f_P1.png]]></image_url>
+<image_caption><![CDATA[ 에버스핀의 안드로이드 보안 앱 ‘피싱블락’ [에버스핀]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11401848]]></article_url>
+</article>
+</saltlux>

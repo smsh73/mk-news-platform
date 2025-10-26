@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11392394</art_id>
+<art_year>2025</art_year>
+<art_no>576959</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-13 09:00:23</service_daytime>
+<title><![CDATA[“그렇게 털고 다니던 북한 해커들, 이번엔 털렸다”…정찰총국 ‘김숙이’ 실체는?]]></title>
+<sub_title><![CDATA[국제 해커가 북한 해커 서버 해킹
+한국 정부, 기업 관련 정보도 확인]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[원호섭 기자(wonc@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-13 09:00:23</reg_dt>
+<mod_dt>2025-08-13 09:39:28</mod_dt>
+<art_org_class>MK101506</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">국제 해커가 북한 해커 서버 해킹<br>한국 정부, 기업 관련 정보도 확인</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/13/news-p.v1.20250813.9961d80deabe42cc8665f5c0a9ad612c_P1.png' alt=' 9 to 6 지키는 북한 해커…‘김숙이’ 조직 내부 활동 드러나 [그림=제미나이]'>
+북한 정부 소속 해커의 컴퓨터가 외부 해커들에게 뚫리며, 폐쇄적인 북한 해킹 작전의 실체 일부가 드러났다.
+12일(현지시간) IT전문매체 테크크런치는 ‘세이버’와 ‘사이보그’라는 국제 해커가 북한 해커 1명의 워크스테이션을 해킹했다고 보도했다. 관련 내용은 사이버 보안 잡지 ‘프랙’에 게재됐다.
+해당 컴퓨터에는 가상머신과 가상사설서버(VPS)가 포함돼 있었으며, 이 해커를 ‘김(Kim)’이라 부르고 있다. 두 해커는 김이 북한의 정찰총국 산하 해킹조직 ‘김숙이(Kimsuky, APT43·Thallium)’ 소속이라고 밝혔다.
+김숙이는 한국과 해외의 언론인·정부 기관, 그리고 북한 정보 당국이 관심을 가질 만한 표적을 공격해온 대표적인 ‘지속적 위협(APT)’ 조직으로 알려져 있다. 또한 암호화폐 탈취·세탁을 통해 북한의 핵무기 개발 자금을 조달하는 등 사이버 범죄형 작전도 병행해왔다.
+세이버와 사이보그는 “김숙이의 한 구성원을 직접 해킹한 사례는 거의 전례가 없으며, 이를 통해 중국 정부 해커와의 협력 정황, 공격 도구·기법 공유 사실까지 확인했다”라고 주장했다. 이들은 탈취한 데이터를 공익 목적으로 유출 자료를 보관하는 ‘디도시크릿(DDoSecrets)’에 제공했다.
+두 해커는 김숙이 조직을 “정치적 목적과 금전적 탐욕에 의해 움직이는 도덕적으로 타락한 집단”이라고 비난했다. 이어 “내부 매뉴얼·암호·한국 정부 및 민간 기업 네트워크 침해 기록, 이메일 주소, 해킹 도구 등을 확보했다”라고 밝혔다. 또한 김이 평양 시간 기준 오전 9시~오후 5시 정규 근무 시간에만 접속하는 등 일정한 근무 패턴을 보였다고 전했다.
+북한은 미국·국제사회의 제재를 받고 있어, 이번 해킹을 실행한 두 해커가 법적으로 처벌받을 가능성은 작다. 이번 사건은 북한 사이버 작전의 구체적 운영 방식과 외부 공조 관계를 드러낸 드문 사례로 평가된다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[국제 해커가 북한 해커 서버 해킹 한국 정부, 기업 관련 정보도 확인북한 정부 소속 해커의 컴퓨터가 외부 해커들에게 뚫리며, 폐쇄적인 북한 해킹 작전의 실체 일부가 드러났다. 12일(현지시간) IT전문매체 테크크런치는 ‘세이버’와 ‘사이보그’라는 국제 해커가 북한 해커 1명의 워크스테이션을 해킹했다고 보도했다. 관련 내용은 사이버 보안 잡지 ‘프랙’에 게재]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101506</code_id>
+<code_nm><![CDATA[스타트업]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101506</small_code_id>
+<small_code_nm><![CDATA[스타트업]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/13/news-p.v1.20250813.9961d80deabe42cc8665f5c0a9ad612c_P1.png]]></image_url>
+<image_caption><![CDATA[ 9 to 6 지키는 북한 해커…‘김숙이’ 조직 내부 활동 드러나 [그림=제미나이]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11392394]]></article_url>
+</article>
+</saltlux>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11383538</art_id>
+<art_year>2025</art_year>
+<art_no>551364</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-02 06:11:32</service_daytime>
+<title><![CDATA[‘교통위반 고지’ 경찰청 앱이라더니, 아뿔사…“이런 악성앱 하루 100건 넘게 찾아서 차단”]]></title>
+<sub_title><![CDATA[보이스피싱 대응 컨트롤타워 
+경찰·금융·통신 DB 통합해
+인공지능으로  분석해 대응]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[이소연 기자(lee.soyeon2@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-02 06:11:32</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100203</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">보이스피싱 대응 컨트롤타워 <br>경찰·금융·통신 DB 통합해<br>인공지능으로  분석해 대응</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/02/news-p.v1.20250801.6454dfbd81cf4f968d142fb0a36178cb_P1.jpg' alt=' 경기도 용인시 금융보안원 보안관제센터 상황실에서 직원들이 현황판을 보고 있다.  보안을 위해 현황판의 글자 등은 모두 모자이크 처리를 했다. [금융보안원 제공]'>
+까만색 화면에 뜬 빨간색 IP 주소(네트워크에 연결된 기기의 주소)가 깜빡이기 시작한다. 보이스피싱 의심 사이트다. 의심 사이트 경고가 뜨자 직원들의 움직임이 분주해졌다. 해당 사이트가 방문자의 개인정보를 빼내기 위한 ‘가짜 사이트’임이 확인되자 바로 사이트 접속을 차단했다.
+지난달 29일 방문한 경기 용인 금융보안원 보안관제센터 상황실에서 만난 조강유 금융보안원 침해위협대응팀 팀장은 “피해자가 가짜 사이트에서 개인정보를 입력하는 순간 정보는 범죄자에게 넘어가 보이스피싱에 활용된다”고 경고했다. 조 팀장이 차단한 사이트는 일반인이 제품 정보를 확인하고자 자주 찾는 소비자 관련 기관 누리집이었다. 언뜻 봐서는 가짜 사이트라고 생각할 수 없을 만큼 허점을 찾기 힘들었다.
+금융보안원 보안관제센터는 국내 금융회사 전자금융 시스템에 유입되는 침해 시도와 이상 트래픽을 30여 명의 직원이 24시간 365일 감시·분석하는 금융권 보안의 최전선이다. 330㎡(약 100평) 규모의 센터에는 50여 대의 컴퓨터와 55인치 모니터 40대가 상황실 전체 벽면을 가득 메우고 있었다. 이곳에선 국내 금융권을 겨냥한 수만 건의 해킹 시도와 피싱 사이트, 악성 애플리케이션을 찾아내 차단하고 있다.
+이날 기자가 방문한 보안관제센터 내에서는 10여 명의 관제센터 직원들이 모니터를 3대씩 앞에 두고 침해 시도를 감시하고 있었다. 스크린 한쪽에는 보이스피싱 의심 사이트 탐지를 알리는 문구가 뜨고, 다른 화면에는 해외에서 유입된 해커의 공격 현황이 실시간으로 올라왔다.
+보안관제센터 측은 이날도 100건에 달하는 보이스피싱 범죄 관련 악성 앱과 웹사이트 정보가 확인됐다고 설명했다. 한 관제센터 직원은 ‘경찰청 교통민원 24’와 유사한 스마트폰 앱 화면을 기자에게 보여줬다. ‘귀하에게 고지서(위반 사실 통지 및 과태료 부과 사전통지서)가 통지되었으니 확인하여 주시기 바랍니다’ 등 문구가 쓰여 있었다. 하지만 이것도 내려받는 즉시 보이스피싱 위험에 노출되는 악성 앱이었다. 이러한 앱이나 사이트가 확인되면 금융보안원에서 접속을 바로 차단하고 금융사들에 관련 정보를 공유한다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/02/news-p.v1.20241023.6e5467df6e944880863d558e86ee2a3f_P1.jpg' alt=' 생성형 인공지능(AI)이 큐싱(QR코드 피싱)의 위험성을 시각적으로 표현한 이미지. DALL-E'>
+정부가 보이스피싱과의 전면전을 선포하면서 금융보안원 관제센터의 역할도 더 커졌다.
+금융위원회는 금융보안원을 중심으로 금융사, 통신사, 경찰청 등 각 기관이 따로 보유하던 정보를 하나의 인공지능(AI) 기반 플랫폼에 통합하는 시스템을 구축하기로 했다.
+지금까지는 금융사별 의심 계좌 정보, 통신사의 악성 앱 유포 내역, 경찰청의 피해자 통화 기록 등이 흩어져 있어 연계 분석이 어려웠다. 이를 해결하기 위해 도입하는 것이 AI 플랫폼이다. 실제로 이 플랫폼이 가동되면 다수 금융사에 걸친 연쇄 이체 흐름, 악성 앱 유포 경로, 피해자 행동 패턴 등 모든 정보가 연결돼 하나의 ‘범죄 시나리오’로 분석할 수 있다는 것이 센터 측 설명이다.
+축적된 데이터를 기반으로 동일한 공격자의 반복 수법을 조기에 식별하고, 새롭게 등장한 악성 앱이나 가짜 사이트를 유사도 기반 탐지로 빠르게 잡아낼 수 있을 것으로 기대된다. 금융보안원이 실시간 데이터 허브이자 ‘디지털 범죄 조기경보 시스템’의 컨트롤타워로 자리 잡는 것이다.
+이를 위해 대응 수위도 과거에 비해 대폭 강화하고 있다. 이득기 금융보안원 보안관제팀장은 “이제는 해킹이 일어난 뒤에 막는 게 아니라 그전에 어떤 자산이 노출돼 있는지를 먼저 파악해 차단하는 방식으로 금융권 보안 수준을 한층 높여가고 있다”고 말했다.
+기존의 보안관제는 대부분 해킹이 시도된 이후 트래픽을 통해 이상 징후를 감지하는 방식이었다. 이와 달리 ‘공격표면관리(ASM·Attack Surface Management)’라는 새로운 방식은 해커가 침입을 시도하기도 전 외부에 노출된 서버나 오래된 웹페이지, 테스트용으로 남겨진 시스템 등 보안에 취약한 부분이 있는지를 먼저 찾아내고 선제적으로 대응하는 기술이다.
+과거에는 관리되지 않은 테스트 서버 하나, 닫히지 않은 포트 하나가 해커의 침입 통로가 되는 일이 실제로 많았다. ASM 시스템을 통해 금융보안원은 이제 해커가 공격에 이용할 수 있는 ‘열린 문’이 어디 있는지를 먼저 찾아내고, 사전에 잠그는 ‘문단속’ 역할까지 담당한다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[보이스피싱 대응 컨트롤타워  경찰·금융·통신 DB 통합해 인공지능으로 분석해 대응까만색 화면에 뜬 빨간색 IP 주소(네트워크에 연결된 기기의 주소)가 깜빡이기 시작한다. 보이스피싱 의심 사이트다. 의심 사이트 경고가 뜨자 직원들의 움직임이 분주해졌다. 해당 사이트가 방문자의 개인정보를 빼내기 위한 ‘가짜 사이트’임이 확인되자 바로 사이트 접속을 차단했다. ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100203</code_id>
+<code_nm><![CDATA[은행]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100203</small_code_id>
+<small_code_nm><![CDATA[은행]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/02/news-p.v1.20250801.6454dfbd81cf4f968d142fb0a36178cb_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 경기도 용인시 금융보안원 보안관제센터 상황실에서 직원들이 현황판을 보고 있다.  보안을 위해 현황판의 글자 등은 모두 모자이크 처리를 했다. [금융보안원 제공]]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/02/news-p.v1.20241023.6e5467df6e944880863d558e86ee2a3f_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 생성형 인공지능(AI)이 큐싱(QR코드 피싱)의 위험성을 시각적으로 표현한 이미지. DALL-E]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11383538]]></article_url>
+</article>
+</saltlux>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11402125</art_id>
+<art_year>2025</art_year>
+<art_no>606154</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-25 13:41:30</service_daytime>
+<title><![CDATA[“자전거길·숲길도 주소 생긴다”…행정안전부, 26일부터 도로명 부여 확대]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[박성렬 매경 디지털뉴스룸 인턴기자(salee6909@naver.com)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-25 13:41:30</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100801</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/25/news-p.v1.20250825.6be3a5cb976e469f8ae2ad935ce0e98e_P1.png' alt=' 서울 시내의 한 보행·자전거 전용교 [사진 = 서울시 제공]'>
+앞으로 한강변 등 도로법상 도로에 해당하지 않는 강변 자전거도로에도 도로명이 부여된다.
+25일 행정안전부는 이같은 내용을 담은 도로명주소법 시행령 개정안이 오는 26일부터 시행된다고 밝혔다.
+이번 개정으로 ‘자전거 이용 활성화에 관한 법률’에 따른 자전거도로가 도로명 부여 대상에 새롭게 포함됐다. 이에 따라 한강변 자전거도로를 비롯해 숲길 등에도 도로명을 부여할 수 있으며, 일반도로와는 다른 기준으로 도로구간을 설정할 수 있게 된다.
+행안부와 지자체는 2021년부터 강·하천변 자전거도로 위치 안내와 공중화장실·휴게소 등 주변 시설에 주소를 부여하기 위해 자전거도로 도로명 부여를 추진해 왔다. 그러나 지금까지는 도로법상 도로로 인정되지 않는 경우 법적 근거가 불명확해 제약이 있었다.
+또한 자전거도로와 숲길이 일반도로와 겹칠 경우, 다른 도로구간과 겹치지 않게 설정해야 하는 ‘중복 금지 원칙’ 때문에 하나의 노선을 여러 구간으로 분절해 도로명을 부여해야 했다. 이에 따라 ‘자전거길’, ‘탐방로’와 같은 국민에게 익숙한 노선명을 도로명에 반영하기 어려웠다.
+개정안은 이러한 문제를 해소해 자전거도로·숲길에 예외 규정을 적용, 국민에게 친숙한 노선명을 그대로 반영할 수 있도록 했다. 행안부는 이를 통해 자전거도로·숲길의 위치 안내 편의성이 향상되고 긴급 상황 대응도 빨라질 것으로 기대했다.
+김민재 행안부 차관은 “이번 개정은 도로명주소 제도의 법적 명확성과 현장 활용성을 함께 높이는 조치”라며 “앞으로도 지자체와 협력해 자전거도로와 숲길에 도로명을 부여해 국민 생활 안전에 기여하겠다”고 밝혔다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[앞으로 한강변 등 도로법상 도로에 해당하지 않는 강변 자전거도로에도 도로명이 부여된다. 25일 행정안전부는 이같은 내용을 담은 도로명주소법 시행령 개정안이 오는 26일부터 시행된다고 밝혔다. 이번 개정으로 ‘자전거 이용 활성화에 관한 법률’에 따른 자전거도로가 도로명 부여 대상에 새롭게 포함됐다. 이에 따라 한강변 자전거도로를 비롯해 숲길 등에도 도로명을 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100801</code_id>
+<code_nm><![CDATA[사회일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100801</small_code_id>
+<small_code_nm><![CDATA[사회일반]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/25/news-p.v1.20250825.6be3a5cb976e469f8ae2ad935ce0e98e_P1.png]]></image_url>
+<image_caption><![CDATA[ 서울 시내의 한 보행·자전거 전용교 [사진 = 서울시 제공]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11402125]]></article_url>
+</article>
+</saltlux>

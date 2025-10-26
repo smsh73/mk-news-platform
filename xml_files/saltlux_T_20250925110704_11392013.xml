@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11392013</art_id>
+<art_year>2025</art_year>
+<art_no>576002</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-12 17:50:51</service_daytime>
+<title><![CDATA[강원도 9월부터 ‘AI 당직원’ 도입한다]]></title>
+<sub_title><![CDATA[텍스트 변환해 부서에 전달
+긴급 상황 시 즉각 알림 전송]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[이상헌 기자(mklsh@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-12 17:50:51</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100801</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">텍스트 변환해 부서에 전달<br>긴급 상황 시 즉각 알림 전송</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/12/news-p.v1.20250812.e5ebb2fd62e740dba74f807f2c841a75_P1.jpg' alt=' 강원도청사. [강원도]'>
+강원도가 9월부터 ‘인공지능(AI) 당직원’을 전격 도입한다.
+강원도는 12일 도청 통상상담실에서 AI 당직원 시연회를 개최했다. 단순 민원 처리와 긴급상황 대응 통화, 민원 유형별 응대 절차 등이 시연됐다.
+AI당직원은 생성형 AI기반 음성봇 시스템으로 지속해서 데이터가 축적되며 학습·발전한다.
+민원 내용을 자동으로 텍스트로 변환해 담당 부서에 전달하고, 화재나 사고 등 긴급 상황 발생 시 담당 관리자에게 알림 문자와 경고음을 즉시 전송해 골든타임 내 대응을 돕는다.
+그동안 강원도에선 재난상황실 근무자 3명이 재난 대응과 당직 민원 업무를 병행해왔다. 이번에 AI당직원이 도입되면 재난 대응 본연의 업무에 더 집중할 수 있게 된다. 일부 악성 민원 응대에 대한 부담도 줄어들 것으로 기대된다.
+김진태 도지사는 “AI당직원 도입으로 공무원들은 본연 업무에 더욱 집중할 수 있고 회선도 1개에서 10개로 확대돼 민원처리 속도가 더욱 빨라질 것”이라며 “지속적인 학습으로 AI가 진화될수록 민원 처리 능력도 향상돼 도민 체감 만족도도 크게 높아질 것으로 기대한다”고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[텍스트 변환해 부서에 전달 긴급 상황 시 즉각 알림 전송강원도가 9월부터 ‘인공지능(AI) 당직원’을 전격 도입한다. 강원도는 12일 도청 통상상담실에서 AI 당직원 시연회를 개최했다. 단순 민원 처리와 긴급상황 대응 통화, 민원 유형별 응대 절차 등이 시연됐다. AI당직원은 생성형 AI기반 음성봇 시스템으로 지속해서 데이터가 축적되며 학습·발전한다. 민원]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100801</code_id>
+<code_nm><![CDATA[사회일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100801</small_code_id>
+<small_code_nm><![CDATA[사회일반]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/12/news-p.v1.20250812.e5ebb2fd62e740dba74f807f2c841a75_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 강원도청사. [강원도]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11392013]]></article_url>
+</article>
+</saltlux>

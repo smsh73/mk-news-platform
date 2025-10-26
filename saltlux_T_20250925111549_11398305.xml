@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11398305</art_id>
+<art_year>2025</art_year>
+<art_no>594722</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-20 15:35:07</service_daytime>
+<title><![CDATA[마이데이터 전분야 확대 앞두고…개인정보위 “혁신 기회” 한경협 “보완책 시급”]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김규식 기자(dorabono@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-20 15:35:07</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101505</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[개인정보보호위원회가 추진하는 전분야 마이데이터 사업을 두고 정부와 산업계의 입장이 엇갈리고 있다. 개인정보위는 20일 정부서울청사에서 기자단 브리핑을 열고 “전송요구권 확대는 데이터 활용을 통한 신산업 창출의 기회가 될 것”이라며 “시스템 구축에 최소 6개월 유예기간을 검토 중”이라고 밝혔다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/20/news-p.v1.20250820.6c2997fab40d4b7f82a932ee8de5986f_P1.png' alt=' 마이데이터 그래픽.'>
+개정안은 연 매출 1500억원 이상이면서 100만명 이상의 개인정보를 처리하는 사업자, 5만명 이상의 민감정보를 다루는 사업자를 포함해 약 680개 기업이 새롭게 의무 대상에 들어간다. 개보위는 스타트업과 중소기업은 제외되며, 대기업도 홈페이지에 다운로드 기능만 추가하면 돼 비용 부담이 크지 않다고 설명했다. 또 개인정보를 가공해 만든 분석 데이터는 전송 대상에서 제외돼 영업비밀 유출 우려도 낮다고 강조했다.
+반면 산업계는 충분한 준비기간과 보완책이 필요하다고 맞섰다. 한국경제인협회와 한국인터넷기업협회는 같은 날 공동 세미나를 열고 “개인정보 집중 관리 구조가 오히려 대규모 유출 위험을 키울 수 있다”고 반박했다. 전문가들은 △과잉 전송 승인으로 인한 소비자 피해 △스타트업 경쟁력 약화 △영업비밀·저작권 등 타법과의 충돌 △대규모 비용 부담 등을 지적하며 보완 입법을 촉구했다. 김창범 한경협 상근부회장은 개회사에서 “마이데이터를 적용하는 산업을 확대하는 과정에서 개인이 원하지 않는 정보가 유출되고, 기업이 쌓아온 영업기밀이 유출될 수 있다”며 “이러한 부작용이 최소화할 수 있도록 충분한 준비기간을 가질 필요가 있다”고 밝혔다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[개인정보보호위원회가 추진하는 전분야 마이데이터 사업을 두고 정부와 산업계의 입장이 엇갈리고 있다. 개인정보위는 20일 정부서울청사에서 기자단 브리핑을 열고 “전송요구권 확대는 데이터 활용을 통한 신산업 창출의 기회가 될 것”이라며 “시스템 구축에 최소 6개월 유예기간을 검토 중”이라고 밝혔다. 개정안은 연 매출 1500억원 이상이면서 100만명 이상의 개인]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101505</code_id>
+<code_nm><![CDATA[보안/해킹]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101505</small_code_id>
+<small_code_nm><![CDATA[보안/해킹]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/20/news-p.v1.20250820.6c2997fab40d4b7f82a932ee8de5986f_P1.png]]></image_url>
+<image_caption><![CDATA[ 마이데이터 그래픽.]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11398305]]></article_url>
+</article>
+</saltlux>

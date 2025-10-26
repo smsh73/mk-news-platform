@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11382926</art_id>
+<art_year>2025</art_year>
+<art_no>549660</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-01 12:31:08</service_daytime>
+<title><![CDATA[中, 4월 관세전쟁 후 대미투자 승인 ‘올스톱’]]></title>
+<sub_title><![CDATA[닛케이아시아 소식통 인용 
+당국 對美 신규 투자 불허 
+“美 외인투자엔 영향 작아”]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[송광섭 특파원(song.kwangsub@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-01 12:31:08</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101001</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">닛케이아시아 소식통 인용 <br>당국 對美 신규 투자 불허 <br>“美 외인투자엔 영향 작아”</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/01/news-p.v1.20250801.ccfea804c245473e80c71b4aaa6fc91d_P1.png' alt=' 도늘드 트럼프 미국 대통령과 시진핑 중국 국가주석. &lt;AFP연합&gt;'>
+중국 당국이 미·중 무역전쟁이 본격화한 뒤 자국 기업들의 대미국 투자 승인을 중단했다고 닛케이아시아가 1일 보도했다.
+닛케이아시아는 사안에 정통한 관계자를 인용해 중국 국가발전개혁위원회(발개위)와 지방정부가 지난 4월부터 미국 현지에 사업체를 세우거나 기존 미국 사업을 확장하려는 자국 기업들에게 허가를 내주지 않고 있다고 전했다.
+통상 해외에서 3억달러(약 4200억원) 이상의 투자 프로젝트를 진행하는 중국 기업은 발개위나 상무부 등의 승인을 받아야 한다. 3억달러 미만인 경우에는 지방정부에 신고하도록 돼 있다.
+그러나 지난 4월 이후에는 승인 대상이든 신고 대상이든 모두 허가를 내주지 않고 있다는 것이다. 이에 대해 중국 당국은 아무런 설명을 하지 않고 있다고 닛케이아시아는 설명했다.
+중국 기업들의 해외 진출을 지원하는 한 컨설턴트는 “미국에서 진행 중이던 여러 중국 기업의 제조업 프로젝트가 중단됐다”고 말했다.
+다만, 전문가들은 이러한 조치가 미국 내 외국인 투자에는 큰 영향이 없다고 진단했다. 이미 중국의 대미 투자가 10년래 최저 수준까지 감소했기 때문이다.
+미국 리서치업체 로디움그룹에 따르면, 중국의 대미 신규 투자 규모는 2016년 500억달러(약 70조원)를 웃돌며 최고치를 기록한 뒤 꾸준히 줄어 지난해에는 32억달러(약 4조원)에 그쳤다.
+베이징 송광섭 특파원
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[닛케이아시아 소식통 인용  당국 對美 신규 투자 불허  “美 외인투자엔 영향 작아”중국 당국이 미·중 무역전쟁이 본격화한 뒤 자국 기업들의 대미국 투자 승인을 중단했다고 닛케이아시아가 1일 보도했다. 닛케이아시아는 사안에 정통한 관계자를 인용해 중국 국가발전개혁위원회(발개위)와 지방정부가 지난 4월부터 미국 현지에 사업체를 세우거나 기존 미국 사업을 확장하]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101001</code_id>
+<code_nm><![CDATA[국제정치]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101001</small_code_id>
+<small_code_nm><![CDATA[국제정치]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101002</code_id>
+<code_nm><![CDATA[국제경제]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101002</small_code_id>
+<small_code_nm><![CDATA[국제경제]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/01/news-p.v1.20250801.ccfea804c245473e80c71b4aaa6fc91d_P1.png]]></image_url>
+<image_caption><![CDATA[ 도늘드 트럼프 미국 대통령과 시진핑 중국 국가주석. &lt;AFP연합&gt;]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11382926]]></article_url>
+</article>
+</saltlux>

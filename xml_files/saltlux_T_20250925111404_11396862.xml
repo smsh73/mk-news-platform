@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11396862</art_id>
+<art_year>2025</art_year>
+<art_no>590191</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-19 10:43:07</service_daytime>
+<title><![CDATA[SK AX, HD Korea Shipbuilding team up to bring AI to shipyards]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-19 10:43:07</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK400111</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/19/news-p.v1.20250819.d1ba755edcd24478afd7c4ce12520669_P1.png' alt=' (SK AX)'>
+SK AX said on Monday that it signed a memorandum of understanding with HD Korea Shipbuilding & Offshore Engineering to jointly promote “Agentic AI” applications in shipbuilding and marine manufacturing.
+Under the agreement, SK AX will apply AI solutions across the entire shipbuilding process - from design to delivery - based on its expertise in manufacturing AI. The centerpiece of the project is the development of AI agents that replicate the judgment and execution of human experts in design and production.
+The company also plans to integrate cloud-based systems to collect and analyze data in real time, enhancing control over production processes. This will reduce construction timelines, cut costs and labor, and improve quality as well as safety.
+HD Korea Shipbuilding will provide real-world shipyard environments and technical expertise, while the two companies will form a joint task force to carry out all the project’s stages, including planning, testing, and commercialization.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[SK AX said on Monday that it signed a memorandum of understanding with HD Korea Shipbuilding & Offshore Engineering to jointly promote “Agentic AI” applications in shipbuilding and marine manufacturin]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK400111</code_id>
+<code_nm><![CDATA[Biz]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00308</middle_code_id>
+<middle_code_nm><![CDATA[English]]></middle_code_nm>
+<small_code_id>MK400111</small_code_id>
+<small_code_nm><![CDATA[Biz]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/19/news-p.v1.20250819.d1ba755edcd24478afd7c4ce12520669_P1.png]]></image_url>
+<image_caption><![CDATA[ (SK AX)]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11396862]]></article_url>
+</article>
+</saltlux>

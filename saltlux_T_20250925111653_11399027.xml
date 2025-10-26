@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11399027</art_id>
+<art_year>2025</art_year>
+<art_no>596579</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-21 10:26:32</service_daytime>
+<title><![CDATA[Korea kickstarts efforts to realize Sovereign AI]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-21 10:26:32</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK400109</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250821.4dadc65a408c49bcb31ae362da63612f_P1.png' alt=' SK telecom CI'>
+South Korean artificial intelligence (AI) semiconductors are achieving commercialization, signaling the tangible realization of Sovereign AI from AI chips to large language models (LLMs) and real-world services.
+Multiple sources from the information technology (IT) industry said on Wednesday that SK telecom Co. is replacing the servers for its pet X-ray diagnostic assistance service X Caliber with ATOM, a neural processing unit (NPU) developed by local startup Rebellions Inc. Full-scale operations will begin at the end of August 2025. While domestic NPUs have been commercialized before, applying them to a service with a large user base like X Caliber is unprecedented.
+Developed with SK telecom’s own AI technology, more than 1,000 veterinary hospitals nationwide currently use X Caliber. It analyzes animals’ chest, abdominal, and musculoskeletal X-ray images and delivers results within 15 seconds.
+The system automatically detects 45 types of radiographic findings - including 33 dog breeds and 12 cat breeds - and measures heart size and shape. Its accuracy rate is as high as 97 percent.
+When X Caliber launched in September 2022, it ran on Nvidia Corp. GPUs. As these servers aged, SK telecom switched to Rebellions’ NPU after confirming its stable performance via trials.
+“We transitioned X Caliber’s AI inference infrastructure from Nvidia GPUs to Rebellions’ ATOM,” an SK telecom official said. “We built a commercial infrastructure consisting of six servers, each equipped with 48 NPUs.”
+Beyond X Caliber, SK telecom is also testing the use of Rebellions’ NPU in its AI service Adot, applying it experimentally to call summarization, spam blocking, and financial services.
+Earlier, KT Cloud incorporated Rebellions’ ATOM into its cloud infrastructure, supporting the services provided by its education platform company Smart & Wise. Despite its small scale, this case demonstrates successful commercialization and shows Rebellions’ NPU is finding more applications.
+Fellow domestic AI semiconductor startup FuriosaAI Inc. is also making strides with its second-generation NPU, RNGD, adopted into LG AI Research’s LLM EXAONE 3.5. The product was approved for commercialization Following eight months of evaluation, receiving assessments that its performance per watt exceeds GPUs by more than twofold.
+FuriosaAI also secured its first overseas customer by supplying AI chips to U.S. streaming and cloud company Sivoo Inc., the first overseas commercialization of a Korean AI semiconductor.
+With these achievements, observers noted that Korea’s AI semiconductor commercialization is gradually shaping a domestic AI industry structure.
+NPUs - specialized for certain inference operations - deliver excellent power efficiency and significantly lower costs, making them a partial alternative to GPUs. They also offer higher performance efficiency per watt compared to GPUs in fields requiring repetitive computation such as healthcare, education, and telecommunications.
+NPUs are drawing attention as an alternative as power consumption and cost burdens at data centers rise, but the IT industry believes NPUs cannot fully replace GPUs. GPUs excel at general-purpose computation and the CUDA platform developed by Nvidia has become the de facto industry standard, while global big tech companies also design their massive AI models to be optimized for GPUs.
+Analysts therefore predict that Korea’s Sovereign AI will likely evolve into a “dual structure,” with GPUs and NPUs sharing roles.
+“If NPUs are like motorcycles optimized for specific purposes, GPUs are like large trucks capable of handling any load,” an industry official said. “Korea can strategically leverage NPUs in targeted fields.”
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[South Korean artificial intelligence (AI) semiconductors are achieving commercialization, signaling the tangible realization of Sovereign AI from AI chips to large language models (LLMs) and real-worl]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK400109</code_id>
+<code_nm><![CDATA[Bio&Tech]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00308</middle_code_id>
+<middle_code_nm><![CDATA[English]]></middle_code_nm>
+<small_code_id>MK400109</small_code_id>
+<small_code_nm><![CDATA[Bio&Tech]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250821.4dadc65a408c49bcb31ae362da63612f_P1.png]]></image_url>
+<image_caption><![CDATA[ SK telecom CI]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11399027]]></article_url>
+</article>
+</saltlux>

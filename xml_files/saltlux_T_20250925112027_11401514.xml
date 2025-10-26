@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11401514</art_id>
+<art_year>2025</art_year>
+<art_no>604257</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-24 17:53:02</service_daytime>
+<title><![CDATA[LG유플, 경찰청과 보이스피싱 근절 맞손]]></title>
+<sub_title><![CDATA[의심 데이터 취합, 경찰청 공유<br>피해자 긴급도움 받을 수 있게<br>전국 매장 현장 대피소로 운영]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[안선제 기자(ahn.sunje@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250825</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>16</pub_page>
+<reg_dt>2025-08-24 17:53:02</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101502</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/25/20250825_01110116000003_L00.jpg' alt='홍범식 LG유플러스 대표(오른쪽)와 박성주 경찰청 국가수사본부장이 지난 22일 LG유플러스 용산 사옥에서 보이스피싱 예방 업무협약을 체결하고 있다.  LG유플러스'>
+
+LG유플러스가 경찰청과 손잡고 보이스피싱 근절에 나선다. LG유플러스는 경찰청과 지난 22일 '인공지능(AI) 기술 활용 민생범죄 예방을 위한 업무협약'을 체결했다고 24일 밝혔다. 이번 협업은 기술 협력이나 정보 공유를 넘어 보이스피싱을 체계적으로 차단하기 위해 추진됐다. 
+LG유플러스는 통신 인프라스트럭처에서 탐지되는 이상 패턴과 악성 앱 제어 서버 로그, 의심 문자 착신 번호, 중계기 단말 정보 등 보이스피싱 관련 데이터를 제공하고 경찰청은 이를 자체 범죄 데이터베이스(DB) 및 수사 정보와 연계해 실시간 대응 체계를 강화할 방침이다. 특히 LG유플러스는 AI 앱 '익시오(ixi-O)'의 보이스피싱 탐지 기능을 활용해 확보한 피싱 의심 데이터를 경찰청과 공유함으로써 피싱 범죄에 대한 사전 인지부터 즉각적인 대응, 사후 추적으로 이어지는 체계를 다질 계획이다. LG유플러스 관계자는 "보이스피싱 예방을 위해 경찰청과 민간 기업이 협업한 사례는 기존에도 있었지만, AI 기술을 활용한 협업은 국내 통신 사업자 중 유일하다"고 강조했다.
+보이스피싱·스미싱 등 피해 고객 보호에도 협력한다. 양측은 LG유플러스 매장을 피해 고객의 '1차 대피소'로 지정하고, 추가 피해를 막기 위한 초동 대응부터 경찰 인계로 이어지는 긴급 대응 프로세스를 마련한다. 
+[안선제 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[LG유플러스가 경찰청과 손잡고 보이스피싱 근절에 나선다. LG유플러스는 경찰청과 지난 22일 '인공지능(AI) 기술 활용 민생범죄 예방을 위한 업무협약'을 체결했다고 24일 밝혔다. 이번 협업은 기술 협력이나 정보 공유를 넘어 보이스피싱을 체계적으로 차단하기 위해 추진됐다. 
+LG유플러스는 통신 인프라스트럭처에서 탐지되는 이상 패턴과 악성 앱 제어 서버 로그, 의심 문자 착신 번호, 중계기 단말 정보 등 보이스피싱 관련 데이터를 제공하고 경찰청은 이를 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101502</code_id>
+<code_nm><![CDATA[통신]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101502</small_code_id>
+<small_code_nm><![CDATA[통신]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/25/20250825_01110116000003_L00.jpg]]></image_url>
+<image_caption><![CDATA[홍범식 LG유플러스 대표(오른쪽)와 박성주 경찰청 국가수사본부장이 지난 22일 LG유플러스 용산 사옥에서 보이스피싱 예방 업무협약을 체결하고 있다.  LG유플러스]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11401514]]></article_url>
+</article>
+</saltlux>

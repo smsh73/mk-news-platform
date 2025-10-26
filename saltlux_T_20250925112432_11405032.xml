@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11405032</art_id>
+<art_year>2025</art_year>
+<art_no>615350</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-28 14:19:53</service_daytime>
+<title><![CDATA[“제2의 상대성이론, AI로 찾는다”…아스테로모프, 과학적 초지능 모델 공개]]></title>
+<sub_title><![CDATA[초지능 모델 ‘스페이서’ 공개
+AI로 미래 과학기술 IP 선점]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[이영욱 기자(leeyw@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-28 14:19:53</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101401</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">초지능 모델 ‘스페이서’ 공개<br>AI로 미래 과학기술 IP 선점</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/28/news-p.v1.20250828.89aea264f1d54de098c8eaa70f92c370_P1.jpg' alt=' 스페이서(Spacer)의 ‘설계된 과학적 영감(Engineered Scientific Inspiration)’ 접근 방식의 모식도. [아스테로모프]'>
+국내 인공지능(AI) 스타트업이 스스로 새로운 과학 개념을 발굴하는 모델을 개발해 공개했다.
+아스테로모프는 과학적 초지능 모델 ‘스페이서(Spacer)’의 초기 연구 결과를 담은 테크리포트를 28일 논문 사전 공개 사이트인 ‘아카이브(arXiv)’에 발표했다.
+‘스페이서’의 작동 원리는 정보의 의도적 탈맥락화다. 즉, 거대언어모델(LLM)의 지식·추론 능력을 활용하지만 서로 낯선 키워드들을 던져주고 그 사이의 연결고리를 찾도록 유도하는 과정에서 새로운 과학적 개념을 도출해낸다. 이는 인간이 설정한 목표와 탐색공간 안에서만 작동하던 기존 과학 AI의 한계를 넘어 인공지능 스스로 새로운 패러다임 전환을 주도하게 하려는 시도다.
+테크리포트에는 ‘스페이서’가 발견한 생물학 분야 개념 3개가 수록됐다. 아스테로모프는 향후 50여 개를 추가로 공개할 예정이다. ‘스페이서’의 핵심은 그래프 이론을 기반으로 잠재력이 높은 키워드 조합을 찾아내는 영감 엔진 ‘누리(Nuri)’다.
+일례로 ‘스페이서’는 간암세포의 증식을 억제할 구체적인 실험 계획을 제시했다. 세포 내에 미세한 칼슘 주입을 통해 암세포의 흐트러진 리듬을 정상세포처럼 되돌려 건강한 세포로 복구하려는 가설로, 실험에 필요한 시약, 장비, 성공 기준까지 AI가 모두 설계해 즉시 실행 가능한 수준이다.
+아스테로모프는 ‘스페이서’를 고도화해 내년 상반기부터는 ‘더라이브러리’ 구축을 본격화할 예정이다. ‘더라이브러리’는 AI가 발견한 새로운 과학 개념을 체계적으로 정리해 제공하는 웹사이트다.
+전 세계 연구자들은 논문 출판 등 학술 목적으로 자유롭게 이용할 수 있다. 다만 더라이브러리의 출판물을 기반으로 특허를 내거나 상업화할 경우 라이선스 계약을 통해 기술료를 지불해야한다. 특히 인간-컴퓨터 인터페이스나 알츠하이머 치료제, 가상세포모델 아키텍처 등 고부가가치 기술은 아스테로모프가 외부 전문기관과 협력해 직접 상업화에 나설 계획이다.
+아스테로모프는 지난 2월 과학적 초지능(Scientific Superintelligence) 개발을 위해 설립된 신생 연구 스타트업이다. 창업 1개월 만에 한국투자파트너스, 미래에셋벤처투자, 퓨처플레이로부터 50억원 규모의 시드 투자를 유치했다.
+이민형 아스테로모프 대표는 “AI가 과학자들의 유용한 도구 역할을 넘어 기술 발전을 전면 주도해 전례없는 속도의 과학적 발견과 진보를 일으킬 날이 머지 않았다”며 “독자 파운데이션 모델 확보 뿐만 아니라 AI의 실질적인 파급력과 그 결과물에 기반한 패권확보를 고민해야하는 때”라고 밝혔다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[초지능 모델 ‘스페이서’ 공개 AI로 미래 과학기술 IP 선점국내 인공지능(AI) 스타트업이 스스로 새로운 과학 개념을 발굴하는 모델을 개발해 공개했다. 아스테로모프는 과학적 초지능 모델 ‘스페이서(Spacer)’의 초기 연구 결과를 담은 테크리포트를 28일 논문 사전 공개 사이트인 ‘아카이브(arXiv)’에 발표했다. ‘스페이서’의 작동 원리는 정보의 의]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101401</code_id>
+<code_nm><![CDATA[과학일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101401</small_code_id>
+<small_code_nm><![CDATA[과학일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101402</code_id>
+<code_nm><![CDATA[의료/건강]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101402</small_code_id>
+<small_code_nm><![CDATA[의료/건강]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101506</code_id>
+<code_nm><![CDATA[스타트업]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101506</small_code_id>
+<small_code_nm><![CDATA[스타트업]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/28/news-p.v1.20250828.89aea264f1d54de098c8eaa70f92c370_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 스페이서(Spacer)의 ‘설계된 과학적 영감(Engineered Scientific Inspiration)’ 접근 방식의 모식도. [아스테로모프]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11405032]]></article_url>
+</article>
+</saltlux>

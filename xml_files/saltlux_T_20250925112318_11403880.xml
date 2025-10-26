@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11403880</art_id>
+<art_year>2025</art_year>
+<art_no>611462</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-27 10:43:47</service_daytime>
+<title><![CDATA[넵튠, SSG닷컴에 기업용 채팅 솔루션 ‘클랫’ 공급]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>60</media_code>
+<writers><![CDATA[안희찬 게임진 기자(chani@mkinternet.com)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-27 10:43:47</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>GM900202</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/27/news-p.v1.20250827.cb9d5cd64afc4ec5827dde26586af371_P1.jpg' alt='클랫 x SSG 닷컴'>
+넵튠(대표 강율빈)이 신세계그룹의 통합 온라인 쇼핑 플랫폼 SSG닷컴에 기업용 채팅 솔루션 ‘클랫(KLAT)’ 공급 계약을 체결했다고 27일 밝혔다.
+이번 클랫 도입을 통해 SSG닷컴은 배송변경, 주문취소, 이벤트 안내 등 고객들의 단순 문의 건에 대해 실시간으로 처리해왔던 채팅 상담 서비스를 이전 대비 50% 가량 저렴한 비용에 고객 대응 속도와 품질 향상까지 기대할 수 있게 됐다.
+넵튠은 SSG닷컴의 기술 파트너로 협력, 향후 SSG닷컴에서 추진하는 채팅 관련 다양한 서비스 개발 방향에 맞춰 최적화된 솔루션을 구축할 수 있도록 협업 범위를 확대해 나갈 계획이다.
+클랫은 출시 5년 만에 200여 개 고객사를 확보한 채팅 SaaS 솔루션으로 ▲기업 맞춤형 인프라 구축 ▲사용량 기반 과금 ▲메시지 저장 용량 및 기간 무제한 제공 등을 기반으로 KT알파, 한화시스템, 롯데이노베이트, 스포티비 등 대형 고객사에서 도입해 운영 중이다.
+SSG닷컴 장원주 데이터 담당은 “클랫을 통해 비용 체계를 개선하고 국내 파트너와의 긴밀한 협업으로 서비스 안정성을 강화할 수 있을 것으로 기대한다”고 말했다.
+넵튠 권진형 클랫 총괄팀장은 “클랫의 검증된 기술력은 물론 고객사 환경에 맞춘 유연한 커스터마이징이 부각되면서 클랫을 도입하는 대형 고객사들이 꾸준하게 늘고 있는 추세”라고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[넵튠(대표 강율빈)이 신세계그룹의 통합 온라인 쇼핑 플랫폼 SSG닷컴에 기업용 채팅 솔루션 ‘클랫(KLAT)’ 공급 계약을 체결했다고 27일 밝혔다. 이번 클랫 도입을 통해 SSG닷컴은 배송변경, 주문취소, 이벤트 안내 등 고객들의 단순 문의 건에 대해 실시간으로 처리해왔던 채팅 상담 서비스를 이전 대비 50% 가량 저렴한 비용에 고객 대응 속도와 품질 향]]></summary>
+</wms_article_summary>
+<stock_codes>
+<stock_code>217270</stock_code>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>GM900202</code_id>
+<code_nm><![CDATA[상장사뉴스]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>GM900202</small_code_id>
+<small_code_nm><![CDATA[상장사뉴스]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/27/news-p.v1.20250827.cb9d5cd64afc4ec5827dde26586af371_P1.jpg]]></image_url>
+<image_caption><![CDATA[클랫 x SSG 닷컴]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11403880]]></article_url>
+</article>
+</saltlux>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11388232</art_id>
+<art_year>2025</art_year>
+<art_no>565632</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-07 22:56:23</service_daytime>
+<title><![CDATA[트럼프 “인텔 CEO, 즉각 사임해야”...중국 관련 우려에 압박]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[방영덕 매경 디지털뉴스룸 기자(byd@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-07 22:56:23</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100301</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/07/news-p.v1.20250807.865d65b104e24f968807092f4ccfd1ec_P1.jpg' alt=' 립부 탄 인텔 최고경영자(CEO) [사진출처 = 뉴스1]'>
+도널드 트럼프 미국 대통령은 7일(현지시간) 중국과 관련이 있다는 의혹이 제기된 립부 탄 인텔 최고경영자(CEO)의 해임을 촉구했다.
+트럼프 대통령은 이날 사회관계망서비스(SNS) 트루스소셜에서 인텔의 CEO가 이해 충돌 문제가 커 즉각 사임해야 한다고 주장했다.
+앞서 미국 상원 정보위원회 위원장인 톰 코튼(공화·아칸소) 의원은 인텔 이사회에 서한을 보내 탄 CEO가 중국공산당 및 중국군과 관련 있는 것으로 알려진 반도체 기업들과 연관됐다는 의혹을 제기하며 해명을 요구했다.
+말레이시아 태생 중국계 미국인인 탄은 미국 MIT를 졸업하고 미국에 귀화했다. 반도체 기업 케이던스 디자인 시스템즈 CEO를 지냈으며 지난 3월 팻 겔싱어 후임으로 인텔 CEO에 취임했다. 반도체 업계 전문가로 평가받는 탄 CEO는 경영난 등으로 어려움을 겪고 있는 인텔을 부활시킬 구원투수로 주목받았다.
+미국 상무부는 지난달 28일 케이던스 디자인 시스템즈가 중국의 군 현대화와 핵무기 개발에 필요한 슈퍼컴퓨터를 개발하는 중국 대학 등에 민감한 기술을 이전해 수출통제 규제를 위반했다고 밝혔다. 당시 이 회사의 CEO가 탄이었다.
+탄 CEO는 또 자신이 운영하는 벤처펀드를 통해 수백개의 중국 기업에 투자하고 있는 것으로도 알려졌다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[도널드 트럼프 미국 대통령은 7일(현지시간) 중국과 관련이 있다는 의혹이 제기된 립부 탄 인텔 최고경영자(CEO)의 해임을 촉구했다. 트럼프 대통령은 이날 사회관계망서비스(SNS) 트루스소셜에서 인텔의 CEO가 이해 충돌 문제가 커 즉각 사임해야 한다고 주장했다. 앞서 미국 상원 정보위원회 위원장인 톰 코튼(공화·아칸소) 의원은 인텔 이사회에 서한을 보내 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100301</code_id>
+<code_nm><![CDATA[기업 경영]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100301</small_code_id>
+<small_code_nm><![CDATA[기업 경영]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101002</code_id>
+<code_nm><![CDATA[국제경제]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101002</small_code_id>
+<small_code_nm><![CDATA[국제경제]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101003</code_id>
+<code_nm><![CDATA[국제산업]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101003</small_code_id>
+<small_code_nm><![CDATA[국제산업]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/07/news-p.v1.20250807.865d65b104e24f968807092f4ccfd1ec_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 립부 탄 인텔 최고경영자(CEO) [사진출처 = 뉴스1]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11388232]]></article_url>
+</article>
+</saltlux>

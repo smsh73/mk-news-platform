@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11386702</art_id>
+<art_year>2025</art_year>
+<art_no>561576</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-06 16:01:47</service_daytime>
+<title><![CDATA['도플갱어AI'에 속내 털어놓는 고객들 … 마케팅 판이 바뀐다 [이승윤의 디지털로 읽다]]]></title>
+<sub_title><![CDATA[日광고사 '디지털 트윈' 활용<br>7천여 고객취향 기반 AI 개발<br>일상대화 통해 숨은 니즈 파악<br>설문조사·전화면접 한계 넘어]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250807</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>02</pub_section>
+<pub_page>5</pub_page>
+<reg_dt>2025-08-06 16:01:48</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK300111</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/07/20250807_01110205000003_L00.jpg' alt='게티이미지뱅크'>
+
+'사람들은 자신이 무엇을 원하는지 보여주기 전에는 알지 못한다(People don't know what they want until you show it to them).'
+스티브 잡스가 남긴 유명한 이 인용문은, 고객은 말로는 자신의 욕구를 설명하지 못하는 경우가 많고 보여줄 때 비로소 깨닫는다는 의미를 담고 있다. 오늘날 많은 기업들은 고객이 말하지 않는 욕구를 찾아내기 위해서 인공지능(AI) 기반의 디지털 트윈 소비자 모델링에 주목하고 있다. 고객의 디지털 트윈(DToC, a Digital Twin of a Customer)이란 실제 고객의 과거 구매 이력, 검색 패턴, 소셜미디어 활동 형태, 인구 통계학적인 정보 등 다양한 데이터를 통합해 디지털상에 존재하는 고객 '가상 복제본'을 만들어내는 기술이다. 이는 고객을 시뮬레이션 가능한 디지털 존재로 다루며, 다양한 데이터를 종합 분석해 해당 고객을 디지털 공간에 재현함으로써 예측 가능한 마케팅 시나리오를 다양한 방식으로 테스트할 수 있도록 해줄 것이다.
+하쿠호도는 1895년에 설립된 일본의 대표적인 종합 광고 및 마케팅 커뮤니케이션 기업이다. 이 회사는 디지털 전환 시기를 맞이하여 최근 들어 AI 기술을 활용한 소비자 인사이트 발굴에 주력하고 있다. 하쿠호도는 생성형 AI를 '상상력'의 도구로 활용하여 소비자를 깊이 이해하기 위한 생성형 AI 기반의 서비스 프로토타입을 개발해 활발하게 사용하고 있다. 매년 7000명을 대상으로 실시하는 자사 독자적 대규모 생활자 조사 데이터베이스인 'HABIT'와 생성형 AI 기술을 접목해 총 7000가지 유형의 버추얼 생활자(Virtual Seikatsu-sha)를 생성한다. HABIT 데이터에는 생활자의 기본 프로필, 가치관 및 의식, 라이프스타일 행동, 소비 행태, 미디어 이용, 브랜드 평가 등 정보가 포함돼 있으며 이 데이터를 생성형 AI에 학습시켜 7000가지 다양한 소비자 유형을 정밀하게 재현했다.
+마케팅 조사 회사들이 온라인을 기반으로 한 설문지를 만들어 고객에게 전달하거나, 고객에게 직접 전화를 걸거나, 고객을 특정 장소로 오게 만드는 대면 방식을 통해 심도 깊은 질문을 던져서 소비자들의 숨겨진 니즈를 발굴하는 것이 과거 전통적인 고객 이해의 조사 방식이었다. 문제는 이러한 방식에서 소비자들이 자신의 진정한 속마음(본심)을 털어놓지 않을 수 있다는 것이다. 고객을 대변하는 AI와의 대화에는 이러한 장벽이 존재하지 않는다.
+예를 들어 기업은 하쿠호도가 정교하게 만든 가상의 생활자들과 대화를 반복하며 특정 상품이나 브랜드에 대한 반응, 인간관계에서의 고민 등 일상 깊숙한 주제에 대해 자연스럽게 서로 의견을 나눈다. 
+하쿠호도는 이러한 상호작용에서 발생하는 데이터들을 분석해 마케팅 및 상품 개발뿐만 아니라 조직 문화 설계, 워크숍 운영 등 다양한 분야에서 실질적으로 활용하고 있다. 하쿠호도가 사내에서 파일럿 형태로 진행 중인 이 서비스는 개선 작업을 거쳐 향후 외부 기업이나 파트너를 대상으로 한 서비스화로 진행될 예정이다.
+하쿠호도의 '버추얼 생활자' 사례와 유사하게 AI를 활용하여 가상의 소비자 페르소나를 생성하고 이를 통해 제품 평가 및 마케팅 전략 수립에 활용하는 기업들이 전 세계적으로 증가하고 있다. 미국 소프트웨어 개발업체 'Delve AI'와 같은 회사는 특정 브랜드가 운영하는 웹사이트 방문자 데이터들과 해당 회사가 보유하고 있는 고객 관계 관리(CRM) 데이터 정보와 핵심 타깃들의 소셜미디어 활동 등 데이터를 분석하여 자동으로 AI가 가상의 핵심 타깃 소비자 페르소나를 생성해 준다. 브랜드는 가상의 소비자를 실제 소비자처럼 디지털 환경에서 시뮬레이션해 작동시키는 디지털 트윈 기술을 활용해 생성된 핵심 타깃 페르소나와 실제로 대화를 나누고 새롭게 론칭할 제품들이나 광고를 보여주고 그 반응을 시뮬레이션하며 피드백을 수집할 수도 있다.
+가트너 리포트가 2022년 10월 발표한 자료에 따르면 디지털 트윈 방식 안에서 가상 고객 페르소나로부터 데이터를 수집하고 판매 메시지, 판매 프로세스, 마케팅 캠페인에 대한 테스트를 수행하여 고객에게 무엇이 효과적이고 무엇이 효과적이지 않은지를 예측하는 활동들은 급격하게 발전하고 있다. 이 리포트는 디지털 트윈을 구현하는 소프트웨어와 서비스 시장 규모가 2022년 90억달러에서 2030년까지 1500억달러로, 10년이 안 되는 기간에 약 15배 이상 성장할 것으로 예상했다.
+과거 디지털 트윈 기술은 산업 현장의 장비나 도시 인프라를 가상으로 복제해 관리하던 형태로 주로 사용되었다. 이제는 마케팅 분야에서 '소비자의 디지털 복제본'을 만들어내는 방식으로 확장되고 있다. 앞으로는 고객이 말하지 않는 진심을 가상의 AI와 교류를 통해서 자연스럽게 찾아내고, 이를 분석하며, 마케팅 전략에 반영하는 세상이 만들어질 것이다.
+AI는 더 이상 단순히 데이터를 정리하는 기능적인 도구에 머무르지 않는다. 이제는 실제 고객의 행동 데이터를 실시간으로 분석하고, 그 속에 숨겨진 니즈를 감지해내는 24시간 쉬지 않고 일하는 '고객 리서처(Customer Researcher)'로 진화하고 있다.  
+
+<img src='https://wimg.mk.co.kr/news/cms/202508/07/20250807_01110205000003_S01.jpg' alt=''>
+
+[이승윤 디지털 문화심리학자·건국대 경영대 교수]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA['사람들은 자신이 무엇을 원하는지 보여주기 전에는 알지 못한다(People don't know what they want until you show it to them).'
+스티브 잡스가 남긴 유명한 이 인용문은, 고객은 말로는 자신의 욕구를 설명하지 못하는 경우가 많고 보여줄 때 비로소 깨닫는다는 의미를 담고 있다. 오늘날 많은 기업들은 고객이 말하지 않는 욕구를 찾아내기 위해서 인공지능(AI) 기반의 디지털 트윈 소비자 모델링에 주목하고 있다. 고객]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK300111</code_id>
+<code_nm><![CDATA[MBA]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK300111</small_code_id>
+<small_code_nm><![CDATA[MBA]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/07/20250807_01110205000003_L00.jpg]]></image_url>
+<image_caption><![CDATA[게티이미지뱅크]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/07/20250807_01110205000003_S01.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11386702]]></article_url>
+</article>
+</saltlux>

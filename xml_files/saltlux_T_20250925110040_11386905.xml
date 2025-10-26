@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11386905</art_id>
+<art_year>2025</art_year>
+<art_no>561995</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-06 17:36:29</service_daytime>
+<title><![CDATA[[VIEW POINT] 변곡점 맞이한 삼성전자 미래 가늠할 네가지 과제]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김동은 기자(bridge@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250807</pub_date>
+<pub_edition>16</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>16</pub_page>
+<reg_dt>2025-08-06 17:36:29</reg_dt>
+<mod_dt>2025-08-07 09:18:52</mod_dt>
+<art_org_class>MK100305</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/07/20250807_01160116000003_M00.jpg' alt=''>
+
+삼성전자 반도체 사업이 중요한 갈림길에 섰다. 테슬라와 인공지능(AI) 칩 공급계약을 성사시키며 바닥에서는 벗어났다는 평가지만 풀어야 할 숙제가 여전히 많다. 업계 관계자는 "1년 안에 당면한 문제들을 해소한다면 글로벌 반도체 경쟁에서 다시 유리한 위치를 점할 수 있겠지만, 하나라도 일정이 어긋나면 시장의 신뢰를 되찾는 데 긴 시간이 필요할 것"이라고 했다. 결코 과장이 아니다.
+가장 시급한 과제는 HBM3E 12단 제품 인증이다. 엔비디아의 HBM3E 인증은 AI 생태계에 발을 들일 수 있느냐 없느냐를 가늠한다. 경쟁사들이 이미 공급을 시작한 상황에서 삼성은 수율과 발열 관리 문제로 인증이 계속 늦어지고 있다. 올해 4분기까지 엔비디아 인증을 마치고 내년 초 공급을 시작하겠다는 목표는 그래서 더욱 절박하다. 이 일정이 2026년으로 미뤄진다면 고대역폭메모리(HBM) 시장 점유율 회복은 쉽지 않아 보인다.
+다음으로 중요한 건 차세대 D램(1c) 공정 안정화다. 1c 공정은 HBM4 이후 메모리 시장의 표준이 될 기술이다. 수율과 생산성에서 뒤처지면 장기 경쟁력 자체가 흔들릴 수밖에 없다. 삼성은 평택과 화성 라인을 중심으로 1c 전환을 추진 중이지만, 장비 세팅과 공정 최적화가 다소 늦어지고 있다는 분석이다.
+세 번째 포인트는 미국 텍사스 테일러 공장의 가동 시점이다. 원래 2024년 가동하는 게 목표였는데 고객사 확보 지연으로 2026년 이후로 가동이 밀려 있었다. 최근 테슬라 AI6 칩 계약으로 존재감이 부각됐지만, 장비 반입과 라인 세팅 일정은 여전히 불확실하다. 하지만 내년 상반기 가동이 원활히 이뤄진다면 테슬라 계약 이행은 물론이고 북미 대형 고객사를 추가로 확보하는 성과도 가능하다.
+마지막으로 조직 체질 개선이다. 상대적으로 낮은 생산성, 핵심 인력 이탈, 경직된 보고 체계 등은 경쟁사 대비 유연성을 떨어뜨리고 있다. 최근 수율 안정과 품질 개선을 위해 프로세스 개선, 데이터 기반 의사결정 강화 등 변화를 시도하고 있지만 시장은 '눈에 보이는 성과'를 원한다. 기술만큼이나 조직 운영 능력이 고객사 신뢰를 좌우하는 시대다. 네 가지 체크포인트는 단순히 삼성전자의 단기적인 실적을 가늠하기 위한 것이 아니다. 미래에도 지속적인 경쟁력을 가질 수 있는지를 파악할 수 있는 지표다.
+[김동은 산업부 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[삼성전자 반도체 사업이 중요한 갈림길에 섰다. 테슬라와 인공지능(AI) 칩 공급계약을 성사시키며 바닥에서는 벗어났다는 평가지만 풀어야 할 숙제가 여전히 많다. 업계 관계자는 "1년 안에 당면한 문제들을 해소한다면 글로벌 반도체 경쟁에서 다시 유리한 위치를 점할 수 있겠지만, 하나라도 일정이 어긋나면 시장의 신뢰를 되찾는 데 긴 시간이 필요할 것"이라고 했다. 결코 과장이 아니다.
+가장 시급한 과제는 HBM3E 12단 제품 인증이다. 엔비디아의 HBM3E]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100305</code_id>
+<code_nm><![CDATA[전기·전자·통신]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100305</small_code_id>
+<small_code_nm><![CDATA[전기·전자·통신]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/07/20250807_01160116000003_M00.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11386905]]></article_url>
+</article>
+</saltlux>

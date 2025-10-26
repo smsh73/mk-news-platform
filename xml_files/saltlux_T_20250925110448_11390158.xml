@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11390158</art_id>
+<art_year>2025</art_year>
+<art_no>570314</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-11 07:22:51</service_daytime>
+<title><![CDATA[SK telecom focuses on practical AI for daily life, industry]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-11 07:22:51</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK400109</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250811.3a03e6f8201f44179eba8ee7437c09ce_P1.jpg' alt=' (SK telecom)'>
+SK telecom Co. is steering its artificial intelligence development toward everyday usability rather than chasing benchmark records, aiming to build models that people find genuinely helpful in daily and industrial settings.
+Kim Tae-yoon, vice president overseeing the company’s foundation model program, said in a recent interview with Maeil Business Newspaper that the goal is for users to experience the AI’s value firsthand.
+“Rather than touting performance through benchmarks, we want people to actually use our AI and decide for themselves,” he said. “We are emphasizing practical value.”
+SK telecom has been named one of the five elite teams selected by the Korean government to develop a homegrown AI foundation model, joining forces with Naver Cloud, Upstage, NC AI, and the LG AI Research Institute.
+“It won’t be easy to match the world’s top performance in the short term,” Kim acknowledged, “but there are many areas where a Korean AI can be rated better, particularly in domestic industry and daily life.”
+The SK telecom-led consortium also includes Krafton, 42dot, Rebellions, LINER, SelectStar, Seoul National University, and KAIST.
+The team plans to develop “omnimodal” technology capable of processing text, images, speech, and video in an integrated manner.
+Starting in the second half of this year, SK telecom will launch research into a next-generation AI architecture dubbed “post-transformer.”
+Transformers form the backbone of most large language models, including GPT and LLaMA, but face criticism for their heavy computational demands, high power consumption, and limitations in handling long-context data or combining multiple types of information. The post-transformer approach seeks to improve computational efficiency and reduce energy use.
+Experts say such innovation is essential to achieving sovereign AI - models whose performance, security, and service direction can be fully controlled from the design stage.
+“Proposing a post-transformer architecture signals our intent to explore research that breaks away from existing structures,” Kim explained. “With top machine learning faculty from Seoul National University and KAIST on board, we’ll also pursue groundbreaking structural changes.”
+SK telecom aims to boost both model performance and service adoption. The company plans to integrate AI into SK Group’s manufacturing, energy, biotech, and semiconductor operations, as well as in B2C offerings such as its A. personal assistant, Krafton’s games, and 42dot’s mobility services.
+Potential applications include automating call centers, assisting with report writing, and analyzing and monitoring industrial processes—uses that can deliver immediate benefits in the field.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[SK telecom Co. is steering its artificial intelligence development toward everyday usability rather than chasing benchmark records, aiming to build models that people find genuinely helpful in daily a]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK400109</code_id>
+<code_nm><![CDATA[Bio&Tech]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00308</middle_code_id>
+<middle_code_nm><![CDATA[English]]></middle_code_nm>
+<small_code_id>MK400109</small_code_id>
+<small_code_nm><![CDATA[Bio&Tech]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250811.3a03e6f8201f44179eba8ee7437c09ce_P1.jpg]]></image_url>
+<image_caption><![CDATA[ (SK telecom)]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11390158]]></article_url>
+</article>
+</saltlux>

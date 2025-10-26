@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11396067</art_id>
+<art_year>2025</art_year>
+<art_no>588256</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-18 14:51:53</service_daytime>
+<title><![CDATA[자본잠식 아니면 의견거절…반기보고서 마감 후 코스닥 하한가 속출]]></title>
+<sub_title><![CDATA[크레오에스지는 자본잠식률 50% 넘기며 하한가]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김제림 기자(jaelim@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-18 14:51:53</reg_dt>
+<mod_dt>2025-08-18 15:34:21</mod_dt>
+<art_org_class>MK100502</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">크레오에스지는 자본잠식률 50% 넘기며 하한가</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/18/news-p.v1.20250818.841fb7b3e93547f18e57e5d7c10b4e00_P1.jpeg' alt=' 한국거래소 전경[출처=연합뉴스]'>
+지난 14일 반기보고서 마감 후 첫 거래일은 18일엔 반기보고서 의견거절을 받은 기업들의 주가 하락이 두드러졌다.
+코스닥 상장사 중에선 자본잠식률 50%나 의견거절을 이유로 주가가 급락한 기업이 많았다.
+장중 하한가까지 떨어진 크레오에스지는 이번 반기에 자본잠식률 53.01% 를 기록했다고 밝혔다. 작년 반기 자본잠식률 49.84%에서 높아진 수치다.
+자본잠식률은 자본금에서 자기자본을 뺀 금액을 자본금으로 나눈 것으로 적자 등으로 자기자본이 줄어들면 자본잠식률이 높아지게 된다.
+아이톡시는 작년 14.1%인 자본잠식률이 올해 반기엔 80.92%로 높아졌다. 에이비프로바이오는 작년 13.82%였던 자본잠식률이 56.21%로 올라가면서 18일 장중 16% 가량 하락한 가격에 거래되고 있다.
+셀루메드는 회계법인으로부터 계속기업의 불확실성 사유로 개별 연결 재무제표 모두 의견거절을 받았다. 셀루메드 역시 18일 오전 가격제한폭까지 주가가 떨어졌다.
+메디콕스 역시 계속기업가정에 대한 중요한 불확실성과 주요 검토절차의 제약을 이유로 올해 반기에 의견거절이 나왔다.
+이외 비유테크놀로지, 이화공영 등 다수의 거래정지 기업들이 의견거절을 받았다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[크레오에스지는 자본잠식률 50% 넘기며 하한가지난 14일 반기보고서 마감 후 첫 거래일은 18일엔 반기보고서 의견거절을 받은 기업들의 주가 하락이 두드러졌다. 코스닥 상장사 중에선 자본잠식률 50%나 의견거절을 이유로 주가가 급락한 기업이 많았다. 장중 하한가까지 떨어진 크레오에스지는 이번 반기에 자본잠식률 53.01% 를 기록했다고 밝혔다. 작년 반기 자]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100502</code_id>
+<code_nm><![CDATA[시황]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100502</small_code_id>
+<small_code_nm><![CDATA[시황]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/18/news-p.v1.20250818.841fb7b3e93547f18e57e5d7c10b4e00_P1.jpeg]]></image_url>
+<image_caption><![CDATA[ 한국거래소 전경[출처=연합뉴스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11396067]]></article_url>
+</article>
+</saltlux>

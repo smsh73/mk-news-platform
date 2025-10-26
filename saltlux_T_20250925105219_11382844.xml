@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11382844</art_id>
+<art_year>2025</art_year>
+<art_no>549376</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-01 11:05:41</service_daytime>
+<title><![CDATA[POSCO’s Q2 OP down 18.7% due to weak secondary battery materials business]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-01 11:05:41</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK400111</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/01/news-p.v1.20250801.d953bff17dfa4e3c8558fb7c71eb9593_P1.jpg' alt=' POSCO CI'>
+South Korean steel giant POSCO posted weaker-than-expected second-quarter results, as gains in its core steel division were offset by sluggish performance in secondary battery materials and construction.
+POSCO Holdings Inc. reported an operating profit of 610 billion won ($437 million) for the April–June period, down 18.7 percent year-on-year. Sales fell 5.1 percent to 17.6 trillion won, while net profit plunged 85.5 percent to 80 billion won.
+The steel division delivered an operating profit of 302 billion won, supported by cost-cutting efforts and a digital transformation push, despite weak market conditions.
+However, POSCO Future M Co., which handles the group’s battery materials business, saw sales decline 28 percent year-on-year, while operating profit dropped 67 percent, largely due to reduced demand for high-nickel cathode materials.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[South Korean steel giant POSCO posted weaker-than-expected second-quarter results, as gains in its core steel division were offset by sluggish performance in secondary battery materials and constructi]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK400111</code_id>
+<code_nm><![CDATA[Biz]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00308</middle_code_id>
+<middle_code_nm><![CDATA[English]]></middle_code_nm>
+<small_code_id>MK400111</small_code_id>
+<small_code_nm><![CDATA[Biz]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/01/news-p.v1.20250801.d953bff17dfa4e3c8558fb7c71eb9593_P1.jpg]]></image_url>
+<image_caption><![CDATA[ POSCO CI]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11382844]]></article_url>
+</article>
+</saltlux>

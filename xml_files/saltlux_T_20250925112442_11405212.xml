@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11405212</art_id>
+<art_year>2025</art_year>
+<art_no>615994</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-28 16:01:05</service_daytime>
+<title><![CDATA[IPO 숨고르기 속 … '인터폴 협력사' S2W 수요예측 [위클리 마켓]]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[우수민 기자(rsvp@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250829</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>02</pub_section>
+<pub_page>3</pub_page>
+<reg_dt>2025-08-28 16:01:05</reg_dt>
+<mod_dt>2025-08-28 17:37:40</mod_dt>
+<art_org_class>MK300101</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[
+<img src='https://wimg.mk.co.kr/news/cms/202508/29/20250829_01110203000005_L00.jpg' alt=''>
+
+9월 첫째주에는 기업공개(IPO) 일정이 숨 고르기에 들어간다. 이런 가운데 공모 실무 절차상 오류로 공모를 철회했던 S2W가 7월 IPO 제도 개선 이후 첫 공모 절차에 돌입한다.
+증권업계에 따르면 다크웹 특화 빅데이터 수집·분석 기술을 보유한 S2W가 오는 9월 2~8일 기관투자자 대상 수요예측을 실시한다.
+S2W의 공모는 이번이 두 번째다. 앞서 S2W는 지난 8월 수요예측을 성료한 뒤 일반 공모 청약을 앞두고 갑작스럽게 철회신고서를 제출했다. 
+예비 상장사는 상장 예정일 기준 30일 전까지 전자증권 등록을 마쳐야 하는데 등록이 누락됐다는 점을 뒤늦게 발견하면서다.
+회사 펀더멘털의 문제가 아닌 만큼 빠르게 증권신고서를 제출해 재공모에 들어갔다. 첫 공모 도전 당시와 동일하게 총 158만주를 모집하며, 주당 공모가 희망 범위는 1만1400~1만3200원이다. 총공모액은 180억~208억원, 상장 후 예상 시가총액은 1207억~1397억원 수준이다. 상장 주관은 대신증권이 맡았다.
+S2W는 세계 최초로 다크웹에 특화한 인공지능(AI) 언어모델 '다크버트(DarkBERT)'를 개발하며 주목받았다. 이는 보다 적은 GPU를 사용해 효율적으로 데이터를 처리하는 모델이다. S2W는 인터폴 공식 협력사로 데이터를 제공하고 있다. 지난해에는 마이크로소프트와 보안 코파일럿 파트너십(SCPE) 계약을 체결하며 플랫폼 연동을 진행하고 있다.
+안보 AI 제품인 '퀘이사(QUAXAR)'는 정보보호 예산이 50억원 이상인 기업 가운데 40%를 고객으로 확보하며 민간에서도 입지를 확대하고 있다. S2W의 공모는 7월 1일부로 시행된 새 IPO 제도 개선을 적용받는 첫 사례로도 주목받고 있다. 제도 개편 이후 약 한 달간 IPO를 위해 증권신고서를 제출한 기업이 없었기 때문이다. 새 제도 개편은 기관투자자의 의무보유 확약을 골자로 한다. 수요예측 참여 기관 30% 이상이 일정 기간 넘게 의무보유를 미확약하면 상장주관사가 공모 물량의 1%를 6개월간 보유해야 한다. 
+[우수민 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[9월 첫째주에는 기업공개(IPO) 일정이 숨 고르기에 들어간다. 이런 가운데 공모 실무 절차상 오류로 공모를 철회했던 S2W가 7월 IPO 제도 개선 이후 첫 공모 절차에 돌입한다.
+증권업계에 따르면 다크웹 특화 빅데이터 수집·분석 기술을 보유한 S2W가 오는 9월 2~8일 기관투자자 대상 수요예측을 실시한다.
+S2W의 공모는 이번이 두 번째다. 앞서 S2W는 지난 8월 수요예측을 성료한 뒤 일반 공모 청약을 앞두고 갑작스럽게 철회신고서를 제출했다. 
+]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK300101</code_id>
+<code_nm><![CDATA[Money & Riches]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK300101</small_code_id>
+<small_code_nm><![CDATA[Money & Riches]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/29/20250829_01110203000005_L00.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11405212]]></article_url>
+</article>
+</saltlux>

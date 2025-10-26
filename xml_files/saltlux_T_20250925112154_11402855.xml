@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11402855</art_id>
+<art_year>2025</art_year>
+<art_no>608394</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-26 10:28:45</service_daytime>
+<title><![CDATA[디지털병리협회, ‘디지털병리 기반 AI 헬스케어 이노베이션’ 개최]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>80</media_code>
+<writers><![CDATA[김경민 KDX 기자(kmkim@kdx.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-26 10:28:45</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101506</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/26/news-p.v1.20250826.2524a5b5848e4dd9ae4f4a813a782bea_P1.png' alt=' (제공: 디지털병리협회)'>
+디지털병리협회는 ‘디지털병리 기반 AI 헬스케어 이노베이션’을 오는 9월 2일 가톨릭대학교 성의교정 옴니버스파크 컨벤션홀에서 개최한다고 밝혔다.
+이번 심포지엄은 병원들의 새로운 의료 혁신을 위한 다양한 학술적 의견과 병리 산업 참여자들이 AI 의료 기술을 소개하는 자리로 신기술과 업계의 동향을 발표하고 국내에서 만들어진 글로벌 수준의 의료기기들을 공유한다.
+헬스케어 및 AI 관련 기업 및 산·학·연 관계자 약 200명이 참석하여 △디지털병리 기반 AI 분석 솔루션 개발 △AI 병리진단 소프트웨어 개발 대표 성과 △차세대 병리진단 등에 대해 논의할 예정이다.
+디지털병리협회 안치성 협회장은 “디지털병리와 AI 기술이 결합된 미래 의료의 가능성을 조망하고, 산·학·연 협력을 통해 글로벌 경쟁력을 강화하는 계기가 될 것으로 기대된다”고 밝혔다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[디지털병리협회는 ‘디지털병리 기반 AI 헬스케어 이노베이션’을 오는 9월 2일 가톨릭대학교 성의교정 옴니버스파크 컨벤션홀에서 개최한다고 밝혔다. 이번 심포지엄은 병원들의 새로운 의료 혁신을 위한 다양한 학술적 의견과 병리 산업 참여자들이 AI 의료 기술을 소개하는 자리로 신기술과 업계의 동향을 발표하고 국내에서 만들어진 글로벌 수준의 의료기기들을 공유한다.]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101506</code_id>
+<code_nm><![CDATA[스타트업]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101506</small_code_id>
+<small_code_nm><![CDATA[스타트업]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101508</code_id>
+<code_nm><![CDATA[빅데이터]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101508</small_code_id>
+<small_code_nm><![CDATA[빅데이터]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101509</code_id>
+<code_nm><![CDATA[데이터산업]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101509</small_code_id>
+<small_code_nm><![CDATA[데이터산업]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101510</code_id>
+<code_nm><![CDATA[소프트웨어]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101510</small_code_id>
+<small_code_nm><![CDATA[소프트웨어]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/26/news-p.v1.20250826.2524a5b5848e4dd9ae4f4a813a782bea_P1.png]]></image_url>
+<image_caption><![CDATA[ (제공: 디지털병리협회)]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11402855]]></article_url>
+</article>
+</saltlux>

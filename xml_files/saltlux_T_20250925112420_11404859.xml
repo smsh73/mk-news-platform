@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11404859</art_id>
+<art_year>2025</art_year>
+<art_no>614605</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-28 11:02:38</service_daytime>
+<title><![CDATA[[속보] SK텔레콤 해킹 사태로 1348억원 과징금…2300만명 개인정보 유출]]></title>
+<sub_title><![CDATA[개보위, 역대 최대 규모 과징금 ‘철퇴’
+보안·백신·관리 조치 소홀히 해 사고
+SKT “정보보호 핵심 가치로 삼을 것”]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[이가람 매경 디지털뉴스룸 기자(r2ver@mk.co.kr), 이상현 매경 디지털뉴스룸 기자(lee.sanghyun@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-28 11:02:38</reg_dt>
+<mod_dt>2025-08-29 00:04:04</mod_dt>
+<art_org_class>MK100309</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">개보위, 역대 최대 규모 과징금 ‘철퇴’<br>보안·백신·관리 조치 소홀히 해 사고<br>SKT “정보보호 핵심 가치로 삼을 것”</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/29/news-p.v1.20250828.43369cb371034d97b57e37d07d4b23d7_P1.png' alt=' 서울시내 한 SK텔레콤 직영점에 위약금 환급 신청 방법과 보상 헤택을 알리는 안내문이 설치돼 있다. [사진 = 연합뉴스]'>
+개인정보보호위원회가 SK텔레콤 유심(USIM·가입자식별장치) 해킹 사태로 이용자 2300만명의 개인정보가 유출된 것과 관련해 역대 최대 규모의 과징금을 부과했다.
+28일 개보위는 전날 전체회의를 열고 SK텔레콤에게 과징금 1347억9100만원과 과태료 960만원을 부과했다. 이는 2020년 개보위 출범 이후 내려진 과징금 처분 중 가장 큰 금액이다. 과징금은 위법으로 얻은 경제적 이익을 환수하기 위한 행정제재금이고, 과태료는 신고·통지와 같은 절차상 의무를 위반할 시 물게 되는 벌금이다.
+이번 해킹 사고로 SK텔레콤의 롱텀에볼루션(LTE)·5세대이동통신(5G) 서비스 이용자 2324만4649명의 휴대전화번호, 가입자식별번호(IMSI), 유심인증키(Ki·OPc) 등 25종의 정보가 유출됐다. 알뜰폰 이용자는 포함하고, 법인·공공·다회선 이용자는 제외한 수치다.
+개보위는 SK텔레콤이 보안 및 시스템 관리를 소홀히 했다고 지적했다. 해커가 SK텔레콤 내부망에 최초로 침투한 시점은 4년 전이었다. 해커는 2021년 8월 SK텔레콤 내부망에 접속해 다수 서버를 돌며 악성 프로그램을 설치했다. 2022년 6월에는 통합고객인증시스템(ICAS)에도 악성 프로그램을 설치해 추가 거점을 확보했다.
+그러다 지난 4월 18일 홈가입자인증서버(HSS) 데이터베이스(DB)에 저장된 이용자 개인정보 9.82GB를 유출했다. 사실상 전체 이용자의 개인정보가 외부로 빠져나간 셈이다. 해커가 침입해 범행을 저지른 흔적은 확인했지만, 누가 어떤 이유로 이용자 정보를 빼돌렸는지는 지금까지도 밝혀지지 않았다.
+개보위 관계자는 “휴대전화가 개인 식별·인증하는 핵심 수단으로 이용되는 상황에서 SK텔레콤이 이동통신 서비스의 신뢰를 떨어뜨리고 사회적 불안감을 확산시키는 등 국민 생활에 중대한 영향을 끼쳤다”고 비판했다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/29/news-p.v1.20250828.1026e65ec2d54c43afd4c085a4002ea8_P1.png' alt=' 고학수 개인정보보호위원회 위원장이 지난 27일 정부서울청사에서 열린 제18회 전체회의를 주재하고 있다. [사진 = 연합뉴스]'>
+그동안 SK텔레콤에서는 적절한 방어 시스템이 가동되지 않았다. SK텔레콤은 인터넷망과 사내망을 동일한 네트워크로 연결해 운영하면서 국내외 인터넷망에서 내부 관리망으로의 접근을 제한 없이 허용했다.
+특히 2022년 2월 해커가 HSS에 접속한 사실을 확인한 뒤에도 비정상 통신 여부 확인이나 추가 악성 프로그램 설치 여부, 접근통제 정책의 적절성 등을 점검하지 않았다. 유출 사고를 막을 최후의 기회를 놓친 것이다.
+보안 시스템 업데이트도 진헹하지 않았다. 해커가 악성 프로그램 설치에 활용한 운영체제(OS) 보안 취약점은 이미 9년 전인 2016년 10월 위험성 경보가 발령됐고, 보안 패치도 공개된 사항이었다. 하지만 SK텔레콤은 이 사실을 알고 있었으면서도 해킹 사고 당일까지도 보안 업데이트를 미뤄 유출 사고에 무방비로 노출됐다.
+SK텔레콤 이용자임을 인증하고 이동통신 서비스를 제공하는 데 필수적인 인증키조차 암호화하지 않고 평문으로 저장했다. 해커가 유심 복제에 사용될 수 있는 유심 인증키 원본을 확보할 수 있었던 배경이다. 반면 KT와 LG유플러스는 10년 전부터 유심키를 암호화해 저장하고 있었다.
+개인정보 유출 사실 통지 역시 지연됐다. SK텔레콤이 개인정보가 외부에 전송됐다는 사실을 확인한 것은 지난 4월 19일이었다. 개인정보보호법상 72시간 내 개인정보가 유출된 이용자에게 유출 사실을 알려야 한다. 그러나 SK텔레콤은 지난 5월 9일 유출 가능성을 통지했다. 유출 확정 통지는 지난달 28일에 완료됐다. 개보위는 SK텔레콤이 현행법에서 규정한 최소한의 의무조차 이행하지 않았다고 판단했다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/29/news-p.v1.20250828.35152175086748a3ac0255b7c21d5d1f_P1.jpg' alt=' SK텔레콤이 유심 무료 교체 서비스를 시작한 지난 4월 29일 오전 서울시내 한 SK텔레콤 대리점에 유심 재고 수량이 부족하다며 예약 시스템 이용을 부탁하는 안내문이 붙어 있다. [이승환 기자]'>
+개보위는 SK텔레콤에 재발 방지를 위해 이동통신 서비스 전반의 개인정보 처리 현황을 파악해 안전조치를 강화하고, 개인정보보호책임자(CPO)가 SK텔레콤 전반의 개인정보 처리 업무를 총괄할 수 있도록 거버넌스 체계를 손보라고 시정명령했다. 개인정보보호관리체계(ISMS-P) 인증 범위를 통신 이동통신 네트워크 시스템으로 확대할 것도 권고했다.
+개보위 차원에서도 대규모 사이버 침해 사례가 재발하지 않도록 개인정보 처리자에 대한 관리·감독 및 개인정보 안전 관리 체계 강화 방안을 다음 달 발표할 방침이다. 고학수 개보위원장은 “이번 사건을 계기로 대규모 개인정보를 보유·처리하는 사업자들이 관련 예산과 인력의 투입을 단순한 비용 지출이 아닌 필수적인 투자로 인식하길 바란다”고 강조했다.
+SK텔레콤 관계자는 “모든 경영활동에 있어 개인정보보호를 핵심 가치로 삼고 개인정보보호 강화를 위해 만전을 기할 것”이라면서도 “개보위 조사 및 의결 과정에서 SK텔레콤의 조치 사항과 입장을 충분히 소명했음에도 결과에 반영되지 않은 점은 유감이며 향후 의결서 수령 후 내용을 면밀히 검토할 예정”이라고 설명했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[개보위, 역대 최대 규모 과징금 ‘철퇴’ 보안·백신·관리 조치 소홀히 해 사고 SKT “정보보호 핵심 가치로 삼을 것”개인정보보호위원회가 SK텔레콤 유심(USIM·가입자식별장치) 해킹 사태로 이용자 2300만명의 개인정보가 유출된 것과 관련해 역대 최대 규모의 과징금을 부과했다. 28일 개보위는 전날 전체회의를 열고 SK텔레콤에게 과징금 1347억9100만]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100309</code_id>
+<code_nm><![CDATA[통신]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100309</small_code_id>
+<small_code_nm><![CDATA[통신]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100307</code_id>
+<code_nm><![CDATA[기업일반·재계동향]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100307</small_code_id>
+<small_code_nm><![CDATA[기업일반·재계동향]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101502</code_id>
+<code_nm><![CDATA[통신]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101502</small_code_id>
+<small_code_nm><![CDATA[통신]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/29/news-p.v1.20250828.43369cb371034d97b57e37d07d4b23d7_P1.png]]></image_url>
+<image_caption><![CDATA[ 서울시내 한 SK텔레콤 직영점에 위약금 환급 신청 방법과 보상 헤택을 알리는 안내문이 설치돼 있다. [사진 = 연합뉴스]]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/29/news-p.v1.20250828.1026e65ec2d54c43afd4c085a4002ea8_P1.png]]></image_url>
+<image_caption><![CDATA[ 고학수 개인정보보호위원회 위원장이 지난 27일 정부서울청사에서 열린 제18회 전체회의를 주재하고 있다. [사진 = 연합뉴스]]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/29/news-p.v1.20250828.35152175086748a3ac0255b7c21d5d1f_P1.jpg]]></image_url>
+<image_caption><![CDATA[ SK텔레콤이 유심 무료 교체 서비스를 시작한 지난 4월 29일 오전 서울시내 한 SK텔레콤 대리점에 유심 재고 수량이 부족하다며 예약 시스템 이용을 부탁하는 안내문이 붙어 있다. [이승환 기자]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11404859]]></article_url>
+</article>
+</saltlux>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11396061</art_id>
+<art_year>2025</art_year>
+<art_no>588240</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-18 14:50:37</service_daytime>
+<title><![CDATA[KT, 실적 사상 최대에도 외국인 지분 규제에 자사주 소각 막혀]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김규식 기자(dorabono@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-18 14:50:37</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101502</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[KT가 외국인 지분율 49% 규제에 막혀 자사주 소각을 당장 실행하지 못하고 있다. 실적이 개선되며 외국인 투자 비중이 높아진 결과 오히려 밸류업 전략이 제약받는 아이러니한 상황이다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/18/news-p.v1.20250818.49fd99adb856489ca2e99c63df0702c2_P1.jpg' alt=' KT 로고.'>
+18일 증권업계에 따르면 KT는 올해 초부터 진행한 2500억원 규모 자사주 매입을 완료했으나 소각은 보류됐다. KT는 13일 신한투자증권과 체결한 ‘자기주식 취득을 위한 특정금전신탁’ 계약 만료를 공시했다. 이번 신탁을 통해 2월 14일부터 8월 1일까지 484만517주를 매입했고, 매입 금액은 2499억9996만원에 달했다. 이로써 기존 보유분을 포함해 총 1092만6622주(발행주식의 4.34%)를 확보했다. 당초 전량 소각 계획이었지만 외국인 지분율이 법정 상한선인 49%를 넘게 돼 실행이 불가능해졌다.
+현행 전기통신사업법은 외국인이 기간통신사업자 지분을 49% 이상 보유하지 못하도록 규정한다. 1998년 제정된 뒤 국가 안보와 공공성 보호 장치로 유지돼 왔으며, 2022년 OECD 회원국까지 허용 범위를 확대했지만 통신사에는 여전히 적용된다. 이번 신탁 계약은 KT가 지난해 11월 발표한 ‘기업가치 제고 계획’의 일환이었다. 2025년부터 2028년까지 누적 1조원 규모 자사주 매입·소각을 추진하지만, 외국인 지분 규제로 시점은 불투명하다.
+KT는 외국인 지분율이 떨어지는 시점에 자사주 소각에 나선다는 방침이지만, 역설적으로 실적이 개선세를 보이고 있어 미뤄질 전망이다. KT의 2분기 연결 기준 영업이익은 1조148억원으로 전년 동기 대비 105.4% 증가했다. 매출은 7조4274억원으로 13.5% 늘었다. 무선사업은 5G 가입자가 1087만명까지 확대돼 전체의 79.5%를 차지했다. 유선사업은 초고속인터넷 가입자가 1000만명을 넘어섰다. IPTV와 프리미엄 요금제 확산에 힘입은 미디어 매출은 소폭 증가했고, 기업서비스는 AI·IT 부문이 두각을 나타내며 4.5% 성장했다. 클라우드 매출은 23% 늘며 가장 빠른 성장세를 보였다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[KT가 외국인 지분율 49% 규제에 막혀 자사주 소각을 당장 실행하지 못하고 있다. 실적이 개선되며 외국인 투자 비중이 높아진 결과 오히려 밸류업 전략이 제약받는 아이러니한 상황이다. 18일 증권업계에 따르면 KT는 올해 초부터 진행한 2500억원 규모 자사주 매입을 완료했으나 소각은 보류됐다. KT는 13일 신한투자증권과 체결한 ‘자기주식 취득을 위한 특]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101502</code_id>
+<code_nm><![CDATA[통신]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101502</small_code_id>
+<small_code_nm><![CDATA[통신]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/18/news-p.v1.20250818.49fd99adb856489ca2e99c63df0702c2_P1.jpg]]></image_url>
+<image_caption><![CDATA[ KT 로고.]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11396061]]></article_url>
+</article>
+</saltlux>

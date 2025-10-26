@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11399055</art_id>
+<art_year>2025</art_year>
+<art_no>596639</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-21 10:34:53</service_daytime>
+<title><![CDATA[“인간의 방해, 소용없다!”…보스턴다이내믹스 로봇 ‘아틀라스’ 선반 옮기고 부품 분류 척척]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[박소현 매경 디지털뉴스룸 기자(mink1831@naver.com)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-21 10:34:53</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100308</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250821.216d861f979047b8a53f5dd19709b9c0_P1.jpg' alt=' 20일 보스턴다이내믹스가 공개한 영상에서 아틀라스가 연구원들의 방해에도 스스로 판단해 업무를 수행하는 모습 [사진=보스턴다이내믹스 유튜브 캡쳐]'>
+현대자동차그룹 로봇 전문 계열사 보스턴다이내믹스가 20일(현지시각) 로봇 ‘아틀라스’가 사람의 방해에 구애받지 않고 기존 작업을 이어가는 등 지능적으로 대응하는 영상을 공개했다.
+앞서 아틀라스가 엔진커버 부품을 이동식 보관함으로 옮기는 작업을 수행하는 모습을 선보였던 보스턴다이내믹스는 이번에 도요타리서치연구소(TRI)와 공동 개발한 거대행동모델(LBM)을 적용해 한층 더 사람 같아진 아틀라스의 작업 모습을 공개했다.
+이번에 공개된 영상 속 아틀라스는 로봇개 ‘스팟’의 부품을 적재함과 선반으로 옮기는 작업을 수행한다. 영상에서 아틀라스는 부품 분류, 정렬과 같은 작업을 수행하기 위해 걷거나 쪼그리고, 물건을 들어 올리고 전신을 함께 움직이는 등 자연스러운 동작을 연출한다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250821.73d8ad47244b441f881e7fda868b7aa1_P1.jpg' alt=' 20일 보스턴다이내믹스가 공개한 영상에서 아틀라스가 연구원들의 방해에도 스스로 판단해 업무를 수행하는 모습 [사진=보스턴다이내믹스 유튜브 캡쳐]'>
+아틀라스가 박스에서 또다른 박스로 부품을 옮기는 작업을 수행하는 중 한 연구원이 부품 박스 뚜껑을 닫거나 박스 옆에 부품을 떨어뜨리는 등 작업을 방해하지만, 아틀라스는 당황하지 않고 뚜껑을 열거나 떨어진 부품을 주워 정확히 박스에 담는 모습을 보여준다.
+초기 로봇은 문제 상황에서 즉각적인 대응이 어려웠지만, 아틀라스는 알고리즘 또는 하드웨어를 바꾸지 않고도 학습 경험을 통해 주어진 임무를 성공적으로 수행할 수 있다는 것이 강점이다. 정해진 일만 하는 것이 아니라 작업장에서 빈번히 발생할 수 있는 다양한 문제 상황에서도 인공지능(AI) 기술을 통해 스스로 판단할 수 있다는 평가다.
+아틀라스에 적용된 LBM은 엔드투엔드(end-to-end) 기법을 활용해 매번 개발 코드를 변경하지 않고도 다양한 형태의 물건들을 다루는 동작을 빠르게 학습하고, 자율적으로 판단하고 제어할 수 있다는 게 보스턴다이내믹스의 설명이다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250821.68b97f7b6b8a48698189cb158a9bcc38_P1.jpg' alt=' 20일 보스턴다이내믹스가 공개한 영상에서 아틀라스가 스팟 다리 부품을 들어 접는 동작을 구현하는 모습 [사진=보스턴다이내믹스 유튜브 캡쳐]'>
+LBM은 로봇이 텍스트, 이미지, 영상 등 센서를 통해 수집한 대규모의 데이터를 학습하고, 로봇이 인간처럼 자율적으로 판단하고 행동할 수 있도록 연구 중인 AI 모델이다. 이를 통해 추가적인 학습 과정 없이도 로봇의 동작 예측 성능을 향상시켜 로봇이 약 2배까지도 빠르게 동작할 수 있다고 알려졌다.
+보스턴다이내믹스 관계자는 “아틀라스가 밧줄을 매듭짓거나 흐트러진 이불을 펼치는 등 비정형 물품을 정교하게 다룰 수 있도록 학습시키고 있다”면서 생산 현장뿐만 아니라 가정에서 가사 도우미 역할을 적절히 수행할 수 있는 휴머노이드로 발전할 가능성을 시사했다.
+스캇 쿠인데르스마 보스턴다이내믹스 로보틱스 연구 책임자는 “이번 영상은 범용 로봇이 일상과 업무를 어떻게 바꿀지 보여주는 사례”라며 “다양한 조작 업무를 위한 단일 신경망(single neural network) 학습은 일반적인 로봇의 발전뿐만 아니라 아틀라스와 같은 고성능 로봇들이 전신을 정교하고 유연하게 사용하기 위한 기반이 될 것”이라고 강조했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[현대자동차그룹 로봇 전문 계열사 보스턴다이내믹스가 20일(현지시각) 로봇 ‘아틀라스’가 사람의 방해에 구애받지 않고 기존 작업을 이어가는 등 지능적으로 대응하는 영상을 공개했다. 앞서 아틀라스가 엔진커버 부품을 이동식 보관함으로 옮기는 작업을 수행하는 모습을 선보였던 보스턴다이내믹스는 이번에 도요타리서치연구소(TRI)와 공동 개발한 거대행동모델(LBM)을 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100308</code_id>
+<code_nm><![CDATA[자동차]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100308</small_code_id>
+<small_code_nm><![CDATA[자동차]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250821.216d861f979047b8a53f5dd19709b9c0_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 20일 보스턴다이내믹스가 공개한 영상에서 아틀라스가 연구원들의 방해에도 스스로 판단해 업무를 수행하는 모습 [사진=보스턴다이내믹스 유튜브 캡쳐]]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250821.73d8ad47244b441f881e7fda868b7aa1_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 20일 보스턴다이내믹스가 공개한 영상에서 아틀라스가 연구원들의 방해에도 스스로 판단해 업무를 수행하는 모습 [사진=보스턴다이내믹스 유튜브 캡쳐]]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250821.68b97f7b6b8a48698189cb158a9bcc38_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 20일 보스턴다이내믹스가 공개한 영상에서 아틀라스가 스팟 다리 부품을 들어 접는 동작을 구현하는 모습 [사진=보스턴다이내믹스 유튜브 캡쳐]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11399055]]></article_url>
+</article>
+</saltlux>

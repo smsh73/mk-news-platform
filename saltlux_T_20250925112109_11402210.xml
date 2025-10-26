@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11402210</art_id>
+<art_year>2025</art_year>
+<art_no>606488</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-25 15:16:29</service_daytime>
+<title><![CDATA[“AI를 동료로”…LG CNS, 기업용 에이전틱 AI 시장 본격 진출]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김규식 기자(dorabono@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-25 15:16:29</reg_dt>
+<mod_dt>2025-08-25 15:40:59</mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[LG CNS가 기업의 업무 생산성을 높이는 ‘에이전틱 인공지능(AI)’ 생태계를 선보였다. LG CNS는 25일 서울 마곡 LG사이언스파크에서 ‘AX 미디어데이’를 열고 기업용 AI 플랫폼 ‘에이전틱웍스’와 업무혁신 서비스 ‘에이엑스씽크’를 공개했다.
+현신균 LG CNS 대표는 이날 브리핑에서 “에이전틱 AI는 단순 반복을 넘어 업무 전체를 능동적으로 분석하고 조율하며 의사결정을 지원한다”며 “기업 시스템과 AI 에이전트를 연결해 안전하고 지속 가능한 운영이 가능하다”고 말했다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/25/news-p.v1.20250825.b8ddca03ebb041c59ad2f6b49142d165_P1.jpg' alt=' 25일 LG CNS AX 미디어데이에서 현신균 LG CNS 대표가 환영사를 하고 있다. &lt;LG CNS&gt;'>
+에이전틱웍스는 AI 서비스 설계부터 운영·관리에 이르는 전 과정을 지원하는 모듈형 플랫폼이다. △데이터 전처리를 담당하는 ‘지식저장소’ △AI 모델 고도화 ‘리파이너’ △에이전트 제작 ‘빌더’ △노코드 개발 환경 ‘스튜디오’ △시스템 연동 ‘허브’ △최적 모델 선택 ‘라우터’ 등 6개 모듈로 구성됐다. 기업은 필요한 기능만 선택할 수 있으며, 일반 직원도 AI 서비스를 직접 구축할 수 있다.
+이 플랫폼은 LG CNS의 데이터 분석·AI 플랫폼(DAP GenAI)과 글로벌 AI 기업 코히어의 협력 기술을 기반으로 하며, LG AI연구원의 엑사원을 포함한 다양한 모델을 복수로 활용할 수 있다. LG CNS 관계자는 “금융사는 보안을 중시하기 때문에 엑사원 사용을 요청한다”며 “고객사의 요구에 따라 여러 모델을 업무 특성에 맞게 적용하고 있다”고 설명했다. 실제로 대규모 채용 업무에 적용해 본 결과, 자기소개서와 인적성 자료를 분석해 인재를 추천하고 면접 질문을 자동 생성해 업무 생산성이 약 26% 향상됐다고 LG CNS는 밝혔다.
+LG CNS는 또 일정 관리, 회의, 메일, 번역 등 일상 업무를 자동화하는 서비스 ‘에이엑스씽크’도 공개했다. 이 서비스는 사용자의 업무 스타일과 우선순위를 분석해 개인화된 기능을 제공한다. LG디스플레이에 적용한 사례에서는 업무 생산성이 10% 향상됐으며 외산 솔루션 대비 연간 100억 원 이상 비용을 절감했다. 김홍근 LG CNS 디지털비즈니스사업부장은 “그룹 계열사에 서비스 일부 또는 전체를 도입할 계획”이라며 “연말에는 통합 솔루션을 제공할 방침”이라고 말했다.
+LG CNS는 특히 보안을 중시하는 금융·공공 분야에서 국산 거대언어모델(LLM)인 엑사원에 대한 수요가 높다고 보고 이 영역을 중심으로 사업을 확대할 계획이다. LG CNS 관계자는 “자체 보안솔루션 ‘시큐엑스퍼 AI’를 탑재해 민감한 정보 유출을 차단하고, 글로벌 파트너십을 통해 아시아태평양 지역으로도 시장을 넓혀갈 것”이라고 밝혔다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[LG CNS가 기업의 업무 생산성을 높이는 ‘에이전틱 인공지능(AI)’ 생태계를 선보였다. LG CNS는 25일 서울 마곡 LG사이언스파크에서 ‘AX 미디어데이’를 열고 기업용 AI 플랫폼 ‘에이전틱웍스’와 업무혁신 서비스 ‘에이엑스씽크’를 공개했다. 현신균 LG CNS 대표는 이날 브리핑에서 “에이전틱 AI는 단순 반복을 넘어 업무 전체를 능동적으로 분석]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101510</code_id>
+<code_nm><![CDATA[소프트웨어]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101510</small_code_id>
+<small_code_nm><![CDATA[소프트웨어]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/25/news-p.v1.20250825.b8ddca03ebb041c59ad2f6b49142d165_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 25일 LG CNS AX 미디어데이에서 현신균 LG CNS 대표가 환영사를 하고 있다. &lt;LG CNS&gt;]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11402210]]></article_url>
+</article>
+</saltlux>

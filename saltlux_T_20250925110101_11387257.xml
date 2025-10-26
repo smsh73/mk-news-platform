@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11387257</art_id>
+<art_year>2025</art_year>
+<art_no>562758</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-07 08:51:58</service_daytime>
+<title><![CDATA[파두, 스토리지 기술력 입증…FMS 2025서 최고 혁신상 쾌거]]></title>
+<sub_title><![CDATA[세계 최대 메모리 기술 전시회 ‘FMS 2025’서
+FDP 상용화로 스토리지 혁신 기술력 입증]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[안서진 매경 디지털뉴스룸 기자(seojin@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-07 08:51:58</reg_dt>
+<mod_dt>2025-08-07 09:21:30</mod_dt>
+<art_org_class>MK100301</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">세계 최대 메모리 기술 전시회 ‘FMS 2025’서<br>FDP 상용화로 스토리지 혁신 기술력 입증</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/07/news-p.v1.20250807.f581e3be45dc4b1d9ca3d542a5d4419f_P1.png' alt=' 파두가 ‘FMS 2025’에서 ‘최고 혁신 기술상(Most Innovative Technology)’을 수상했다. (왼쪽부터)제이 크레이머 FMS 2025  ‘베스트 오브 쇼 어워즈’ 시상 프로그램 위원장, 이지표 파두 대표. [사진출처=파두]'>
+데이터센터 반도체 전문기업 파두(FADU)는 세계 최대 메모리 및 스토리지 기술 전시회 ‘FMS 2025’에서 최고 혁신 기술상을 수상했다고 7일 밝혔다.
+이번 수상은 FMS 2025에 참가한 수많은 글로벌 기업 중 단 8곳만 선정된 결과로서 그 의미가 크다. 기조연설과 함께 수상의 영예를 안은 파두는 솔리드 스테이트 드라이브(SSD) 소프트웨어 기술인 ‘FDP(Flexible Data Placement)’를 업계 최초로 상용화한 기술 혁신성을 공식 인정 받았다.
+FDP는 다중 사용자(Multi-tenancy) 환경에서 발생하는 ‘사용자 간 간섭(noisy neighbor)’ 문제와 이로 인한 성능 저하를 해결하고 일관된 성능을 보장하는 최신 스토리지 기술로 평가되고 있다. 전 세계 기업이 참여하는 기술 표준 기구 ‘오픈 컴퓨트 프로젝트’에 등록된 상용 기술이기도 하다.
+기존 데이터센터용 SSD 기반 클라우드 스토리지 환경에서는 여러 사용자의 데이터가 한 공간에 섞여 저장되기 때문에 속도 저하 및 신호 간섭 등의 문제가 있었다. FDP 기술을 통해 SSD 내부를 사용자마다 완전히 물리적으로 분리된 공간처럼 활용할 수 있게 했다.
+SSD 안에 사용자 전용 저장공간을 따로 구획해 ▲데이터 저장 효율 향상을 통한 속도 및 응답 시간 개선 ▲쓰기 증폭(Write Amplification) 현상 감소를 통한 SSD 수명 연장 ▲동시 사용 환경에서도 일관된 성능 유지 ▲데이터 배치 최적화를 구현해 전력 소비 절감 등 AI·클라우드 환경에서의 다양한 최적화 효과를 입증했다.
+FDP는 메타와 구글이 표준화를 주도하고 글로벌 하이퍼스케일러 데이터센터에 실제 적용된 기술이다. 업계에서는 이 기술이 향후 AI 스토리지 환경에서 핵심 기능으로 자리잡을 것으로 기대하고 있다.
+파두는 지난 2018년 ‘최고 혁신 SSD 컨트롤러’, 2020년 ‘최고 혁신 플래시 메모리 스타트업’에 이어 올해까지 FMS에서만 세 번째 수상을 하며 기술 혁신 기업으로서 위상을 재확인했다.
+이지효 파두 대표는 “AI와 클라우드 시대에 요구되는 속도와 효율 그리고 신뢰성을 동시에 갖춘 FDP를 통해 차세대 스토리지 시장을 선도해 나가는 동시에 신규 고객 발굴에도 박차를 가할 것”이라고 밝혔다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[세계 최대 메모리 기술 전시회 ‘FMS 2025’서 FDP 상용화로 스토리지 혁신 기술력 입증데이터센터 반도체 전문기업 파두(FADU)는 세계 최대 메모리 및 스토리지 기술 전시회 ‘FMS 2025’에서 최고 혁신 기술상을 수상했다고 7일 밝혔다. 이번 수상은 FMS 2025에 참가한 수많은 글로벌 기업 중 단 8곳만 선정된 결과로서 그 의미가 크다. 기조]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100301</code_id>
+<code_nm><![CDATA[기업 경영]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100301</small_code_id>
+<small_code_nm><![CDATA[기업 경영]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100305</code_id>
+<code_nm><![CDATA[전기·전자·통신]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100305</small_code_id>
+<small_code_nm><![CDATA[전기·전자·통신]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/07/news-p.v1.20250807.f581e3be45dc4b1d9ca3d542a5d4419f_P1.png]]></image_url>
+<image_caption><![CDATA[ 파두가 ‘FMS 2025’에서 ‘최고 혁신 기술상(Most Innovative Technology)’을 수상했다. (왼쪽부터)제이 크레이머 FMS 2025  ‘베스트 오브 쇼 어워즈’ 시상 프로그램 위원장, 이지표 파두 대표. [사진출처=파두]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11387257]]></article_url>
+</article>
+</saltlux>

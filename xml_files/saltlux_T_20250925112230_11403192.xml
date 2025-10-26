@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11403192</art_id>
+<art_year>2025</art_year>
+<art_no>609790</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-26 15:59:58</service_daytime>
+<title><![CDATA[“콘텐츠 무단사용”에 몰린 AI검색…일본 언론사, 퍼플렉시티에 200억원 배상 소송]]></title>
+<sub_title><![CDATA[日 니혼게이자이신문·아사히
+美 AI 검색 ‘퍼플렉시티’ 제소
+저작권 침해…200억원 손배]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[이승훈 특파원(thoth@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-26 15:59:58</reg_dt>
+<mod_dt>2025-08-27 10:33:24</mod_dt>
+<art_org_class>MK101002</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">日 니혼게이자이신문·아사히<br>美 AI 검색 ‘퍼플렉시티’ 제소<br>저작권 침해…200억원 손배</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/27/news-p.v1.20250824.399b5506f43b4983b43db6b500c9d922_P1.png' alt=' 한일정상회담을 1면 머릿기사로 보도한 일본 니혼게이자이신문 [도쿄 이승훈 특파원]'>
+일본 니혼게이자이신문(닛케이)과 아사히신문이 미국 인공지능(AI) 검색서비스 업체인 퍼플렉시티를 제소했다. AI 검색을 통해 기사를 무단으로 수집·이용하고 있다는 혐의다.
+27일 니혼게이자이신문에 따르면 양 사는 도쿄지방재판소(지방법원)에 퍼플렉시티를 제소했다고 발표했다. 저작권 침해 행위 금지와 함께 각 사 22억엔(약 207억원)의 손해배상도 요구했다. 이달 초 요미우리신문이 퍼플렉시티를 제소한 데 이어 일본 언론사로는 두 번째다.
+소장에 따르면 퍼플렉시티는 콘텐츠의 이용을 거부하는 기술적 조치를 무시하고 닛케이와 아사히의 서버에 접근해 기사를 수집한 뒤, 이의 요약기사를 생성·제공하는 등 저작권법을 위반한 것으로 나타났다.
+또 요약 내용에 오류가 있음에도 이의 출처를 닛케이나 아사히로 밝혀 사회적 신뢰를 손상한 것으로 드러났다. 이는 부정경쟁방지법 위반으로 영업상의 이익을 침해한 것에 해당한다.
+닛케이 측은 “많은 시간과 노력을 들여 작성한 기사의 무단 이용은 간과할 수 없고 허위사실도 표시되는 상황도 발생하고 있다”며 “방만한 저작권 침해에 제동을 걸어 민주주의의 근간을 지탱하는 건전한 보도를 지키겠다”고 밝혔다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/27/ams.1.photo.831533_P1.jpg' alt=' (출처: 로이터연합뉴스)'>
+이에 앞서 이달 초 요미우리신문도 퍼플렉시티가 자사 온라인 기사를 무단 사용해 저작권법상 복제권과 공중송신권을 침해했다면서 도쿄지방재판소에 관련 소장을 제출했다.
+이 신문사는 소장에서 퍼플렉시티가 무단 사용한 기사 건수는 올해 2∼6월에만 11만9000여건에 달했다며 이로 인해 자사 인터넷 방문객이 줄면서 광고 수입 감소 요인이 됐다고 주장했다.
+요미우리신문은 일단 퍼플렉시티에 대해 21억6800만엔(약 204억원)의 손해배상을 요구했으며 추가 조사를 통해 손해배상 요구액이 더 늘어날 수도 있다고 밝혔다.
+앞서 지난해 12월 미국 월스트리트저널(WSJ)의 모회사인 다우존스와 뉴욕포스트도 퍼플렉시티를 상대로 저작권 침해에 따른 손해배상을 요구하는 소송을 뉴욕에서 제기한 바 있다.
+퍼플렉시티는 2022년 설립된 생성형 AI 기반 검색 서비스 스타트업으로, 이용자가 질문을 입력하면 인터넷 최신 정보를 바탕으로 답변하는 서비스를 제공하고 있다.
+기존의 키워드를 통한 검색은 연관성이 높은 웹페이지를 사용자게에 제공한다. 반면 생성 AI를 통한 검색은 여러 콘텐츠를 바탕으로 요약해 글로 답변을 보여주는 방식이다. 인용한 페이지의 링크도 나타나지만 꼭 사이트를 방문할 필요가 없다.
+아사히는 “생성 AI가 데이터 해석과 조합을 잘못해 그럴듯하게 잘못된 답변을 하는 경우도 많다”며 “저작권 보호의 관점에서도 정보의 무임승차의 경우도 빈번하다”고 지적했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[日 니혼게이자이신문·아사히 美 AI 검색 ‘퍼플렉시티’ 제소 저작권 침해…200억원 손배일본 니혼게이자이신문(닛케이)과 아사히신문이 미국 인공지능(AI) 검색서비스 업체인 퍼플렉시티를 제소했다. AI 검색을 통해 기사를 무단으로 수집·이용하고 있다는 혐의다. 27일 니혼게이자이신문에 따르면 양 사는 도쿄지방재판소(지방법원)에 퍼플렉시티를 제소했다고 발표했다]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101002</code_id>
+<code_nm><![CDATA[국제경제]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101002</small_code_id>
+<small_code_nm><![CDATA[국제경제]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101001</code_id>
+<code_nm><![CDATA[국제정치]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101001</small_code_id>
+<small_code_nm><![CDATA[국제정치]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101003</code_id>
+<code_nm><![CDATA[국제산업]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101003</small_code_id>
+<small_code_nm><![CDATA[국제산업]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101010</code_id>
+<code_nm><![CDATA[아시아/호주]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101010</small_code_id>
+<small_code_nm><![CDATA[아시아/호주]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101007</code_id>
+<code_nm><![CDATA[국제사건/사고]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101007</small_code_id>
+<small_code_nm><![CDATA[국제사건/사고]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/27/news-p.v1.20250824.399b5506f43b4983b43db6b500c9d922_P1.png]]></image_url>
+<image_caption><![CDATA[ 한일정상회담을 1면 머릿기사로 보도한 일본 니혼게이자이신문 [도쿄 이승훈 특파원]]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/27/ams.1.photo.831533_P1.jpg]]></image_url>
+<image_caption><![CDATA[ (출처: 로이터연합뉴스)]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11403192]]></article_url>
+</article>
+</saltlux>

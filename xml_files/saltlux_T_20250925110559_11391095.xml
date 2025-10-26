@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11391095</art_id>
+<art_year>2025</art_year>
+<art_no>572981</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-11 18:07:49</service_daytime>
+<title><![CDATA[“연체금 5000만원까지”...324만명 연내 빚 갚으면 ‘신용사면’ 해준다]]></title>
+<sub_title><![CDATA[올해 안에 상환 시
+대출 거래 등 가능]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김정환 기자(flame@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-11 18:07:49</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100201</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">올해 안에 상환 시<br>대출 거래 등 가능</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250811.1600633b7342401285c627d9302f3f82_P2.jpg' alt=' [매경DB]'>
+정부가 코로나19 사태 이후 발생한 5000만원 이하 연체 채무를 성실하게 갚은 324만명 연체정보를 삭제하는 ‘신용사면’을 단행한다.
+금융위원회는 11일 “코로나19와 고금리로 인한 경기 침체 등 빚이 있는 소상공인이 정상적으로 경제생활에 복귀할 수 있도록 할 것”이라며 “연체 이력정보 공유와 활용을 제한하는 신용회복 지원 조치를 9월 30일부터 잠정 시행한다”고 밝혔다.
+신용사면 대상은 2020년 1월부터 올해 8월까지 개인·개인사업자 대출 등에서 5000만원 이하의 연체금이 있지만 올해 말까지 전액을 상환한 개인이다. 이들이 올해 안에 빚을 갚으면 신용 기록에서 연체 이력이 사라져 대출·카드 거래 등 정상 금융활동이 가능해진다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250811.8a29baf7cc7f4a268faa3936fc96d447_P1.png' alt=''>
+이번 신용회복 지원 조치 대상자는 324만명에 달한다. 이 가운데 272만명은 이미 상환을 마쳐 지원이 확정됐다. 나머지 52만명도 올해 말까지 빚을 모두 갚으면 신용사면 대상이 된다.
+연체금액 기준은 금융회사가 한국신용정보원에 등록한 잔여 대출원금이다.
+정부는 2021년과 2024년에도 신용사면을 단행했다. 당시 지원 기준은 2000만원 이하였는데 이번에는 한도가 5000만원으로 대폭 확대됐다. 금융위는 “코로나19 피해 장기화와 고금리 지속 등 비상 시기임을 감안했고, 장기소액연체채권 채무 조정 기준이 5000만원 이하라는 점도 참고했다”고 전했다.
+다만 배드뱅크를 통한 빚 탕감에다 신용사면까지 나서며 도덕적 해이(모럴해저드)가 심해질 수 있다는 지적이 나온다. 선량한 차주들에게 채무를 갚지 않아도 된다는 인식을 심어줄 수 있기 때문이다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[올해 안에 상환 시 대출 거래 등 가능정부가 코로나19 사태 이후 발생한 5000만원 이하 연체 채무를 성실하게 갚은 324만명 연체정보를 삭제하는 ‘신용사면’을 단행한다. 금융위원회는 11일 “코로나19와 고금리로 인한 경기 침체 등 빚이 있는 소상공인이 정상적으로 경제생활에 복귀할 수 있도록 할 것”이라며 “연체 이력정보 공유와 활용을 제한하는 신용회복]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100201</code_id>
+<code_nm><![CDATA[금융정책·일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100201</small_code_id>
+<small_code_nm><![CDATA[금융정책·일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100102</code_id>
+<code_nm><![CDATA[정책]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100102</small_code_id>
+<small_code_nm><![CDATA[정책]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250811.1600633b7342401285c627d9302f3f82_P2.jpg]]></image_url>
+<image_caption><![CDATA[ [매경DB]]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250811.8a29baf7cc7f4a268faa3936fc96d447_P1.png]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11391095]]></article_url>
+</article>
+</saltlux>

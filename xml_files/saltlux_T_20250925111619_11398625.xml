@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11398625</art_id>
+<art_year>2025</art_year>
+<art_no>595379</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-20 17:57:18</service_daytime>
+<title><![CDATA[청소로봇이 2㎝ 불씨까지 잡는다]]></title>
+<sub_title><![CDATA[라이노스, 화재감지 기능 탑재]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[이윤식 기자(leeyunsik@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250821</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>17</pub_page>
+<reg_dt>2025-08-20 17:57:18</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100403</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/21/20250821_01110117000005_L00.jpg' alt='라이노스의 AI 청소로봇 '휠리''>
+
+인공지능(AI) 청소로봇 전문기업 라이노스가 청소와 화재 감지를 동시에 수행하는 융합형 AI 청소로봇을 처음으로 선보였다. 빌딩 관리 비용을 절감하면서도 야간·무인시간대 화재 대응 공백을 메울 수 있어 스마트 안전도시 정책과 맞닿은 신기술로 주목받고 있다.
+20일 라이노스는 자사 대표 모델인 '휠리' 시리즈에 이동식 열화상 화재 감지 시스템을 옵션으로 결합한 차세대 모델을 상용화했다고 밝혔다.
+새 모델은 적외선·열 복합 센서를 통해 전방 10ｍ 범위에서 촛불 크기(약 2㎝)의 불씨까지 탐지한다.
+탐지 절차는 △순찰 중 열원 감지 △AI 분석 △자체 경보 발령 △관제실 실시간 전송 △3D 맵 발화 위치 표시 순으로 진행된다. 이는 기존 천장 고정형 감지기의 사각지대를 보완하며, 특히 야간·무인시설에서의 대응력을 크게 높인다.
+청소 기능도 한층 강화됐다. 휠리는 시간당 최대 1200㎡ 청소와 하루 평균 11㎞ 주행이 가능하며, 고감도 오염 센서를 활용해 청소 강도를 자동 조절한다. 악취 원인인 오수통을 세탁수통과 독립 분리해 위생성을 크게 개선했다.
+[이윤식 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[인공지능(AI) 청소로봇 전문기업 라이노스가 청소와 화재 감지를 동시에 수행하는 융합형 AI 청소로봇을 처음으로 선보였다. 빌딩 관리 비용을 절감하면서도 야간·무인시간대 화재 대응 공백을 메울 수 있어 스마트 안전도시 정책과 맞닿은 신기술로 주목받고 있다.
+20일 라이노스는 자사 대표 모델인 '휠리' 시리즈에 이동식 열화상 화재 감지 시스템을 옵션으로 결합한 차세대 모델을 상용화했다고 밝혔다.
+새 모델은 적외선·열 복합 센서를 통해 전방 10ｍ 범위에서]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100403</code_id>
+<code_nm><![CDATA[벤쳐/벤쳐캐피탈]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100403</small_code_id>
+<small_code_nm><![CDATA[벤쳐/벤쳐캐피탈]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/21/20250821_01110117000005_L00.jpg]]></image_url>
+<image_caption><![CDATA[라이노스의 AI 청소로봇 '휠리']]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11398625]]></article_url>
+</article>
+</saltlux>

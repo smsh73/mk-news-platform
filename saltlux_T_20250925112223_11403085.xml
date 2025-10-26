@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11403085</art_id>
+<art_year>2025</art_year>
+<art_no>609423</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-26 14:41:20</service_daytime>
+<title><![CDATA[LG유플러스, AI로 IPTV 고장 미리 잡는다]]></title>
+<sub_title><![CDATA[시범적용서 소비자 불편 10%↓
+내년까지 무인 품질 관리 도입]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김규식 기자(dorabono@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-26 14:41:20</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101502</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">시범적용서 소비자 불편 10%↓<br>내년까지 무인 품질 관리 도입</div></MKSUBTITLE>
+LG유플러스가 인공지능(AI) 기술을 활용해 IPTV 고장을 사전에 점검하고 해결하는 시스템을 도입했다. 본격적인 도입에 앞서 진행한 시범 테스트에서 AI는 실제 불편 발생 가능성을 약 30% 수준에서 예측했고, 고객센터로 접수된 불만 건수는 약 10% 줄었다. LG유플러스는 26일 기자간담회를 열고 셋톱박스 90만 대에 자체 개발한 AI 기반 불편 예측 및 선제 조치 시스템을 우선 적용한다고 밝혔다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/26/news-p.v1.20250826.21e8038a8dcc421caca755c599da19e1_P1.jpg' alt=' 강봉수 LG유플러스 품질혁신센터장이 ‘AI 기반 고객 불편 예측 및 선제 조치 시스템’을 소개하고 있다. &lt;LG유플러스&gt;'>
+이 시스템은 하루 1조 건이 넘는 데이터를 분석해 화질 저하나 화면 끊김 같은 이상 신호를 찾아낸다. 사용자가 불편을 느끼기 전에 재부팅이나 원격 조치로 문제를 해결하는 방식이다. 이전에는 사용자가 고객센터에 직접 신고해야만 원인을 확인하고 조치가 가능했지만 이제는 사전 대응이 가능해졌다. 데이터 분석 속도도 크게 개선돼 기존 7만 시간이 걸리던 작업이 6시간으로 단축됐고 문제 해결 시간도 최대 3일에서 즉시 조치로 줄었다. 사용자는 장시간 대기하지 않고 안정적인 시청 환경을 누릴 수 있게 됐다.
+LG유플러스는 이 과정에서 최신 딥러닝 알고리즘인 트랜스포머 모델을 적용했다. 셋톱박스와 네트워크 장비에서 발생하는 700여 종의 데이터를 학습해 정상 패턴과 이상 패턴을 구분하고, 10분 단위로 업데이트되는 사용자 데이터를 바탕으로 실시간 감시와 예측이 가능하도록 설계됐다. 이렇게 학습된 모델은 단순 장애뿐 아니라 미세한 품질 저하까지 감지해 보다 정밀한 대응을 가능하게 한다.
+LG유플러스는 내년까지 이 시스템을 IPTV 400만 대 전체로 확대하고 2026년에는 IPTV와 홈 네트워크 전반에 사람이 개입하지 않는 완전 자율 관리 체계를 구축할 계획이다. 시스템이 본격 확대되면 단순한 화질 저하나 인터넷 연결 오류도 즉시 해결돼 사용자는 끊김 없는 시청 경험을 보장받을 것으로 기대된다. IPTV 시장이 정체된 상황에서 차별화된 품질 경쟁력을 확보하고, 나아가 AI 기반 품질 관리 경험을 홈 네트워크와 무선 통신 영역으로 확장한다는 전략이다.
+강봉수 LG유플러스 품질혁신센터장은 “사용자 누구나 인정할 수 있는 최고 품질의 서비스를 제공하기 위해 AI 기반 시스템을 개발해 도입했다”며 “향후 IPTV를 넘어 서비스 전 영역으로 AI 적용을 확대해 사용자의 불편을 완전히 없앨 것”이라고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[시범적용서 소비자 불편 10%↓ 내년까지 무인 품질 관리 도입LG유플러스가 인공지능(AI) 기술을 활용해 IPTV 고장을 사전에 점검하고 해결하는 시스템을 도입했다. 본격적인 도입에 앞서 진행한 시범 테스트에서 AI는 실제 불편 발생 가능성을 약 30% 수준에서 예측했고, 고객센터로 접수된 불만 건수는 약 10% 줄었다. LG유플러스는 26일 기자간담회를 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101502</code_id>
+<code_nm><![CDATA[통신]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101502</small_code_id>
+<small_code_nm><![CDATA[통신]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/26/news-p.v1.20250826.21e8038a8dcc421caca755c599da19e1_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 강봉수 LG유플러스 품질혁신센터장이 ‘AI 기반 고객 불편 예측 및 선제 조치 시스템’을 소개하고 있다. &lt;LG유플러스&gt;]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11403085]]></article_url>
+</article>
+</saltlux>

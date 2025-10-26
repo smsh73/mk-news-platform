@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11386822</art_id>
+<art_year>2025</art_year>
+<art_no>561852</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-06 16:56:09</service_daytime>
+<title><![CDATA[네이버 AI, 4명이 대화하는 팟캐스트도 뚝딱…‘팟캐스트LM’ 주목]]></title>
+<sub_title><![CDATA[기사·보고서 등 텍스트 입력하면
+대화 형식 팟캐스트 음성 자동생성
+“실제같은 음성 구현 놀라워” 호평
+영어 버전 팟캐스트 생성도 가능]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[안선제 기자(ahn.sunje@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-06 16:56:09</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">기사·보고서 등 텍스트 입력하면<br>대화 형식 팟캐스트 음성 자동생성<br>“실제같은 음성 구현 놀라워” 호평<br>영어 버전 팟캐스트 생성도 가능</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/06/news-p.v1.20240227.78b076db86d740d58d4ab51e5a09461d_P1.jpg' alt=' 하이퍼클로바X'>
+“오늘 우리는 손흥민 선수의 토트넘 결별 소식에 대해 얘기해보려고 합니다.”(호스트)
+“손흥민 선수가 토트넘에서 10년 동안 뛰면서 정말 많은 업적을 이뤘잖아요. 그런 그가 이제 새로운 도전을 선택했네요.”(패널1)
+“손흥민 선수는 새로운 환경과 동기부여가 필요하다고 했어요. 그리고 토트넘도 에이징 커브를 고려해서 이적을 허용한 것 같아요.”(패널2)
+손흥민 선수 관련 기사를 입력하자 위와 같은 팟캐스트 형식의 대화가 자동 생성됐다. 네이버가 최근 사내에 공개한 음성 인공지능(AI) 기술 ‘팟캐스트 LM’ 시연 모습 중 일부다.
+6일 네이버에 따르면 최근 사내에 기술 데모로 공개된 ‘팟캐스트 LM’이 구성원들로부터 긍정적인 반응을 얻고 있다. 이 기술은 기사나 보고서 같은 텍스트나 파일을 넣으면, 1명의 진행자와 최대 3명의 패널이 참여하는 대화 형식의 팟캐스트 음성을 약 2~3분 분량으로 자동 생성해 준다.
+해당 기술에는 네이버의 거대 언어 모델(LLM) ‘하이퍼클로바 X 오디오’가 적용됐다. 텍스트 데이터와 음성 데이터를 결합해 자연스러운 음성을 구현하며, 추임새나 감정 표현까지 정교하게 반영하는 것이 특징이다.
+유사한 기능은 구글의 ‘노트북 LM’이 제공하는 ‘오디오 개요’에서도 볼 수 있지만, 네이버의 기술은 더 많은 인원의 대화를 지원해 한층 풍부한 콘텐츠 생성이 가능하다.
+첫 공개 이후 최근 영어 버전까지 추가되며 활용 범위는 더욱 넓어지고 있다.
+이 기술은 공개 이후 사내 직원들로부터 “‘하’등의 추임새를 자연스럽게 넣으며 이어가는 방식이 실제 사람 패널처럼 들렸다”, “주제를 이끌어가는 흐름이 놀라울 정도로 자연스럽고, 억양이나 발음 연결도 전혀 어색하지 않았다” 등의 긍정적인 평가를 받은 것으로 전해졌다. 또 사내 직원의 목소리를 데모에 직접 활용하며 화제가 되기도 했다.
+이번 기술은 단독 서비스로 출시되기보다는 네이버의 기존 서비스들과의 협업을 통해 사용자에게 제공될 전망이다. 사내 데모 공개 역시 구성원들이 다양한 서비스 개발에 활용 방안을 구상하는 데 도움이 되도록 하기 위한 목적이 크다.
+네이버 관계자는 “공개 이후 하이퍼클로바X 기반 음성 AI 기술을 자사 서비스에 접목하려는 다양한 아이디어 제안과 협업 논의가 이어지고 있다”고 전했다.
+그동안 다양한 멀티모달 기술을 개발해온 네이버는 최근 음성 모델 개발에도 속도를 내고 있다. 특히 음성 대화를 기반으로 자연스러운 상호작용이 가능한 기술 확보에 집중하는 모습이다.
+네이버 관계자는 “텍스트와 음성이라는 서로 다른 유형의 데이터를 교차 학습하는 방식을 채택해 텍스트의 의미적 정보와 음성의 운율적 특성을 통합적으로 이해할 수 있도록 모델을 구축했다”며 “글로벌 수준의 멀티모달 모델로 고도화하고 있다. 실제 서비스와 산업 현장에서 실질적인 사용자 가치를 만들어낼 수 있는 AI 서비스를 구축해나갈 것”이라고 전했다.
+이러한 네이버의 음성 LLM 관련 기술은 지난해 최고 권위 AI 학회인 ‘NeurIPS 2024’에도 채택된 바 있다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[기사·보고서 등 텍스트 입력하면 대화 형식 팟캐스트 음성 자동생성 “실제같은 음성 구현 놀라워” 호평 영어 버전 팟캐스트 생성도 가능“오늘 우리는 손흥민 선수의 토트넘 결별 소식에 대해 얘기해보려고 합니다.”(호스트) “손흥민 선수가 토트넘에서 10년 동안 뛰면서 정말 많은 업적을 이뤘잖아요. 그런 그가 이제 새로운 도전을 선택했네요.”(패널1) “손흥민 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/06/news-p.v1.20240227.78b076db86d740d58d4ab51e5a09461d_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 하이퍼클로바X]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11386822]]></article_url>
+</article>
+</saltlux>

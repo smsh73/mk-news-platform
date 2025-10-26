@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11383648</art_id>
+<art_year>2025</art_year>
+<art_no>551653</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-02 11:40:18</service_daytime>
+<title><![CDATA[“日 도요타의 자신감?”…美 관세에도 생산량 전망치 상향 조정]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[이상현 매경 디지털뉴스룸 기자(lee.sanghyun@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-02 11:40:18</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100308</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/02/news-p.v1.20250802.049629d46243478bab89deed997dbf98_P1.jpg' alt=' 도요타자동차. [사진 출처 = AP, 연합뉴스]'>
+세계 1위 완성차 업체인 일본 도요타자동차가 도널드 트럼프 미국 행정부 관세 조치에도 올해 세계 생산량 전망치를 상향 조정한 것으로 알려졌다.
+2일 니혼게이자이신문(닛케이)에 따르면 도요타는 올해 초 고급차 브랜드 렉서스를 포함한 연간 생산량을 약 990만대로 정했으나, 최근 약 1000만대로 올린 전망치를 주요 부품업체에 전달했다.
+도요타는 하이브리드차 등의 판매 호조를 고려해 생산량 전망치를 상향 조정한 것으로 알려졌다.
+다만 일본 내 생산량은 연초에 제시했던 330만대를 고수했다. 도요타는 자국 내 생산 기술과 고용을 유지하려면 연간 300만대 이상을 제조해야 한다고 보고 있다.
+도요타가 새롭게 내놓은 세계 생산량 전망치를 달성하면 1003만대를 제조했던 2023년에 이어 2년 만에 ‘1000만대 생산’을 실현하게 된다. 도요타는 올해 상반기에 역대 최대인 491만대를 생산한 바 있다.
+도요타는 아울러 2026년과 2027년 생산량 전망치도 각각 연초보다 20만대 정도씩 많은 1020만대, 1050만 대로 각각 올렸다.
+반면 실적 부진을 겪고 있는 닛산자동차는 인도 첸나이 공장을 운영하는 자회사 주식을 르노에 매각했다고 전날 발표했다. 매각액은 353억루피(약 5600억원)다. 이로써 닛산은 인도에서 자동차 생산을 종료했다. 닛산은 향후 인도 내 차량 생산을 르노에 위탁할 방침이다.
+한편 닛케이는 올해 세계 주식시장에서 7월 말 기준 자동차 업체의 시가총액은 작년 연말과 비교해 6% 감소했으나, 반도체 관련 기업 시총은 24% 늘었다고 보도했다. 매체는 생성형 인공지능(AI) 수요 증가에 따라 자금이 반도체 업계에 유입됐다고 분석했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[세계 1위 완성차 업체인 일본 도요타자동차가 도널드 트럼프 미국 행정부 관세 조치에도 올해 세계 생산량 전망치를 상향 조정한 것으로 알려졌다. 2일 니혼게이자이신문(닛케이)에 따르면 도요타는 올해 초 고급차 브랜드 렉서스를 포함한 연간 생산량을 약 990만대로 정했으나, 최근 약 1000만대로 올린 전망치를 주요 부품업체에 전달했다. 도요타는 하이브리드차 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100308</code_id>
+<code_nm><![CDATA[자동차]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100308</small_code_id>
+<small_code_nm><![CDATA[자동차]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101002</code_id>
+<code_nm><![CDATA[국제경제]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101002</small_code_id>
+<small_code_nm><![CDATA[국제경제]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101003</code_id>
+<code_nm><![CDATA[국제산업]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101003</small_code_id>
+<small_code_nm><![CDATA[국제산업]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/02/news-p.v1.20250802.049629d46243478bab89deed997dbf98_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 도요타자동차. [사진 출처 = AP, 연합뉴스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11383648]]></article_url>
+</article>
+</saltlux>

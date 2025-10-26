@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11388769</art_id>
+<art_year>2025</art_year>
+<art_no>566895</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-08 13:36:22</service_daytime>
+<title><![CDATA[코로나19 입원환자 4주 만에 2배 ‘쑥’…8월에 더 늘어날거라고?]]></title>
+<sub_title><![CDATA[65세 이상 고령 환자 비율 60%
+“증상 있을 경우 진료 받아야”
+외출시 마스크 착용도 권고]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[안서진 매경 디지털뉴스룸 기자(seojin@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-08 13:36:22</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100801</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">65세 이상 고령 환자 비율 60%<br>“증상 있을 경우 진료 받아야”<br>외출시 마스크 착용도 권고</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/08/news-p.v1.20250808.369900a1e3c24336a6bcaf8e62203351_P1.png' alt=' [사진출처=연합뉴스]'>
+코로나19 병원 입원환자 수가 4주간 약 2배 증가한 가운데 이달 중 증가세가 계속될 것이란 전망이 나온다.
+8일 질병청에 따르면 지난달 27일~이달 2일 코로나19 입원환자 표본감시 결과 전국 221개 병원급 의료기관 입원환자 수는 220명으로 최근 4주간 약 2배 증가하면서 5주 연속 증가세를 보였다.
+최근 5주간 101명(6월 29일~7월 5일)→103명(7월 6~12일)→123명(7월 13~19일)→139명(7월 20~26일)→220명(7월 27일~8월 2일)‘의 추이를 보였다. 연령별로는 65세 이상이 전체 입원환자(3526명)의 60%(2114명)로 가장 많았다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/08/news-p.v1.20250808.2ea230281b7e4e5f83013908abc19f61_P1.gif' alt=''>
+42개 상급종합병원 입원환자 수도 23명으로 4주 연속 늘었고 65세 이상 환자가 전체 입원환자(326명)의 52.5%(171명)으로 가장 많았다.
+질병청은 “최근까지의 발생 동향과 예년 여름철의 유행 양상을 고려할 때 8월까지 환자 발생 증가세가 지속될 것”이라고 내다봤다.
+아울러 발열이나 인후통 등 코로나19 증상이 있을 경우는 가까운 병의원에서 진료를 받고 증상이 회복될 때까지 휴식을 취하는 한편 외출이 필요한 경우 마스크를 착용해달라고 권고했다.
+특히 고령층 등 코로나19 고위험군에겐 사람이 많고 밀페된 실내에서 요양병원 등 의료기관이나 요양시설 등 감염취약시설 종사자나 방문자에게 마스크 착용 등 코로나19 감염 예방수칙을 강조했다.
+한편 질병청은 여름철 코로나19 발생 상황을 평가하고 치료제 및 병상 수급 등 대응 현황을 점검하기 위해 다음주 중 ‘호흡기감염병 관계부처 합동대책반’ 회의를 개최할 예정이라고 밝혔다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[65세 이상 고령 환자 비율 60% “증상 있을 경우 진료 받아야” 외출시 마스크 착용도 권고코로나19 병원 입원환자 수가 4주간 약 2배 증가한 가운데 이달 중 증가세가 계속될 것이란 전망이 나온다. 8일 질병청에 따르면 지난달 27일~이달 2일 코로나19 입원환자 표본감시 결과 전국 221개 병원급 의료기관 입원환자 수는 220명으로 최근 4주간 약 2]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100801</code_id>
+<code_nm><![CDATA[사회일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100801</small_code_id>
+<small_code_nm><![CDATA[사회일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100807</code_id>
+<code_nm><![CDATA[보건/복지]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100807</small_code_id>
+<small_code_nm><![CDATA[보건/복지]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/08/news-p.v1.20250808.369900a1e3c24336a6bcaf8e62203351_P1.png]]></image_url>
+<image_caption><![CDATA[ [사진출처=연합뉴스]]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/08/news-p.v1.20250808.2ea230281b7e4e5f83013908abc19f61_P1.gif]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11388769]]></article_url>
+</article>
+</saltlux>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11382189</art_id>
+<art_year>2025</art_year>
+<art_no>554211</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-04 09:00:00</service_daytime>
+<title><![CDATA[에듀테크 프로젝트 에덤-루카스에듀테인먼트와 AI·Web3.0 기반 글로벌 학습 지원 생태계 구축]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>09</media_code>
+<writers><![CDATA[김희연 매경비즈 기자(kim.heeyeon@mkinternet.com)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-07-31 15:53:35</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100402</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202507/31/news-p.v1.20250731.7b5be2c30b064edaa9fd82fafa88cd48_P1.png' alt=' &lt; 이미지 제공 : 드림래더스&gt;'>
+Web3.0 기반 에듀테크 프로젝트 ‘에덤(EDUM)’을 운영하는 드림래더스가 에듀테크 기업 루카스에듀테인먼트와 전략적 협업을 맺고, AI 기반 한국어 학습 서비스와 블록체인 보상 시스템을 결합한 신규 학습 생태계 구축에 나선다고 4일 밝혔다.
+에덤은 학습자의 학습 행동(Study) 데이터를 측정·인증하고, 이에 따른 보상(Earn)을 제공하는 S2E(Study to Earn) 모델 기반 에듀테크 프로젝트다. 블록체인 기술을 기반으로 학습자는 개인화된 학습 경험을 제공받으며, 자신의 학습 데이터 가치를 공정하게 분배받을 수 있다.
+루카스에듀테인먼트는 RAG(검색증강생성) 기반의 AI 한국어 학습 에이전트 ‘토픽봇(TOPIKBOT)’을 개발한 기업이다. ‘토픽봇’은 1,000권 이상의 정제된 학습 문서와 실시간 음성 입출력(STT/TTS) 기능을 통해, 사용자의 수준과 목적에 따라 최적화된 한국어 학습을 지원하는 서비스다. 기존의 일방향식 콘텐츠 소비를 넘어, 대화형 학습과 맥락 기반 질의응답을 구현해 실제적인 언어 습득 효과를 지향한다.
+양사는 이번 협업을 통해 토픽봇과 에덤의 보상 시스템 연동, 사용처 확대, 학습 생태계 확장 등을 추진할 계획이다.
+에덤 관계자는 “루카스에듀테인먼트의 콘텐츠와 인터랙션 중심의 AI 언어 학습 서비스에 에덤의 블록체인 보상 인프라를 결합함으로써, 학습 동기 유발과 지속성 확보라는 두 과제를 함께 해결할 수 있을 것으로 기대한다”며 “이번 협업은 에덤 생태계의 실사용 사례 확대뿐 아니라 Web3 기반 글로벌 교육 네트워크 확장의 시작이 될 것”이라고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[Web3.0 기반 에듀테크 프로젝트 ‘에덤(EDUM)’을 운영하는 드림래더스가 에듀테크 기업 루카스에듀테인먼트와 전략적 협업을 맺고, AI 기반 한국어 학습 서비스와 블록체인 보상 시스템을 결합한 신규 학습 생태계 구축에 나선다고 4일 밝혔다. 에덤은 학습자의 학습 행동(Study) 데이터를 측정·인증하고, 이에 따른 보상(Earn)을 제공하는 S2E(St]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100402</code_id>
+<code_nm><![CDATA[중견/중소기업]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100402</small_code_id>
+<small_code_nm><![CDATA[중견/중소기업]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202507/31/news-p.v1.20250731.7b5be2c30b064edaa9fd82fafa88cd48_P1.png]]></image_url>
+<image_caption><![CDATA[ &lt; 이미지 제공 : 드림래더스&gt;]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11382189]]></article_url>
+</article>
+</saltlux>

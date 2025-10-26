@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11394216</art_id>
+<art_year>2025</art_year>
+<art_no>582711</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-14 18:31:53</service_daytime>
+<title><![CDATA[SC제일은행 2분기 순익 967억원…금리 하락에 41% 감소]]></title>
+<sub_title><![CDATA[상반기 순익은 2086억원
+기저효과로 2.3% 늘며 선방]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[한상헌 기자(aries@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-14 18:31:53</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100201</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">상반기 순익은 2086억원<br>기저효과로 2.3% 늘며 선방</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/14/news-p.v1.20250814.18d4c9981b9f4382b68b5d6f6159b67a_P1.jpg' alt=' SC제일은행 서울 종로구 본점 &lt;사진=SC제일은행&gt;'>
+SC제일은행은 올해 2분기 당기순이익이 전년 대비 40.8% 줄어든 967억원을 기록했다고 14일 밝혔다.
+시장금리가 하락하면서 수익성이 떨어진 가운데 인건비 상승, 충당금 적립금 여파 등이 복합적으로 작용한 결과다.
+올해 상반기 기준으로는 당기순이익 2086억원을 기록하며 전년동기보다 2.3% 증가했다. 전년 동기에 홍콩 H지수 주가연계증권(ELS) 상품 배상 추정액인 969억원을 일회성 영업외비용으로 반영한 기저 효과가 반영됐기 때문이다.
+상반기 이자이익은 순이자마진(NIM) 축소 영향으로 6098억원을 기록하며 전년보다 4.1% 줄었다. 비이자이익은 외환·파생 관련 이익이 늘면서 전년 대비 4.2% 증가한 2059억원으로 집계됐다.
+영업이익은 올해 상반기 2564억원으로 전년 동기보다 26.1% 줄었다. 영업비용은 전년 동기보다 4.8% 증가한 4574억원으로 나타났다. 충당금전입액이 전년동기보다 2배 넘게 늘어난 1019억원을 기록한 영향이다. 티메프 사태 관련 충당금 적립과 파생상품 미수금 충당금 적립 등으로 인한 결과라고 SC제일은행은 설명했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[상반기 순익은 2086억원 기저효과로 2.3% 늘며 선방SC제일은행은 올해 2분기 당기순이익이 전년 대비 40.8% 줄어든 967억원을 기록했다고 14일 밝혔다. 시장금리가 하락하면서 수익성이 떨어진 가운데 인건비 상승, 충당금 적립금 여파 등이 복합적으로 작용한 결과다. 올해 상반기 기준으로는 당기순이익 2086억원을 기록하며 전년동기보다 2.3% 증가했]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100201</code_id>
+<code_nm><![CDATA[금융정책·일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100201</small_code_id>
+<small_code_nm><![CDATA[금융정책·일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100203</code_id>
+<code_nm><![CDATA[은행]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100203</small_code_id>
+<small_code_nm><![CDATA[은행]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/14/news-p.v1.20250814.18d4c9981b9f4382b68b5d6f6159b67a_P1.jpg]]></image_url>
+<image_caption><![CDATA[ SC제일은행 서울 종로구 본점 &lt;사진=SC제일은행&gt;]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11394216]]></article_url>
+</article>
+</saltlux>

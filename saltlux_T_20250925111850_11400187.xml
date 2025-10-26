@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11400187</art_id>
+<art_year>2025</art_year>
+<art_no>600115</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-22 11:17:12</service_daytime>
+<title><![CDATA[Lotte retail units embrace AI across operations]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-22 11:17:12</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK400111</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/22/news-p.v1.20250822.138bd2c6e96847c28b045175a86cdf82_P1.png' alt=' (Lotte Retail)'>
+Lotte Group’s retail affiliates on Thursday unveiled plans to fully integrate artificial intelligence (AI) into all business areas, from merchandising and operations to corporate support, aiming to automate core functions and significantly boost efficiency.
+At the first Lotte Retail AI Conference held Thursday at Lotte World Tower in Seoul, the conglomerate announced its plan to establish an “agentic enterprise” model. This involves embedding “agentic AI,” a system capable of autonomously setting goals and making optimal decisions, into every organization.
+The model spans four major business areas: shopping, merchandising (MD), operations, and corporate support. In shopping, AI will go beyond recommending products based on searches and past purchases to automatically adding suitable items to a customer’s cart.
+For MD, AI will select seasonal products, set purchase prices, and configure assortments using sales data without human intervention.
+In operations, AI will monitor factors such as weather, logistics, and sales trends to automatically adjust inventory and orders. Various corporate support tasks will also be automated.
+Lotte plans to gradually implement this innovation and complete its groupwide AI-driven management system, the “agentic enterprise,” by 2030. Execution will be led by the LaiLAC Center, an AI-focused unit established in 2023. The group is also forming strategic partnerships with domestic IT firms and global big tech companies to strengthen its technology base. Functions such as HR, marketing, and customer support are slated for automation.
+The conference, presided over by Vice Chairman Kim Sang-hyun, head of Lotte Retail, was attended by executives from major divisions including department stores. Presentations covered global and domestic AI innovation cases and future outlooks.
+“The adoption of agentic AI would transform AI from a mere tool into part of Lotte Retail’s DNA,”Kim said, adding that the group aims to deliver differentiated shopping experiences to customers while enhancing efficiency for employees and partners.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[Lotte Group’s retail affiliates on Thursday unveiled plans to fully integrate artificial intelligence (AI) into all business areas, from merchandising and operations to corporate support, aiming to au]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK400111</code_id>
+<code_nm><![CDATA[Biz]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00308</middle_code_id>
+<middle_code_nm><![CDATA[English]]></middle_code_nm>
+<small_code_id>MK400111</small_code_id>
+<small_code_nm><![CDATA[Biz]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/22/news-p.v1.20250822.138bd2c6e96847c28b045175a86cdf82_P1.png]]></image_url>
+<image_caption><![CDATA[ (Lotte Retail)]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11400187]]></article_url>
+</article>
+</saltlux>

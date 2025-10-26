@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11400706</art_id>
+<art_year>2025</art_year>
+<art_no>601696</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-22 17:50:59</service_daytime>
+<title><![CDATA[올해는 ‘처서의 마법’ 없다…30도 웃도는 무더위 당분간 지속]]></title>
+<sub_title><![CDATA[‘처서’ 23일 최저 22도 ~ 최고 36도
+주말 내륙 중심으로 곳곳에 소나기]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[안서진 매경 디지털뉴스룸 기자(seojin@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-22 17:50:59</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100801</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">‘처서’ 23일 최저 22도 ~ 최고 36도<br>주말 내륙 중심으로 곳곳에 소나기</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/22/news-p.v1.20250822.11691627091043cf80160d8610ce916e_P1.png' alt=' [사진출처=연합뉴스]'>
+절기 처서(處暑)에도 무더위가 이어지겠다.
+토요일이자 처서인 23일 아침 최저기온은 22∼28도이고 낮 최고기온은 31∼36도일 것으로 예보됐다.
+주요 도시 예상 최저기온과 최고기온은 서울 27도와 34도, 인천 26도와 32도, 대전 26도와 35도, 광주 25도와 34도, 대구 25도와 36도, 울산 25도와 35도, 부산 27도와 34도다.
+24일도 23일과 기온이 비슷해 아침 최저기온이 22∼27도, 낮 최고기온이 31∼36도일 것으로 예상된다.
+습도를 반영한 체감온도는 대부분 지역에서 35도 안팎까지 오르겠다.
+무더위는 당분간 이어질 것으로 예상된다.
+현재 183개 육상 기상특보 구역 가운데 강원 태백과 한라산 등을 제외하고 180개 구역에 폭염특보가 내려진 상태다. 폭염경보가 내려진 구역이 129곳이고 폭염주의보가 발효된 구역이 51곳이다.
+다음 주 25∼26일 전국 대부분 지역에 비가 내릴 것으로 예상되나 비를 내리는 기압골이 지난 뒤 고기압이 다시 우리나라를 덮으면서 무더위가 가시지 않겠다.
+기상청은 26일부터 열흘간도 기온이 아침 23∼27도, 낮 29∼34도로 평년기온(최저 19∼23도·최고 27∼30도)을 웃돌 것으로 예상한다.
+주말 내륙을 중심으로 곳곳에 소나기가 오겠다.
+23일은 서울·인천·경기북부·강원중북부내륙·강원중북부산지·제주에 오전부터 밤까지, 24일은 경기동부·강원내륙·강원산지·충남남동내륙·충북·경상·제주에 오전부터 저녁까지 5∼40㎜의 소나기가 쏟아질 때가 있겠다.
+23일엔 서울·경기·전남·영남, 24일엔 서울·경기·강원영서·대전·충북·충남·전남·영남의 오존 농도가 ‘나쁨’ 수준으로 짙겠다.
+고농도 오존은 호흡기와 감각기관 등 건강에 악영향을 주니 외출 시 주의해야 한다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[‘처서’ 23일 최저 22도 ~ 최고 36도 주말 내륙 중심으로 곳곳에 소나기절기 처서(處暑)에도 무더위가 이어지겠다. 토요일이자 처서인 23일 아침 최저기온은 22∼28도이고 낮 최고기온은 31∼36도일 것으로 예보됐다. 주요 도시 예상 최저기온과 최고기온은 서울 27도와 34도, 인천 26도와 32도, 대전 26도와 35도, 광주 25도와 34도, 대구]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100801</code_id>
+<code_nm><![CDATA[사회일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100801</small_code_id>
+<small_code_nm><![CDATA[사회일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100806</code_id>
+<code_nm><![CDATA[교통/환경/날씨]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100806</small_code_id>
+<small_code_nm><![CDATA[교통/환경/날씨]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/22/news-p.v1.20250822.11691627091043cf80160d8610ce916e_P1.png]]></image_url>
+<image_caption><![CDATA[ [사진출처=연합뉴스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11400706]]></article_url>
+</article>
+</saltlux>

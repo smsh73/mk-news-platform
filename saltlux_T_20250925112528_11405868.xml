@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11405868</art_id>
+<art_year>2025</art_year>
+<art_no>617633</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-29 10:26:55</service_daytime>
+<title><![CDATA[오픈렛저, 메인넷 출시… 모든 참여자에게 공정 보상하는 ‘페이어블 AI’ 공개]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[최근도 기자(recentdo@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-29 10:26:55</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100502</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/29/news-p.v1.20250829.808568b6a5c340c4b8b983a862066453_P1.png' alt=''>
+AI 블록체인 프로젝트 오픈렛저는 메인넷 출시를 앞두고 있다고 29일 밝혔다.
+오픈렛저는 지난해부터 현재까지 총 1500만 달러의 투자를 유치하며 글로벌 채택을 확대해왔으며, 이번 메인넷을 통해 핵심 비즈니스 모델인 ‘페이어블 인공지능(Payable AI)’를 본격적으로 선보일 예정이다.
+페이어블 AI는 누구나 온체인에서 AI 모델을 기여·호스팅·활용할 수 있도록 지원하는 시스템으로 핵심은 AI 기여와 보상을 자동으로 연결하는 것이다.
+기존에는 데이터 제공자나 모델 개발자가 AI 성과에 어떤 영향을 주었는지 추적하기 어려웠지만,오픈렛저의 ‘기여도 증명(Proof of Attribution)’ 기술은 이를 블록체인에 투명하게 기록한다.
+이를 통해 데이터 제공자, 모델 개발자, 노드 운영자 등 AI 결과에 기여한 모든 주체가 사용량에 따라 자동으로 보상을 받게 된다.
+오는 9월로 예정된 메인넷 출시는 ▲대규모 AI 모델 호스팅 ▲기여도 기반 보상 ▲탈중앙화 거버넌스 기능을 전면적으로 제공하며, 전 세계 개발자·기업·커뮤니티를 위한 ‘페이어블 AI’ 비전을 현실화할 예정이다.
+람 쿠마르(Ram Kumar) 오픈렛저 핵심 기여자는 “페이어블 AI는 지능을 만들고 공유하는 방식에 근본적인 변화를 가져올 것입니다. 데이터와 모델의 창작자가 그 성과가 실제 AI 결과에 기여할 때마다 인정과 보상을 받게 되는 것은 업계 최초의 시도이며, 이것이 오픈렛저의 차별점”이라고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[AI 블록체인 프로젝트 오픈렛저는 메인넷 출시를 앞두고 있다고 29일 밝혔다. 오픈렛저는 지난해부터 현재까지 총 1500만 달러의 투자를 유치하며 글로벌 채택을 확대해왔으며, 이번 메인넷을 통해 핵심 비즈니스 모델인 ‘페이어블 인공지능(Payable AI)’를 본격적으로 선보일 예정이다. 페이어블 AI는 누구나 온체인에서 AI 모델을 기여·호스팅·활용할 수]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100502</code_id>
+<code_nm><![CDATA[시황]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100502</small_code_id>
+<small_code_nm><![CDATA[시황]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100514</code_id>
+<code_nm><![CDATA[펀드]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100514</small_code_id>
+<small_code_nm><![CDATA[펀드]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/29/news-p.v1.20250829.808568b6a5c340c4b8b983a862066453_P1.png]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11405868]]></article_url>
+</article>
+</saltlux>

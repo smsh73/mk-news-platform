@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11394583</art_id>
+<art_year>2025</art_year>
+<art_no>584055</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-15 17:06:18</service_daytime>
+<title><![CDATA[네이버페이 빅데이터 활용…중저신용자 대출 문 넓힌다]]></title>
+<sub_title><![CDATA[조재박 네이버페이 부사장<br>"비금융요인 신용평가에 반영"]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[박나은 기자(nasilver@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250816</pub_date>
+<pub_edition>16</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>6</pub_page>
+<reg_dt>2025-08-15 17:06:18</reg_dt>
+<mod_dt>2025-08-15 20:02:23</mod_dt>
+<art_org_class>MK100205</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/16/20250816_01160106000002_M00.jpg' alt=''>
+
+네이버페이가 보유한 방대한 데이터를 활용해 중·저신용자의 자금 융통 길을 연다. 기존 신용평가모형에선 '부적격'으로 분류돼 대출을 받을 수 없었던 이들의 비금융 관련 데이터를 추출해 이를 기반으로 상환 가능성이 높은 것으로 나타나면 대출을 내어주는 식이다. 
+중장기적으로는 신용평가모형을 고도화해 더 다양한 금융사와 손잡고 관련 상품을 출시하는 등 금융에서의 영역 확대도 노린다.
+조재박 네이버페이 이노비즈 부사장은 최근 매일경제와 만나 "사잇돌대출에 'Npay 스코어'를 도입한 것은 핀테크업의 본질인 금융사·사용자 간 '연결'과 맞닿아 있다"면서 "금융 데이터 외에 사용자의 어학 책 구매 이력, 자산 파트 방문 빈도수와 같은 다양한 소비·결제·탐색 등 비금융 데이터를 살펴보면 성실하게 상환할 여지가 있는 차주를 골라낼 수 있다"고 밝혔다.
+서울대에서 컴퓨터공학을 전공한 후 정보기술(IT) 기업과 컨설팅 회사에서 디지털 부문과 인공지능(AI)센터를 이끈 조 부사장은 작년 네이버페이에 합류한 뒤 새로운 평가모형 고도화에 공들였다.
+현재 개인들이 대출을 받을 때 기준이 되는 것은 코리아크레딧뷰로(KCB)나 나이스신용평가 등 신용평가사의 신용점수다. 문제는 이것이 대부분 금융거래 등을 기반으로 만들어져 비금융 요소가 신용으로 연결되지 못한다는 것이다. 
+조 부사장은 이에 착안해 나이스평가정보와 손잡고 기존 금융 데이터와 네이버페이 결제 내역, 검색 데이터 등을 기반으로 대안신용평가모형인 Npay 스코어 고도화를 주도했다. 총 3만개 비금융 데이터 항목을 7300만건으로 가명 결합해 업계 최대 수준의 비금융 데이터를 확보했다. 그는 "기존 모형들을 활용하되 부수적으로 대안신용평가모형을 활용하면 금융 사각지대를 좁혀 나갈 수 있다"고 설명했다.
+실제 원래 대출이 거절됐던 사람들이 이 모형을 활용해 승인을 받은 경우가 꽤 된다.  특히 중·저신용자를 대상으로 한 사잇돌대출에 이 모형이 적용될 예정이라 금융 취약층 구제에 도움이 될 것으로 네이버페이 측은 내다보고 있다. 향후에는 기존 대출 승인자들에게 한도를 더 내어주거나 금리를 낮춰주는 적극적인 방식의 적용도 예상된다.
+[박나은 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[네이버페이가 보유한 방대한 데이터를 활용해 중·저신용자의 자금 융통 길을 연다. 기존 신용평가모형에선 '부적격'으로 분류돼 대출을 받을 수 없었던 이들의 비금융 관련 데이터를 추출해 이를 기반으로 상환 가능성이 높은 것으로 나타나면 대출을 내어주는 식이다. 
+중장기적으로는 신용평가모형을 고도화해 더 다양한 금융사와 손잡고 관련 상품을 출시하는 등 금융에서의 영역 확대도 노린다.
+조재박 네이버페이 이노비즈 부사장은 최근 매일경제와 만나 "사잇돌대출에 'N]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100205</code_id>
+<code_nm><![CDATA[저축은행·기타]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100205</small_code_id>
+<small_code_nm><![CDATA[저축은행·기타]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/16/20250816_01160106000002_M00.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11394583]]></article_url>
+</article>
+</saltlux>

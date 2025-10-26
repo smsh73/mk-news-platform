@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11389926</art_id>
+<art_year>2025</art_year>
+<art_no>569872</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-10 17:54:53</service_daytime>
+<title><![CDATA[GPT-5 파격가 출시 … AI 가격 경쟁 불붙었다]]></title>
+<sub_title><![CDATA[오픈AI, 기업 대상 API 요금<br>경쟁사보다 최대 85% 낮춰<br>코딩 등 B2B 시장 공략 나서]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[원호섭 기자(wonc@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250811</pub_date>
+<pub_edition>16</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>16</pub_page>
+<reg_dt>2025-08-10 17:54:53</reg_dt>
+<mod_dt>2025-08-10 19:16:13</mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[오픈AI가 지난 7일(현지시간) 공개한 차세대 대규모 언어모델 GPT-5가 인공지능(AI) 업계의 가격 경쟁에 불을 붙였다. 경쟁사 대비 최대 7분의 1 수준으로 요금을 낮추며 공격적인 마케팅에 나서고 있다.
+GPT-5의 응용 프로그램 인터페이스(API) 요금은 입력 100만토큰당 1.25달러, 출력 100만토큰당 10달러다. 이전에 처리한 같은 입력 데이터를 캐시에 보관했다가 다시 사용하는 경우(캐시 입력)는 100만토큰당 0.125달러로 훨씬 저렴하다. 기본 요율은 구글 '제미나이 2.5 프로'와 같지만, 구글은 20만토큰을 초과하는 대규모 프롬프트에 더 높은 요금을 부과한다. 앤스로픽의 '클로드 오퍼스 4.1'은 입력 100만토큰당 15달러, 출력 100만토큰당 75달러로 GPT-5의 7배에 달한다.
+특히 AI 코딩 어시스턴트를 자주 활용하는 개발자들에게 가격 인하 효과가 크다. 코드 작성 과정에서 토큰 사용량이 많아 구독료 부담이 컸던 만큼, 출시 직후 개발자 커뮤니티에서는 "가격이 공격적" "사실상 가격 파괴"라는 반응이 잇따랐다. AI 글쓰기 도구 스타트업 아더사이드AI의 맷 슈머 최고경영자(CEO)는 "GPT-5는 GPT-4o보다 저렴해졌고, '달러당 지능'이 향상됐다"고 평가했다. 
+오픈AI의 API 기반 연매출은 10억~15억달러, 앤스로픽은 30억~40억달러 수준으로 알려져 있다. 오픈AI는 매출의 상당 부분을 일반 유료 구독 서비스에서 올리고 있어 GPT-5를 앞세워 API 시장 내 입지를 확대한다는 전략이다. [실리콘밸리 원호섭 특파원]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[오픈AI가 지난 7일(현지시간) 공개한 차세대 대규모 언어모델 GPT-5가 인공지능(AI) 업계의 가격 경쟁에 불을 붙였다. 경쟁사 대비 최대 7분의 1 수준으로 요금을 낮추며 공격적인 마케팅에 나서고 있다.
+GPT-5의 응용 프로그램 인터페이스(API) 요금은 입력 100만토큰당 1.25달러, 출력 100만토큰당 10달러다. 이전에 처리한 같은 입력 데이터를 캐시에 보관했다가 다시 사용하는 경우(캐시 입력)는 100만토큰당 0.125달러로 훨씬 저렴하]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11389926]]></article_url>
+</article>
+</saltlux>

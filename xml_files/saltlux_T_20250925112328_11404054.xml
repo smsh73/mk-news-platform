@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11404054</art_id>
+<art_year>2025</art_year>
+<art_no>612281</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-27 14:05:59</service_daytime>
+<title><![CDATA[라이엇게임즈, LoL 시즌3 업데이트]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>60</media_code>
+<writers><![CDATA[안희찬 게임진 기자(chani@mkinternet.com)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-27 14:05:59</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>GM900211</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/27/news-p.v1.20250827.460c9d1fa27c47aebb588df82ac2038f_P1.jpg' alt='LoL'>
+라이엇 게임즈는 PC MOBA(다중사용자 온라인 전투 아레나) 게임 ‘리그 오브 레전드(이하 LoL)’의 2025년 시즌 3 업데이트를 27일 실시했다.
+시즌 3의 랭크 게임은 27일 정오부터 시작했다.
+플레이어의 랭크 LP 진척도는 이전 시즌과 동일하게 유지되며 승리의 스킨 획득 조건인 승리의 임무(랭크 게임 15회 승리)는 새 시즌 개시와 함께 초기화된다.
+아타칸과 신 짜오도 시각적으로 업데이트된다.
+아타칸은 기존과 동일한 체계를 유지하지만 무기 관련 시각 효과가 변경된다.
+신 짜오는 모델링과 애니메이션을 비롯해 스킬 아이콘, 음성 대사, 시각 효과, 음향 효과, 일러스트 및 스킨 전반에 걸쳐 개편이 이루어진다.
+PvE 모드 ‘초토화 봇(Doom Bots)’도 재도입된다.
+이번 업데이트에는 새로운 난이도와 보스가 추가되며 ▲다양한 저주 효과 발동 ▲베이가의 기본 지속 효과 ‘극악무도’를 보유한 봇 등으로 구성된 ‘초토화의 시험(Trials of Doom)’도 포함되어 플레이어에게 확장된 경험을 제공한다.
+플레이어 편의 기능도 개선한다.
+미니맵에 정글 캠프 타이머가 도입되며 상황에 따라 에픽 몬스터 및 정글 캠프의 재생성 시간을 직관적으로 확인할 수 있다.
+사망 정보 UI가 개편되어 입힌 피해량과 전투 기여도가 표시되며 사용된 궁극기와 소환사 주문도 함께 기록된다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[라이엇 게임즈는 PC MOBA(다중사용자 온라인 전투 아레나) 게임 ‘리그 오브 레전드(이하 LoL)’의 2025년 시즌 3 업데이트를 27일 실시했다. 시즌 3의 랭크 게임은 27일 정오부터 시작했다. 플레이어의 랭크 LP 진척도는 이전 시즌과 동일하게 유지되며 승리의 스킨 획득 조건인 승리의 임무(랭크 게임 15회 승리)는 새 시즌 개시와 함께 초기화된]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>GM900211</code_id>
+<code_nm><![CDATA[콘텐츠]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>GM900211</small_code_id>
+<small_code_nm><![CDATA[콘텐츠]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/27/news-p.v1.20250827.460c9d1fa27c47aebb588df82ac2038f_P1.jpg]]></image_url>
+<image_caption><![CDATA[LoL]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11404054]]></article_url>
+</article>
+</saltlux>

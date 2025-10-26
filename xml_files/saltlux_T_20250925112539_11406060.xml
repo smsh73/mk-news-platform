@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11406060</art_id>
+<art_year>2025</art_year>
+<art_no>618257</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-29 13:37:34</service_daytime>
+<title><![CDATA[네이버클라우드, 씽크풀과 맞손...금융 AI 챗봇 선보인다]]></title>
+<sub_title><![CDATA[투자자의 실시간 문의에 답변하는 챗봇
+10월까지 ‘하이퍼클로바X 씽크’ 활용해 개발
+증권사·언론사 대상 솔루션 제공 예정]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[안선제 기자(ahn.sunje@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-29 13:37:34</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">투자자의 실시간 문의에 답변하는 챗봇<br>10월까지 ‘하이퍼클로바X 씽크’ 활용해 개발<br>증권사·언론사 대상 솔루션 제공 예정</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/29/news-p.v1.20250829.26400b6f3f524c0fb44628347eb75f43_P1.jpg' alt=' 김유원 네이버클라우드 대표(왼쪽)와 김동진 씽크풀 대표가 28일 투자금융분야 AI 전환(AX)을 위한 업무협약을 체결하고 기념 촬영하고 있다. [사진 = 네이버클라우드]'>
+네이버클라우드가 금융 인공지능(AI) 전문기업 씽크풀과 손잡고 금융 전문 AI 챗봇을 선보인다.
+네이버클라우드는 씽크풀과 AI를 활용한 투자금융 분야의 AI 전환(AX)을 가속화하기 위한 업무협약(MOU)을 체결했다고 29일 밝혔다.
+네이버클라우드는 안정적이고 확장성 있는 클라우드 인프라와 AI 기술 역량을, 씽크풀은 금융 AI 전문성과 투자정보 분석 노하우를 기반으로 시너지를 창출한다는 방침이다.
+이를 위해 네이버클라우드는 실시간 금융 데이터와 직접 연동 가능하도록 텍스트-투-SQL, 라우팅(Routing) 등의 기술을 적용한다. 또한 추론 능력이 강화된 ‘하이퍼클로바X 씽크’ 모델을 활용, AI 챗봇 서비스를 개발해 투자자들이 종목 정보, 기업 정보, 시장 동향 등에 대해 질문하면 실시간으로 답변을 받을 수 있는 시스템을 구축할 계획이다.
+양사는 오는 10월 말까지 전체 시스템 개발을 완료하고, 해당 솔루션을 증권사 및 언론사 등에 구축 제공을 시작으로 향후 일반 투자자를 위한 서비스로도 선보인다는 계획이다.
+김유원 네이버클라우드 대표는 “금융 산업에서 클라우드와 AI의 도입은 새로운 고객 경험 제공은 물론, 수익성 제고와 비용 효율화, 보안 강화에 이르기까지 전방위적 혁신을 이끄는 핵심 경쟁력으로 자리매김하고 있다”라며 “금융 서비스에 특화된 AI 솔루션 제공으로 증권사, 투자자 모두가 만족할 수 있는 금융 서비스 혁신을 이뤄내겠다”고 말했다.
+김동진 씽크풀 대표는 “AI 확산 속도가 빨라지고 있는 현재, 증권사와 투자자가 신뢰할 수 있는 맞춤형 AI 서비스를 제공하는 것이 우리의 핵심 목표”라며 “네이버클라우드와 함께 업계를 선도하는 금융 AI 생태계를 구축하며 증권업계의 미래 혁신을 가속화하겠다”고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[투자자의 실시간 문의에 답변하는 챗봇 10월까지 ‘하이퍼클로바X 씽크’ 활용해 개발 증권사·언론사 대상 솔루션 제공 예정네이버클라우드가 금융 인공지능(AI) 전문기업 씽크풀과 손잡고 금융 전문 AI 챗봇을 선보인다. 네이버클라우드는 씽크풀과 AI를 활용한 투자금융 분야의 AI 전환(AX)을 가속화하기 위한 업무협약(MOU)을 체결했다고 29일 밝혔다. 네이]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/29/news-p.v1.20250829.26400b6f3f524c0fb44628347eb75f43_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 김유원 네이버클라우드 대표(왼쪽)와 김동진 씽크풀 대표가 28일 투자금융분야 AI 전환(AX)을 위한 업무협약을 체결하고 기념 촬영하고 있다. [사진 = 네이버클라우드]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11406060]]></article_url>
+</article>
+</saltlux>

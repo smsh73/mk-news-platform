@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11384719</art_id>
+<art_year>2025</art_year>
+<art_no>555400</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-04 13:56:59</service_daytime>
+<title><![CDATA[2030년 85조원 규모 된다는데…AI 돌풍에 데이터센터 주목]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[이가람 매경 디지털뉴스룸 기자(r2ver@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-04 13:56:59</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100399</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/04/news-p.v1.20250804.9ff70a692d22466aabf34584f504cad3_P1.jpg' alt=' 이재명 대통령(가운데)이 지난달 20일 울산시 전시컨벤션센터에서 열린 인공지능(AI) 데이터 센터 출범식에 참석했다. [사진 = 연합뉴스]'>
+인공지능(AI)의 보편화·고도화로 데이터센터 수요가 지속적으로 증가할 것이라는 전망이 제기됐다. 첨단기술 선도국들도 초대형 AI 데이터센터 확보와 설치를 경쟁적으로 추진하고 있다.
+4일 정보기술(IT)업계에 따르면 소프트웨어정책연구소는 최근 ‘AI 데이터센터 동향과 시사점’ 보고서를 통해 AI 데이터센터 시장이 오는 2030년까지 연평균 28.3%씩 성장해 약 605억달러(약 85조원) 규모를 기록할 것으로 내다봤다.
+그랜드뷰리서치는 지난해 AI 데이터센터 시장을 약 136억달러(약 19조원), 포춘비즈니스인사이트는 올해 AI 데이터센터 시장을 약 177억달러(약 24조5000억원)로 추정했다. 그야말로 폭발적인 성장세다.
+AI 데이터센터는 일반적인 데이터센터와 달리 고성능 그래픽처리장치(GPU)와 고효율 냉각·전력 시스템을 갖춰야 한다. 대규모 연산과 고밀도 작업을 실시간으로 수행하기 위해 에너지 공급의 안정성도 필수 요소로 꼽힌다. AI의 몸집이 커지고 성능이 개선될수록 AI 데이터센터도 진화해야 한다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/04/news-p.v1.20250804.64f0fe36883544d7a44e4145ee4546dd_P1.jpg' alt=' [사진 =  소프트웨어정책연구소 보고서 갈무리]'>
+글로벌 빅테크들도 AI 데이터센터 구축 전략을 세웠다. 구글은 미국 아이오와주에 70억달러(약 10조원)를 추가 투자해 AI 인프라를 확장할 방침이다. 이를 위해 AI 가속기(TPU)를 개발한다. TPU는 대규모 병렬처리에 최적화돼 대량의 연산을 한꺼번에 수행할 수 있는 하드웨어다. 통상적으로 AI 모델 학습과 추론 과정에서 수많은 계산이 동시에 이뤄지는데 TPU가 처리 성능을 획기적으로 향상시킨다.
+마이크로소프트(MS)는 AI 모델 훈련과 AI 서비스의 원활한 가동을 위해 전 세계에 데이터센터를 신설할 예정이다. 특히 지난 1월 AI 데이터센터 설립을 위해 약 800억달러(약 111조원)를 투입하기로 했다고 발표했다.
+아마존웹서비스(AWS)도 연내에 AI 인프라를 수직 통합하고 데이터센터 규모를 재정의하는 AI 인프라 혁신에 1000억달러(약 139조원)를 출자하겠다는 계획을 세웠다. 국가 차원에서도 지지하고 있다. 조 바이든 전 미국 대통령은 연방부지 임대로 친환경 AI 데이터센터를 구축하도록 하는 행정명령에 서명한 바 있다.
+<strong><div style="border-top: 4px solid #ed6d01;border-bottom: 1px solid #ed6d01;font-size: 18px;padding: 10px 0;margin:30px 0;">AI 격전에 한국기업도 시설 구축·세제 혜택</div></strong><img src='https://wimg.mk.co.kr/news/cms/202508/04/news-p.v1.20250804.eed380a6551746149407a4fcf73008db_P1.jpg' alt=' SK그룹이 지난 1월 CES 2025 전시관에 인공지능(AI) 데이터센터 운영 설루션을 담아낸 부스를 만들었다. [사진 = SK그룹]'>
+이재명 정부도 AI를 국가전략기술에 포함했다. 이에 따라 사업화시설인 데이터센터도 통합세액공제를 적용받게 됐다. 국가전략기술 사업화시설은 일반시설과 비교해 투자세액공제율이 높다. 일반시설 공제율이 중소기업 10%, 대기업 1%에 불과한 반면 국가전략기술 사업화시설은 공제율이 중소기업 25%, 중견·대기업 15%다.
+그러자 대기업들이 발 빠르게 움직이기 시작했다. SK그룹은 국내 최대 규모의 AI 전용 데이터센터를 울산시 동구 미포산업단지에 짓는다. 사업비 7조원을 투입해 오는 2027년 본격 가동이 목표다.
+양대포털 네이버와 카카오도 뛰어들었다. 네이버는 엔비디아와 컨소시엄을 구성해 북아프리카 모로코에 차세대 AI 데이터센터를 건립한다. 카카오는 경기도 남양주시에 두 번째 자체 데이터센터를 설립한다. 이르면 오는 2029년 완공 예정이다.
+연구소 관계자는 “AI 데이터센터는 미중 패권 전쟁과 반도체 수출 규제 등 지정학적 긴장 속에서 핵심 인프라로 부상하고 있다”며 “주권을 지닌 AI와 AI 데이터센터 육성을 위한 전략 개발과 생태계 전반의 활성화가 요구된다”고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[인공지능(AI)의 보편화·고도화로 데이터센터 수요가 지속적으로 증가할 것이라는 전망이 제기됐다. 첨단기술 선도국들도 초대형 AI 데이터센터 확보와 설치를 경쟁적으로 추진하고 있다. 4일 정보기술(IT)업계에 따르면 소프트웨어정책연구소는 최근 ‘AI 데이터센터 동향과 시사점’ 보고서를 통해 AI 데이터센터 시장이 오는 2030년까지 연평균 28.3%씩 성장해]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100399</code_id>
+<code_nm><![CDATA[기타]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100399</small_code_id>
+<small_code_nm><![CDATA[기타]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/04/news-p.v1.20250804.9ff70a692d22466aabf34584f504cad3_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 이재명 대통령(가운데)이 지난달 20일 울산시 전시컨벤션센터에서 열린 인공지능(AI) 데이터 센터 출범식에 참석했다. [사진 = 연합뉴스]]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/04/news-p.v1.20250804.64f0fe36883544d7a44e4145ee4546dd_P1.jpg]]></image_url>
+<image_caption><![CDATA[ [사진 =  소프트웨어정책연구소 보고서 갈무리]]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/04/news-p.v1.20250804.eed380a6551746149407a4fcf73008db_P1.jpg]]></image_url>
+<image_caption><![CDATA[ SK그룹이 지난 1월 CES 2025 전시관에 인공지능(AI) 데이터센터 운영 설루션을 담아낸 부스를 만들었다. [사진 = SK그룹]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11384719]]></article_url>
+</article>
+</saltlux>

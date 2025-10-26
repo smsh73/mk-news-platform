@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11392572</art_id>
+<art_year>2025</art_year>
+<art_no>577598</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-13 11:17:36</service_daytime>
+<title><![CDATA[카카오, 국내 최초 MCP 실험 공간 ‘플레이MCP’ 베타 오픈]]></title>
+<sub_title><![CDATA[“에이전틱 AI 생태계 구축 첫걸음”
+오픈플랫폼으로 카카오 계정만 있으면 
+누구나 MCP 등록 및 테스트 가능]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[안선제 기자(ahn.sunje@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-13 11:17:36</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">“에이전틱 AI 생태계 구축 첫걸음”<br>오픈플랫폼으로 카카오 계정만 있으면 <br>누구나 MCP 등록 및 테스트 가능</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/13/news-p.v1.20250813.b10d8275f0a843fabad98faca2571f27_P1.png' alt=' [사진 = 카카오]'>
+카카오가 인공지능(AI) 에이전트 생태계 구축에 본격적인 시동을 걸었다. 카카오는 13일 자사의 에이전틱 AI 서비스에 활용될 다양한 MCP(Model Context Protocol)를 발굴하고 생태계를 확대하기 위해 ‘플레이MCP(PlayMCP)’ 플랫폼을 베타 오픈했다고 밝혔다.
+국내에서 MCP 기반의 개방형 플랫폼을 선보이는 첫 사례다.
+MCP는 인공지능 모델이 외부 데이터나 도구와 소통하는 방식을 표준화한 통신 규약을 뜻한다. USB 포트 하나로 다양한 전자기기를 연결하듯, AI 모델이 MCP를 통해 외부의 시스템과 손쉽게 데이터를 주고받을 수 있게 한다. 이를 통해 이용자는 여러 서비스를 오가지 않고 하나의 서비스에서 수요와 목적에 맞는 작업을 처리할 수 있다.
+이번 ‘플레이MCP’ 플랫폼 오픈은 카카오가 지향하는 에이전틱 AI 생태계 구축의 첫걸음이라는 의미가 있다. 카카오는 차별화된 강점으로 지향하고 있는 ‘일상 AI’ 서비스 맥락을 고도화해 가고, 외부 개발자와의 협업을 확대해 AI 생태계를 더욱 풍성하게 할 수 있을 것으로 기대하고 있다.
+플레이MCP는 오픈 플랫폼으로, 개발자라면 카카오계정을 통해 누구나 참여 가능하다. 개발자들은 자신이 만든 MCP 서버를 등록하고 실제 대화에서 어떻게 작동하는지 테스트해볼 수 있다. 다른 개발자의 MCP와 도구도 자유롭게 사용 가능하다.
+현재 카카오는 카카오톡 나와의 채팅방, 톡캘린더, 카카오맵, 선물하기, 멜론 등 다양한 MCP 서버와 연결 도구를 테스트용으로 공개해 다양한 실험을 지원하고 있다.
+유용하 카카오 AI에이전트 플랫폼 성과리더는 “AI가 사용자의 의도를 깊이 이해하고, 필요한 작업을 자율적으로 처리하는 시대가 빠르게 도래하고 있다”며 “플레이MCP는 카카오 안팎의 개발자들이 함께 에이전틱 AI의 기획·실험·실행을 통합적으로 경험할 수 있는 플레이그라운드가 될 것”이라고 밝혔다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[“에이전틱 AI 생태계 구축 첫걸음” 오픈플랫폼으로 카카오 계정만 있으면  누구나 MCP 등록 및 테스트 가능카카오가 인공지능(AI) 에이전트 생태계 구축에 본격적인 시동을 걸었다. 카카오는 13일 자사의 에이전틱 AI 서비스에 활용될 다양한 MCP(Model Context Protocol)를 발굴하고 생태계를 확대하기 위해 ‘플레이MCP(PlayMCP)’]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/13/news-p.v1.20250813.b10d8275f0a843fabad98faca2571f27_P1.png]]></image_url>
+<image_caption><![CDATA[ [사진 = 카카오]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11392572]]></article_url>
+</article>
+</saltlux>

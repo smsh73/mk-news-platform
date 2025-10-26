@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11395090</art_id>
+<art_year>2025</art_year>
+<art_no>585551</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-17 10:58:00</service_daytime>
+<title><![CDATA[NC AI, 세계 최대 음성학회서 실감나는 괴물 소리 만드는 AI 공개]]></title>
+<sub_title><![CDATA[관련 AI 논문 및 실시간 데모 소개]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김태성 기자(kts@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-17 10:58:00</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101503</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">관련 AI 논문 및 실시간 데모 소개</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/17/news-p.v1.20250817.6e5cf1f8dab34e2cb031e859a1e39c6a_P1.png' alt=' NC AI의 몬스터 사운드 기술 설명 페이지. &lt;NC AI&gt;'>
+엔씨소프트의 인공지능(AI) 자회사 NC AI는 세계 최대 음성·언어 기술 학회인 인터스피치 2025에서 게임·엔터테인먼트용 괴물 소리(몬스터 사운드)를 생성 및 변환하는 AI 기술을 공개한다고 17일 밝혔다.
+국제 음성커뮤니케이션협회(ISCA)가 주최하는 인터스피치는 17~21일 네덜란드 로테르담에서 개최된다.
+NC AI는 이번 학회에서 몬스터 사운드에 특화된 고품질 음색 변환 모델 구조와 학습 기법을 다룬 논문과 이를 웹 기반 실시간 변환 시스템으로 구현한 데모 사례 논문 등 총 2편을 발표한다.
+현장에서는 방문자가 마이크를 통해 말을 하거나 사운드를 업로드하면 즉각 특정 몬스터의 울음이나 포효 같은 음색으로 변환되는 체험형 데모를 제공한다. 온라인 데모 페이지도 공개해 첨단 기술을 체험할 수 있게 할 예정이다.
+이 기술은 대규모 다중접속역할수행게임(MMORPG)에서 몬스터 사운드 제작 방식을 혁신적으로 바꿀 전망이다. 캐릭터 고유의 거친 숨소리나 날카로운 포효까지 놓치지 않고 담아낸 후 원래 음성의 내용은 유지하면서도 원하는 스타일만 정확하게 덧입히는 것이 특징이다.
+말의 내용과 느낌을 동시에 인식해 대사 뿐 아니라 웃음, 포효, 숨소리 같은 비언어적 요소까지 자연스럽게 변환해 마치 게임 속에서 실제 몬스터가 플레이어 눈앞에서 울부짖는 듯한 생생함을 전달한다.
+조남현 NC AI 오디오 AI 팀장은 “방대한 게임 오디오 데이터와 첨단 AI 모델링 기술, 뛰어난 사운드 디자인 전문성을 융합해 몬스터 사운드 변환 기술을 완성했다”며 “앞으로도 AI를 활용해 창작자의 상상력을 현실로 구현하고, 디지털 콘텐츠 산업 전반에 혁신적인 오디오 경험을 제공하는 데 기여할 것”이라고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[관련 AI 논문 및 실시간 데모 소개엔씨소프트의 인공지능(AI) 자회사 NC AI는 세계 최대 음성·언어 기술 학회인 인터스피치 2025에서 게임·엔터테인먼트용 괴물 소리(몬스터 사운드)를 생성 및 변환하는 AI 기술을 공개한다고 17일 밝혔다. 국제 음성커뮤니케이션협회(ISCA)가 주최하는 인터스피치는 17~21일 네덜란드 로테르담에서 개최된다. NC A]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101503</code_id>
+<code_nm><![CDATA[게임]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101503</small_code_id>
+<small_code_nm><![CDATA[게임]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/17/news-p.v1.20250817.6e5cf1f8dab34e2cb031e859a1e39c6a_P1.png]]></image_url>
+<image_caption><![CDATA[ NC AI의 몬스터 사운드 기술 설명 페이지. &lt;NC AI&gt;]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11395090]]></article_url>
+</article>
+</saltlux>

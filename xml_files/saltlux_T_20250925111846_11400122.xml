@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11400122</art_id>
+<art_year>2025</art_year>
+<art_no>599900</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-22 10:22:53</service_daytime>
+<title><![CDATA[앤스로픽, 100억 달러 투자 유치 임박…기업가치 1700억 달러]]></title>
+<sub_title><![CDATA[투자자 수요 폭증에
+자금 조달 규모 두 배 확대]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[원호섭 기자(wonc@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-22 10:22:53</reg_dt>
+<mod_dt>2025-08-22 15:49:50</mod_dt>
+<art_org_class>MK101506</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">투자자 수요 폭증에<br>자금 조달 규모 두 배 확대</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/22/news-p.v1.20250822.6dafc48f72f143fd9dce92a6a28e9c31_P1.png' alt=' 앤스로픽, 100억 달러 투자 유치 임박…기업가치 1700억 달러 [그림=제미나이]'>
+생성형 인공지능(AI) 스타트업 앤스로픽이 100억 달러(약 13조 원) 신규 자금 조달에 근접하고 있다고 블룸버그통신이 21일(현지시간) 보도했다. 이번 라운드에서 앤스로픽의 기업가치는 1700억 달러로 평가되며 불과 반년 전 615억 달러에서 세 배 가까이 급등했다.
+블룸버그에 따르면 초기 논의 단계에서 앤스로픽은 약 50억 달러 조달을 목표로 했다. 하지만 투자자 수요가 폭증하면서 규모가 두 배로 확대됐다. 이번 라운드는 투자사 아이코닉 캐피털이 주도하며, TPG, 라이트스피드 벤처 파트너스, 스파크 캐피털, 멘로 벤처스 등이 참여할 것으로 알려졌다. 또 카타르투자청(QIA), 싱가포르 국부펀드 GIC와도 협의가 진행 중이다.
+앤스로픽은 2021년 오픈AI 출신 연구원들이 설립한 기업으로 안전성과 신뢰성을 강조한 모델 개발을 차별화 포인트로 내세워 왔다. 대표 제품인 클로드는 오픈AI의 GPT, 일론 머스크의 xAI가 내놓은 그록과 함께 글로벌 빅3 생성형 AI 모델로 꼽힌다.
+현재 오픈AI는 기업가치 3000억 달러로 투자를 마무리한 뒤 5000억 달러로 투자유치가 진행되고 있다. xAI도 지난 6월 기업가치 1130억 달러를 기록한 뒤 현재 1700억 달러로 투자유치를 준비하고 있다는 보도가 나오고 있다. 생성형AI 스타트업간 경쟁에서 오픈AI가 선두를 달리고 있는 가운데 xAI와 앤스로픽이 치열한 경쟁을 벌이고 있는 양상이다. [실리콘밸리 원호섭 특파원]
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[투자자 수요 폭증에 자금 조달 규모 두 배 확대생성형 인공지능(AI) 스타트업 앤스로픽이 100억 달러(약 13조 원) 신규 자금 조달에 근접하고 있다고 블룸버그통신이 21일(현지시간) 보도했다. 이번 라운드에서 앤스로픽의 기업가치는 1700억 달러로 평가되며 불과 반년 전 615억 달러에서 세 배 가까이 급등했다. 블룸버그에 따르면 초기 논의 단계에서 앤]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101506</code_id>
+<code_nm><![CDATA[스타트업]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101506</small_code_id>
+<small_code_nm><![CDATA[스타트업]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101508</code_id>
+<code_nm><![CDATA[빅데이터]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101508</small_code_id>
+<small_code_nm><![CDATA[빅데이터]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/22/news-p.v1.20250822.6dafc48f72f143fd9dce92a6a28e9c31_P1.png]]></image_url>
+<image_caption><![CDATA[ 앤스로픽, 100억 달러 투자 유치 임박…기업가치 1700억 달러 [그림=제미나이]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11400122]]></article_url>
+</article>
+</saltlux>

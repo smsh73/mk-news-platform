@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11399624</art_id>
+<art_year>2025</art_year>
+<art_no>598775</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-21 17:32:08</service_daytime>
+<title><![CDATA[AI 거품론에도 … 오픈AI 월매출 10억弗 돌파]]></title>
+<sub_title><![CDATA[CFO가 美 방송 인터뷰서 밝혀<br>"대규모 투자, 아직 시작단계"]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[원호섭 기자(wonc@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250822</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>14</pub_page>
+<reg_dt>2025-08-21 17:32:08</reg_dt>
+<mod_dt>2025-08-21 18:45:24</mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[최근 인공지능(AI) 투자 과열 우려가 이어지는 가운데 오픈AI가 월 매출 10억달러를 돌파했다.
+세라 프라이어 오픈AI 최고재무책임자(CFO)는 20일(현지시간) CNBC 인터뷰에서 "오픈AI 월 매출이 처음으로 10억달러를 넘어섰다"며 "GPT-5 출범 이후 챗GPT 구독 증가세가 가속화하고 있다"고 밝혔다.
+2022년 챗GPT를 출시한 오픈AI는 2023년 월 매출 1억달러를 기록한 데 이어 불과 2년여 만에 10억달러를 달성했다. 이에 따라 연간 반복 매출(ARR)은 100억달러를 넘어섰으며, 올해 연 매출은 127억달러로 지난해 대비 3배 가까이 증가할 것으로 전망된다.
+현재 챗GPT 주간 활성 사용자는 7억명에 달한다. 유료 구독자는 개인용 약 1500만명, 기업·교육용을 포함하면 2000만명 수준으로 추정된다. 월 20달러, 200달러 요금제가 주요 수익원이며, 기업용과 교육용 구독 매출도 빠르게 증가하고 있다.
+프라이어 CFO는 샘 올트먼 최고경영자(CEO)의 'AI 버블' 발언에 동의하면서도 "AI는 지금까지 경험한 어떤 시대보다 큰 전환"이라며 "우리가 그 길을 선도하고 있다"고 강조했다. 또한 빅테크의 대규모 데이터센터 투자가 이어지고 있는 상황을 두고 "아직 시작 단계"라고 평가했다. 그는 "AI는 그래픽처리장치(GPU)와 컴퓨팅 수요가 엄청나다"며 "현재 가장 큰 문제는 항상 연산 자원이 부족하다는 점"이라고 말했다.
+오픈AI가 마이크로소프트, 오라클 등과 함께 5GW(기가와트) 규모 초대형 데이터센터 '스타게이트' 프로젝트를 추진하는 것도 같은 이유에서다. 오픈AI는 향후 자사가 보유한 인프라스트럭처를 외부 기업에 임대하는 방안도 검토 중이다. 프라이어 CFO는 "아마존이 클라우드 컴퓨팅을 임대해 성공한 사례에서 영감을 받았다"며 "현재는 자사 운영 역량 확보에 집중하고 있지만 장기적으로는 새로운 수익원으로서 사업화할 가능성을 염두에 두고 있다"고 설명했다.
+[실리콘밸리 원호섭 특파원]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[최근 인공지능(AI) 투자 과열 우려가 이어지는 가운데 오픈AI가 월 매출 10억달러를 돌파했다.
+세라 프라이어 오픈AI 최고재무책임자(CFO)는 20일(현지시간) CNBC 인터뷰에서 "오픈AI 월 매출이 처음으로 10억달러를 넘어섰다"며 "GPT-5 출범 이후 챗GPT 구독 증가세가 가속화하고 있다"고 밝혔다.
+2022년 챗GPT를 출시한 오픈AI는 2023년 월 매출 1억달러를 기록한 데 이어 불과 2년여 만에 10억달러를 달성했다. 이에 따라 연간]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11399624]]></article_url>
+</article>
+</saltlux>

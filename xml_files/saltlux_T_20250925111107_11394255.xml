@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11394255</art_id>
+<art_year>2025</art_year>
+<art_no>582841</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-14 20:36:14</service_daytime>
+<title><![CDATA[SK하이닉스에 ‘AI 홍반장’ 떴다…반도체 제조·개발현장에 ‘AI 가이아’ 투입]]></title>
+<sub_title><![CDATA[구매·채용·법무 업무도 척척
+다양한 생성형 AI서비스 가능]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김동은 기자(bridge@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-14 20:36:14</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100305</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">구매·채용·법무 업무도 척척<br>다양한 생성형 AI서비스 가능</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/14/news-p.v1.20250814.24736da3b725413bbeaa4cf4da6d1bf8_P1.jpg' alt=''>
+SK하이닉스가 반도체 제조·개발 업무에 최적화시킨 ‘AI 비서’를 산업 현장에 투입한다.
+14일 SK하이닉스는 다양한 사내 업무에 AI를 활용할 수 있도록 돕는 AI 플랫폼 ‘가이아(GaiA)’와 이를 통해 만들어진 AI 에이전트(비서) 및 생성형 AI 서비스를 공개했다. 또 회사 차원의 AI전환 계획도 발표했다.
+자체 개발한 가이아 플랫폼은 특정 업무에 특화된 AI 서비스들을 개발하기 위한 도구다. 가이아를 통해 만들어진 생성형 AI 서비스들은 반도체 제조 프로세스뿐 아니라 임직원의 다양한 업무 효율화에 도움을 줄 수 있다.
+현재까지 가이아를 기반으로 만들어진 생성형 AI 서비스는 ‘비즈(Biz) 특화’, ‘엘엘엠 챗(LLM Chat)’, ‘에이닷 비즈(A.Biz)’ 등 3가지다.
+이 가운데 지난 7월 베타 오픈된 비즈 특화 서비스는 다른 서비스들보다 한단계 뛰어난 ‘AI 에이전트’ 수준의 업무처리 능력을 자랑한다. 담당 업무를 비서 처럼 지원해준다는 뜻이다. 비즈 특화 서비스는 반도체 장비를 보전하고 글로벌 반도체 정책 및 기술을 분석할 뿐 아니라 반도체 관련 인사관리 및 회의 지원 등의 영역에서 활용된다. SK하이닉스 관계자는 “비즈 특화 서비스는 반도체 개발 및 양산 현장에서 실제로 활용중이며 직원들의 긍정적인 반응을 얻고 있다”고 설명했다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/14/news-p.v1.20250814.ab90ceef59754d3c8a5a980d0da2ff40_P1.jpg' alt=''>
+엘엘엠 챗은 사내 모든 직원들이 이용할 수 있는 SK하이닉스 전용 챗GPT 서비스라고 생각하면 된다. 회사 보안망 내에서 구동되며 회사내 데이터와 지식에 기반해 질문에 대답할 수 있도록 구성됐다.
+11월 출시 예정인 에이닷 비즈는 일상적인 회사 업무를 돕는 서비스로 회의록·보고서 작성 같은 일반 업무와 구매, 채용, 세무, 법무, PR 등 전문 업무를 동시에 지원할 수 있다. 에이닷 비즈 서비스는 계열사인 SK텔레콤과 함께 개발 중이다
+SK하이닉스는 이날 AI 전환 로드맵도 함께 밝혔다. 로드맵에 따르면 SK하이닉스는 2023년 사내 데이터를 효과적으로 검색·활용할 수 있도록 대규모 언어모델(LLM) 기반을 구축했다. 2024년에는 특정 업무를 자동화하거나 지원하는 에이전트와 이를 실행하는 작업 도구를 개발했다. 올해는 여러 AI 서비스를 통합해 반도체 업무 전반을 지원하는 에이전틱 AI를 개발해 성능을 끌어올리고 있다.
+로드맵의 마지막 단계인 에이전트 오케스트레이션 기술은 여러 AI 에이전트가 자율적으로 역할을 분담하고 문제를 해결하는 ‘에이전트 간 상호 협력(A2A)’ 시스템이다. 조만간 설계 및 개발에 착수하게 될 에이전트 오케스트레이션 기술은 사내 자원 사용을 최적화하고 워크플로우를 유연하게 구성하는 미래형 AI 구조를 만드는데 활용할 계획이다.
+SK하이닉스 관계자는 “올해는 에이전틱 AI를 더욱 고도화하고, 에이전트 오케스트레이션 기술을 확보해 또 다른 생성형 AI 혁신을 이루겠다”고 말했다
+한편, SK하이닉스는 우수 반도체 인재 확보를 위한 채용 행사인 ‘2025 SK하이닉스 테크 데이’를 확대한다. 테크 데이는 한양대를 시작으로 서울대, 연세대, 고려대, 서강대, 포항공대, KAIST까지 총 7개 대학에서 기술 중심 행사로 진행된다.
+현업에서 활동하고 있는 핵심 임원들이 강연을 통해 직접 업무에 대해 설명할 예정이다. 또 일대일 직무 상담, 테크 및 HR 세션 등을 통해 AI 메모리 설계와 시스템 아키텍처, 패키지 기술, 공정·소자에 대한 소개도 이루어진다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[구매·채용·법무 업무도 척척 다양한 생성형 AI서비스 가능SK하이닉스가 반도체 제조·개발 업무에 최적화시킨 ‘AI 비서’를 산업 현장에 투입한다. 14일 SK하이닉스는 다양한 사내 업무에 AI를 활용할 수 있도록 돕는 AI 플랫폼 ‘가이아(GaiA)’와 이를 통해 만들어진 AI 에이전트(비서) 및 생성형 AI 서비스를 공개했다. 또 회사 차원의 AI전환 계]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100305</code_id>
+<code_nm><![CDATA[전기·전자·통신]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100305</small_code_id>
+<small_code_nm><![CDATA[전기·전자·통신]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/14/news-p.v1.20250814.24736da3b725413bbeaa4cf4da6d1bf8_P1.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/14/news-p.v1.20250814.ab90ceef59754d3c8a5a980d0da2ff40_P1.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11394255]]></article_url>
+</article>
+</saltlux>

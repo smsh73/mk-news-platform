@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11386450</art_id>
+<art_year>2025</art_year>
+<art_no>560866</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-06 12:14:18</service_daytime>
+<title><![CDATA[카카오모빌리티, KISA ‘신규 보안 취약점 신고포상제’ 공동 운영사 참여]]></title>
+<sub_title><![CDATA[보안 취약점 발견·신고시
+평가 통해 포상금 제공]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김태성 기자(kts@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-06 12:14:18</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101505</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">보안 취약점 발견·신고시<br>평가 통해 포상금 제공</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/06/news-p.v1.20250806.4c6befa8c66843129ba51d6efbe7f96d_P1.jpeg' alt=' 이동근 한국인터넷진흥원 디지털위협대응본부 본부장(왼쪽), 최진욱 카카오모빌리티 정보보호최고책임자(상무)가 지난 5일 업무 협약식 진행 후 기념촬영을 하고 있다. &lt;카카오모빌리티&gt;'>
+카카오모빌리티는 서비스 보안 강화를 위해 한국인터넷진흥원(KISA)의 ‘신규 보안 취약점 신고포상제’ 공동 운영사로 참여한다고 6일 밝혔다.
+양사는 지난 5일 KISA 디지털위협대응본부 이동근 본부장, 카카오모빌리티 정보보호최고책임자 최진욱 상무 등 주요 관계자들이 참석한 가운데 경기도 성남시 카카오모빌리티 본사에서 ‘신규 보안 취약점 신고포상제’ 공동 운영사 참여를 위한 업무협약식을 진행했다.
+이는 KISA가 기업의 보안 취약점 발굴과 선제적 대응을 지원하는 ‘버그바운티(Bug Bounty) 공동운영제도’의 일환으로, 버그바운티는 소프트웨어 또는 웹 서비스의 신규 보안 취약점을 발견해 신고한 화이트해커 등에게 포상금이나 인센티브를 제공하는 신고포상제도다.
+카카오모빌리티는 이번 협약을 통해 카카오 T, 카카오내비 앱 및 웹 서비스의 보안 취약점을 선제적으로 발굴하기 위한 외부 보안 전문가의 참여를 확대하고, 이를 안전하게 개선할 수 있는 체계를 구축한다는 방침이다. 특히 인공지능(AI)을 이용한 거대언어모델(LLM) 기반의 해킹 공격, 자동화된 해킹 도구, 지능형 지속위협(APT) 공격 등 갈수록 고도화·지능화되는 해킹 위협에 효율적으로 대비하고 서비스 보안 수준을 강화할 수 있을 것으로 기대하고 있다.
+향후 양사는 ▲신규 보안 취약점 접수, 평가, 포상기준 수립 등 신고포상제 전 과정을 공동 운영하며, ▲신규 취약점 발견 시 보안패치 개발 등 대응 ▲신규 취약점 및 사이버 위협 탐지동향 등 정보 공유 분야에서도 협업한다.
+신고포상제는 보안 분야에 관심 있는 한국인이라면 일반인부터 보안전문가까지 누구나 참여 가능하며, ‘KISA 사이버 보안취약점 정보 포털’을 통해 취약점을 신고할 수 있다. 양사는 우수 취약점을 분기별로 평가해 유효성이 입증된 제보에 대해 운영 방안에 따른 포상금을 지급할 계획이다.
+단, 서비스에 대한 자동화된 무단 스캐닝, DDoS 공격, 개인정보 수집 및 유출 시도 등은 포상 대상에서 제외되며, 관련 법령에 따라 제재되거나 처벌받을 수 있다.
+최진욱 카카오모빌리티 정보보호최고책임자(상무)는 “이번 협약을 통해 보안 취약점을 조기에 식별하고 개인정보나 기업 내 민감정보 유출 등 피해를 사전에 차단하는 등 실질적이고 전방위적인 해킹 위협 대응이 가능할 것으로 기대한다”며 “앞으로도 KISA와의 지속적인 협력을 통해 투명하고 안전한 보안 대응 체계를 마련하고 사용자들이 안심하고 이용할 수 있는 서비스 환경을 만들어나갈 계획”이라고 밝혔다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[보안 취약점 발견·신고시 평가 통해 포상금 제공카카오모빌리티는 서비스 보안 강화를 위해 한국인터넷진흥원(KISA)의 ‘신규 보안 취약점 신고포상제’ 공동 운영사로 참여한다고 6일 밝혔다. 양사는 지난 5일 KISA 디지털위협대응본부 이동근 본부장, 카카오모빌리티 정보보호최고책임자 최진욱 상무 등 주요 관계자들이 참석한 가운데 경기도 성남시 카카오모빌리티 본]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101505</code_id>
+<code_nm><![CDATA[보안/해킹]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101505</small_code_id>
+<small_code_nm><![CDATA[보안/해킹]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/06/news-p.v1.20250806.4c6befa8c66843129ba51d6efbe7f96d_P1.jpeg]]></image_url>
+<image_caption><![CDATA[ 이동근 한국인터넷진흥원 디지털위협대응본부 본부장(왼쪽), 최진욱 카카오모빌리티 정보보호최고책임자(상무)가 지난 5일 업무 협약식 진행 후 기념촬영을 하고 있다. &lt;카카오모빌리티&gt;]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11386450]]></article_url>
+</article>
+</saltlux>

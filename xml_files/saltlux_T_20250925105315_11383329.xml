@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11383329</art_id>
+<art_year>2025</art_year>
+<art_no>550819</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-01 18:05:46</service_daytime>
+<title><![CDATA[이주의 새책]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250802</pub_date>
+<pub_edition>16</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>17</pub_page>
+<reg_dt>2025-08-01 18:05:46</reg_dt>
+<mod_dt>2025-08-01 21:04:01</mod_dt>
+<art_org_class>MK101103</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[
+<img src='https://wimg.mk.co.kr/news/cms/202508/02/20250802_01160117000004_L00.jpg' alt=''>
+
+생물의 왕국
+이정모 지음, 1만8900원
+공룡도 멸종해버린 지구에서 수십억 년 동안 진화하고 살아남은 생명체들에 관해 다룬다. 흥미로운 생물의 왕국 이야기는 인간이 감히 이들의 지배자로 군림하는 게 타당한지 따끔한 질문으로 이어진다. 책과삶 펴냄.
+
+악마의 원소
+댄 이건 지음, 한지환 옮김, 2만3000원
+원소 인(P)은 지구 생명체의 형성과 성장에 필수적이지만, 화학비료 등에 과도하게 쓰이면서 오늘날 수질 오염의 주요 원인이 됐다. 지독한 독성과 폭발성 탓에 '악마의 원소'라고 불리게 된 역사와 인의 균형을 회복하기 위해 필요한 규제 등을 두루 다룬다. 에코리브르 펴냄.
+
+현대자동차의 '또 다른' 추격
+조형제 지음, 2만7000원
+전기차, 자율주행차, 소프트웨어중심차량이 도로를 내달리는 시대. 내연기관 자동차의 150년 역사를 뒤로하고 우리나라 자동차 산업을 대표하는 현대차그룹도 기술적 과제와 고용 구조의 변화를 겪고 있다. 보다 지속가능한 발전 모델이 가능할지 살펴본다. 한울아카데미 펴냄.
+
+백년의 부모 수업
+이해명 지음, 1만7000원
+해외의 유명 연구를 토대로 한 꾸준한 훈육, 독서·토론·글쓰기 교육으로 아들을 예일대에 진학시킨 80세 저자의 비법서다. 평생 교육학자를 지내고 이제는 손주를 돌보고 있다는 그는 할아버지의 마음으로 생애주기별 교육법을 세심하게 전한다. 청림라이프 펴냄.
+
+엄마의 자존감
+전미경 지음, 2만2000원
+엄마가 불안하면 아이도 정서적 안정감을 갖기 어렵다. 정신과 의사이자 한 아이의 엄마인 저자가 진료실에서 만난 사례와 심리학 연구를 바탕으로 따뜻한 조언을 건넨다. 카시오페아 펴냄. 정주원 기자 정리]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[생물의 왕국
+이정모 지음, 1만8900원
+공룡도 멸종해버린 지구에서 수십억 년 동안 진화하고 살아남은 생명체들에 관해 다룬다. 흥미로운 생물의 왕국 이야기는 인간이 감히 이들의 지배자로 군림하는 게 타당한지 따끔한 질문으로 이어진다. 책과삶 펴냄.
+
+악마의 원소
+댄 이건 지음, 한지환 옮김, 2만3000원
+원소 인(P)은 지구 생명체의 형성과 성장에 필수적이지만, 화학비료 등에 과도하게 쓰이면서 오늘날 수질 오염의 주요 원인이 됐다. 지독한 독성과 폭발]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101103</code_id>
+<code_nm><![CDATA[출판/도서]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00505</middle_code_id>
+<middle_code_nm><![CDATA[문화]]></middle_code_nm>
+<small_code_id>MK101103</small_code_id>
+<small_code_nm><![CDATA[출판/도서]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/02/20250802_01160117000004_L00.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11383329]]></article_url>
+</article>
+</saltlux>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11405925</art_id>
+<art_year>2025</art_year>
+<art_no>617778</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-29 11:01:20</service_daytime>
+<title><![CDATA[Household debt growth projected to slow in August]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-29 11:01:20</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK400102</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[Household loan growth in South Korea is projected to stay in the 3 trillion won ($2.2 billion) range in August, reflecting the full impact of the June 27 household loan regulations, which capped mortgage lending at 600 million won in Seoul and the surrounding area.
+According to data from the country’s five major banks (KB Kookmin, Shinhan, Hana, Woori, and NH Nonghyup) on Thursday, household loans increased by 2.99 trillion won from August 1 to 27.
+At the current pace, total household loan growth for the month is expected to remain in the low 3 trillion won range, the smallest increase since March (1.8 trillion won).
+Given that July and August normally see a surge in loan demand due to summer vacations and house moves, analysts noted that the trend indicates loan growth has stabilized.
+For mortgage loans alone, the increase for the cited period was 2.4 trillion won - about half of the previous month’s 4.5 trillion won.
+The sharp drop came after demand weakened following the June 27 regulations and the Phase 3 stress-based debt service ratio (DSR) rules implemented in July.
+Some banks even reported a rare decline in outstanding mortgage balances in August.
+While unsecured loans jumped by more than 1 trillion won at the start of the month due to demand for initial public offering (IPO) investments, the monthly growth slowed to just around 410 billion won as of August 27.
+Given that the average daily increase through August 27 was only 110 billion won, household loan growth is expected to shrink further in the coming months.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[Household loan growth in South Korea is projected to stay in the 3 trillion won ($2.2 billion) range in August, reflecting the full impact of the June 27 household loan regulations, which capped mortg]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK400102</code_id>
+<code_nm><![CDATA[Economy]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00308</middle_code_id>
+<middle_code_nm><![CDATA[English]]></middle_code_nm>
+<small_code_id>MK400102</small_code_id>
+<small_code_nm><![CDATA[Economy]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11405925]]></article_url>
+</article>
+</saltlux>

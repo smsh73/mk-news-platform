@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11384087</art_id>
+<art_year>2025</art_year>
+<art_no>553325</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-03 17:55:43</service_daytime>
+<title><![CDATA[1억弗 거절하자 "두 배로"… NBA 닮아가는 AI 인재 영입전]]></title>
+<sub_title><![CDATA[최대 10억달러 지급 제안<br>인재 1명에 GPU 3만개 배정<br>NYT "상상 뛰어넘는 보상<br>스포츠스타 영입경쟁 방불"]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[원호섭 기자(wonc@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250804</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>18</pub_page>
+<reg_dt>2025-08-03 17:55:43</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA['초지능'을 개발하고자 실리콘밸리 상위 0.1% 인재를 블랙홀처럼 흡수하고 있는 메타가 내로라하는 인공지능(AI) 연구자들을 영입하기 위해 제시한 상상 이상의 보상 규모가 알려지면서 화제를 모으고 있다. 실리콘밸리의 AI 인재 영입 경쟁이 미국프로농구(NBA)의 스타 영입 경쟁을 방불케 할 정도라는 평가도 나오고 있다.
+지난달 31일 뉴욕타임스에 따르면 마크 저커버그 메타 최고경영자(CEO)는 최근 24세의 AI 연구자 맷 다잇크를 메타 초지능팀에 합류시키기 위해 주식과 현금 등 1억2500만달러를 제시했다. 다잇크가 자신이 창업한 스타트업을 더 이끌고 싶다며 거절하자 저커버그 CEO가 직접 나서 기존 대비 2배 올린 2억5000만달러를 제시한 끝에 영입에 성공했다.
+수천억 원대 계약이 실제로 성사되고 있다는 사실은 AI 업계에 큰 충격을 주고 있다. 뉴욕타임스는 "AI 인재 영입 경쟁이 NBA 자유계약시장처럼 변모하고 있다"며 "AI 연구자들은 스테픈 커리나 르브론 제임스처럼 영입되고 있으며, 수년간 분할 지급되는 보상 패키지를 받는다"고 분석했다. 
+메타가 제시하고 있는 보상은 압도적이었다. 애플 파운데이션 모델을 이끌었던 루오밍 팡에게 수년간 약 2억달러(약 2800억원)를 제시한 것은 약과다. 최근 오픈AI 최고기술책임자(CTO) 출신인 미라 무라티가 이끄는 스타트업 '싱킹머신랩(TML)'은 개발자를 영입하기 위해 연봉과 보상을 포함해 최대 10억달러에 달하는 파격적인 제안을 제시했다.
+메타는 연구 환경에서도 과감한 제안을 한 것으로 알려졌다. 뉴욕타임스는 "일부 지원자는 AI 연구용으로 3만개의 그래픽처리장치(GPU)를 배정받을 수 있다는 말을 들었다"고 전했다. SK그룹이 AWS와 손잡고 울산에 건설 중인 100㎿급 데이터센터에 투입되는 GPU(6만개)의 절반에 해당하는 엄청난 규모다. 대규모 GPU를 사용하면 짧은 시간에 더 많은 가설을 검증해볼 수 있는 만큼 경쟁자보다 성과를 빠르게 낼 수 있을 뿐 아니라 모델 규모의 제약도 사라진다.
+이 같은 상황이 지속되자 일반 개발자들 사이에서는 상실감을 토로하는 현상도 나타나고 있다. 일반적으로 고급 엔지니어의 경우 60만~90만달러(약 9억~12억원) 정도의 연봉을 받고 상위 5% 엔지니어는 150만달러까지 받는다. [실리콘밸리 원호섭 특파원]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA['초지능'을 개발하고자 실리콘밸리 상위 0.1% 인재를 블랙홀처럼 흡수하고 있는 메타가 내로라하는 인공지능(AI) 연구자들을 영입하기 위해 제시한 상상 이상의 보상 규모가 알려지면서 화제를 모으고 있다. 실리콘밸리의 AI 인재 영입 경쟁이 미국프로농구(NBA)의 스타 영입 경쟁을 방불케 할 정도라는 평가도 나오고 있다.
+지난달 31일 뉴욕타임스에 따르면 마크 저커버그 메타 최고경영자(CEO)는 최근 24세의 AI 연구자 맷 다잇크를 메타 초지능팀에 합류]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11384087]]></article_url>
+</article>
+</saltlux>

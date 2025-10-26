@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11402009</art_id>
+<art_year>2025</art_year>
+<art_no>605629</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-25 11:28:36</service_daytime>
+<title><![CDATA[Korea passes controversial labor law revision]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-25 11:28:36</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK400111</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/25/news-p.v1.20250825.dee12f2762974f30b463f6868545207f_P1.png' alt=' (Lee Chung-woo)'>
+South Korea’s National Assembly passed a contentious bill that revises the country’s Trade Union and Labor Relations Adjustment Act during a plenary session on Sunday.
+Under the bill, three revisions affect Articles 2 and 3 of the union law.
+First, the scope of “employer status” is expanded to include not only those who hire workers but also those who have authority and responsibility over business operations.
+This means that a principal contractor who can effectively determine working conditions is legally regarded as an “employer” and is thus obligated to engage in collective bargaining.
+As a result, workers employed by subcontractors, who do not have a direct employment contract with the principal contractor, can now become parties to collective bargaining.
+Second, the scope of “labor disputes” is broadened, enabling business management decisions that involve changes in working conditions, such as layoffs, to now be considered legitimate subjects of labor disputes.
+The revised law also now restricts the extent to which employers can claim compensation for damages resulting from strikes or other industrial actions.
+The government argues that these measures will help bridge labor-market gaps and lead to more amicable resolutions of labor-management conflicts.
+However, experts warn that the amendments may conflict with other laws, including the Constitution and the Civil Act, and could encourage social unrest and illegal strikes.
+In particular, the expansion of “employer status” for principal contractors may conflict with the existing Labor Standards Act.
+“The Trade Union Act regulates collective bargaining and collective agreements on the premise of a ‘party in an employment contract relationship,’” Cho Chan-young, an attorney at SHIN & KIM LLC and former High Court judge, noted. “If the intent was to recognize a principal contractor as an employer of subcontracted workers who are not in a direct employment contract, then the provisions should have been systematically revised together, rather than only changing the definition.”
+Business circles are concerned that industries with multilayered subcontracting structures - such as shipbuilding, construction, and steel - will see a surge in cases where subcontractor unions demand direct negotiations with principal contractors.
+In the shipbuilding industry, where subcontractors account for 63.8 percent of the workforce, hundreds of subcontractor unions could demand negotiations simultaneously, imposing an unmanageable burden on principal companies.
+“Once the revised law is implemented, subcontractor unions may flood principal contractors with dozens or even hundreds of bargaining requests,” an official from the business community said. “This could inevitably lead to production line shutdowns, delivery delays, and export disruptions.”
+The expansion of permissible strike purposes also raises concerns about infringement on management rights and freedom.
+This could potentially subject managerial decisions such as restructuring, relocation of production facilities, or adoption of new technologies to union negotiation.
+“The provision regarding ‘business decisions affecting working conditions’ carries constitutional risks and should be removed,” Cho of SHIN & KIM said.
+The business community official added, “All areas could become subject to disputes, leading to regular strikes and seriously disrupting corporate investment decisions and business operations.”
+The new limitation on damage compensation claims is also seen as overly restrictive, beyond what already exists under the current Trade Union Act.
+“Previously, the judiciary could intervene in unlawful industrial actions, but the revised bill includes broad immunity provisions that could, in effect, grant impunity even for illegal strikes.” Hong Seong, an attorney at YOON & YANG LLC, said.
+Subcontractor unions are already moving to engage in direct negotiations with principal companies even before the revised law comes into effect.
+The Hyundai Steel Co. Subcontractor Branch of the Korean Metal Workers’ Union, composed of subcontractor employees, plans to demand direct talks with Hyundai Steel and urge the withdrawal of ongoing damage claims and the summoning of company executives as witnesses in the National Assembly’s audit.
+Subcontractor unions at Samsung Electronics Co. have long demanded that the principal contractor address delayed wage payments and ensure labor rights.
+Similarly, workers at LG Electronics Inc.’s after-sales service (AS) subsidiary have declared their intent to “negotiate with the real employer,” while shipbuilding unions under the Shipbuilding Workers’ Solidarity have urged joint bargaining with principal firms such as HD Hyundai Heavy Industries Co. and Hanwha Ocean Co.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[South Korea’s National Assembly passed a contentious bill that revises the country’s Trade Union and Labor Relations Adjustment Act during a plenary session on Sunday. Under the bill, three revisions ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK400111</code_id>
+<code_nm><![CDATA[Biz]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00308</middle_code_id>
+<middle_code_nm><![CDATA[English]]></middle_code_nm>
+<small_code_id>MK400111</small_code_id>
+<small_code_nm><![CDATA[Biz]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/25/news-p.v1.20250825.dee12f2762974f30b463f6868545207f_P1.png]]></image_url>
+<image_caption><![CDATA[ (Lee Chung-woo)]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11402009]]></article_url>
+</article>
+</saltlux>

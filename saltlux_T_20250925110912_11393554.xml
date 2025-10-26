@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11393554</art_id>
+<art_year>2025</art_year>
+<art_no>580803</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-14 10:55:41</service_daytime>
+<title><![CDATA[“태양광 전력 효율 좋고 냉각도 쉬워”...구글이 우주 데이터센터 짓는 이유]]></title>
+<sub_title><![CDATA[스타클라우드와 손잡고
+엔비디아 GPU 탑재 위성 발사 준비
+태양광·복사 냉각 활용해
+지상 대비 운영비 절감]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[원호섭 기자(wonc@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-14 10:55:41</reg_dt>
+<mod_dt>2025-08-15 08:43:21</mod_dt>
+<art_org_class>MK101506</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">스타클라우드와 손잡고<br>엔비디아 GPU 탑재 위성 발사 준비<br>태양광·복사 냉각 활용해<br>지상 대비 운영비 절감</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/15/news-p.v1.20250814.2c3f5646543645ff9581b163c3691a77_P1.png' alt=' 스타클라우드가 추진하는 우주 데이터센터 상상도 [그림=스타클라우드]'>
+구글이 자사의 생성형 인공지능(AI) ‘제미나이’를 우주 데이터센터에서 구동하는 프로젝트를 추진한다. AI 시대 급증하는 연산 수요에 대응하기 위해, 빅테크 기업들이 지구를 넘어 우주라는 새로운 공간을 데이터센터 거점으로 삼으려는 움직임이 현실화하고 있다.
+13일(현지시간) 미국 캘리포니아주 마운틴뷰에서 열린 ‘창구 이머전트립’ 행사에서 구글 스타트업 액셀러레이터 총괄 맷 라이드나워는 “우주 데이터센터를 구축 중인 스타트업 ‘스타클라우드’가 곧 엔비디아 H100 GPU를 탑재한 위성을 발사할 예정”이라며 “이곳(우주)에서 제미나이 모델을 운영할 계획”이라고 밝혔다. 그는 “구글 클라우드가 스타클라우드를 지원하고 있다”고 덧붙였다.
+스타클라우드는 2024년 미국 워싱턴주 레드먼드에서 설립된 스타트업으로, 스페이스X 수석 엔지니어 출신 아디 올테안과 매켄지 컨설턴트 출신 필립 존스턴이 공동 창업했다. 이 회사는 Y콤비네이터, 안드리센 호로비츠 등으로부터 누적 약 2100만 달러의 시드 투자를 유치했다.
+스타클라우드는 가로, 세로 약 4km 크기의 초대형 태양광·냉각 패널을 갖춘 5GW급 궤도 데이터센터를 장기적으로 구상하고 있다. 이 구조물은 우주에서 24시간 끊김이 없이 태양광 전력을 공급하고, 진공 상태에서 방사 복사 냉각으로 서버의 열을 방출하는 역할을 한다. 다만 이 설계는 아직 개념 단계이며, 올해 말 또는 내년 초 스페이스X를 통해 소규모 실증 위성을 궤도에 올려 GPU 기반 머신러닝 작업을 시험한다는 계획이다.
+스타클라우드에 따르면 지상에서 40MW급 데이터센터를 10년간 운영할 경우 전력비로 약 1억4000만 달러가 들지만, 궤도 데이터센터에서는 태양광을 활용해 이를 약 200만 달러 수준으로 줄일 수 있다. 빅테크 기업들이 AI 인프라 확충에 나서는 가운데 구글은 미래 기술에 과감하게 도전함으로써 시장 선점에 나선다는 계획이다.
+우주 데이터센터는 계절·날씨·시간 제약 없는 태양광 전력으로 운영비를 낮추고 화석연료 의존도를 줄일 수 있다는 장점이 있다. 그러나 방사선 차폐, 발열 제어, 우주 파편 충돌 회피, 높은 발사 비용 등은 여전히 풀어야 할 기술적 난관으로 남아 있다.
+우주 데이터센터 시장에는 스타클라우드 외에도 여러 기업이 진입하고 있다. 미국 휴스턴의 액시엄 스페이스는 소형 데이터센터 프로토타입을 국제우주정거장(ISS)에 보내 클라우드 컴퓨팅, AI·머신러닝, 데이터 융합, 사이버보안 기능을 시험 중이다. 회사는 올해 말까지 저궤도(LEO)에 두 개의 자유 비행형 궤도 데이터센터 노드를 발사할 계획이다. 롱스타 데이터 홀딩스도 달 착륙선을 통해 ‘프리덤 데이터센터’를 달 표면에 보내고, 소형 컴퓨팅 노드를 ISS와 달에서 시험 운용한 경험이 있다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[스타클라우드와 손잡고 엔비디아 GPU 탑재 위성 발사 준비 태양광·복사 냉각 활용해 지상 대비 운영비 절감구글이 자사의 생성형 인공지능(AI) ‘제미나이’를 우주 데이터센터에서 구동하는 프로젝트를 추진한다. AI 시대 급증하는 연산 수요에 대응하기 위해, 빅테크 기업들이 지구를 넘어 우주라는 새로운 공간을 데이터센터 거점으로 삼으려는 움직임이 현실화하고 있]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101506</code_id>
+<code_nm><![CDATA[스타트업]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101506</small_code_id>
+<small_code_nm><![CDATA[스타트업]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/15/news-p.v1.20250814.2c3f5646543645ff9581b163c3691a77_P1.png]]></image_url>
+<image_caption><![CDATA[ 스타클라우드가 추진하는 우주 데이터센터 상상도 [그림=스타클라우드]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11393554]]></article_url>
+</article>
+</saltlux>

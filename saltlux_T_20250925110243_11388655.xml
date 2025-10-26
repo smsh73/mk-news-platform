@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11388655</art_id>
+<art_year>2025</art_year>
+<art_no>566653</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-08 11:42:14</service_daytime>
+<title><![CDATA[“업무 질문 실시간 답변”…우미건설, 인공지능 ‘린 GPT’ 개발]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[조성신 매경 디지털뉴스룸 기자(robgud@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-08 11:42:14</reg_dt>
+<mod_dt>2025-08-08 11:49:31</mod_dt>
+<art_org_class>MK100607</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/08/news-p.v1.20250808.84d530ce0c314264ba30730b2cf03005_P1.jpg' alt=' ‘린 GPT’ 실행 화면 [사진 = 우미건설]'>
+우미건설이 도슨티와 건설 정보 인공지능(AI) ‘린 GPT’를 공동 개발했다.
+8일 우미건설에 따르면 린 GPT는 시공, 설계, 안전 등 건설과 관련된 질문에 실시간으로 답변하는 생성형 AI다. 이를 위해 건축법, 산업안전보건법 등의 공공데이터와 자체데이터를 학습시켰다.
+또 챗GPT와 연결되고 국가법령정보센터와 국가건설기준센터의 실시간 업데이트 정보도 제공한다.
+김혜원 우미건설 건축본부 기술 담당 상무는 “‘린 GPT’ 를 통해 본사와 현장 간의 정보 격차를 줄이고, 업무 속도 향상, 시공 오류 감소는 물론, 안전성도 향상시킬 것으로 기대하고 있다”고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[우미건설이 도슨티와 건설 정보 인공지능(AI) ‘린 GPT’를 공동 개발했다. 8일 우미건설에 따르면 린 GPT는 시공, 설계, 안전 등 건설과 관련된 질문에 실시간으로 답변하는 생성형 AI다. 이를 위해 건축법, 산업안전보건법 등의 공공데이터와 자체데이터를 학습시켰다. 또 챗GPT와 연결되고 국가법령정보센터와 국가건설기준센터의 실시간 업데이트 정보도 제공]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100607</code_id>
+<code_nm><![CDATA[건설업계 동향]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00503</middle_code_id>
+<middle_code_nm><![CDATA[부동산]]></middle_code_nm>
+<small_code_id>MK100607</small_code_id>
+<small_code_nm><![CDATA[건설업계 동향]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/08/news-p.v1.20250808.84d530ce0c314264ba30730b2cf03005_P1.jpg]]></image_url>
+<image_caption><![CDATA[ ‘린 GPT’ 실행 화면 [사진 = 우미건설]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11388655]]></article_url>
+</article>
+</saltlux>

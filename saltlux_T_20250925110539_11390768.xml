@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11390768</art_id>
+<art_year>2025</art_year>
+<art_no>572364</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-11 16:04:28</service_daytime>
+<title><![CDATA["범용 AI 플랫폼으로 韓 진출 … LG화학·포스코도 우리 고객"]]></title>
+<sub_title><![CDATA[클레망 스테낙 '데이터이쿠' 공동창립자·CTO<br>기업가치 5조, 프랑스 유니콘<br>특정 서비스에 종속되지 않고<br>자유롭게 필요한 솔루션 사용<br>코딩 모르는 비전문가 직원도<br>엑셀처럼 쉽게 활용할수 있어]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[정호준 기자(jeong.hojun@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250812</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>02</pub_section>
+<pub_page>5</pub_page>
+<reg_dt>2025-08-11 16:04:28</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK300108</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/12/20250812_01110205000002_L00.jpg' alt=''>
+
+2022년 한국 시장에 진출한 프랑스의 인공지능(AI) 스타트업인 데이터이쿠가 LG화학, 두산, 포스코 등을 고객사로 확보하며 국내에서 입지를 키우고 있다.
+한국에서는 다소 생소한 기업이지만 데이터이쿠는 2022년 말 약 2억달러(약 2780억원)의 시리즈F 투자를 유치하며 37억달러(약 5조1420억원)로 기업가치를 평가받은 유니콘 기업이다.
+최근 한국을 찾은 클레망 스테낙 데이터이쿠 공동창립자 겸 최고기술책임자(CTO)는 매일경제신문과 만나 "데이터이쿠는 범용 AI 플랫폼이라는 것이 강점"이라며 "특정 서비스에 종속되지 않고 자유롭게 필요한 솔루션을 선택하고 사용할 수 있다"고 강조했다.
+데이터이쿠가 서비스하는 동명의 플랫폼은 데이터 관리부터 머신러닝 작업, 필요한 AI 모델 학습과 에이전트 서비스 개발, 배포까지 가능한 총체적인 솔루션이다.
+ "기술을 민주화하겠다"는 데이터이쿠의 방향성에 따라 코딩을 모르는 비전공자도 엑셀과 같은 프로그램처럼 활용할 수 있도록 '노코드' 옵션을 제공한다.
+만약 사내 데이터를 활용한 AI 기능을 만들고 싶다면 저장된 데이터를 연결해 가져온 다음 전처리 단계를 거쳐야 한다. 이 과정도 비개발자가 데이터이쿠 플랫폼을 통해 진행할 수 있으며, 그다음에는 필요한 거대언어모델(LLM)을 연결해 챗봇을 만드는 등의  작업을 하면 된다.
+다만 이러한 기능은 아마존웹서비스(AWS)나 구글 클라우드 같은 대형 클라우드사나 데이터베이스 기업들이 제공하는 솔루션과도 중복되는 영역이 있다. 
+이에 대해 스테낙 CTO는 "그들이 개발자나 전문가를 위한 구체적인 기술을 제공한다면 우리는 좀 더 광범위하게 기술을 민주화하는 것에 초점을 맞추고 있다"며 "만약 기업이 특정 클라우드사의 솔루션을 쓴다면 해당 클라우드로 시스템이 종속될 우려가 있지만 우리는 다양한 기술을 사용하고 선택할 수 있는 자유가 있다"고 설명했다.
+실제로 데이터이쿠는 AWS나 스노플레이크 등 다양한 클라우드 및 데이터 기업과 협력하고 있다. 고객들은 어떤 클라우드를 사용하든 간에 관계없이 데이터이쿠 플랫폼에서 필요한 데이터를 가져오고 AI 모델에 연결할 수 있다.
+LG화학의 경우 전사적인 차원에서 AI 활용을 높이기 위해 데이터이쿠를 활용한 AI 분석 솔루션인 '시민 데이터 과학자(CDS)' 플랫폼을 개발했다. 
+개발자 조직 외에도 설비 이상을 감지하는 스마트 팩토리 조직이나 원자재 가격 예측 등이 필요한 구매팀 등 각 분야에서 필요한 AI 모델을 직접 만들어 쓸 수 있도록 한 것이 특징이다.
+LG화학처럼 국내에서도 IT 기업뿐만 아니라 제조업 등 다양한 산업에서 AI 도입이 빨라지는 추세다. 
+스테낙 CTO는 특히 AI 에이전트 도입을 고려하는 기업들에 "실제로 적용할 수 있고 효용이 높은 사례에 집중해야 한다"며 "가령 한두 개 실수가 있어도 문제가 생기지 않는 영역은 AI로 바로 자동화할 수 있지만 사람의 검증이 필요한 영역이라면 AI를 지원 역할로 활용해야 한다. 어떤 업무에 적용할지에 따라 판단해야 한다"고 조언했다.
+데이터이쿠는 현재 미국 뉴욕에 본사를 두고 있지만 모태는 프랑스 파리다. CTO를 포함해 350여 명 수준인 개발인력도 대부분 파리에 있다.
+프랑스는 미스트랄, H 등 글로벌에서 주목받는 AI 유니콘을 배출한 국가로, 데이터이쿠 또한 유니콘 기업 중 하나다. 
+이처럼 AI 유니콘이 꾸준히 프랑스에서 탄생할 수 있는 것에 대해 스테낙 CTO는 "프랑스는 예전부터 과학, 엔지니어링, 문화 등 다양한 영역에서 혁신을 위한 기반이 잘 갖춰져 있는 국가"라며 "다만 이전에는 외부 투자 등이 부족했지만 이제는 정부의 우호적인 스타트업 정책과 선순환 생태계가 갖춰지고 있다"고 설명했다.
+[정호준 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[2022년 한국 시장에 진출한 프랑스의 인공지능(AI) 스타트업인 데이터이쿠가 LG화학, 두산, 포스코 등을 고객사로 확보하며 국내에서 입지를 키우고 있다.
+한국에서는 다소 생소한 기업이지만 데이터이쿠는 2022년 말 약 2억달러(약 2780억원)의 시리즈F 투자를 유치하며 37억달러(약 5조1420억원)로 기업가치를 평가받은 유니콘 기업이다.
+최근 한국을 찾은 클레망 스테낙 데이터이쿠 공동창립자 겸 최고기술책임자(CTO)는 매일경제신문과 만나 "데이터]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK300108</code_id>
+<code_nm><![CDATA[U-World (IT)]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK300108</small_code_id>
+<small_code_nm><![CDATA[U-World (IT)]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/12/20250812_01110205000002_L00.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11390768]]></article_url>
+</article>
+</saltlux>

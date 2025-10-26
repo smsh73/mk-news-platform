@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11397076</art_id>
+<art_year>2025</art_year>
+<art_no>590880</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-19 13:47:59</service_daytime>
+<title><![CDATA[구글, SMR 전력 계약…데이터센터 확보 총력전]]></title>
+<sub_title><![CDATA[핵융합·소형원전 동시 투자
+AI 데이터센터 전력난 해법 찾기
+비트코인 채굴업체·폭스콘까지
+예상치 못한 기업 AI 인프라 생태계 합류]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[원호섭 기자(wonc@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-19 13:47:59</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101506</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">핵융합·소형원전 동시 투자<br>AI 데이터센터 전력난 해법 찾기<br>비트코인 채굴업체·폭스콘까지<br>예상치 못한 기업 AI 인프라 생태계 합류</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/19/news-p.v1.20250819.f44450d54baf48b78da04ed6c9142cf6_P1.png' alt=' 카이로스파워의 SMR 예상도 [사진=카이로스파워]'>
+구글이 인공지능(AI) 확산에 따른 데이터센터 전력난 해소를 위해 차세대 원자력에 손을 뻗었다. 핵융합에 이어 소형 모듈형 원자로(SMR) 전력 구매 계약을 체결하면서, 에너지 확보 전쟁에 본격적으로 뛰어든 모습이다.
+18일(현지시간) 구글은 SMR 기업 카이로스파워와 미국 테네시주에 첨단 원자력발전소를 건설하기로 했다고 밝혔다. 이번 프로젝트는 카이로스파워와 테네시밸리전력청(TVA)이 협력해 추진하며, 구글은 장기 전력구매계약(PPA)을 통해 총 500메가와트(MW) 규모를 공급받는다는 계획이다. 이는 약 35만 가구가 사용할 수 있는 전력량으로, 2030년부터 미국 남동부 지역 구글 데이터센터에 전력을 공급할 예정이다.
+구글과 카이로스파워는 지난해 말 SMR 기반의 4세대 원자로 개발과 건설에 합의한 바 있으며 이번 계약으로 2030년부터 실제 전력 구매를 공식화했다.
+이번 계약은 미국에서 처음으로 ‘4세대 원자로’ 기술을 기반으로 한 전력구매계약이라는 점에서 주목된다. 4세대 원자로는 기존 원자로 대비 안전성과 지속 가능성이 커 차세대 원자력 기술로 꼽힌다.
+구글은 올해 초에도 핵융합 스타트업 커먼웰스 퓨전 시스템스(CFS)와 구매 계약을 맺으며 차세대 전력 공급원 확보에 나선 바 있다. 이번 SMR 계약으로 핵융합·원자력이라는 두 축을 동시에 잡으며, AI 서버 가동을 위한 장기적 전력 수급 전략을 강화한 셈이다.
+IT전문매체 디 인포메이션에 따르면, 구글은 비트코인 채굴업체 테라울프 지분도 확대했다. 테라울프는 클라우드 컴퓨팅 스타트업 플루이드 스택과 손잡고 뉴욕 데이터센터 운영을 확장하고 있으며, 이 과정에서 구글은 32억 달러 규모의 금융 지원 약정을 제공했다. 기존 지원액의 두 배에 달하는 규모다.
+구글의 공격적인 전력 확보 전략은 AI 서버 수요가 자체 공급 능력을 초과하고 있다는 현실을 반영한다. 엔비디아 GPU를 비롯한 고성능 연산 자원 수요가 폭증하면서, 구글·아마존·마이크로소프트 등 클라우드 3대 업체만으로는 시장 수요를 충족하기 어려운 상황이다. 이에 전통적 데이터센터 사업자뿐 아니라, 비트코인 채굴업체·자동차 제조업체·전자 하청기업까지 AI 인프라 생태계에 진입하는 흐름이 가속화되고 있다.
+AI 인프라 경쟁은 전력 확보를 넘어 하드웨어 생산으로도 확산하고 있다. 일본 소프트뱅크는 최근 대만 폭스콘과 손잡고, 기존 전기차(EV) 생산 설비를 활용해 AI 서버 생산에 나선다고 밝혔다. 폭스콘은 테슬라 등과 협력해 전기차를 위탁 생산하던 경험이 있으며, 이를 기반으로 AI 서버 조립과 공급망 구축에 속도를 낼 계획이다. [실리콘밸리 원호섭 특파원]
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[핵융합·소형원전 동시 투자 AI 데이터센터 전력난 해법 찾기 비트코인 채굴업체·폭스콘까지 예상치 못한 기업 AI 인프라 생태계 합류구글이 인공지능(AI) 확산에 따른 데이터센터 전력난 해소를 위해 차세대 원자력에 손을 뻗었다. 핵융합에 이어 소형 모듈형 원자로(SMR) 전력 구매 계약을 체결하면서, 에너지 확보 전쟁에 본격적으로 뛰어든 모습이다. 18일(현]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101506</code_id>
+<code_nm><![CDATA[스타트업]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101506</small_code_id>
+<small_code_nm><![CDATA[스타트업]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/19/news-p.v1.20250819.f44450d54baf48b78da04ed6c9142cf6_P1.png]]></image_url>
+<image_caption><![CDATA[ 카이로스파워의 SMR 예상도 [사진=카이로스파워]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11397076]]></article_url>
+</article>
+</saltlux>

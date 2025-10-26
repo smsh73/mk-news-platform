@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11403807</art_id>
+<art_year>2025</art_year>
+<art_no>611280</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-27 10:07:16</service_daytime>
+<title><![CDATA[“내 아들 죽은 건 챗GPT 때문”…오픈AI·올트먼 소송 휘말린 이유]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[이가람 매경 디지털뉴스룸 기자(r2ver@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-27 10:07:16</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100801</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/27/news-p.v1.20250827.c6d4a22eba8d4efa9baa9260a047b154_P1.jpg' alt=' [사진 = 연합뉴스]'>
+글로벌 인공지능(AI) 시장을 이끄는 오픈AI가 법적 분쟁에 휘말렸다. 청소년이 챗GPT로부터 극단적 선택을 하는 방법을 배운 뒤 사망한 사건이 발생해서다.
+26일(현지시간) 뉴욕타임스(NYT)에 따르면 아담 레인(16)은 지난 4월 스스로 목숨을 끊었다. 지난해 11월부터 챗GPT-4o에게 극단 선택 충동을 느꼈다고 털어놓으며 이를 실행에 옮길 계획을 짰다. 챗GPT는 레인에게 극단 선택 방법에 대한 정보를 요청했다.
+통상적으로 AI 모델은 이용자가 자신이나 타인에게 위해를 끼치려는 의도를 감지하면 안전장치가 활성화된다. 이용자가 죽고 싶다고 고백하면 전문가와 상담하기를 권유하거나 자살방지센터 연락처를 전달한다. 그러나 레인은 소설을 쓰기 위해 자살 방법을 알아 두는 것이라며 답변을 유도한 것으로 알려졌다.
+레인의 부모는 레인을 죽음에 이르도록 한 책임이 챗GPT에게도 있다고 주장하며 오픈AI와 샘 올트먼 최고경영자(CEO)를 상대로 소송을 제기했다.
+오픈AI는 “레인 가족에게 깊은 애도를 표한다”며 “소송 내용을 검토 중”이라고 밝혔다. 이어 “민감한 상호작용에서 응답하는 방식을 지속 개선하고 있다”면서도 “챗GPT의 안전장치는 일반적이고 짧은 대화에서는 잘 작동하지만 대화가 길어질수록 안전 기능이 일부 저하될 수 있다”고 설명했다.
+오픈AI는 챗GPT가 사용자의 고통을 더 잘 알아챌 수 있도록 업데이트할 방침이다. 예를 들어 밤을 샜다는 이용자에게 수면 부족의 위험성을 설명하고 휴식을 권하는 식이다. 또 부모가 자녀의 챗GPT 사용 내역을 확인할 수 있는 기능도 도입할 계획이다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[글로벌 인공지능(AI) 시장을 이끄는 오픈AI가 법적 분쟁에 휘말렸다. 청소년이 챗GPT로부터 극단적 선택을 하는 방법을 배운 뒤 사망한 사건이 발생해서다. 26일(현지시간) 뉴욕타임스(NYT)에 따르면 아담 레인(16)은 지난 4월 스스로 목숨을 끊었다. 지난해 11월부터 챗GPT-4o에게 극단 선택 충동을 느꼈다고 털어놓으며 이를 실행에 옮길 계획을 짰]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100801</code_id>
+<code_nm><![CDATA[사회일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100801</small_code_id>
+<small_code_nm><![CDATA[사회일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101003</code_id>
+<code_nm><![CDATA[국제산업]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101003</small_code_id>
+<small_code_nm><![CDATA[국제산업]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101008</code_id>
+<code_nm><![CDATA[국제사회]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101008</small_code_id>
+<small_code_nm><![CDATA[국제사회]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/27/news-p.v1.20250827.c6d4a22eba8d4efa9baa9260a047b154_P1.jpg]]></image_url>
+<image_caption><![CDATA[ [사진 = 연합뉴스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11403807]]></article_url>
+</article>
+</saltlux>

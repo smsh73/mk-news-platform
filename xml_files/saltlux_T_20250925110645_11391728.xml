@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11391728</art_id>
+<art_year>2025</art_year>
+<art_no>575068</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-12 14:42:27</service_daytime>
+<title><![CDATA[“하루 최소 15분만 빨리 걸어도 건강 유지 가능”]]></title>
+<sub_title><![CDATA[주당 150분씩 적당한 활동 필요
+시간 없으면 매일 빠른 걷기 도움]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김제관 기자(reteq@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-12 14:42:27</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101010</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">주당 150분씩 적당한 활동 필요<br>시간 없으면 매일 빠른 걷기 도움</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/12/news-p.v1.20250812.40cf00e54f49423cb6f4f500fc503a76_P1.jpg' alt=''>
+하루 최소 15분만 빨리 걸으면 건강을 유지할 수 있다는 연구 결과가 나왔다.
+11일(현지시간) CNN은 건강을 위해 주당 150분씩 적당한 활동을 하는 것이 가장 좋지만, 만약 운동할 시간이 여의찮으면 매일 최소 15분씩 빠르게 걷는 것이 건강상 좋다고 보도했다.
+미국 예방의학저널에 발표된 연구에 따르면 미국 밴더빌트대학교 의료센터의 웨이정 역학센터장과 연구팀은 2002년부터 2009년까지 주로 저소득층과 흑인 연구 참가자 8만5000여명을 대상으로 운동 습관, 평균 운동 시간, 보행 속도, 건강에 대해 종합적인 설문조사를 실시했다. 그런 다음 약 16년 후인 2023년 설문지를 작성한 참가자들은 대상으로 분석을 실시했다.
+분석 결과 평균적으로 매일 최소 15분 이상 빠르게 걸었던 연구 참가자들의 조기 사망률은 20%가량 감소한 반면, 하루에 3시간 이상 천천히 걸었던 참가자들의 조기 사망률은 4% 감소한 것에 그친 것으로 나타났다.
+웨이정 교수는 “빠른 걷기가 느린 걷기에 비해 좋다는 것을 알고 있었지만, 평균적으로 몇 분 동안 빠른 걷기를 해야 하는지에 대한 연구는 많지 않다”며 연구 의의를 설명했다.
+많은 건강 전문가들은 규칙적인 걷기가 체중을 조절하고 혈관을 더 잘 확장하게 만들며, 콜레스테롤을 낮추고 암 위험을 줄인다고 보고 있다. 또한 걷기는 관절 통증 완화와 면역 기능 향상에도 도움을 준다고 CNN은 전했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[주당 150분씩 적당한 활동 필요 시간 없으면 매일 빠른 걷기 도움하루 최소 15분만 빨리 걸으면 건강을 유지할 수 있다는 연구 결과가 나왔다. 11일(현지시간) CNN은 건강을 위해 주당 150분씩 적당한 활동을 하는 것이 가장 좋지만, 만약 운동할 시간이 여의찮으면 매일 최소 15분씩 빠르게 걷는 것이 건강상 좋다고 보도했다. 미국 예방의학저널에 발표된]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101010</code_id>
+<code_nm><![CDATA[아시아/호주]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101010</small_code_id>
+<small_code_nm><![CDATA[아시아/호주]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101011</code_id>
+<code_nm><![CDATA[미국/중남미]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101011</small_code_id>
+<small_code_nm><![CDATA[미국/중남미]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101012</code_id>
+<code_nm><![CDATA[유럽]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101012</small_code_id>
+<small_code_nm><![CDATA[유럽]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101299</code_id>
+<code_nm><![CDATA[스포츠(기타)]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00506</middle_code_id>
+<middle_code_nm><![CDATA[스포츠]]></middle_code_nm>
+<small_code_id>MK101299</small_code_id>
+<small_code_nm><![CDATA[스포츠(기타)]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101402</code_id>
+<code_nm><![CDATA[의료/건강]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101402</small_code_id>
+<small_code_nm><![CDATA[의료/건강]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/12/news-p.v1.20250812.40cf00e54f49423cb6f4f500fc503a76_P1.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11391728]]></article_url>
+</article>
+</saltlux>

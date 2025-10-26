@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11406935</art_id>
+<art_year>2025</art_year>
+<art_no>620936</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-31 13:55:44</service_daytime>
+<title><![CDATA[다시 살아나는 美 소비재…9월 노동절 특수 기대]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[오찬종 기자(ocj2123@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-31 13:55:44</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100501</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/31/news-p.v1.20250829.4d5677be9e3c4e64a247711d5f8a1fc8_P1.png' alt=' SPDR S&amp;P Retail 가격 추이. 자료=구글스탁'>
+관세 정책 불확실성이 줄어들고 대목이 다가오면서 미국 소비주에 대한 기대감이 살아나고 있다.
+대표 상장지수펀드(ETF)인 SPDR S&P Retail은 올해 들어 4월 초까지 -22%를 기록하며 부진했지만 최근 소비자 심리가 개선되면서 반등세가 뚜렷했다.
+28일(현지시간) 마감 기준 85.31 달러로 기준 최근 한 달간 상승률이 4.53% 수준이다.
+국내 상장된 비슷한 상품인 타이거미국소비트렌드액티브 ETF 역시 6개월 수익률은 -3.23%지만 최근 3개월 수익률은 5.79%로 회복세다.
+앞서 연초 도널드 트럼프 행정부의 엄포 직후 시장에서는 소비 붕괴 시나리오가 나오며 관련 주가들이 급락했다. 하지만 실제 주요 기업들의 실적은 우려와 달랐다.
+대표 기업인 월마트의 2분기 매출은 전년 동기 대비 4.8% 증가한 1774억달러(약 246조원)를 기록했다.
+경기 심리도 안정세다. 최근 경제지표인 7월 소매판매는 전월 대비 0.5% 증가하며 예상치와 일치했다.
+인플레이션 지속, 고용 둔화 우려에도 불구하고 소비자는 지출을 이어가는 모습을 보여줬다. 특히 9월 첫째 월요일 노동절을 맞춰 대규모 할인 행사들이 예정되어 있기 때문에 소비 활성화가 기대된다.
+전문가들은 기술적으로도 최근 상승세가 지속될 여력이 있다고 진단했다. 회복세에도 소비주들이 아직까지 S&P 전체 상승 폭을 웃돌지 못하고 있기 때문이다.
+S&P500 지수는 연초 대비 10% 상승했지만 SPDR S&P Retail 올해 8% 상승에 그친 상황이다.
+르네상스 매크로 리서치는 “SPDR S&P Retail이 83달러 선을 돌파한 지금 90달러가 새로운 목표”라고 제시했다.
+품목 별로는 자동차·부품, 크루즈·호텔·카지노 관련 기업을 긍정적으로 봤고 레스토랑은 변동성을 이유로 신중한 접근을 당부했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[관세 정책 불확실성이 줄어들고 대목이 다가오면서 미국 소비주에 대한 기대감이 살아나고 있다. 대표 상장지수펀드(ETF)인 SPDR S&P Retail은 올해 들어 4월 초까지 -22%를 기록하며 부진했지만 최근 소비자 심리가 개선되면서 반등세가 뚜렷했다. 28일(현지시간) 마감 기준 85.31 달러로 기준 최근 한 달간 상승률이 4.53% 수준이다. 국내 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100501</code_id>
+<code_nm><![CDATA[증권정책]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100501</small_code_id>
+<small_code_nm><![CDATA[증권정책]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100502</code_id>
+<code_nm><![CDATA[시황]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100502</small_code_id>
+<small_code_nm><![CDATA[시황]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101002</code_id>
+<code_nm><![CDATA[국제경제]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101002</small_code_id>
+<small_code_nm><![CDATA[국제경제]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101003</code_id>
+<code_nm><![CDATA[국제산업]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101003</small_code_id>
+<small_code_nm><![CDATA[국제산업]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/31/news-p.v1.20250829.4d5677be9e3c4e64a247711d5f8a1fc8_P1.png]]></image_url>
+<image_caption><![CDATA[ SPDR S&amp;P Retail 가격 추이. 자료=구글스탁]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11406935]]></article_url>
+</article>
+</saltlux>

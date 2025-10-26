@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11395217</art_id>
+<art_year>2025</art_year>
+<art_no>586061</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-17 16:15:04</service_daytime>
+<title><![CDATA[미래에셋증권, 알고리즘 의해 자동으로 포트폴리오 구성]]></title>
+<sub_title><![CDATA[퇴직연금 로보어드바이저 서비스]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250818</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>02</pub_section>
+<pub_page>2</pub_page>
+<reg_dt>2025-08-17 16:15:04</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK300199</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/18/20250818_01110202000003_L00.jpg' alt=''>
+
+알고리즘에 의해 자동으로 포트폴리오를 구성하고 운용해주는 미래에셋증권의 퇴직연금 로보어드바이저 서비스가 각광을 받고 있다.
+7월 말 기준 계좌 5만5690개와 평가금액 3조6625억원을 넘어서며 고객들에게 꾸준한 관심을 받고 있다.
+로보어드바이저는 Robot(로봇)과 Advisor(조언자)의 합성어로 컴퓨터 알고리즘을 이용해 고객과 금융 데이터를 분석한 뒤 현시점에 어떤 상품들을 골라 얼마만큼 비중으로 투자하면 좋을지 추천해주는 서비스다. 고객의 투자성향을 진단하고 그에 맞는 포트폴리오를 제안한다. 시간에 따라 새로운 포트폴리오를 제시하는 과정이 모두 시스템에 의해 이루어져 개별 맞춤 포트폴리오를 제공한다는 장점이 있다.
+미래에셋증권의 로보어드바이저 서비스는 코스콤 테스트베드 센터의 엄격한 심사 절차를 통과한 검증된 알고리즘에 기반해 퇴직연금 운용에 특화돼 설계됐다. 글로벌 우량자산에 분산투자하고 시장 상황 변화에 맞춰 자산 배분안과 고객 특성을 조합해 맞춤 포트폴리오를 제안하며 알림 메시지로 꾸준히 관리해준다.
+투자가 익숙하지 않아 연금을 방치하고 있는 고객, 퇴직연금을 직접 관리하는 데 어려움을 느끼는 고객, 복잡한 절차 없이 간편하게 다양한 글로벌 자산에 분산투자하기 원하는 고객에게 적합한 서비스다.
+로보어드바이저 서비스를 신청하기 위한 최소가입 금액은 1만원이고, 미래에셋증권 퇴직연금 가입자라면 별도의 수수료 없이 무료로 포트폴리오를 제공받을 수 있다.]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[알고리즘에 의해 자동으로 포트폴리오를 구성하고 운용해주는 미래에셋증권의 퇴직연금 로보어드바이저 서비스가 각광을 받고 있다.
+7월 말 기준 계좌 5만5690개와 평가금액 3조6625억원을 넘어서며 고객들에게 꾸준한 관심을 받고 있다.
+로보어드바이저는 Robot(로봇)과 Advisor(조언자)의 합성어로 컴퓨터 알고리즘을 이용해 고객과 금융 데이터를 분석한 뒤 현시점에 어떤 상품들을 골라 얼마만큼 비중으로 투자하면 좋을지 추천해주는 서비스다. 고객의 투자성]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK300199</code_id>
+<code_nm><![CDATA[테마기획]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00402</middle_code_id>
+<middle_code_nm><![CDATA[기획·연재]]></middle_code_nm>
+<small_code_id>MK300199</small_code_id>
+<small_code_nm><![CDATA[테마기획]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/18/20250818_01110202000003_L00.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11395217]]></article_url>
+</article>
+</saltlux>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11398591</art_id>
+<art_year>2025</art_year>
+<art_no>595365</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-20 17:52:33</service_daytime>
+<title><![CDATA["닷컴 버블과는 달라 … 챗GPT는 이미 수익화 성공"]]></title>
+<sub_title><![CDATA[개인·VC주도 닷컴버블과 달리<br>정부·기관 투자 나서 안정적]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[원호섭 기자(wonc@mk.co.kr), 김태성 기자(kts@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250821</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>19</pub_page>
+<reg_dt>2025-08-20 17:52:33</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/21/20250821_01110119000002_L00.jpg' alt=''>
+
+글로벌 인공지능(AI) 업계를 대표하는 샘 올트먼 오픈AI 최고경영자(CEO)의 'AI 버블' 발언, 그 결과 이어진 기술주 폭락으로 버블 붕괴 우려가 확산되고 있다. 다만 AI 및 증권 업계에서는 '닷컴 버블'과 같은 파국은 발생할 가능성이 낮다고 전망한다.
+'인터넷' 'AI'라는 키워드만 보고 단기간에 과도한 자금이 쏠리는 현상 자체는 과거와 비슷하지만, 실제 상용화되면서 수익을 거두고 있는 AI 서비스가 다수 탄생했다는 점에서 예전과 같은 거품 붕괴 현상이 반복될 것이라는 전망은 기우에 가깝다는 것이다.
+정보기술(IT) 업계에 따르면 닷컴 버블은 1990년대 말부터 미국에서 인터넷 보급 확대와 맞물려 나타난 개념이다. '인터넷이 세상을 바꿀 것'이라는 기대감에 벤처캐피털(VC)과 개인투자자들이 앞다퉈 인터넷 스타트업에 돈을 쏟아부었다.
+오늘날 AI 열풍도 당시와 비슷한 점이 많다. 2025년 1분기 동안 AI 스타트업에만 80억달러가 투입됐고, 전체 VC 투자 중 70%를 AI가 차지했다.
+다만 닷컴 버블과 달리 오늘날 AI는 활용성을 입증하고 있다. 닷컴 시절 많은 기업은 인터넷이라는 기술만 있었을 뿐, 수익화 모델이 불분명했다. 반면 챗GPT를 비롯한 생성형 AI는 다양한 산업에서 실질적 도구로 쓰이고 있으며 구글, 메타 등 기업들은 AI를 활용해 실적을 끌어올리고 있다.
+투자 주체도 차이가 있다. 닷컴 시대와 달리 지금은 빅테크 기업은 물론 정부 기관의 투자가 더해지고 있다. 자금 조달 구조가 더 안정적이라는 평가다.
+[실리콘밸리 원호섭 특파원 / 김태성 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[글로벌 인공지능(AI) 업계를 대표하는 샘 올트먼 오픈AI 최고경영자(CEO)의 'AI 버블' 발언, 그 결과 이어진 기술주 폭락으로 버블 붕괴 우려가 확산되고 있다. 다만 AI 및 증권 업계에서는 '닷컴 버블'과 같은 파국은 발생할 가능성이 낮다고 전망한다.
+'인터넷' 'AI'라는 키워드만 보고 단기간에 과도한 자금이 쏠리는 현상 자체는 과거와 비슷하지만, 실제 상용화되면서 수익을 거두고 있는 AI 서비스가 다수 탄생했다는 점에서 예전과 같은 거품 붕]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/21/20250821_01110119000002_L00.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11398591]]></article_url>
+</article>
+</saltlux>

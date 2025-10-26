@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11397924</art_id>
+<art_year>2025</art_year>
+<art_no>593128</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-20 10:05:55</service_daytime>
+<title><![CDATA[“뉴스룸의 멀티모달 AI 활용과 크로스 플랫폼 전략” 워크숍 22일 개최]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-20 10:05:55</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/20/news-p.v1.20250820.dbe3b96ad2c641a690fb993651ffd85c_P1.png' alt=''>
+빠르게 변화하는 미디어 환경 속에서 멀티모달 AI 기술을 활용한 뉴스 생산 혁신 전략을 모색하는 실무형 워크샵이 개최된다.
+오는 22일 오전 9시 30분, 구글 스타트업 캠퍼스에서 열리는 이번 워크숍에는 멀티모달 AI 활용 사례와 노하우, 실제 업무에 활용할 수 있는 기술적 역량 등을 주요 내용으로 다룬다.
+“뉴스룸의 멀티모달 AI 활용과 크로스 플랫폼 전략: Notebook LM 및 MCP 기반 기사 콘텐츠 자동화 실습과 함께”을 주제로 열리는 이번 워크숍은 뉴스테크 이니셔티브(NewsTech Initiative), 한국신문협회 디지털협의회, 한국온라인신문협회가 주최하고, 건국대학교 디지털커뮤니케이션 연구센터(DCRC, 센터장 황용석)가 주관하며, 구글 뉴스이니셔티브(Google News Initiative)가 후원한다.
+이번 워크숍에서는 주요 언론사의 AI 전문가들과 구글 뉴스랩, 트웰브랩스의 기술 전문가들이 현장에서의 멀티모달 AI 활용 사례와 노하우를 공유한다. 특히 라이트닝 토크 세션에서는 특히 라이트닝 토크 세션에서는 다양한 미디어 환경에서의 AI 도입 경험과 도전과제뿐만 아니라, AI 활용에 따른 윤리적 쟁점과 저작권 이슈에 대한 심도 있는 논의가 이루어진다. 이어 Notebook LM과 Gemini를 이용한 콘텐츠 관리 및 생산방법, 증권 기사 작성 시 인공지능(AI) 활용법 등 실무에 즉시 적용 가능한 강연이 진행된다. 다양한 세션을 통해 참가자들의 기술적 역량을 한층 더 끌어올릴 수 있는 계기가 될 것을 기대할 수 있다.
+총 2편의 발표와 라이트닝 토크, 2편의 실습으로 구성된 이번 워크숍은 총 3세션으로 ‘뉴스룸의 멀티모달 AI 활용’, ‘Lightning Talk: 뉴스룸과 멀티모달 AI 활용’ ‘Part 3 - News Tech Workshop’ 으로 이루어져있다.
+첫번째 세션은 트웰브랩스 이봉무 디렉터가 “Generative Multimodal AI와 Publishing Industry”를 주제로 발표한다. 이 디렉터는 미디어 환경 변화에 따른 소비자 기대 변화와 M&E, 언론, 출판 산업 트렌드를 짚고, 클라우드 및 생성형 AI 기반 콘텐츠 제작, 유통, 수익화 혁신 사례를 소개할 예정이다. 동아일보 미래전략연구소 김현지 팀장은 ‘멀티모달 AI 활용 사례와 가능성’ 발표를 통해 언론·방송업계의 멀티모달 AI 활용 사례를 공유하고 뉴스 및 제작 워크플로우 변화와 활용 방향성을 제시한다.
+두번째 세션은 건국대 황용석 교수의 사회로 이봉무 디렉터, 김현지 팀장, 서울경제 우승호 부장, 연합뉴스 이광빈 부장, YTN 함형건 국장이 패널로 참여한다. 이들은 AI 기술 도입 경험과 윤리적 쟁점, 저작권 이슈에 대해 심도있게 논의한다. 생성형 AI가 제작한 콘텐츠의 저작권 귀속 문제, 알고리즘 편향성 관리, 생성물 신뢰성 검증 등 저널리즘 핵심 가치와 AI 활용 방안을 모색하는 자리가 될 것으로 보인다.
+마지막인 세번째 세션은 구글 뉴스 이니셔티브 최영준 티칭펠로우가 ‘Notebook LM과 Gemini를 이용한 콘텐츠 관리 및 생산방법’을 주제로 발표한다. 그는 구글 AI 도구를 활용한 취재 데이터 분석, 시각화, 콘텐츠 생성 자동화 방법을 소개할 예정이다. 조선일보 안중현 기자는 ‘증권 기사 작성 시 AI 활용법’ 강연에서 AI를 활용해 데이터 수집, 분석, 인사이트 도출 등 업무 전반을 고도화하는 방법과 사례를 공유한다.
+이상규 기자
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[빠르게 변화하는 미디어 환경 속에서 멀티모달 AI 기술을 활용한 뉴스 생산 혁신 전략을 모색하는 실무형 워크샵이 개최된다. 오는 22일 오전 9시 30분, 구글 스타트업 캠퍼스에서 열리는 이번 워크숍에는 멀티모달 AI 활용 사례와 노하우, 실제 업무에 활용할 수 있는 기술적 역량 등을 주요 내용으로 다룬다. “뉴스룸의 멀티모달 AI 활용과 크로스 플랫폼 전]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101508</code_id>
+<code_nm><![CDATA[빅데이터]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101508</small_code_id>
+<small_code_nm><![CDATA[빅데이터]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101509</code_id>
+<code_nm><![CDATA[데이터산업]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101509</small_code_id>
+<small_code_nm><![CDATA[데이터산업]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/20/news-p.v1.20250820.dbe3b96ad2c641a690fb993651ffd85c_P1.png]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11397924]]></article_url>
+</article>
+</saltlux>

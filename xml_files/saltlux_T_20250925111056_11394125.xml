@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11394125</art_id>
+<art_year>2025</art_year>
+<art_no>582578</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-14 17:52:55</service_daytime>
+<title><![CDATA["AI칩 中유출 막아라" 美, 위치추적기 부착]]></title>
+<sub_title><![CDATA[美정부, 반도체 밀수 감시<br>엔비디아·AMD 제조 칩 등<br>화물에 추적기 몰래 부착<br>현장선 이미 공공연한 비밀<br>재판매상이 추적기 떼기도]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[최현재 기자(aporia12@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250815</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>8</pub_page>
+<reg_dt>2025-08-14 17:52:55</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101011</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/15/20250815_01110108000002_M00.jpg' alt=''>
+
+미국 정부가 2022년부터 엔비디아, AMD 등 자국 반도체 업체의 첨단 인공지능(AI) 칩의 대중국 판매를 금지한 가운데 중국으로의 불법 유입을 막기 위해 수출 화물에 위치추적기를 부착하는 방안이 미국에서 범정부적으로 시행되고 있는 것으로 전해졌다.
+13일(현지시간) 로이터통신은 복수의 소식통을 인용해 미국이 해외로 선적되는 AI 칩의 중국 밀반입을 막기 위해 화물에 위치추적 장치를 비밀리에 심고 있다고 보도했다. 미국의 수출 규제 대상 지역으로 첨단 AI 칩이 흘러 들어가는 것을 포착하기 위해 이례적인 방법까지 도입한 것이다.
+미국 당국의 조사를 거친 뒤 특정 화물에만 위치추적 장치가 부착된다. 로이터통신은 "미국이 칩 수출 규제를 집행하기 위해 얼마나 강도 높게 나서고 있는지 보여준다"고 평가했다.
+소식통에 따르면 위치추적 장치 설치는 미 상무부 산업안보국(BIS)이 주로 관여하고 있다. 국토안보수사국(HSI)과 연방수사국(FBI)도 참여 중이다. 중국에 미국의 첨단 AI 칩이 흘러 들어가는 것을 막기 위한 범정부적 움직임이다. 미국 당국은 추적기로 확보한 정보를 수출통제를 위반한 기업과 개인을 기소하는 데 활용하고 있다. 다만 2022년 첨단 AI 칩의 대중국 수출통제가 시행된  이후 언제부터 미국 당국이 위치추적기를 달기 시작했는지는 확인되지 않았다.
+산업 현장에서는 위치추적 장치가 공공연한 비밀로 통용되는 것으로 전해졌다. AI 서버 공급망에 관여하는 관계자 5명이 델과 슈퍼마이크로컴퓨터 등이 제조한 서버 화물에 위치추적 장치가 설치된 사실을 알고 있었다고 로이터통신은 전했다. 해당 서버에는 엔비디아와 AMD가 제조한 칩이 포함돼 있다.
+구체적인 증언도 나왔다. 일부 관계자는 지난해 엔비디아 칩이 담긴 델 서버 화물 중 배송 상자와 내부 포장은 물론이고 서버 자체에도 소형 위치추적기가 달린 사례가 있었다고 로이터통신에 전했다. 또 재판매상들이 첨단 AI 칩을 전용하기 위해 델과 슈퍼마이크로컴퓨터 서버에서 위치추적 장치를 제거하는 사례도 있는 것으로 전해졌다. 거론된 서버·칩 제조업체들은 위치추적 장치의 존재에 대해 모른다고 답하거나 특별한 언급을 하지 않았다. 다만 엔비디아는 로이터통신에 "우리 제품에는 비밀 추적 장치를 설치하지 않는다"고 밝혔다.
+AI 칩 수출입을 둘러싼 미국과 중국 간 신경전은 현재진행형이다. 앞서 미국 도널드 트럼프 행정부와 의회는 지난달 수출되는 AI 칩에 위치 확인 기능을 탑재할 것을 자국 기업에 요구하는 방안을 언급하면서 중국의 반발을 샀다. 또 같은 달 31일 중국 국가인터넷정보판공실(CAC)은 중국 내 판매가 허용된 엔비디아의 'H20' 칩과 관련해 사측에 '백도어' 우려를 제기하고 증명자료를 제출하라고 요구했다.  
+[최현재 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[미국 정부가 2022년부터 엔비디아, AMD 등 자국 반도체 업체의 첨단 인공지능(AI) 칩의 대중국 판매를 금지한 가운데 중국으로의 불법 유입을 막기 위해 수출 화물에 위치추적기를 부착하는 방안이 미국에서 범정부적으로 시행되고 있는 것으로 전해졌다.
+13일(현지시간) 로이터통신은 복수의 소식통을 인용해 미국이 해외로 선적되는 AI 칩의 중국 밀반입을 막기 위해 화물에 위치추적 장치를 비밀리에 심고 있다고 보도했다. 미국의 수출 규제 대상 지역으로 첨단]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101011</code_id>
+<code_nm><![CDATA[미국/중남미]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101011</small_code_id>
+<small_code_nm><![CDATA[미국/중남미]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/15/20250815_01110108000002_M00.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11394125]]></article_url>
+</article>
+</saltlux>

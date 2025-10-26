@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11388235</art_id>
+<art_year>2025</art_year>
+<art_no>565637</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-07 23:05:06</service_daytime>
+<title><![CDATA[코오롱, 모빌리티그룹 완전 자회사로 편입…사업 재편 속도 낸다]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[방영덕 매경 디지털뉴스룸 기자(byd@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-07 23:05:06</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100301</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/07/news-p.v1.20250807.31f12caa1cfe4ed2af915a6012048950_P1.jpg' alt=' 코오롱모빌리티그룹 사옥. [사진출처 = 코오롱]'>
+코오롱그룹 지주사인 코오롱은 7일 이사회를 열어 자회사 코오롱모빌리티그룹을 완전 자회사로 편입한다고 밝혔다.
+코오롱은 이날 이사회에서 포괄적 주식 교환을 통해 코오롱모빌리티그룹을 100% 자회사로 바꾸기로 결의했다. 코오롱과 코오롱모빌리티그룹의 주식 교환 비율은 보통주 기준 1:0.0611643, 우선주 기준 1:0.1808249로 정해졌다. 코오롱은 신주를 발행해 주식을 교환할 할 예정이다.
+코오롱은 코오롱모빌리티그룹 투자자를 보호하는 차원에서 공개 매수도 진행할 것이라고 밝혔다. 코오롱모빌리티그룹은 지주사 코오롱의 완전 자회사로 편입된 후 비상장사로 전환된다.
+코오롱 측은 “이번 주식 교환으로 코오롱모빌리티그룹은 사업 전반에 대해 신속하고 유연한 의사결정을 할 수 있게 된다”며 “업계 변화에 발맞춘 능동적인 사업 전개가 가능해질 것”이라고 말했다.
+현재 코오롱모빌리티그룹은 자회사를 통해 BMW, 아우디, 볼보, 로터스 등 수입차 딜러 사업을 하고 있다. 하지만 최근 JEEP 딜러 사업을 반납하고 사업 재편을 모색 중이다.
+코오롱은 “향후 코오롱모빌리티그룹은 국내 신차 영업 중심의 딜러 사업을 넘어 신사업을 적극 추진하고 자체 브랜드 사업도 확대해 나갈 계획”이라고 설명했다.
+이번 주식교환 결정은 향후 공개매수, 코오롱모빌리티그룹 주주총회 등을 거쳐 마무리될 예정이다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[코오롱그룹 지주사인 코오롱은 7일 이사회를 열어 자회사 코오롱모빌리티그룹을 완전 자회사로 편입한다고 밝혔다. 코오롱은 이날 이사회에서 포괄적 주식 교환을 통해 코오롱모빌리티그룹을 100% 자회사로 바꾸기로 결의했다. 코오롱과 코오롱모빌리티그룹의 주식 교환 비율은 보통주 기준 1:0.0611643, 우선주 기준 1:0.1808249로 정해졌다. 코오롱은 신주]]></summary>
+</wms_article_summary>
+<stock_codes>
+<stock_code>002020</stock_code>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100301</code_id>
+<code_nm><![CDATA[기업 경영]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100301</small_code_id>
+<small_code_nm><![CDATA[기업 경영]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100307</code_id>
+<code_nm><![CDATA[기업일반·재계동향]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100307</small_code_id>
+<small_code_nm><![CDATA[기업일반·재계동향]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100308</code_id>
+<code_nm><![CDATA[자동차]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100308</small_code_id>
+<small_code_nm><![CDATA[자동차]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/07/news-p.v1.20250807.31f12caa1cfe4ed2af915a6012048950_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 코오롱모빌리티그룹 사옥. [사진출처 = 코오롱]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11388235]]></article_url>
+</article>
+</saltlux>

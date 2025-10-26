@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11393987</art_id>
+<art_year>2025</art_year>
+<art_no>582323</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-14 16:44:36</service_daytime>
+<title><![CDATA[휴멜로, AI 목소리 ‘스튜디오’ 수준 음질로 구현]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김대기 기자(daekey1@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-14 16:44:36</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101501</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/14/news-p.v1.20250814.429705dac1c44f97b4ef42ecfedf99f0_P1.png' alt=' TTS 서비스의 음질(샘플링레이트) 변화를 보여주는 이미지. 휴멜로'>
+인공지능(AI) 음성합성(TTS)의 음질을 기존 통화 음질 수준에서 고음질 스트리밍 음원과 같은 스튜디오급 음질로 끌어올리는 기술이 등장했다.
+보이스 AI 스타트업 휴멜로는 독자 개발한 초고속 업샘플링 기술을 통해 TTS 서비스의 음질을 기존 24kHz에서 48kHz로 개선해 제공한다고 14일 밝혔다.
+디지털 오디오의 음질은 1초에 소리 신호를 얼마나 잘게 쪼개는지 나타내는 샘플링레이트(Hz)로 결정된다. 통상 전화 통화나 일반적인 AI 챗봇에서 사용하는 16kHz 음질은 목소리를 알아들을 순 있지만, 잡음이 들리고 기계적인 느낌을 준다. 반면 48kHz는 현재 음악 스트리밍, 영화, 방송, 게임 등 대부분의 미디어 콘텐츠 제작에 사용되는 표준 규격으로, 선명하고 풍부한 질감의 소리를 제공한다.
+그동안 업계에서는 48kHz의 고품질 원음 데이터를 대량으로 확보하기 어렵고, 고음질 처리에 필요한 막대한 연산량과 인프라 유지 비용이 서비스 단가 상승으로 이어지기 때문에 고음질 TTS 구현을 꺼렸다. 휴멜로는 이 문제를 해결하기 위해 저음질의 음성 데이터를 초고해상도의 고음질로 복원하는 ‘보이스 초해상화 업샘플링’ 기술을 자체 개발했다. 이번에 휴멜로가 공개한 기술은 8kHz 매우 낮은 수준의 음질도 48kHz의 스튜디오급 음질로 끌어올릴 수 있다.
+권용석 휴멜로 대표는 “TTS는 기술 수준이 낮았을 때는 수요가 적었고, 기술이 발전한 후에는 비용 문제로 고음질화 적용이 더뎠다”며 “휴멜로가 독자 개발한 초고속·고품질 보이스 AI 기술은 그동안 비용 문제로 고품질 TTS 도입을 망설였던 모든 창작자와 기업에 합리적인 비용으로 새로운 차원의 경험과 가능성을 열어줄 것”이라고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[인공지능(AI) 음성합성(TTS)의 음질을 기존 통화 음질 수준에서 고음질 스트리밍 음원과 같은 스튜디오급 음질로 끌어올리는 기술이 등장했다. 보이스 AI 스타트업 휴멜로는 독자 개발한 초고속 업샘플링 기술을 통해 TTS 서비스의 음질을 기존 24kHz에서 48kHz로 개선해 제공한다고 14일 밝혔다. 디지털 오디오의 음질은 1초에 소리 신호를 얼마나 잘게]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101501</code_id>
+<code_nm><![CDATA[모바일]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101501</small_code_id>
+<small_code_nm><![CDATA[모바일]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/14/news-p.v1.20250814.429705dac1c44f97b4ef42ecfedf99f0_P1.png]]></image_url>
+<image_caption><![CDATA[ TTS 서비스의 음질(샘플링레이트) 변화를 보여주는 이미지. 휴멜로]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11393987]]></article_url>
+</article>
+</saltlux>

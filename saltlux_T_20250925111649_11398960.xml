@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11398960</art_id>
+<art_year>2025</art_year>
+<art_no>596397</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-21 09:58:21</service_daytime>
+<title><![CDATA[“청소년 25%, 간단한 텍스트도 이해 못해”…책 판매 세금 없앤다는 이 나라]]></title>
+<sub_title><![CDATA[청소년 25% 간단한 글도 이해 못해]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김제관 기자(reteq@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-21 09:58:21</reg_dt>
+<mod_dt>2025-08-21 11:11:32</mod_dt>
+<art_org_class>MK101008</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">청소년 25% 간단한 글도 이해 못해</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250821.2a655b96e6f64805837e9f75cc9582ea_P1.jpg' alt=''>
+덴마크 정부가 ‘독서 위기’를 극복하기 위해 도서에 대한 25% 판매세를 폐지할 것이라고 발표했다.
+20일(현지시간) 영국 BBC에 따르면 제이콥 엥겔-슈미트 덴마크 문화부 장관은 “도서 판매세를 폐지하면 더 많은 책이 진열대에서 나갈 수 있기를 바란다”고 밝혔다.
+도서 판매세 폐지에 따른 비용은 연간 약 3억3000만크로네(약 450억원)에 달할 것으로 예상된다.
+경제협력개발기구(OECD) 데이터에 따르면 덴마크 15세 청소년의 4분의 1이 간단한 텍스트도 이해하지 못하는 것으로 나타났다.
+엥겔-슈미트 장관은 “불행히도 최근 몇 년 동안 독서 위기가 확산되고 있다”며 “도서 판매세 폐지 움직임이 믿을 수 없을 정도로 자랑스럽다”고 말했다.
+덴마크와 마찬가지로 25%의 표준 부가가치세(VAT)를 매기고 있는 노르웨이도 도서 판매세는 거두지 않고 있으며, 핀란드와 스웨덴은 부가가치세를 각각 14%와 6%로 낮춰 적용하고 있다. 영국도 도서 판매세를 면제하고 있다.
+정부 문학실무그룹 부회장인 매즈 로젠달 톰센은 “OECD 연구는 상당히 충격적”이라며 “덴마크 청소년들의 읽기와 이해 수준이 감소하고 있는 것으로 나타났다”고 말했다.
+이어 “젊은이들은 선택지가 너무 많아서 쉽게 산만해질 수 있기 때문에 읽기에 어려움을 겪는다”며 “책에 대한 부가가치세를 없애는 것이 완전한 해결책은 아니지만, 책에 더 쉽게 접근할 수 있게 만들 것”이라고 기대했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[청소년 25% 간단한 글도 이해 못해덴마크 정부가 ‘독서 위기’를 극복하기 위해 도서에 대한 25% 판매세를 폐지할 것이라고 발표했다. 20일(현지시간) 영국 BBC에 따르면 제이콥 엥겔-슈미트 덴마크 문화부 장관은 “도서 판매세를 폐지하면 더 많은 책이 진열대에서 나갈 수 있기를 바란다”고 밝혔다. 도서 판매세 폐지에 따른 비용은 연간 약 3억3000만크]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101008</code_id>
+<code_nm><![CDATA[국제사회]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101008</small_code_id>
+<small_code_nm><![CDATA[국제사회]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101012</code_id>
+<code_nm><![CDATA[유럽]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101012</small_code_id>
+<small_code_nm><![CDATA[유럽]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101103</code_id>
+<code_nm><![CDATA[출판/도서]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00505</middle_code_id>
+<middle_code_nm><![CDATA[문화]]></middle_code_nm>
+<small_code_id>MK101103</small_code_id>
+<small_code_nm><![CDATA[출판/도서]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250821.2a655b96e6f64805837e9f75cc9582ea_P1.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11398960]]></article_url>
+</article>
+</saltlux>

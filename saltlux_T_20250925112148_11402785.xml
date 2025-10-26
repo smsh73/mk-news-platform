@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11402785</art_id>
+<art_year>2025</art_year>
+<art_no>608131</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-26 09:47:54</service_daytime>
+<title><![CDATA[류마티스·건선, 유전자 스위치 조절해 잡는다]]></title>
+<sub_title><![CDATA[연세의대, 美 예일대와 공동연구
+‘슈퍼-인핸서’ 표적치료로 염증완화]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[심희진 기자(edge@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-26 09:47:54</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101402</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">연세의대, 美 예일대와 공동연구<br>‘슈퍼-인핸서’ 표적치료로 염증완화</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/26/news-p.v1.20250826.8846e0b6fa5144ad8bbc598e90c77ec7_P1.jpg' alt=' 김락균 연세대 의대 의생명과학부 교수, 김수민 박사, 조민정 박사'>
+연세대 의대와 미국 예일대 공동 연구팀이 면역세포의 유전자 조절 장치인 ‘슈퍼-인핸서(Super-Enhancer)’를 겨냥해 염증 유발 단백질 ‘TNFα’의 발현을 억제하는 데 성공했다.
+이번 성과는 류마티스 관절염, 건선 등 난치성 만성 염증성 질환 치료의 새로운 가능성을 연 연구로 평가된다.
+류마티스 관절염이나 건선, 패혈증과 같은 만성 염증성 질환은 면역세포가 과도하게 활성화되면서 TNFα가 지나치게 분비돼 증상이 악화한다. 현재는 이 단백질을 차단하는 항체 치료제가 널리 사용되지만 가격이 비싸고 일부 환자에서는 효과가 없으며 감염 위험이 뒤따르는 한계가 있었다.
+이에 김락균 연세대 의대 의생명과학부 교수와 김수민 박사, 조민정 박사 연구팀은 리처드 플라벨 예일대 교수팀과 함께 슈퍼-인핸서와 그 전사산물인 ‘eRNA’에 주목했다. 슈퍼-인핸서는 특정 유전자의 발현을 크게 조절하는 분자 스위치로, 질환 시에만 활성화된다는 특성이 있어 선택적 치료 타깃으로 유망하다.
+연구팀은 멀티오믹스 분석을 통해 면역세포 내 62개의 염증 관련 슈퍼-인핸서를 규명했고 이 가운데 TNFα를 핵심적으로 조절하는 ‘TNF-9 슈퍼-인핸서’를 찾아냈다. 이어 이 부위에서 생성되는 eRNA를 억제하거나 제거하자 TNFα 분비가 줄면서 쥐의 관절염과 건선 증상이 완화되는 것을 확인했다.
+<strong><div style="border-top: 4px solid #ed6d01;border-bottom: 1px solid #ed6d01;font-size: 18px;padding: 10px 0;margin:30px 0;">면역세포 중 ‘슈퍼 인핸서’ 겨냥<br>염증유발 단백질 발현 억제 성공</div></strong><img src='https://wimg.mk.co.kr/news/cms/202508/26/news-p.v1.20250826.6544b7c124ce4ec6bd4ac254465ba21b_P1.jpg' alt=''>
+효과는 환자 유래 면역세포에서도 입증됐다. 연구팀은 인간에서 쥐의 TNF-9에 해당하는 ‘DHS44500’ 슈퍼-인핸서가 류마티스 환자의 면역세포에 활성화돼 있음을 확인했다.
+이 부위의 eRNA를 ‘ASO(짧은 DNA 또는 RNA 조각으로 만든 합성 핵산 치료제)’ 기술로 억제하자 TNFα 발현이 유의미하게 줄고 염증 반응도 진정됐다. ASO는 특정 RNA(리보핵산)를 선택적으로 억제하는 차세대 치료 플랫폼으로, 척수성 근위축증 치료제 스핀라자가 대표적이다.
+이번 연구에서는 ASO가 정상 면역 기능은 그대로 유지하면서 병적 염증만 정밀하게 차단할 수 있음을 보여줬다. 김 교수는 “이번 연구는 슈퍼-인핸서 유래 eRNA를 ASO로 직접 표적화해 TNFα 발현을 억제한 최초의 사례”라며 “기존 항체 치료제가 단백질 전체를 무차별적으로 차단해 감염 위험이 컸던 것과 달리, 부작용은 줄이고 치료 효과는 높일 수 있는 차세대 만성 염증 치료제 개발 기반이 될 것”이라고 강조했다.
+이번 연구 결과는 국제학술지 ‘Advanced Science’(IF 14.3) 최신호에 「Targeting eRNA-Producing Super-Enhancers Regulates TNFα Expression and Mitigates Chronic Inflammation in Mice and Patient-Derived Immune Cells」라는 제목으로 게재됐다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[연세의대, 美 예일대와 공동연구 ‘슈퍼-인핸서’ 표적치료로 염증완화연세대 의대와 미국 예일대 공동 연구팀이 면역세포의 유전자 조절 장치인 ‘슈퍼-인핸서(Super-Enhancer)’를 겨냥해 염증 유발 단백질 ‘TNFα’의 발현을 억제하는 데 성공했다. 이번 성과는 류마티스 관절염, 건선 등 난치성 만성 염증성 질환 치료의 새로운 가능성을 연 연구로 평가된]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101402</code_id>
+<code_nm><![CDATA[의료/건강]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101402</small_code_id>
+<small_code_nm><![CDATA[의료/건강]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101403</code_id>
+<code_nm><![CDATA[제약/바이오]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101403</small_code_id>
+<small_code_nm><![CDATA[제약/바이오]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100807</code_id>
+<code_nm><![CDATA[보건/복지]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100807</small_code_id>
+<small_code_nm><![CDATA[보건/복지]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/26/news-p.v1.20250826.8846e0b6fa5144ad8bbc598e90c77ec7_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 김락균 연세대 의대 의생명과학부 교수, 김수민 박사, 조민정 박사]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/26/news-p.v1.20250826.6544b7c124ce4ec6bd4ac254465ba21b_P1.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11402785]]></article_url>
+</article>
+</saltlux>

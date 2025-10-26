@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11388675</art_id>
+<art_year>2025</art_year>
+<art_no>566682</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-08 11:55:00</service_daytime>
+<title><![CDATA[오픈에셋, 더즌으로부터 50억원 규모 전략적 투자 유치]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[최근도 기자(recentdo@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-08 11:55:00</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100502</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/08/news-p.v1.20250808.bbd747ca96da47c99f89f534f69fae77_P1.png' alt=''>
+스테이블코인 발행기술을 보유한 블록체인 핀테크 기업 오픈에셋이 국내 대표 금융 부가가치통신망(VAN) 사업자 더즌으로부터 50억원 규모의 전략적 투자를 유치했다고 8일 밝혔다.
+이번 투자로 양사는 오픈에셋의 스테이블코인 발행 서비스 ‘오픈민트(OpenMint)’와 더즌의 금융 결제 인프라를 직접 연계한 통합 서비스를 공동 개발하기로 했다.
+오픈에셋은 더즌의 금융 연동망을 활용해 범용 원화 스테이블코인을 직접 발행하고, 자체 브랜드로 스테이블코인 발행을 원하는 기업들을 위한 화이트라벨 발행 대행 서비스도 본격 제공한다.
+구체적으로는 더즌의 펌뱅킹 및 카카오 인증 시스템과 오픈에셋의 스테이블코인 발행 시스템을 연동한 통합 서비스를 공동 개발한다.
+사용자들은 기존 은행 계좌에서 스테이블코인으로 스테이블코인에서 은행 계좌로 실시간 전환이 가능한 원스톱 금융 서비스를 경험할 수 있을 것으로 전망된다.
+또한 더즌의 외화 환전 키오스크 인프라에 오픈에셋의 스테이블코인을 적용하여 전국 주요 관광지에 배치된 더즌 키오스크로 국내 이용자뿐만 아니라 외국인 고객까지 폭넓게 사용할 수 있는 다양한 가상자산 기반 충전, 환전 등이 가능한 환경을 구축한다.
+김경업 오픈에셋 대표는 “더즌의 이중화된 안정적 금융망을 바탕으로 스테이블코인이 실생활 금융과 연결될 수 있는 토대를 구축하겠다”고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[스테이블코인 발행기술을 보유한 블록체인 핀테크 기업 오픈에셋이 국내 대표 금융 부가가치통신망(VAN) 사업자 더즌으로부터 50억원 규모의 전략적 투자를 유치했다고 8일 밝혔다. 이번 투자로 양사는 오픈에셋의 스테이블코인 발행 서비스 ‘오픈민트(OpenMint)’와 더즌의 금융 결제 인프라를 직접 연계한 통합 서비스를 공동 개발하기로 했다. 오픈에셋은 더즌의]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100502</code_id>
+<code_nm><![CDATA[시황]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100502</small_code_id>
+<small_code_nm><![CDATA[시황]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100514</code_id>
+<code_nm><![CDATA[펀드]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100514</small_code_id>
+<small_code_nm><![CDATA[펀드]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/08/news-p.v1.20250808.bbd747ca96da47c99f89f534f69fae77_P1.png]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11388675]]></article_url>
+</article>
+</saltlux>

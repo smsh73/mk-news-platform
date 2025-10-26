@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11404934</art_id>
+<art_year>2025</art_year>
+<art_no>615083</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-28 12:54:23</service_daytime>
+<title><![CDATA[가장 정확한 답변 낸 AI는 구글…챗GPT는 2위, 메타·xAI는 꼴찌]]></title>
+<sub_title><![CDATA[워싱턴포스트, 사서들과 함께
+챗GPT 등 9개 챗봇 답변 검토
+구글 ‘AI 모드’ 최신 사건·퀴즈서 강점
+메타·그록은 검색력 부족]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[원호섭 기자(wonc@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-28 12:54:23</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">워싱턴포스트, 사서들과 함께<br>챗GPT 등 9개 챗봇 답변 검토<br>구글 ‘AI 모드’ 최신 사건·퀴즈서 강점<br>메타·그록은 검색력 부족</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/28/news-p.v1.20250828.aba5ba2e808f41c1bd654e72ba761acc_P1.png' alt=' 가장 정확한 답변 낸 AI는 구글…챗GPT는 2위, 메타·xAI는 꼴찌 [그림=제미나이]'>
+인공지능(AI) 챗봇이 인터넷 검색을 대체할 수 있을까.
+27일(현지시간) 워싱턴포스트는 미국 공공·대학 도서관 사서들과 함께 진행한 실험에서 구글의 ‘AI 모드(AI Mode)’가 가장 정확한 답변을 내놓으며 사실상 우승을 차지했다고 밝혔다. 챗GPT는 전반적으로 개선된 성능을 보였지만 특정 영역에서는 오히려 전작보다 못한 평가도 받았다.
+이번 실험은 구글 오버뷰, 구글 AI 모드, 오픈AI(챗GPT), 앤스로픽(클로드), 메타, 그록, 퍼플렉시티 등 9개 AI 도구를 대상으로 진행됐다. 사서들은 30개의 까다로운 질문을 던진 뒤 AI 챗봇의 답변 900건을 채점했다. 평가 기준은 일반 상식, 전문 자료 검색, 최근 사건 대응, 내재한 편향(고정관념이나 편견), 이미지 인식 등 다섯 가지였다.
+일반 상식 질문에서는 구글 AI 모드가 우수했다. 반대로 일론 머스크의 xAI가 내놓은 그록은 사실과 다른 답변을 만들어내는 경우가 잦았다. 전문적인 정보가 필요한 질문에서는 마이크로소프트 빙 코파일럿이 강점을 보였고, 퍼플렉시티와 그록은 틀린 답을 내면서도 근거 없는 링크를 제시했다. 출처를 표기함으로써 마치 정답처럼 보일 수 있지만 실제로는 사실과 다른 답을 한 것이다.
+최근 사건에 관한 질문은 최신 정보 반영이 관건이었다. 구글 AI 모드와 챗GPT, 그록은 영화 ‘판타스틱 포’의 최신 평점을 직접 확인해 답했지만 메타 AI는 오래된 블로그 글을 인용하며 가장 낮은 점수를 받았다.
+‘내 아이가 대학에 간다면 고려해야 할 전공 5가지는?’이라는 질문이 담긴 편향테스트에서 챗GPT는 다양한 관점을 제시해 높은 점수를 받았지만, 메타의 AI는 공학, 과학이 중요하다는 식으로 편향된 답을 내놓아 낮은 점수를 받았다. 2019년 트럼프와 푸틴이 만났을 때 트럼프가 착용한 넥타이 색 등을 묻는 이미지 관련 질문에서는 퍼플렉시티가 상대적으로 선전했지만 많은 모델이 사진 속 인물이나 사물 인식에 실패했다.
+종합적으로 구글의 AI 모드가 가장 신뢰할 만하다는 결론이 나왔다. 챗GPT는 GPT-5가 전반적 성능 개선을 보여 2위를 차지했지만 일부 영역에서는 GPT-4보다 오히려 낮은 점수를 받았다. 메타 AI와 그록은 검색 활용 능력 부족으로 최하위권에 머물렀다. 메타 AI는 답변을 자주 거부했으며 그록은 X에 지나치게 의존해 퀴즈 질문에서 형편없는 결과를 냈다.
+워싱턴포스트는 “이번 실험은 AI가 아직 만능 ‘정보 전문가’는 아니라는 점을 보여준다”라며 “특히 전문적 출처가 필요한 질문에서는 AI가 진짜 정보 전문가가 아님이 드러났다”라고 설명했다. 산호세 주립대의 사서 셰어슬리 로드리게스는 워싱턴포스트와 인터뷰에서 “AI가 검색을 쉽게 만들어주지만 출처 확인, 날짜 필터링, 비판적 사고가 없다면 유용한 지식을 얻기는 어렵다”라고 지적했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[워싱턴포스트, 사서들과 함께 챗GPT 등 9개 챗봇 답변 검토 구글 ‘AI 모드’ 최신 사건·퀴즈서 강점 메타·그록은 검색력 부족인공지능(AI) 챗봇이 인터넷 검색을 대체할 수 있을까. 27일(현지시간) 워싱턴포스트는 미국 공공·대학 도서관 사서들과 함께 진행한 실험에서 구글의 ‘AI 모드(AI Mode)’가 가장 정확한 답변을 내놓으며 사실상 우승을 차지]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/28/news-p.v1.20250828.aba5ba2e808f41c1bd654e72ba761acc_P1.png]]></image_url>
+<image_caption><![CDATA[ 가장 정확한 답변 낸 AI는 구글…챗GPT는 2위, 메타·xAI는 꼴찌 [그림=제미나이]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11404934]]></article_url>
+</article>
+</saltlux>

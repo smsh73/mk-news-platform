@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11399341</art_id>
+<art_year>2025</art_year>
+<art_no>597861</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-21 14:50:22</service_daytime>
+<title><![CDATA[MS, 중국 기업에 해킹 취약점 미리 안 알려준다]]></title>
+<sub_title><![CDATA[쉐어포인트 해킹 이후 
+취약점 사전 알림 제도 수정
+中 기업엔 단순 설명서만 전]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[원호섭 기자(wonc@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-21 14:50:22</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">쉐어포인트 해킹 이후 <br>취약점 사전 알림 제도 수정<br>中 기업엔 단순 설명서만 전</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250821.253a2c944f3d47dbb6a4d817b2897132_P1.png' alt=' MS, 중국 기업 대상 사이버 보안 조기 통보 제한 [그림=제미나이]'>
+마이크로소프트(MS)가 중국 기업들의 사이버 보안 취약점 조기 통보 권한을 제한했다. 최근 수백 개 정부 기관과 기업을 강타한 쉐어포인트 서버 해킹 사태 이후, 중국 기업을 통한 정보 유출 가능성이 제기된 데 따른 조치다.
+20일(현지시간) 블룸버그 통신에 따르면 MS는 지난달부터 사이버 보안 조기 경보 프로그램(MAPP) 운영 방식을 일부 바꿨다고 전했다. 앞으로 보안 취약점을 정부에 반드시 보고해야 하는 나라의 기업들에는 더 이상 상세한 정보를 미리 주지 않는다는 것이다. MAPP란 MS가 보안업체에 취약점 정보를 미리 공유해 방어책을 준비할 수 있도록 만든 프로그램이다. 그동안 회원사들은 패치 발표 전부터 상세 기술 자료와 시연용 코드를 받아왔다. 하지만 이번 조치로 중국의 보안업체들은 앞으로 패치 발표 최소 하루 전에 받던 ‘취약점 재현 코드(PoC)’ 대신, 단순 서면 설명만 제공받게 된다.
+이번 조치는 최근 발생한 중국발 사이버 공격과 맞물려 있다. MS는 지난달 발생한 쉐어포인트 서버 공격 배후로 중국 정부가 지원하는 해킹 조직을 지목했다. 이 사건으로 미국 핵무기 관리 기관인 국가핵안보국(NNSA)을 비롯해 400개 이상 정부·기업 네트워크가 피해를 본 것으로 조사됐다.
+해킹 그룹이 MS의 취약점을 어떻게 파악했는지는 불분명하다. 그러나 MS는 MAPP 파트너를 통한 내부 정보 유출 가능성을 배제하지 않고 자체 조사를 벌였다. 블룸버그는 2012년과 2021년에도 일부 중국 MAPP 회원사에서 유사한 정보 유출 의혹이 있었다고 전했다.
+중국은 2021년부터 기업이나 연구자가 보안 취약점을 발견하면 48시간 이내 산업정보기술부(MIIT)에 보고하도록 의무화하고 있다. 이 때문에 중국 기업들이 받은 MS의 취약점 정보를 정부가 곧바로 입수할 수 있다는 우려가 꾸준히 제기돼왔다.
+미국 워싱턴 주재 중국 대사관은 성명을 통해 “세부 내용은 알지 못한다”라면서도 “사이버 안보는 모든 국가가 직면한 공동 도전 과제이며, 대화와 협력을 통해 해결해야 한다”라고 밝혔다. 또 “사이버 안보 문제를 빌미로 한 중국 비방에는 반대한다”라고 반박했다. [실리콘밸리 원호섭 특파원]
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[쉐어포인트 해킹 이후  취약점 사전 알림 제도 수정 中 기업엔 단순 설명서만 전마이크로소프트(MS)가 중국 기업들의 사이버 보안 취약점 조기 통보 권한을 제한했다. 최근 수백 개 정부 기관과 기업을 강타한 쉐어포인트 서버 해킹 사태 이후, 중국 기업을 통한 정보 유출 가능성이 제기된 데 따른 조치다. 20일(현지시간) 블룸버그 통신에 따르면 MS는 지난달부]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250821.253a2c944f3d47dbb6a4d817b2897132_P1.png]]></image_url>
+<image_caption><![CDATA[ MS, 중국 기업 대상 사이버 보안 조기 통보 제한 [그림=제미나이]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11399341]]></article_url>
+</article>
+</saltlux>

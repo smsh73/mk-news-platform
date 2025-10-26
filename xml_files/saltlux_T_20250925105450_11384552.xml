@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11384552</art_id>
+<art_year>2025</art_year>
+<art_no>554893</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-04 11:00:00</service_daytime>
+<title><![CDATA[스마트도시협회-동성아이텍-모토브, 대구시에서 3자간 업무 협약… AI 기반 탄력주차 혁신 추진]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>09</media_code>
+<writers><![CDATA[남궁선희 매경비즈 기자(namkung.sunhee@mkinternet.com)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-04 10:40:50</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100402</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/04/news-p.v1.20250804.5b390321e56c409f8665620cd03febc8_P1.jpg' alt=' &lt; 출처 : 동성아이텍 &gt;'>
+스마트도시협회, 동성아이텍(탄력주차), 모토브 세 기관은 3자간 업무 협약을 통해 도시 주차 문제를 디지털 전환과 AI 기술로 해결하는 미래 지향적 전략을 본격화했다고 밝혔다.
+이번 프로젝트는 단순한 기술 협업을 넘어 주차장을 스마트 인프라로 재정의하며 도시 전반의 시스템을 근본적으로 혁신하는 계기가 될 것으로 기대하고 있다.
+일반적으로 노상주차장은 아날로그적 운영의 대표적 사례였지만, 동성아이텍의 SaaS 플랫폼 ‘탄력주차’는 공간 디지털 기술을 적용해 서비스 데이터(입차, 출차, 정산)를 분리하고 내비게이션 등 지도 기반 서비스에서 이용할 수 있게 하는 CCTV와 정산기 설치 및 인력이 불필요한 혁신적 디지털 운영 방식으로 구현된다.
+모토브의 도시 데이터 수집 장치는 택시와 배달 라이더 등 다양한 모빌리티에 설치돼 실시간으로 환경 정보와 주차 상황을 분석하고, 클라우드 기반의 ‘탄력주차’ 통합 시스템과 자동으로 연동된다. 이를 통해 노상주차장의 아날로그적 운영 구조가 디지털 운영의 표준으로 전환되고 있다.
+‘탄력주차’의 디지털화 프로젝트는 ‘One Source & Multi App’ 구조를 기반으로 하나의 주차장 정보가 도시 내 여러 애플리케이션에 동시에 제공된다는 점에서 큰 관심을 받고 있다. 동성아이텍의 플랫폼은 주차장 위치, 이용 가능 면수, 요금, 혼잡도 등 실시간 주차장 정보를 집약하고 이를 T맵, 카카오내비, 네이버 지도 등 주요 내비게이션 앱에 API 형태로 연동한다.
+시민은 별도의 주차 앱 없이도 운전 중 내비게이션을 통해 가장 가까운 빈 주차장과 요금, 환경 정보를 안내받을 수 있으며, 도심 내 배회 차량 감소와 불법 주정차 예방 효과가 기대된다. 이러한 데이터 공유 구조는 도시 안전망과 환경 데이터와도 연계돼 범죄 예방, 응급 대응, 탄소 저감까지 실현하는 통합 솔루션으로 확장 가능하다.
+대구광역시 대상 탄력주차 시범사업은 국토교통부 표준 정보화 사업인 ‘국토교통 데이터 협력 과제’의 일환으로 추진된다. 기존 노상주차장은 인력과 하드웨어 관리에 많은 비용이 소요됐지만, SaaS 기반 디지털 주차장 관리 시스템을 도입하면서 세출이 감소하고 예산 효율성이 높아질 것으로 예상된다. 동시에 AI 기술을 활용한 수요 기반 탄력 운영으로 주차 회전율과 이용률이 상승해 세수 증가라는 직접적 수익 개선 효과도 기대된다. 절감된 예산은 도시 안전 강화, 환경 정비, 시민 편의 향상과 같은 추가 공공서비스에 재투자되며, 인프라 중심이 아닌 디지털 기술 기반의 대시민 서비스 중심 스마트 도시 전략 실현으로 이어진다.
+‘탄력주차’ 시범사업은 교통 편의 개선을 넘어 국가 온실가스 감축 목표(NDC)에 기여하는 사례로도 주목받고 있다. 실시간 입, 출차 및 정산 정보 제공으로 도심 내 불필요한 차량 배회가 줄어들면서 대구시는 연간 약 1565톤의 이산화탄소 배출량을 감축할 수 있을 것으로 예상된다. 이는 국내 처음으로 주차장 디지털화를 통해 NDC 목표 달성에 직접 기여하는 성과로 평가된다.
+디지털화된 주차장은 도심 내 도로와 유휴지 활용도를 높이고 불법 주정차와 교통 혼잡을 줄이며 이동 편의를 개선하는 효과가 있다. 대구 공항과 동대구, 서대구역 등 주차 수요가 폭증하는 교통 환승 지역에서 특히 효과가 클 것으로 전망된다. 인력 중심의 기존 주차 관리 체계를 SaaS 기반 디지털 인프라로 전환하면서 하드웨어 생산·관리 축소와 인력 의존도 감소에 따른 친환경 효과도 나타난다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/04/news-p.v1.20250804.f2772a4e67264376b07f035783ba85a3_P1.jpg' alt=' &lt; 출처 : 동성아이텍 &gt;'>
+대구시는 이번 탄력주차 사업을 통해 낙후된 노상주차장을 AI 데이터 기반으로 재편하며, 친환경·저탄소·고효율이라는 도시 운영 철학을 구현하는 스마트 도시 전략을 구체화하고 있다. 디지털화는 단순한 편의 기능을 넘어서, 도시 곳곳을 더 깨끗하게, 더 안전하게, 더 똑똑하게 변화시킬 것으로 기대된다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[스마트도시협회, 동성아이텍(탄력주차), 모토브 세 기관은 3자간 업무 협약을 통해 도시 주차 문제를 디지털 전환과 AI 기술로 해결하는 미래 지향적 전략을 본격화했다고 밝혔다. 이번 프로젝트는 단순한 기술 협업을 넘어 주차장을 스마트 인프라로 재정의하며 도시 전반의 시스템을 근본적으로 혁신하는 계기가 될 것으로 기대하고 있다. 일반적으로 노상주차장은 아날로]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100402</code_id>
+<code_nm><![CDATA[중견/중소기업]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100402</small_code_id>
+<small_code_nm><![CDATA[중견/중소기업]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/04/news-p.v1.20250804.5b390321e56c409f8665620cd03febc8_P1.jpg]]></image_url>
+<image_caption><![CDATA[ &lt; 출처 : 동성아이텍 &gt;]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/04/news-p.v1.20250804.f2772a4e67264376b07f035783ba85a3_P1.jpg]]></image_url>
+<image_caption><![CDATA[ &lt; 출처 : 동성아이텍 &gt;]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11384552]]></article_url>
+</article>
+</saltlux>

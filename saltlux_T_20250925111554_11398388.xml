@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11398388</art_id>
+<art_year>2025</art_year>
+<art_no>594940</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-20 16:11:50</service_daytime>
+<title><![CDATA[아라드네트웍스 “모든 것 연결되는 AI시대, 게임의 법칙 바꾸겠다”]]></title>
+<sub_title><![CDATA[[글로벌 시장 노리는 강소기업들]
+정현우 아라드네트웍스 대표 인터뷰
+전세계 네트워크 고속도로 위에
+가상의 고가도로 올리는 신기술
+스마트홈 망분리 점유 국내 1위
+
+“미중이 독점하는 네트워크 시장
+태국･중동 등 글로벌 본격 공략”]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[최원석 기자(choi.wonseok@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-20 16:11:50</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101401</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">[글로벌 시장 노리는 강소기업들]<br>정현우 아라드네트웍스 대표 인터뷰<br>전세계 네트워크 고속도로 위에<br>가상의 고가도로 올리는 신기술<br>스마트홈 망분리 점유 국내 1위<br><br>“미중이 독점하는 네트워크 시장<br>태국･중동 등 글로벌 본격 공략”</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/20/news-p.v1.20250820.c5f6e9885a0441949f795ec4f1638ca4_P1.jpg' alt=' 정현우 아라드네트웍스 대표가 AI 시대에 대비한 회사의 네트워크 전략에 대해 설명하고 있다. [아라드네트웍스]'>
+“시스코나 화웨이처럼 물리적인 네트워크 인프라를 전 세계에 깔 수는 없지만, 그들이 깔아놓은 도로 위에 ‘가상의 고가도로’를 올릴 수는 있습니다. 이게 바로 아라드네트웍스의 글로벌 경쟁력입니다.”
+인공지능(AI)과 사물인터넷(IoT) 기술 발달로 전 세계가 ‘연결’되고 있다. 어마어마한 양의 데이터가 공유되면서 네트워크 기술의 패러다임도 급변하는 추세다.
+정현우 아라드네트웍스 대표는 “이제 단순한 고속전송을 넘어 보안성과 유연성을 동시에 갖춘 차세대 네트워크 솔루션이 국가와 산업의 명운을 가를 것”이라며 “우리는 12년 간의 국가 프로젝트와 9년 간의 자체 개발로 충분한 기술과 노하우를 확보했다”고 강조했다.
+정 대표는 AI 시대 네트워크가 갖춰야 할 핵심 요건으로 보안과 유연성을 꼽았다. 그는 “AI는 엄청난 양의 데이터를 실시간으로 주고받아야 하는데, 이 데이터가 노출되거나 전달이 늦어지면 어떻게 되겠나. 최악의 경우 도시 전체가 멈출 수도 있다”고 예를 들었다. 최근 잇단 해킹과 랜섬웨어 피해사례는 AI로 세계가 연결되는 시대의 보안사고에 비하면 아주 경미한 수준이라는 게 그의 생각이다.
+네트워크의 유연성도 점점 중요해지고 있다. 새로운 장비나 서비스를 추가해야 할 때, 기존 시스템을 크게 바꾸지 않고 확장할 수 있어야 한다는 게 대표적이다. 정 대표는 “AI 시대에는 레고 블록처럼 필요할 때 빠르게 조립해서 사용하고, 필요없으면 분해할 수 있는 유연한 네트워크가 필수”라고 비유했다.
+이 회사의 원천기술은 미국의 전설적인 네트워크 기업 ‘카스피안 네트웍스 (Caspian Networks)’에 뿌리를 두고 있다. 인터넷의 아버지로 불리는 로런스 로버츠 박사가 설립한 이 회사는 ‘플로우 라우터(Flow Router)’라는 혁신 기술로 당시 네트워크 시장의 양대 산맥이었던 시스코, 주니퍼 등과 경쟁했다. 2004년부터 2016년까지 한국 정부와 협업하기도 했는데, 이때 투입된 예산만 1000억원이 넘는다.
+카스피안 네트웍스는 이후 사명을 세이블 네트웍스로 변경했고, 세이블은 현재 아라드의 관계회사다. 정 대표는 “카스피안 네트웍스 기술의 철학은 SASE(Secure Access Service Edge) 개념으로 진화해 아라드네트웍스에 고스란히 전수됐다. 글로벌 기업들도 침해할 만큼 강력한 원천기술로 인정받았다”고 주장했다. 실제로 카스피안 네트웍스는 글로벌 IT 대기업 11곳을 상대로 특허 침해 소송을 벌였고, 소취하 조건의 합의를 이끌어낸 바 있다.
+아라드의 핵심 전략은 기존 네트워크 인프라 업체들과의 정면 경쟁을 피하고 새로운 영역을 개척하는 것이다. 이 회사는 ‘VRF+VPN’ 기술 조합으로 네트워크 상에 ‘가상의 고가도로’를 구현하는 데 성공했다. 단일 장비에서 수천 개의 가상 네트워크를 생성하고, 각각의 IoT 단말이나 서비스 단위로 논리적 망분리를 실현하는 기술이다. 외부 침입이나 데이터 유출을 차단하면서도 정책 제어, 운영 자동화, 트래픽 가시화를 통합한 플랫폼을 제공하는 것이 장점이다.
+국내 시장에서는 속속 성과를 내고 있다. 이 회사는 국내 주요 건설사에 스마트홈 솔루션을 공급하고 있는데, 세대 간 망 분리 분야 점유율 1위다. 조달청 ‘우수조달제품’ 인증을 받은 해킹방지형 CCTV로 공공시장에도 성공적으로 진입했다.
+올해부터는 해외 진출도 속도를 낸다. 오는 11월 태국 나콘시타마랏시에서 ARAD의 네트워크 기술을 적용한 CCTV 다중망 실증사업이 시작된다. 태국 내 스타트업 허브 역할을 하는 이 도시에서의 성공은 국가 차원 네트워크 분리 법제화로 확산될 가능성이 높다는 평가다. 아라드는 이를 발판으로 동남아시아 전체는 물론 중동 스마트시티 시장 진출도 계획 중이다.
+정 대표는 ‘한국 기업’이라는 정체성을 내세워 글로벌 시장을 적극 공략하겠다는 각오다. 그는 “미국이나 중국 같은 강대국이 만든 네트워크는 데이터 백도어 우려나 정치적 의심을 사기 마련이지만, 우리는 중립국의 기술로 제3세계 국가들이 선택하기 가장 안전한 대안이 될 수 있다”면서 “미국과 중국의 틈새를 파고들어 완전히 다른 기준을 세우는 첫 번째 한국 기업이 될 것”이라고 포부를 밝혔다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[[글로벌 시장 노리는 강소기업들] 정현우 아라드네트웍스 대표 인터뷰 전세계 네트워크 고속도로 위에 가상의 고가도로 올리는 신기술 스마트홈 망분리 점유 국내 1위  “미중이 독점하는 네트워크 시장 태국･중동 등 글로벌 본격 공략”“시스코나 화웨이처럼 물리적인 네트워크 인프라를 전 세계에 깔 수는 없지만, 그들이 깔아놓은 도로 위에 ‘가상의 고가도로’를 올릴 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101401</code_id>
+<code_nm><![CDATA[과학일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101401</small_code_id>
+<small_code_nm><![CDATA[과학일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101502</code_id>
+<code_nm><![CDATA[통신]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101502</small_code_id>
+<small_code_nm><![CDATA[통신]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/20/news-p.v1.20250820.c5f6e9885a0441949f795ec4f1638ca4_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 정현우 아라드네트웍스 대표가 AI 시대에 대비한 회사의 네트워크 전략에 대해 설명하고 있다. [아라드네트웍스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11398388]]></article_url>
+</article>
+</saltlux>

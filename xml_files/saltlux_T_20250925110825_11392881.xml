@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11392881</art_id>
+<art_year>2025</art_year>
+<art_no>578707</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-13 15:09:32</service_daytime>
+<title><![CDATA[클럼엘(ClumL), ‘ISEC 2025’ 참가…글로벌 수준 자율보안 기술로 보안 패러다임 전환]]></title>
+<sub_title><![CDATA[AI 클러스터링과 LLM 기반 자동 보고로 사이버 위협 대응 혁신
+국내외 보안 전문가 및 기관 대상 솔루션 시연과 상담 진행
+소버린 AI 실현과 글로벌 시장 확장 목표]]></sub_title>
+<media_code>09</media_code>
+<writers><![CDATA[남궁선희 매경비즈 기자(namkung.sunhee@mkinternet.com)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-13 15:09:32</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100402</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">AI 클러스터링과 LLM 기반 자동 보고로 사이버 위협 대응 혁신<br>국내외 보안 전문가 및 기관 대상 솔루션 시연과 상담 진행<br>소버린 AI 실현과 글로벌 시장 확장 목표</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/13/news-p.v1.20250813.2204c9a1fa564f5fb2c8b4e7919e4960_P1.jpg' alt=' &lt; 출처 : 클럼엘(ClumL) &gt;'>
+자율보안 전문기업 클럼엘(ClumL, 대표 유영대)은 오는 8월 26일(화)부터 27일(수)까지 서울 코엑스에서 열리는 아시아 최대 규모의 정보보호 컨퍼런스 *ISEC 2025’에 참가해, 차세대 자율보안 플랫폼 ‘클럼잇 시큐리티(Clumit Security)’를 선보인다.
+ISEC 2025는 매년 국내외 보안 전문가, 글로벌 보안 기업, 공공기관, 대기업 관계자들이 한자리에 모여 최신 기술과 동향을 공유하는 국제 행사로, 클럼엘은 Hall D의 H05 부스에서 솔루션 시연과 전문가 상담을 진행한다.
+클럼잇 시큐리티는 클럼엘이 독자적으로 개발한 AI 클러스터링과 LLM(대규모 언어 모델) 기반 자동 보고 기술을 결합한 보안 플랫폼이다. AI 클러스터링 기술은 사전에 정의된 룰이나 시그니처 없이도 비정상 패턴을 스스로 학습해, 기존 보안 체계가 놓칠 수 있는 신·변종 악성코드, 랜섬웨어, APT 공격 등을 실시간으로 탐지한다.
+탐지된 위협 정보는 곧바로 LLM 기반 보고 기능을 통해 사람이 이해하기 쉬운 자연어 보고서로 자동 생성된다. 이 보고서에는 위협의 세부 분석과 대응 우선순위가 포함되어 있어 보안 담당자가 빠르고 정확하게 대응할 수 있도록 돕는다. 이러한 통합 구조는 대규모 네트워크 트래픽과 다양한 데이터 형식이 혼재한 환경에서도 안정적으로 작동하며, 금융권·정부기관·에너지 산업 등 높은 보안 수준이 요구되는 분야에서 이미 성능을 입증했다.
+클럼엘은 “대한민국이 기술 주권을 확보하고 글로벌 시장에서도 통하는 보안 기술을 개발하자”라는 목표를 중심에 두고 설립됐다.
+글로벌 수준의 AI 클러스터링 엔진을 직접 개발한 김민식 박사는 서울과학고와 서울대학교 컴퓨터공학과를 졸업하고, 미국 텍사스주립대에서 컴퓨터공학 박사 학위를 취득한 후 미국 워싱턴주립대 교수로 재직하며 AI 연구를 이어왔다.
+LLM과 클러스터링 기술 간 상호작용 개발을 주도한 조민규 박사는 서울과학고와 서울대학교 전기공학부를 졸업하고, 미국 미시건대학교에서 컴퓨터공학 박사 학위를 받았다. 이후 맥킨지, SK, 몰로코 등에서 AI 분석과 데이터 기반 전략을 이끌며 다양한 산업에 AI를 적용해온 경험을 보유하고 있다.
+이 두 핵심 인력을 중심으로, 클럼엘은 세계 최고 수준의 AI 기반 위협 탐지와 보고 기술을 결합한 자율보안 솔루션을 구현하며, 국내외 시장에서 주목받고 있다.
+클럼엘이 목표하는 ‘소버린 AI’ 실현은 단순한 기술 독립을 넘어, 국가 안보와 산업 경쟁력을 동시에 확보하는 전략이다. 이를 위해 클럼엘은 모든 핵심 기술을 자체 개발하고, 외산 보안 기술 의존도를 줄이는 한편, 국내외 규제 환경과 산업별 특성에 최적화된 보안 솔루션을 공급하고 있다.
+클럼엘은 국내에서 검증된 자율보안 기술력을 기반으로, 글로벌 시장 진출을 위한 전략을 본격화하고 있다. 현재 전 세계 AI와 보안 시장에서는 기술 주권 확보와 AI 기반 보안의 표준화가 국가 경쟁력의 핵심으로 자리 잡고 있으며, 특히 아시아 태평양 지역은 AI 융합 보안 솔루션 수요가 폭발적으로 증가하고 있다. 클럼엘은 앞으로 금융, 정부기관, 에너지 산업 등 고도 보안이 필요한 분야를 넘어, 해외 주요 국가의 국가 기반 시설 보호에도 자사의 솔루션을 공급할 계획이다.
+유영대 대표는 “ISEC 2025에서 대한민국 자율보안 기술이 세계 시장에서도 경쟁력을 발휘할 수 있다는 것을 보여줄 것”이라며, “소버린 AI 실현과 국가 보안 역량 강화를 위해 지속적인 기술 개발과 협력을 이어가겠다”라고 강조했다.
+‘ISEC 2025’ 기간 동안 ClumL 부스(H05)에서는 클럼잇 시큐리티의 실시간 위협 탐지와 자동 보고 시연을 직접 체험할 수 있으며, 기업 환경에 최적화된 적용 방안에 대해 AI 보안 전문가와 1:1 상담을 받을 수 있다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[AI 클러스터링과 LLM 기반 자동 보고로 사이버 위협 대응 혁신 국내외 보안 전문가 및 기관 대상 솔루션 시연과 상담 진행 소버린 AI 실현과 글로벌 시장 확장 목표자율보안 전문기업 클럼엘(ClumL, 대표 유영대)은 오는 8월 26일(화)부터 27일(수)까지 서울 코엑스에서 열리는 아시아 최대 규모의 정보보호 컨퍼런스 *ISEC 2025’에 참가해, 차]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100402</code_id>
+<code_nm><![CDATA[중견/중소기업]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100402</small_code_id>
+<small_code_nm><![CDATA[중견/중소기업]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/13/news-p.v1.20250813.2204c9a1fa564f5fb2c8b4e7919e4960_P1.jpg]]></image_url>
+<image_caption><![CDATA[ &lt; 출처 : 클럼엘(ClumL) &gt;]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11392881]]></article_url>
+</article>
+</saltlux>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11386156</art_id>
+<art_year>2025</art_year>
+<art_no>559732</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-06 07:15:27</service_daytime>
+<title><![CDATA[Korea’s household debt could decline as population ages: KDI]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-06 07:15:27</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK400102</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/06/news-p.v1.20250806.8f22f1edb44c4df1b735eadd84e3c8ae_P1.jpg' alt=' (KDI)'>
+Korea’s household debt is likely to decline as the country’s population ages and life expectancy growth slows, a new analysis showed on Tuesday.
+The Korea Development Institute (KDI), South Korea‘s leading think tank, released a report titled “The Impact of Demographic Changes on Household Debt,” which projected the country’s household debt-to-gross domestic product (GDP) ratio will shift to a downward trend within the next few years due to the slowing pace of life expectancy growth and the deepening of population aging.
+According to the report, Korea‘s household debt-to-GDP ratio stood at 90.3 percent as of the first quarter of 2025, the fifth highest in the world.
+However, the ratio is projected to fall to around 63 percent by 2070.
+While an increase in life expectancy is expected to contribute 29.5 percentage points to the rise in household debt, aging is projected to offset this and even reduce it by 57.1 percentage points, resulting in a net decline of 27.6 percentage points.
+KDI noted that the household debt ratio has been steadily rising since the late 1990s, primarily due to structural factors.
+In particular, as life expectancy increased, the elderly began preparing for retirement by accumulating financial assets, while the younger generation borrowed money to purchase housing.
+This intergenerational flow of assets has driven the expansion of household debt.
+“The increase in household debt appears to be due to structural factors rather than short-term economic conditions,” said Kim Mee-roo, a research fellow at KDI. “Changes in life expectancy and demographic structure have had a significant impact on household debt growth.”
+The report also analyzed that a one-year increase in life expectancy leads to an approximately 4.6 percentage point rise in the household debt-to-GDP ratio, while a 1 percentage point decrease in the share of the young and middle-aged population (ages 25-44) and a corresponding 1 percentage point increase in the elderly population (ages 65 and older) lead to about a 1.8 percentage point decrease in household debt.
+Based on this, the report attributed 28.6 percentage points of the 33.8 percentage point increase in the household debt ratio from 2003 to 2023 to the rise in life expectancy, and 4 percentage points to changes in the age structure.
+During this period, average life expectancy in Korea rose from 77.3 years to 83.5 years.
+Asset accumulation patterns by age group also had an influence.
+Younger generations acquired housing assets through loans, while the elderly continued accumulating financial assets.
+Net financial assets tended to decrease among those under 45 and increase among those 50 and older, the report noted.
+Net household assets in 2024 also showed an overall increase from 2014, mainly among older age groups.
+“When the young and middle-aged population is large, borrowing demand rises, leading to increased household debt,” Kim noted. “But as low birthrates persist and the elderly population expands, capital demand will decline, and so will household debt.”
+KDI suggested that household debt policy should shift from aggregate control to a focus on borrowers’ repayment ability in line with these structural changes.
+“The rise in the household debt ratio reflects a natural change in saving and borrowing behavior due to demographic shifts,” the report said. “Rather than excessively restricting capital flows, policies should be designed and operated to evaluate borrowers’ repayment capacity and ensure financial institutions‘ macroprudential soundness.”
+As a policy direction, the report emphasized the need to reduce exceptions to the debt service ratio (DSR) regulation, noting that too many exceptions weaken regulatory effectiveness and distort market functions.
+It also suggested that complementary measures, such as adjusting guarantee ratios, are necessary, given that excessive policy-driven financing could lower the cost of debt and encourage debt expansion.
+Kim further emphasized the need for a connection to the labor market.
+“Although life expectancy has increased, many workers are pushed into low-wage and unstable jobs after retirement,” he noted. “This strengthens households’ motivation to accumulate assets and ultimately leads to increased household debt.”
+“Introducing a flexible, performance-based wage system centered on job roles could help slow the growth of household debt,” he added.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[Korea’s household debt is likely to decline as the country’s population ages and life expectancy growth slows, a new analysis showed on Tuesday. The Korea Development Institute (KDI), South Korea‘s le]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK400102</code_id>
+<code_nm><![CDATA[Economy]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00308</middle_code_id>
+<middle_code_nm><![CDATA[English]]></middle_code_nm>
+<small_code_id>MK400102</small_code_id>
+<small_code_nm><![CDATA[Economy]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/06/news-p.v1.20250806.8f22f1edb44c4df1b735eadd84e3c8ae_P1.jpg]]></image_url>
+<image_caption><![CDATA[ (KDI)]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11386156]]></article_url>
+</article>
+</saltlux>

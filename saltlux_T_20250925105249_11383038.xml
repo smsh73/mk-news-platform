@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11383038</art_id>
+<art_year>2025</art_year>
+<art_no>550006</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-01 14:09:20</service_daytime>
+<title><![CDATA[Gov’t unveils sweeping tax reform plan]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-01 14:09:20</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK400102</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[The South Korean government has unveiled a comprehensive tax reform plan for 2025, which includes significant hikes in corporate tax, securities transaction tax, and capital gains tax on stock transfers.
+The Ministry of Economy and Finance finalized the plan during a committee meeting on Thursday.
+“Our revenue base has rapidly weakened over the past three years, leading to a significant drop in the nation‘s overall tax burden,” First Vice Finance Minister Lee Hyoung-il said during a press briefing. “This year’s tax reform focuses on reinforcing the weakened revenue base to ensure fiscal sustainability while also supporting our country’s advancement as an economic powerhouse and stabilizing people’s livelihoods.”
+If the plan passes the National Assembly as proposed by the government, corporate tax rates will increase by one percentage point across the board, from the current range of 9 to 24 percent to 10 to 25 percent, depending on the taxable income bracket.
+The securities transaction tax will also increase to its 2023 level.
+The transaction tax rate on the main Kospi market, which currently stands at 0.15 percent including the special rural development tax, will go up to 0.2 percent under the revised tax law, while the secondary Kosdaq transaction tax rate will rise from the current 0.15 percent to 0.2 percent.
+The threshold for major shareholders subject to capital gains tax will be lowered again, from 5 billion won ($3.59 million) per stock to 1 billion won per stock.
+According to the finance ministry, if the reform plan is implemented as proposed, it is expected to generate an additional 35.6 trillion won in tax revenue over the next five years from 2026 to 2030.
+Of the amount, 18.5 trillion won will come from corporate taxes and 11.5 trillion won from securities transaction taxes.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[The South Korean government has unveiled a comprehensive tax reform plan for 2025, which includes significant hikes in corporate tax, securities transaction tax, and capital gains tax on stock transfe]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK400102</code_id>
+<code_nm><![CDATA[Economy]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00308</middle_code_id>
+<middle_code_nm><![CDATA[English]]></middle_code_nm>
+<small_code_id>MK400102</small_code_id>
+<small_code_nm><![CDATA[Economy]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11383038]]></article_url>
+</article>
+</saltlux>

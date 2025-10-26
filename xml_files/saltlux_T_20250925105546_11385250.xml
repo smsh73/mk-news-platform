@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11385250</art_id>
+<art_year>2025</art_year>
+<art_no>556905</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-05 07:57:40</service_daytime>
+<title><![CDATA[A Robot drives AI powered industrial humanoid ‘Alice’]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-05 07:57:40</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK400109</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/05/news-p.v1.20250805.91380c05c05d4921a5e03f3b381f0735_P1.png' alt=' (A Robot)'>
+South Korean robotics startup A Robot Inc. is stepping up the development of its artificial intelligence-powered humanoid robot Alice, as the company aims to deploy it in industrial settings as part of its vision for fully unmanned factories.
+During a recent visit by Maeil Business Newspaper to the company’s laboratory at Hanyang University’s ERICA campus in Ansan, Gyeonggi Province, Alice demonstrated its capabilities by mimicking the arm and hand movements of a researcher wearing Meta Platforms Inc.’s Quest 3 headset and grasping a beverage bottle placed in front of it.
+“We are gathering data that humanoids can use in everyday life and industrial environments, and training them through AI,” Han Jae kwon, A Robot’s co-founder and Chief Technology Officer, said. “With this method, we can take production sites that are already highly automated and turn them into fully unmanned dark factories.”
+Founded in 2018 out of Han’s university research lab, A Robot has emerged as one of Korea’s most closely watched robotics startups. It recently raised 10 billion won (about $7.22 million) in Series A funding to accelerate the development of its general-purpose humanoid. Hanh has worked in humanoid research since the early 2000s and was an early member of Robotis. “Half of humanoid technology is AI. With AI advancing so quickly, humanoids will be in full-scale use worldwide within five years,” he said.
+The company works closely with Nvidia Corp., using its Isaac GR00T AI solution to train humanoids and participating in Nvidia’s Inception global startup program for real-time technical support.
+Plans are underway to introduce Alice in the shipbuilding, construction, and manufacturing sectors. At HD Hyundai Mipo Co.’s dockyard, shipyard workers equipped with cameras and motion sensors perform tasks alongside Alice, which mimics their movements to learn. The data collected is used to train AI so that Alice can eventually carry out the work on its own. “Shipbuilding has one of the highest industrial accident rates,” Han said. “Deploying Alice would protect workers while maintaining productivity.”
+In manufacturing, A Robot aims to replace human operators in smart factories with humanoids to achieve unmanned operations. While new plants in China are often designed as human-free dark factories from the outset, Han believes Korea will more likely adapt existing semi-automated smart factories by integrating humanoids.
+The company is also active in the K Humanoid Alliance led by the Ministry of Trade, Industry and Energy. Chief Executive Officer Eum Youn seal, Han’s wife, serves as the alliance’s general coordinator. “The K Humanoid Alliance’s goal is to build an ecosystem for developing and manufacturing humanoids, from components to platforms to AI,” Han said. “That will require lightweight, low-power embedded AI chips and robot batteries that are both lightweight and capable of high instant output.”
+Han sees humanoids as a strategic opportunity as Korea’s workforce continues to shrink. “The game will be set by 2030,” he said. “Competitiveness will depend on having fully deployable industrial technologies before then.”
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[South Korean robotics startup A Robot Inc. is stepping up the development of its artificial intelligence-powered humanoid robot Alice, as the company aims to deploy it in industrial settings as part o]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK400109</code_id>
+<code_nm><![CDATA[Bio&Tech]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00308</middle_code_id>
+<middle_code_nm><![CDATA[English]]></middle_code_nm>
+<small_code_id>MK400109</small_code_id>
+<small_code_nm><![CDATA[Bio&Tech]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/05/news-p.v1.20250805.91380c05c05d4921a5e03f3b381f0735_P1.png]]></image_url>
+<image_caption><![CDATA[ (A Robot)]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11385250]]></article_url>
+</article>
+</saltlux>

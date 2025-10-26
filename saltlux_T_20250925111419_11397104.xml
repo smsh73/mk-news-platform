@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11397104</art_id>
+<art_year>2025</art_year>
+<art_no>590962</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-19 14:07:33</service_daytime>
+<title><![CDATA[AI로 살아난 독립운동가 9인...하와이 사적지서 역사 설명]]></title>
+<sub_title><![CDATA[KETI, 생성형 AI 기술 활용해 구현
+QR 코드 찍으면 생생한 영상 시청]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[서정원 기자(jungwon.seo@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-19 14:07:33</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100402</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">KETI, 생성형 AI 기술 활용해 구현<br>QR 코드 찍으면 생생한 영상 시청</div></MKSUBTITLE>
+한국전자기술연구원(KETI)은 광복 80주년을 맞아 미국 하와이에서 활동한 독립운동가들의 모습을 생성형 인공지능(AI) 기술로 구현했다고 19일 밝혔다. 또 하와이 현지 사적지에 AI 독립운동가들의 영상을 볼 수 있는 QR 코드도 설치해 일반에 공개한다.
+김노디, 문또라, 민찬호, 이승만, 이희경, 정두옥, 정원명, 조병요, 황마리아를 비롯해 20세기 초 하와이에서 독립을 위해 헌신했던 9명의 독립운동가들이 AI로 구현됐다. 독립운동가의 실제 사진에 재연 배우의 촬영 영상을 결합했고, KETI의 생성형 AI 기술을 활용해 배우의 표정, 입 모양, 동작을 생동감 있게 모방하도록 했다.
+KETI 연구진은 옛 사진 속 인물의 얼굴을 정확히 인식하고, 불필요한 배경이나 소품을 제거해 복원에 적합한 이미지를 추출했다. 또한 합성 데이터 기법으로 독립운동가 사진의 화질을 개선하고, 입체감을 살려 실제에 가까운 모습을 구현하려고 했다.
+김현식 KETI 콘텐츠응용연구센터장은 “영상 내 얼굴 영역 검출과 식별, 사용자 자세 추정, 이미지 분할 등 AI 기반 영상 분석과 합성 기술이 핵심적으로 사용됐다”고 설명했다.
+복원 영상은 합성협회, 한인기독교회, 그리스도연합감리교회, 오아후 공동묘지를 비롯한 현지 독립운동 사적지 9곳에 설치했다. 방문객은 각 사적지에 비치된 QR 코드를 통해 독립운동가들이 직접 사적지와 자신의 활동을 설명하는 영상을 시청할 수 있다.
+이 사업은 한국방송통신전파진흥원(KCA)이 추진하는 AI·디지털 기반 해외 한국어방송 지원사업 기반의 공동제작 프로젝트 일환으로 진행됐다. KETI 콘텐츠응용연구센터가 생성형 AI 기술을 지원하고, 하와이 한인 방송사 KBFD TV가 제작과 방송을 맡았다.
+신희동 KETI 원장은 “앞으로도 기술을 통해 역사와 문화 가치를 확산하는 데 앞장서겠다”라고 말했다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/19/news-p.v1.20250819.d250600b38994c7d86f5c5eae4ed7892_P1.jpg' alt=' AI로 구현된 독립운동가 황마리아 선생이 하와이 독립운동 사적지인 오아후 묘지공원을 설명하고 있다. [사진 제공=한국전자기술연구원]'>
+<img src='https://wimg.mk.co.kr/news/cms/202508/19/news-p.v1.20250819.b1c5ca22894b4d5390ea7a66ce7a8140_P1.jpg' alt=' 독립운동 사적지인 하와이 대한인 국민회 총회관 옛터에 AI 독립운동가의 영상을 볼 수 있는 QR 코드가 설치돼 있다. [사진 제공=한국전자기술연구원]'>
+<img src='https://wimg.mk.co.kr/news/cms/202508/19/news-p.v1.20250819.d9600d5a3fdc4c65b3cb5dbc88c6c023_P1.jpg' alt=' AI로 구현된 독립운동가 조병요 선생이 하와이 독립운동 사적지인 성누가 성공회교회를 설명하고 있다. [사진 제공=한국전자기술연구원]'>
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[KETI, 생성형 AI 기술 활용해 구현 QR 코드 찍으면 생생한 영상 시청한국전자기술연구원(KETI)은 광복 80주년을 맞아 미국 하와이에서 활동한 독립운동가들의 모습을 생성형 인공지능(AI) 기술로 구현했다고 19일 밝혔다. 또 하와이 현지 사적지에 AI 독립운동가들의 영상을 볼 수 있는 QR 코드도 설치해 일반에 공개한다. 김노디, 문또라, 민찬호, ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100402</code_id>
+<code_nm><![CDATA[중견/중소기업]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100402</small_code_id>
+<small_code_nm><![CDATA[중견/중소기업]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100403</code_id>
+<code_nm><![CDATA[벤쳐/벤쳐캐피탈]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100403</small_code_id>
+<small_code_nm><![CDATA[벤쳐/벤쳐캐피탈]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/19/news-p.v1.20250819.d250600b38994c7d86f5c5eae4ed7892_P1.jpg]]></image_url>
+<image_caption><![CDATA[ AI로 구현된 독립운동가 황마리아 선생이 하와이 독립운동 사적지인 오아후 묘지공원을 설명하고 있다. [사진 제공=한국전자기술연구원]]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/19/news-p.v1.20250819.b1c5ca22894b4d5390ea7a66ce7a8140_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 독립운동 사적지인 하와이 대한인 국민회 총회관 옛터에 AI 독립운동가의 영상을 볼 수 있는 QR 코드가 설치돼 있다. [사진 제공=한국전자기술연구원]]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/19/news-p.v1.20250819.d9600d5a3fdc4c65b3cb5dbc88c6c023_P1.jpg]]></image_url>
+<image_caption><![CDATA[ AI로 구현된 독립운동가 조병요 선생이 하와이 독립운동 사적지인 성누가 성공회교회를 설명하고 있다. [사진 제공=한국전자기술연구원]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11397104]]></article_url>
+</article>
+</saltlux>

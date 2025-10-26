@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11403910</art_id>
+<art_year>2025</art_year>
+<art_no>611588</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-27 11:07:08</service_daytime>
+<title><![CDATA[토스증권, 29일부터 ‘온라인 주식 보내기 서비스’ 개시]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[최아영 매경 디지털뉴스룸 기자(cay@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-27 11:07:08</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100509</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/27/news-p.v1.20250827.9a9156bfea574f438cc8303d949fb42d_P1.png' alt=' [사진 = 토스증권]'>
+토스증권에서 손쉬운 타사 대체출고 신청이 가능해진다.
+토스증권은 오는 29일부터 고객이 보유한 국내·해외주식을 모바일트레이딩시스템(MTS)에서 간편하게 다른 증권사의 본인 계좌로 이전할 수 있는 ‘온라인 주식 보내기’ 서비스를 시작한다고 27일 밝혔다.
+타사 대체출고를 위해서는 유선 접수나 영업점을 방문해야 하지만, 토스증권은 신청부터 출고가 완료될 때까지의 모든 처리 과정을 MTS에서 실시간 확인할 수 있다. 이번 서비스를 통해 번거로운 절차로 인한 고객들의 시간과 비용을 줄이는 동시에 이용 편의는 크게 향상될 것으로 기대된다.
+해당 서비스는 토스증권 계좌에 주식을 보유한 고객이라면 누구나 MTS 주식보내기 메뉴에서 신청할 수 있다. 동일 명의 계좌 간 이전만 가능하고, 1주 단위로 신청할 수 있다.
+서비스 신청 시간 및 처리 방법은 자산군별로 상이하다. 국내주식은 영업일 기준 오전 8시부터 오후 4시까지 실시간 출고 접수가 가능하고, 그 외 시간에는 예약접수를 받는다. 해외주식은 예약접수만 가능하며 오후 1시 이전 접수분은 당일 출고, 이후 접수분은 다음 영업일에 출고된다.
+토스증권 관계자는 “그간 이용 문턱이 높았던 타사 대체출고 서비스를 온라인으로 전환함으로써 고객들의 이용 편의는 대폭 개선될 것으로 기대한다”며 “앞으로도 고객의 입장에서 편의성과 투명성을 높이는 서비스 혁신을 이어가겠다”고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[토스증권에서 손쉬운 타사 대체출고 신청이 가능해진다. 토스증권은 오는 29일부터 고객이 보유한 국내·해외주식을 모바일트레이딩시스템(MTS)에서 간편하게 다른 증권사의 본인 계좌로 이전할 수 있는 ‘온라인 주식 보내기’ 서비스를 시작한다고 27일 밝혔다. 타사 대체출고를 위해서는 유선 접수나 영업점을 방문해야 하지만, 토스증권은 신청부터 출고가 완료될 때까지]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100509</code_id>
+<code_nm><![CDATA[증권계동향]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100509</small_code_id>
+<small_code_nm><![CDATA[증권계동향]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/27/news-p.v1.20250827.9a9156bfea574f438cc8303d949fb42d_P1.png]]></image_url>
+<image_caption><![CDATA[ [사진 = 토스증권]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11403910]]></article_url>
+</article>
+</saltlux>

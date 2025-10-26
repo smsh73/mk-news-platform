@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11385478</art_id>
+<art_year>2025</art_year>
+<art_no>557546</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-05 10:42:05</service_daytime>
+<title><![CDATA[“백악관, 정치적 이유로 고객을 차별한 은행 제재하는 행정명령 준비중”]]></title>
+<sub_title><![CDATA[벌금 등 제재 부과 예정]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[최현재 기자(aporia12@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-05 10:42:05</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101002</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">벌금 등 제재 부과 예정</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/05/news-p.v1.20250805.ca94957861914079a7bfec42d2f97030_P1.png' alt=' 미 백악관 전경. [픽사베이]'>
+미 백악관이 정치·종교적 이유로 고객을 차별하거나 불이익을 준 은행에 제재를 가하는 행정명령을 준비중인 것으로 알려졌다.
+4일(현지시간) 미 일간 월스트리트저널(WSJ)은 정통한 소식통을 인용해 백악관이 정치적 이유로 고객과의 계약을 해지하는 은행을 제재하는 내용의 행정명령을 마련중이라고 보도했다.
+WSJ가 확보한 행정명령 초안에 따르면 금융당국은 금융기관의 신용평등기회법, 반독점법, 소비자금융보호법 등 법령 위반 여부에 대한 조사에 나선다. 위반이 확인되면 벌금과 합의 명령(Consent decree) 등의 불이익을 줄 수 있도록 했다. 소식통에 따르면 트럼프 대통령은 이르면 이번 주 안에 행정명령에 서명할 예정이다.
+행정명령 초안에 따르면 백악관은 글로벌 투자은행인 뱅크 오브 아메리카(BoA)를 타깃으로 설정한 것으로 보인다. WSJ는 초안에 BoA가 우간다에서 활동하는 기독교 단체의 계좌를 종교적 신념을 이유로 해지했다는 의혹을 암시하는 내용이 담겼다고 전했다. 또 초안에는 2021년 1월 6일 미 국회의사당 폭동 사건 수사에서 일부 은행이 역할을 해온 것도 비판하고 있다.
+아울러 이번 행정명령은 보수 진영과 가상화폐 업계에서 제기돼 왔던 불만을 해소해주려는 목적도 있는 것으로 보인다. 수년간 보수 진영은 정치·종교적 이유로 은행 서비스에서 배제되고 있다고 주장해왔다. 가상화폐 기업 또한 바이든 행정부 하에서 은행 서비스에 대한 접근이 차단됐다고 비판해왔다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[벌금 등 제재 부과 예정미 백악관이 정치·종교적 이유로 고객을 차별하거나 불이익을 준 은행에 제재를 가하는 행정명령을 준비중인 것으로 알려졌다. 4일(현지시간) 미 일간 월스트리트저널(WSJ)은 정통한 소식통을 인용해 백악관이 정치적 이유로 고객과의 계약을 해지하는 은행을 제재하는 내용의 행정명령을 마련중이라고 보도했다. WSJ가 확보한 행정명령 초안에 따]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101002</code_id>
+<code_nm><![CDATA[국제경제]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101002</small_code_id>
+<small_code_nm><![CDATA[국제경제]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101003</code_id>
+<code_nm><![CDATA[국제산업]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101003</small_code_id>
+<small_code_nm><![CDATA[국제산업]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101005</code_id>
+<code_nm><![CDATA[국제금융]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101005</small_code_id>
+<small_code_nm><![CDATA[국제금융]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101011</code_id>
+<code_nm><![CDATA[미국/중남미]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101011</small_code_id>
+<small_code_nm><![CDATA[미국/중남미]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/05/news-p.v1.20250805.ca94957861914079a7bfec42d2f97030_P1.png]]></image_url>
+<image_caption><![CDATA[ 미 백악관 전경. [픽사베이]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11385478]]></article_url>
+</article>
+</saltlux>

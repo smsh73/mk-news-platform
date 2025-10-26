@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11387318</art_id>
+<art_year>2025</art_year>
+<art_no>562892</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-07 09:32:05</service_daytime>
+<title><![CDATA[Korean insurers see 14% profit drop amid price war fallout]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-07 09:32:05</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK400110</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/07/news-p.v1.20250807.e1ea3d3673a9476ca714364571801c6d_P1.jpg' alt=' (Yonhap News)'>
+South Korea’s top non-life insurers are facing a steep decline in profits as the aftermath of a price war over caregiver rider policies and major insurance payouts from large-scale accidents take a toll on earnings.
+According to consensus estimates from FnGuide and analysis by Samsung Securities, the country’s five leading non-life insurers—Samsung Fire & Marine, DB Insurance, Hyundai Marine & Fire, KB Insurance, and Meritz Fire & Marine—are projected to report a combined net profit of 1.98 trillion won ($1.41 billion) for the second quarter. This marks a 14 percent decrease from the 2.3 trillion won recorded during the same period last year.
+The drop is largely attributed to intensified competition over caregiver daily allowance riders, which insurers heavily promoted to increase their contractual service margins (CSM). In the second half of last year, insurers began offering higher daily payouts for policyholders who hired caregivers during hospitalization—doubling the amount from 100,000 won to 200,000 won per day. While initially effective in boosting margins, the spike in claims has now turned these riders into financial burdens, dragging down second-quarter performance.
+The decline in profit was further compounded by large-scale incidents such as a major fire at Kumho Tire’s Gwangju plant in May, which led to significant insurance payouts. Industry sources estimate losses per insurer ranging from 5 billion won to as much as 50 billion won. Wildfires that swept across the country in the first quarter also had lingering effects on insurer balance sheets, as claim payouts tend to follow with a time lag.
+Looking ahead, insurers are bracing for further losses in the third quarter, which will reflect damages from record-breaking rainfall in July. Data from 12 auto insurers show that from July 16 to 21 alone, flood damage to vehicles is estimated to exceed 36.4 billion won.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[South Korea’s top non-life insurers are facing a steep decline in profits as the aftermath of a price war over caregiver rider policies and major insurance payouts from large-scale accidents take a to]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK400110</code_id>
+<code_nm><![CDATA[Market]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00308</middle_code_id>
+<middle_code_nm><![CDATA[English]]></middle_code_nm>
+<small_code_id>MK400110</small_code_id>
+<small_code_nm><![CDATA[Market]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/07/news-p.v1.20250807.e1ea3d3673a9476ca714364571801c6d_P1.jpg]]></image_url>
+<image_caption><![CDATA[ (Yonhap News)]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11387318]]></article_url>
+</article>
+</saltlux>

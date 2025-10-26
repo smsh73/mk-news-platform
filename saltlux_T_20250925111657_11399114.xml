@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11399114</art_id>
+<art_year>2025</art_year>
+<art_no>596874</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-21 11:12:23</service_daytime>
+<title><![CDATA[[단독] 신한금융 ‘스테이블 코인’ 서두른다…진옥동 회장, 미국 ‘서클’ 사장과 사업 논의]]></title>
+<sub_title><![CDATA[스테이블코인 관련 논의
+그룹차원 협업모델 고민]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[박인혜 기자(inhyeplove@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-21 11:12:23</reg_dt>
+<mod_dt>2025-08-21 17:40:20</mod_dt>
+<art_org_class>MK100201</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">스테이블코인 관련 논의<br>그룹차원 협업모델 고민</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250821.4a6cc4ba93c040d8894086eaca088c47_P1.jpg' alt=' 진옥동 신한금융 회장'>
+진옥동 신한금융그룹 회장이 22일 스테이블코인 대표 주자 중 하나인 서클 사장과 면담을 갖는 것으로 확인됐다. 아직 국내에선 스테이블코인 관련 법규 등이 마련되지 않아 초기 단계에 머물러 있지만, 이재명 대통령이 후보 시절 원화 스테이블코인 발행을 공약으로 내세운만큼, 사전에 준비 작업을 해두겠다는 뜻으로 읽힌다.
+21일 금융권에 따르면 곧 방한하는 히스 타버트 서클 사장과 진 회장이 22일 만난다. 서클은 미국에 본사를 둔 핀테크 기업으로, 미국 달러화 연동 스테이블 코인을 발행하는 회사다. 2013년 설립된 이 회사는 미국을 거점으로 활동하고 있지만, 최근 들어 아시아와 유럽 등으로 영역을 확장하려 하고 있다. 스테이블코인 발행과 수탁 등에 관심이 있는 한국의 금융사와 연쇄 접촉을 하려는 것도 이같은 배경에서다.
+신한금융의 경우 은행도 있지만, 신한카드, 신한투자증권, 신한라이프 등 계열사 포트폴리오가 잘 갖춰진 편이다. 특히 카드사들의 경우 스테이블코인이 대세가 될 경우 미리 준비하지 않으면 결제시장에서 낙오될 가능성이 크기에 바짝 긴장하고 있는데, 신한카드는 업계 1~2위를 다투는 회사인만큼 부담감이 더 크다.
+다만 금융지주 차원에서 준비해 미리 대비하고 있다가 법규 등이 마련됐을 때 먼저 치고 나가면 오히려 시장을 선점할 수 있다는 기대감도 있다. 현재 신한금융은 지주 차원에서 배달앱 ‘땡겨요’를 통해 스테이블 코인 기술검증(PoC)을 하고 있고, 2017년 출범한 가상자산 관련 TF를 발전시켜 스테이블코인 관련 지급결제, 보관, 글로벌 협력 등으로 논의로도 발전시키고 있는 상태다. 또 법규 마련에 대비해 원화 스테이블코인 및 관련 금융 상표권 서비스 출원도 활발히 하고 있다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[스테이블코인 관련 논의 그룹차원 협업모델 고민진옥동 신한금융그룹 회장이 22일 스테이블코인 대표 주자 중 하나인 서클 사장과 면담을 갖는 것으로 확인됐다. 아직 국내에선 스테이블코인 관련 법규 등이 마련되지 않아 초기 단계에 머물러 있지만, 이재명 대통령이 후보 시절 원화 스테이블코인 발행을 공약으로 내세운만큼, 사전에 준비 작업을 해두겠다는 뜻으로 읽힌다]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100201</code_id>
+<code_nm><![CDATA[금융정책·일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100201</small_code_id>
+<small_code_nm><![CDATA[금융정책·일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100203</code_id>
+<code_nm><![CDATA[은행]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100203</small_code_id>
+<small_code_nm><![CDATA[은행]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250821.4a6cc4ba93c040d8894086eaca088c47_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 진옥동 신한금융 회장]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11399114]]></article_url>
+</article>
+</saltlux>

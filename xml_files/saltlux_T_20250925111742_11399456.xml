@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11399456</art_id>
+<art_year>2025</art_year>
+<art_no>598357</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-21 16:03:35</service_daytime>
+<title><![CDATA[박스 갇힌 코스피 떠나 … 개미들 '전략형 ETF'에 몰렸다]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[정유정 기자(utoori@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250822</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>02</pub_section>
+<pub_page>1</pub_page>
+<reg_dt>2025-08-21 16:03:35</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK300101</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/22/20250822_01110201000002_M00.jpg' alt=''>
+
+최근 한 달간 방산, 증권 등 올해 국내 증시 주도주가 조정받는 사이에 커버드콜을 비롯한 전략형 상장지수펀드(ETF)로 투자 자금이 몰리고 있다.
+20일 코스콤 ETF CHECK에 따르면 최근 한 달간 개인 투자자들이 가장 많이 순매수한 ETF는 'KODEX 200타겟위클리커버드콜'로 개인 순매수 규모는 1404억원에 달했다.
+커버드콜 전략은 주식, 채권 등 기초자산을 매수한 후 콜옵션을 매도해 프리미엄을 확보하는 방식으로 주가가 횡보하는 장에서 유리하다. 방산, 증권, 지주사에 투자하는 ETF들이 최근 한 달 새 10% 이상 하락하면서 투자자들이 안정적인 현금 흐름을 제공하는 커버드콜 ETF로 눈길을 돌린 것으로 풀이된다. 실제로 'KODEX 증권'(-13.76%), 'TIGER K방산&우주'(-13.49%), 'KODEX K방산TOP10'(-13.14%), 'TIGER 지주회사'(-11.46%) 등이 같은 기간 두 자릿수 낙폭을 기록했다.
+올해 들어 커버드콜 ETF에 유입된 자금 규모는 크다. 'KODEX 200타겟위클리커버드콜'에는 연초 이후 7939억원이 유입됐다. 'KODEX 미국배당커버드콜액티브'(4052억원), 'KODEX 금융고배당TOP10타겟위클리커버드콜'(3184억원), 'KODEX 미국30년국채타겟커버드콜(합성H)'(2971억원) 등이 뒤를 이었다.
+수익률도 양호하다. 분배금을 재투자하는 토털리턴 기준으로 'KODEX 금융고배당TOP10타겟위클리커버드콜'은 올해 들어 38.58%의 수익률을 거뒀다. 'KODEX 200타겟위클리커버드콜'은 27.91%, 'TIGER 배당커버드콜액티브'는 27.71%의 수익률을 기록했다. 'RISE 200위클리커버드콜'(24.80%), 'TIGER 200커버드콜OTM'(22.75%), 'RISE 200고배당커버드콜ATM'(21.93%), 'PLUS 고배당주위클리커버드콜'(20.40%)도 두 자릿수의 안정적인 성과를 냈다.
+자산운용사들의 전략도 진화하고 있다. 1세대 커버드콜은 옵션 매도 비중이 100%로 상승장에서 수익을 놓치는 한계가 있었지만, 2세대 상품은 기초자산 상승분도 일부 반영하도록 설계돼 투자 매력이 높아졌다.
+
+<img src='https://wimg.mk.co.kr/news/cms/202508/22/20250822_01110201000002_L01.jpg' alt=''>
+
+시장 변동성이 커질 때만 커버드콜 전략을 구사하는 조건부 커버드콜 ETF도 등장했다. 지난 12일 상장된 'KODEX 미국S&P500변동성확대시커버드콜'은 일반적인 상황에서는 커버드콜 전략을 쓰지 않고 스탠더드앤드푸어스(S&P)500지수를 100% 추종한다. 변동성이 확대되는 특정 조건에서는 데일리 콜옵션 매도를 전략적으로 수행해 옵션 프리미엄을 수취한다.
+글로벌 증시 불확실성이 커지면서 하락 방어형 상품도 속속 등장하고 있다. 하락장에서 손실을 완충하는 버퍼형 ETF, 하락장에서 방어하고 상승장에서 수익을 추구하는 프로텍티브 풋 전략 ETF가 대표적이다.
+삼성자산운용은 아시아 최초로 버퍼형 ETF를 선보였다. 버퍼형 ETF는 커버드콜 전략과 풋옵션 스프레드를 활용해 약속된 기간에 하락 리스크를 제한적으로 방어한다. 키움투자자산운용이 지난달 선보인 'KIWOOM 미국테크100월간목표헤지액티브'는 프로텍티브 풋옵션을 직접 매수하지 않고 델타 헤지 방식을 통해 복제해 활용한다. 상방은 열려 있고 하방이 닫혀 있는 구조로 커버드콜 전략과 정반대 성격을 갖는다.
+이 같은 전략형 ETF는 단순한 지수 추종을 넘어 고급 투자 전략을 구사하고자 하는 투자자들의 마음을 사로잡고 있다. 복잡한 파생상품 전략을 개인이 직접 구사하기는 쉽지 않지만, ETF를 통해 운용사가 대신 구현해주면서 일반 투자자도 다양한 전략에 접근할 수 있기 때문이다. 
+증권업계는 전략형 ETF의 성장을 장기 트렌드로 보고 있다. 김진영 키움증권 연구원은 "올해 2분기 기준 미국의 옵션 ETF 수는 600개 이상이며 운용자산은 2100억달러"라며 "2020년 말 96억달러 대비 20배 이상 확대됐다"고 말했다. 이어 "옵션을 활용한 ETF들은 일정한 현금흐름 창출로 매월 분배금을 지급해주거나 보유 기간 동안 손실을 방어해주는 특징을 내세워 미국 베이비부머에게 각광받고 있다"며 "베이비부머가 손실 방어 효과를 지닌 옵션 ETF 활용을 확대하고 있다"고 설명했다.
+[정유정 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[최근 한 달간 방산, 증권 등 올해 국내 증시 주도주가 조정받는 사이에 커버드콜을 비롯한 전략형 상장지수펀드(ETF)로 투자 자금이 몰리고 있다.
+20일 코스콤 ETF CHECK에 따르면 최근 한 달간 개인 투자자들이 가장 많이 순매수한 ETF는 'KODEX 200타겟위클리커버드콜'로 개인 순매수 규모는 1404억원에 달했다.
+커버드콜 전략은 주식, 채권 등 기초자산을 매수한 후 콜옵션을 매도해 프리미엄을 확보하는 방식으로 주가가 횡보하는 장에서 유리하]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK300101</code_id>
+<code_nm><![CDATA[Money & Riches]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK300101</small_code_id>
+<small_code_nm><![CDATA[Money & Riches]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/22/20250822_01110201000002_M00.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/22/20250822_01110201000002_L01.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11399456]]></article_url>
+</article>
+</saltlux>

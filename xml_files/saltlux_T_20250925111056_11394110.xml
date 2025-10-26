@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11394110</art_id>
+<art_year>2025</art_year>
+<art_no>582553</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-14 17:47:41</service_daytime>
+<title><![CDATA[논란속 첫발 뗀 '고준위 폐기물' 연구시설]]></title>
+<sub_title><![CDATA[태백 지하시설 'URL' 가보니<br>지하암반 안전성 놓고 갈등<br>원자력공단 "용지 문제없어"]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[신유경 기자(softsun@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250815</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>10</pub_page>
+<reg_dt>2025-08-14 17:47:41</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100101</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[이달 12일 찾은 강원특별자치도 태백시에 있는 '지하연구시설(URL)' 용지. 용지 옆에는 깊이별로 시추된 4종의 암석이 원기둥 형태로 나란히 진열돼 있다. 원자력환경공단이 지하 100ｍ부터 660ｍ까지 '코어 시추'를 통해 확보한 암석이다. 암석들은 맨 밑에 위치한 층부터 선캄브리아 시대 암석, 고생대층 퇴적암, 중생대층 화성암, 다시 선캄브리아 시대 암석에 해당한다. 원자력환경공단이 이처럼 시추를 통해 암석의 성분을 분석한 건 용지 확정에 있어 암종(岩種) 적합성이 중요해서다.
+14일 원자력환경공단에 따르면, 공단은 태백시에 URL 용지를 확정하고 총사업비 6475억원을 투입해 건설을 추진하고 있다. URL은 실제 방사성폐기물 처리장과 유사한 환경에서 원전에서 나온 방폐물 처분 기술을 개발·검증하는 연구를 수행한다. 2060년까지 고준위방폐장을 건설하기 위해 핵심적으로 필요한 시설이다. 
+하지만 최근 URL 용지 선정 과정에서 암종 적합성이 제대로 확인되지 않았다는 주장이 제기됐다. 이에 태백 URL이 논란의 중심에 섰다. 한국원자력학회 내 교수진 5명으로 구성된 특별위원회는 "URL 용지 선정이 원점에서 재검토돼야 한다"고 주장했다. 태백 용지가 화강암이 아닌 퇴적암층으로 확인됐다는 게 이유였다. 한국이 화강암을 기본 암반으로 하는 처분 방식을 개발해온 것을 고려할 때, 부적절하다는 견해다.
+하지만 공단은 URL 내 실제 처분고 예상 위치에 단일 기반암이 분포하고 있는지가 핵심 조건이라고 맞받아친 상태다. 태백 용지의 경우 처분고가 들어설 지하 약 500ｍ 이하 심도 근처에 단일한 결정질암이 분포하고 있다는 메시지다. 공단은 지하 500ｍ까지 단일한 화강암으로 구성된 용지도 한국 내에서 찾기 매우 어렵다고 주장한다. 공단은 올해 태백 URL 건설 관련 예비타당성조사를 통과하면 내년부터 사업에 착수한다는 계획이다. 2028년까지 설계를 마치고 2032년 준공한다는 목표다. 
+[태백 신유경 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[이달 12일 찾은 강원특별자치도 태백시에 있는 '지하연구시설(URL)' 용지. 용지 옆에는 깊이별로 시추된 4종의 암석이 원기둥 형태로 나란히 진열돼 있다. 원자력환경공단이 지하 100ｍ부터 660ｍ까지 '코어 시추'를 통해 확보한 암석이다. 암석들은 맨 밑에 위치한 층부터 선캄브리아 시대 암석, 고생대층 퇴적암, 중생대층 화성암, 다시 선캄브리아 시대 암석에 해당한다. 원자력환경공단이 이처럼 시추를 통해 암석의 성분을 분석한 건 용지 확정에 있어 암종]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100101</code_id>
+<code_nm><![CDATA[경제일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100101</small_code_id>
+<small_code_nm><![CDATA[경제일반]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11394110]]></article_url>
+</article>
+</saltlux>

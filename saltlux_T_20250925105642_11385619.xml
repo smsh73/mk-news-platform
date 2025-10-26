@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11385619</art_id>
+<art_year>2025</art_year>
+<art_no>568564</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-05 14:20:59</service_daytime>
+<title><![CDATA[1200억 달러 쏟아붓는 마소...AI 공급 과잉 신호 괜찮을까 [홍키자의 빅테크]]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[홍성용 기자(hsygd@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-05 14:20:59</reg_dt>
+<mod_dt>2025-08-09 16:07:44</mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[2분기 호실적을 낸 마이크로소프트(MS)는 역대 최대 규모의 자본지출을 단행하고 있습니다. 앞으로도 규모는 한층 커질 전망입니다. 인공지능(AI) 전쟁에서 승기를 잡기 위해 역대 최대 규모의 투자이죠.
+2026 회계연도 동안 AI 인프라 확충 등을 위해 1200억 달러의 자본을 지출하겠다고 밝혔는데, 이는 전년보다 36% 증가한 것입니다. 과연 마소는 이 막대한 투자로 무엇을 얻으려 하는 걸까요? 매출보다 비용이 더 큰 상황이 만들어질까 노심초사하는 투자자들의 우려를 어떻게 해소하려는 것일까요?
+하지만 단순히 데이터센터 하나 더 짓는 수준이 아니라, ‘AI 시대의 디지털 석유 독점권’을 확보하고자 하는 장기 전략에서 회사를 분석해볼 필요가 있습니다.
+<strong><div style="border-top: 4px solid #ed6d01;border-bottom: 1px solid #ed6d01;font-size: 18px;padding: 10px 0;margin:30px 0;">마소의 진짜 계산법: 인프라 독점을 통한 영구 수익 창출</div></strong><img src='https://wimg.mk.co.kr/news/cms/202508/09/news-p.v1.20250805.77afbba1816644c6a884def14dc2d3a8_P1.jpg' alt=''>
+에이미 후드 최고재무책임자(CFO)는 2분기 실적 발표 후의 컨퍼런스콜에서 3분기 자본지출 규모는 300억달러 이상일 것이라고 밝혔습니다. 2분기의 총 자본지출은 242억달러로 전년대비 27% 증가한 수준이었으며, 시장 예상치(230억달러)를 크게 상회한 바 있죠.
+후드 CFO는 “데이터센터에 대한 자본지출은 향후 12개월 동안 더욱 증가할 것”이라고 언급했죠.
+지속적으로 커지는 자본지출에 대해 사티아 나델라 MS CEO는 투자자 우려를 적극 해소하려고 했습니다. 그는 “AI와 함께하는 세대적 기술 전환”이라며 현재의 투자가 단순한 비용이 아닌 미래 수십 년을 좌우할 전략적 선택임을 강조했습니다.
+하지만 나델라의 진짜 속내는 다른 곳에 있습니다. MS는 AI 시대의 ‘디지털 전력회사’가 되려고 합니다. 20세기 초 전력망을 선점한 기업들이 수십 년간 안정적인 수익을 거둔 것처럼, AI 인프라를 먼저 장악해 영구적인 수익 구조를 만들겠다는 것이죠.
+이를 위해 마이크로소프트는 3단계 전략을 구사하고 있습니다. ▲1단계: 글로벌 AI 인프라 선점 ▲2단계: 개발자 생태계 락인(Lock-in) ▲3단계: 기업 고객 종속성 확보입니다. 현재 1단계에서 2단계로 넘어가는 과도기에 있는데, 바로 이 시점에서 막대한 투자가 집중되고 있는 것입니다.
+<b>특히 주목할 부분은 마이크로소프트가 단순히 컴퓨팅 파워만 제공하는 게 아니라는 점입니다. AI를 만들고 쓰는 모든 단계를 자신들의 서비스로 묶어버리고 있습니다.</b>
+<img src='https://wimg.mk.co.kr/news/cms/202508/09/news-p.v1.20250805.8abae9a972714edaa33bf05ae774a3e6_P1.png' alt=''>
+구체적으로 보면 이렇습니다. ▲데이터 저장은 애저 스토리지에서 ▲AI 모델 개발은 애저 머신러닝으로 ▲코딩은 깃허브 코파일럿으로 ▲업무는 오피스365 코파일럿으로 ▲서비스 배포는 애저 클라우드에서 처리하는 식입니다.
+마치 삼성이 반도체부터 디스플레이, 배터리까지 모든 부품을 자체 생산해서 스마트폰을 만드는 것처럼, 마이크로소프트는 AI의 모든 구성 요소를 자체 서비스로 제공하고 있는 것입니다. 한번 이 생태계에 들어온 기업들은 빠져나가기 어려운 구조를 만드는 것이죠.
+이같은 전략의 초기 성과가 바로 이번 2분기 실적입니다.
+매출은 764억 달러로 예상치 737억 9천만 달러를 상회했고, 영업이익은 343억달러로 주요 빅테크 기업 가운데 가장 컸죠. 순이익은 272억 달러로 전년 대비 24% 증가했습니다. 희석 주당순이익은 3.65달러로 시장 예상치 3.37달러를 크게 웃돌았습니다.
+<strong><div style="border-top: 4px solid #ed6d01;border-bottom: 1px solid #ed6d01;font-size: 18px;padding: 10px 0;margin:30px 0;">투자자 설득을 위한 MS의 고육지책들</div></strong><img src='https://wimg.mk.co.kr/news/cms/202508/09/news-p.v1.20250805.f03c51f9414a47579e8e70e58aca63a5_P1.png' alt=''>
+하지만 숫자 뒤에 숨겨진 현실은 복잡합니다. 애저 클라우드의 연매출이 750억 달러를 돌파하며 34% 성장을 기록했지만, 이를 위해 지난 분기에만 242억 달러를 지출했습니다. 이는 전년 동기 대비 27% 증가한 수치로, 애널리스트 예상치(230억 달러)를 웃돈 것입니다.
+<b>이처럼 성장을 위한 투자 비용이 기하급수적으로 늘어나고 있다는 점이 우려할만 포인트죠. AI 인프라 구축 비용이 예상보다 훨씬 높아지면서, 같은 성장률을 유지하기 위해서도 과거보다 훨씬 더 큰 투자가 필요한 구조가 되고 있습니다.</b>
+이런 우려는 올해 초 마이크로소프트가 시설 및 전력 공급 지연을 이유로 수백MW 용량의 데이터센터 임차 계약을 해지했던 사건으로 더욱 커졌습니다. 당시 투자 계획과 실제 실행 사이의 괴리가 드러나면서, 현재의 계획도 비슷한 차질을 겪을 가능성에 대한 의구심이 제기되고 있는 것입니다.
+이는 MS가 직면한 근본적인 딜레마를 보여줍니다. 시장 선점을 위해서는 지금 투자해야 하지만, 급격한 투자 확대로 인해 수요와 공급의 불균형이 발생하고 있다는 것입니다.
+이같은 투자자들의 우려를 잠재우기 위해 MS는 다층적인 전략을 구사합니다.
+<b>첫째, 투자 ROI의 가시화입니다.</b> 회사는 AI 관련 매출이 전체 클라우드 매출 증가의 상당 부분을 차지한다는 점을 지속해서 강조하고 있죠. 바로 다음 분기인 2026 회계연도 1분기(7-9월) 애저 클라우드 매출 성장률을 37%로 전망한 것도 투자 효과가 즉시 나타날 것임을 시사하는 것입니다.
+<b>둘째, 비용 구조 최적화를 통한 수익성 개선입니다. </b>올해 5월 마이크로소프트가 전체 직원의 3%인 7000명을 감축하기로 한 것도 이런 맥락입니다. AI로 인한 생산성 향상을 인력 효율화로 연결해 전체적인 비용 구조를 개선하겠다는 전략입니다.
+<b>셋째, 장기 계약 확보를 통한 매출 안정성 강화입니다.</b> MS는 대기업 고객들과 다년간의 클라우드 계약을 체결하며 안정적인 현금 흐름을 확보하고 있습니다. 이를 통해 단기적인 투자 부담을 상쇄하려는 것입니다.
+<b>하지만 가장 중요한 건 네 번째 전략입니다. 자체 AI 역량 강화를 통한 오픈AI 의존도 탈피입니다. </b>최근 오픈AI가 스타게이트 프로젝트에서 오라클과 파트너십을 맺는 등 관계에 미묘한 변화가 생기고 있는 상황에서, MS는 오히려 이를 기회로 삼고 있습니다.
+자체 AI 모델 개발과 독자적인 AI 플랫폼 구축에 집중해 오픈AI에 의존하지 않는 완전한 AI 생태계를 만들겠다는 것입니다. 이를 통해 장기적으로는 더 강력한 경쟁력을 확보할 수 있다고 판단하고 있습니다.
+<strong><div style="border-top: 4px solid #ed6d01;border-bottom: 1px solid #ed6d01;font-size: 18px;padding: 10px 0;margin:30px 0;">AI 인프라 전쟁은 ‘플랫폼 종속성’ 확보</div></strong><img src='https://wimg.mk.co.kr/news/cms/202508/09/news-p.v1.20250805.425e5bfad00f4f62aa8482a439522b1f_P1.png' alt=' MS의 데이터센터 전경.'>
+<b>MS의 투자는 단순한 ‘용량 확장’이 아닙니다. 실제로는 훨씬 정교한 전략이 숨어 있습니다. 회사가 짓고 있는 것은 단순한 데이터센터라기보다, AI 개발자들이 반드시 거쳐야 할 ‘디지털 생태계’입니다.</b>
+오픈AI와의 파트너십, GitHub 코파일럿, 애저 머신러닝 서비스, 오피스365 코파일럿까지 모든 것이 하나의 통합된 플랫폼으로 연결돼 있습니다.
+한번 이 생태계에 들어온 개발자나 기업은 빠져나가기 어렵습니다. 데이터는 애저에 저장되고, 모델은 애저에서 훈련되며, 서비스는 애저에서 배포됩니다. 전환 비용이 너무 높아지는 것이죠.
+<b>이는 과거 윈도우와 오피스로 소프트웨어 시장을 장악했던 전략의 AI 버전입니다.</b> 다만 규모는 비교할 수 없을 정도로 커졌습니다. 과거에는 PC 한 대당 몇백 달러의 라이선스였지만, 이제는 기업당 수백만 달러의 클라우드 비용이 걸려 있습니다.
+나델라 CEO는 최근 전 직원에게 이메일을 보내 인공지능(AI)을 핵심 전략으로 재차 지목한 것으로 전해지죠. 그는 “AI 시대의 물결에 맞춰 제품과 플랫폼을 제대로 구축하는 것이 우리의 북극성(North Star)”이라고 강조했다고 합니다.
+<b>MS의 1200억 달러 투자는 명백히 ‘올인’ 전략입니다. AI 시대의 패권을 잡기 위한 승부수인 동시에, 실패할 경우 막대한 손실을 감수해야 하는 위험한 도박이기도 합니다.</b>
+현재까지의 성과를 보면 MS의 올인이 옳을 가능성이 높아 보입니다. 애저의 폭발적 성장, 코파일럿 서비스의 확산, 기업 고객들의 AI 도입 가속화 등 모든 지표가 긍정적이기 때문이죠.
+그 결과 실적발표 이후 하루 만에 장중 시가총액 4조달러를 역사상 두 번째로 터치한 기업이 됐고요.
+포천은 “MS 주가의 반응은 클라우드 인프라에 대한 공격적인 투자, 그리고 AI 도구에 대한 적극적인 노력에 대한 월가의 자신감을 보여준다”고 평가했습니다.
+<b>일단은 클라우드·AI 허브로서 구조적 성장 사이클에 진입한 것으로 보입니다.</b> 다만 애저의 성장률로 주가도 오르고 회사 매출 구조도 좋아진 만큼 앞으로 얼마나 이 경쟁에서 승리할 수 있을지가 동력을 유지할 핵심이 되겠죠.
+AWS, 구글 클라우드와의 전쟁에서 시장 점유율 방어가 앞으로의 직면한 단기 과제가 될 것입니다.
+<div style="margin: 30px 0;padding: 20px;background: #fff1f1;font-size: 17px;display:block;">단순한 뉴스가 아닌, 그 이면의 흐름까지 읽고 싶다면?
+‘홍기자의 빅테크’가 테크·플랫폼·경제 이슈를 깊이 있게 해석해드립니다.
+아래 기자 페이지를 구독하시면, 한 차원 다른 콘텐츠가 기다리고 있습니다.
+</div>
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[2분기 호실적을 낸 마이크로소프트(MS)는 역대 최대 규모의 자본지출을 단행하고 있습니다. 앞으로도 규모는 한층 커질 전망입니다. 인공지능(AI) 전쟁에서 승기를 잡기 위해 역대 최대 규모의 투자이죠. 2026 회계연도 동안 AI 인프라 확충 등을 위해 1200억 달러의 자본을 지출하겠다고 밝혔는데, 이는 전년보다 36% 증가한 것입니다. 과연 마소는 이 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101508</code_id>
+<code_nm><![CDATA[빅데이터]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101508</small_code_id>
+<small_code_nm><![CDATA[빅데이터]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101509</code_id>
+<code_nm><![CDATA[데이터산업]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101509</small_code_id>
+<small_code_nm><![CDATA[데이터산업]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/09/news-p.v1.20250805.77afbba1816644c6a884def14dc2d3a8_P1.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/09/news-p.v1.20250805.8abae9a972714edaa33bf05ae774a3e6_P1.png]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/09/news-p.v1.20250805.f03c51f9414a47579e8e70e58aca63a5_P1.png]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/09/news-p.v1.20250805.425e5bfad00f4f62aa8482a439522b1f_P1.png]]></image_url>
+<image_caption><![CDATA[ MS의 데이터센터 전경.]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11385619]]></article_url>
+</article>
+</saltlux>

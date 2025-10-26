@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11392049</art_id>
+<art_year>2025</art_year>
+<art_no>576062</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-12 18:01:00</service_daytime>
+<title><![CDATA[당국 개입에…업계 '코인대여 서비스' 속도조절]]></title>
+<sub_title><![CDATA[정부 가이드라인 발표 앞두고<br>빗썸 코인 대여한도 등 줄이고<br>업비트, 테더 렌딩서비스 중단]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[이종화 기자(andrewhot12@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250813</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>21</pub_page>
+<reg_dt>2025-08-12 18:01:00</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100502</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[국내 주요 가상자산 거래소들이 당국의 가이드라인 발표를 앞두고 대여 서비스 '속도 조절'에 나서고 있다.
+12일 가상자산 업계에 따르면 빗썸은 지난 8일부터 기존보다 축소된 가상자산 렌딩 서비스를 재개했다.
+빗썸은 대여 한도를 10억원에서 2억원으로 5분의 1 수준까지 줄였고, 대여 비율 역시 4배에서 2배로 대폭 축소했다. 또 서비스 이용을 위한 최소 누적 거래금액도 기존 100만원에서 1000만원으로 높였다. 
+업비트는 테더(USDT) 대여 서비스를 중단한 상황이다. 현재 비트코인과 XRP에 대한 대여 서비스만 제공하고 있다.
+당국이 8월 내 가상자산 대여 서비스에 대한 가이드라인을 내놓을 예정인 가운데 업계가 자발적으로 렌딩 서비스 속도 조절에 나서는 모습이다.
+이 같은 렌딩 서비스는 가상자산 투자자가 주식시장의 레버리지 및 공매도 투자와 유사한 전략을 취할 수 있도록 한다. 테더를 빌려 원하는 가상자산에 투자하면 레버리지 전략이, 비트코인 등 다른 가상자산을 대여해 미리 팔고 정해진 시점에 되사서 갚으면 공매도 전략이 가능하기 때문이다.
+업계 일각에선 국내외 거래소 간 서비스 격차로 인해 투자자가 빠져나갈 수 있다는 우려가 나오고 있다. 국내 거래소를 통해서는 가상자산 파생상품에 대한 접근이 제한돼 있어 해외 거래소로 눈을 돌릴 수밖에 없는 상황이다. 
+바이낸스는 자본금의 최대 10배 투자가 가능한 마진거래 상품을 제공하고, 바이비트 등은 100배 이상 선물 거래를 지원하고 있기 때문이다.
+한 가상자산 업계 관계자는 "가상자산의 글로벌 트렌드는 빠르게 변화하고 있지만, 국내 서비스 환경은 그에 미치지 못하는 상황"이라고 말했다.
+[이종화 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[국내 주요 가상자산 거래소들이 당국의 가이드라인 발표를 앞두고 대여 서비스 '속도 조절'에 나서고 있다.
+12일 가상자산 업계에 따르면 빗썸은 지난 8일부터 기존보다 축소된 가상자산 렌딩 서비스를 재개했다.
+빗썸은 대여 한도를 10억원에서 2억원으로 5분의 1 수준까지 줄였고, 대여 비율 역시 4배에서 2배로 대폭 축소했다. 또 서비스 이용을 위한 최소 누적 거래금액도 기존 100만원에서 1000만원으로 높였다. 
+업비트는 테더(USDT) 대여 서비스를]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100502</code_id>
+<code_nm><![CDATA[시황]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100502</small_code_id>
+<small_code_nm><![CDATA[시황]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11392049]]></article_url>
+</article>
+</saltlux>

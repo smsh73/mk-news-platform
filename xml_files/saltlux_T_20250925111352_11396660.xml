@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11396660</art_id>
+<art_year>2025</art_year>
+<art_no>589559</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-19 07:02:06</service_daytime>
+<title><![CDATA[잭슨홀 경계감에 뉴욕증시 숨고르기 [월가월부]]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[임성현 특파원(einbahn@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-19 07:02:06</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100101</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/19/news-p.v1.20250819.89bc38ea2f404f688378975cc9c2271d_P1.jpg' alt=' 뉴욕증권거래소'>
+오는 21~23일 잭슨홀 미팅을 앞두고 미국 뉴욕증시가 숨고르기에 들어갔다. 도널드 트럼프 대통령이 볼로디미르 젤렌스키 대통령괴 회담을 가지며 푸틴 러시아 대통령까지 3자회담이 성사될지 주목되는 가운데 분수령을 맞은 우크라이나 전쟁 불확실성도 투자자들의 관망세를 부추겼다.
+18일(현지시간) 뉴욕증권거래소에서 대형주 중심의 S&P500 지수는 전장보다 0.01% 하락한 6449.15를 기록했고 기술주 중심의 나스닥지수는 0.03% 오른 2만1629.774에 거래를 마쳤다. 다우존스30 산업평균지수도 0.08% 내린 4만4911.82로 마감했다. 그동안 사상 최고치 행진을 벌이던 S&P500, 나스닥지수도 이날 약보합세를 나타냈다.
+빅테크 주가는 혼조 양상을 보였다. 인공지능(AI) 부문 구조조정 소식에 메타가 2% 이상 하락했지만 엔비디아는 상승세를 이어가며 시가총액이 4조5000억달러에 육박했다.
+무엇보다 시장은 잭슨홀 미팅에서 제롬 파월 연방준비제도(Fed) 의장이 내놓을 메시지에 주목하고 있다. 7월 소비자물가지수(CPI)와 생산자물가지수(PPI)가 엇갈린 방향을 보이면서 치솟던 금리인하 전망도 다소 약해진 상태다. 이날 시카고상품거래소(CME) 패드워치에 따르면 9월 연방공개시장위원회(FOMC)에서 금리를 0.25%포인트 인하할 확률은 83.1%로 다소 줄었다. 대신 동결 전망이 16.9%로 다시 높아졌다. 연내 추가 인하 기대 역시 다소 낮아졌다. 10월 인하 가능성은 42.7%, 12월은 47.7%다.
+7월 고용쇼크에 따라 여전히 9월 금리인하 가능성은 높은 상황이다. 이트레이드의 크리스 라킨은 “시장에서는 노동시장 약화 신호가 인플레이션 리스크보다 더 큰 비중을 차지해 9월 금리 인하 논의에 힘을 실을 것으로 보고 있다”고 말했다.
+반면 관세발 인플레이션 우려도 여전하다. 이때문에 파월 의장이 잭슨홀에서 금리인하보다는 8월 고용과 물가지표를 확인하겠다는 입장을 밝힐 것으로 전망하는 전문가들도 많다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[오는 21~23일 잭슨홀 미팅을 앞두고 미국 뉴욕증시가 숨고르기에 들어갔다. 도널드 트럼프 대통령이 볼로디미르 젤렌스키 대통령괴 회담을 가지며 푸틴 러시아 대통령까지 3자회담이 성사될지 주목되는 가운데 분수령을 맞은 우크라이나 전쟁 불확실성도 투자자들의 관망세를 부추겼다. 18일(현지시간) 뉴욕증권거래소에서 대형주 중심의 S&P500 지수는 전장보다 0.0]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100101</code_id>
+<code_nm><![CDATA[경제일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100101</small_code_id>
+<small_code_nm><![CDATA[경제일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101002</code_id>
+<code_nm><![CDATA[국제경제]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101002</small_code_id>
+<small_code_nm><![CDATA[국제경제]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/19/news-p.v1.20250819.89bc38ea2f404f688378975cc9c2271d_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 뉴욕증권거래소]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11396660]]></article_url>
+</article>
+</saltlux>

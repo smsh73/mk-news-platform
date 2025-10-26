@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11402023</art_id>
+<art_year>2025</art_year>
+<art_no>605870</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-25 12:00:00</service_daytime>
+<title><![CDATA[경찰 “테러 협박에 공권력 낭비 심각…대응 가이드라인 세울 것”]]></title>
+<sub_title><![CDATA[‘日 변호사’ 테러 48건…국제공조수사 나서]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[지혜진 기자(ji.hyejin@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-25 11:33:15</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100801</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">‘日 변호사’ 테러 48건…국제공조수사 나서</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/25/rcv.YNA.20250810.PYH2025081005140001301_P1.jpg' alt=' 10일 서울 올림픽공원 KSPO돔(올림픽체조경기장)에서 폭발물 설치 신고가 접수된 가운데 수색을 마친 특공대가 이동하고 있다. [연합뉴스]'>
+경찰이 지속되는 테러 협박에 공권력 낭비 문제가 심각해지면서 대응책 마련에 시동을 걸었다.
+25일 박현수 서울경찰청장 직무대리는 정례 기자간담회에서 테러 협박과 관련해 “공권력 낭비가 매우 심각한 문제로, 나름의 가이드라인을 세우려고 하는 상태”라고 말했다.
+특히 지난 2023년 8월부터 이어지고 있는 일본 변호사 ‘가라사와 다카히로’ 명의의 팩스 테러가 이달 들어 급격하게 늘어나고 있다. 매번 협박 메시지를 수신할 때마다 공권력이 투입돼 필요한 치안 현장에 피해가 가고 있다는 지적이 이어지고 있다. 이날 오전에도 서울시청과 서울 소재 초등학교에 폭발물을 협박했다는 팩스가 수신돼 경찰이 확인에 나서기도 했다.
+박 직무대리는 “전체적으로 48건을 병합 수사하고 있는데, 이달 들어서면 7건이 접수돼 일본 등과 국제 공조를 하고 있다”며 “(이날 팩스 협박과) 관련된 내용을 보니 과거 사례와 유사해 저위험 수위로 보고 자체 수색은 하지 않았다”고 설명했다. 이어 “특공대나 경찰서 대응팀이 대기중이지만 직접적인 수색 대신 112 연계 순찰 등으로 대응중”이라며 “공권력 낭비가 매우 심각해 특공대도 힘든 상황”이라고 덧붙였다.
+서울경찰청 관계자는 “이달에는 팩스 6건, 이메일 1건 등 ‘일본 변호사’ 관련 테러가 접수됐다”며 “일본과 공조회의를 진행했고 일본 주재관 파견 중인 경찰 영사를 통해서도 접촉하고 있다”고 설명했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[‘日 변호사’ 테러 48건…국제공조수사 나서경찰이 지속되는 테러 협박에 공권력 낭비 문제가 심각해지면서 대응책 마련에 시동을 걸었다. 25일 박현수 서울경찰청장 직무대리는 정례 기자간담회에서 테러 협박과 관련해 “공권력 낭비가 매우 심각한 문제로, 나름의 가이드라인을 세우려고 하는 상태”라고 말했다. 특히 지난 2023년 8월부터 이어지고 있는 일본 변호사]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100801</code_id>
+<code_nm><![CDATA[사회일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100801</small_code_id>
+<small_code_nm><![CDATA[사회일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100805</code_id>
+<code_nm><![CDATA[법원·검찰·경찰]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100805</small_code_id>
+<small_code_nm><![CDATA[법원·검찰·경찰]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100804</code_id>
+<code_nm><![CDATA[사건·사고]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100804</small_code_id>
+<small_code_nm><![CDATA[사건·사고]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/25/rcv.YNA.20250810.PYH2025081005140001301_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 10일 서울 올림픽공원 KSPO돔(올림픽체조경기장)에서 폭발물 설치 신고가 접수된 가운데 수색을 마친 특공대가 이동하고 있다. [연합뉴스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11402023]]></article_url>
+</article>
+</saltlux>

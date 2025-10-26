@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11388462</art_id>
+<art_year>2025</art_year>
+<art_no>566180</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-08 09:44:29</service_daytime>
+<title><![CDATA[Samsung to make iPhone image sensors in Texas]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-08 09:44:29</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK400111</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/08/news-p.v1.20250808.17a50b0f0571412d95d156ccc8147e02_P1.jpg' alt=' (Reuters/Yonhap News)'>
+Samsung Electronics has found an opportunity to rebound in its system semiconductor and foundry businesses by securing a deal to supply Apple with advanced image sensor (CIS) chips and produce them at its U.S. foundry. Coming on the heels of its recent Tesla AI chip contract, this deal injects new life into Samsung Semiconductor’s core businesses, providing a much-needed boost to both its Foundry and System LSI divisions.
+On Thursday, Apple CEO Tim Cook visited the White House in Washington, D.C., to unveil a large-scale investment plan for domestic manufacturing. Simultaneously, Apple announced in a press release that it has partnered with Samsung to develop a pioneering chip-manufacturing technique at Samsung’s foundry in Austin, Texas. Apple emphasized that deploying this technology in the U.S. would support the production of power-efficient, high-performance chips for iPhones and other Apple products shipped globally.
+Industry analysts estimate that the chips Samsung will fabricate for Apple are next-generation image sensors. Under this arrangement, Samsung’s System LSI division will design the sensors, which Apple will source, and Samsung’s Austin foundry will handle their manufacture.
+Previously, Apple relied on Sony-made image sensors produced in Japan and had explored shifting production to a newly built TSMC fab in Japan. By choosing Samsung’s U.S. facility, Apple appears to be responding to longstanding pressure to localize semiconductor manufacturing in the U.S. Moreover, TSMC’s Arizona fab is already tasked with producing Apple’s application processors and chips for other clients, making Samsung’s Texas facility a more viable partner.
+Although full details on how soon and how much Samsung’s foundry revenue will grow remain undisclosed, analysts expect a substantial boost given that the components will supply all Apple products. For context, Sony’s imaging and sensor business posted 1.8 trillion yen (about 17 trillion won or $12.25 billion) in sales last year — a useful benchmark for scale.
+Samsung is currently the second-largest image-sensor supplier, trailing Sony. Last year, Sony held roughly 50 percent of the market, while Samsung’s share stood at 15.4 percent. With Apple joining its customer roster, Samsung’s market share could rise significantly. It already supplies sensors to Samsung Galaxy phones as well as to Xiaomi, Vivo, and Motorola devices.
+Profitability remains uncertain, however. Reports, including from MacRumors, suggest that Apple has developed a high-performance sensor with technical capabilities close to the human eye and may have played a significant role in its design — a move that could influence margins depending on cost arrangements.
+This renewed semiconductor cooperation between Apple and Samsung harkens back to their early iPhone days, when Samsung produced Apple’s chips via its foundry. After Apple began designing its own application processors and shifted production to TSMC around 2015, the partnership diminished. The current dual collaboration — spanning both chip design and fabrication — could signal further future agreements.
+Notably, Apple has considered using Samsung’s modems instead of costlier Qualcomm alternatives, though no contract has yet materialized. Meanwhile, Samsung’s foundry business may now be better positioned to land additional big-tech orders from Nvidia, Qualcomm, and Broadcom. Despite maintaining relationships with many fabless clients, Samsung had been losing ground in advanced nodes such as 2nm; Apple’s image-sensor order, a sophisticated component, is likely to be manufactured using its most advanced processes.
+Samsung’s semiconductor division saw its operating profit slump to 400 billion won in the second quarter, reflecting a sharp deterioration in profitability due to steep losses in the foundry business. Additional orders, however, are expected to gradually narrow the foundry unit’s losses going forward. As of the first quarter, TSMC held 67.6 percent of the global foundry market, while Samsung trailed far behind at 7.7 percent.
+Importantly, this agreement is a timely boon for Samsung’s System LSI division, which has struggled amid competition from Qualcomm in flagship processors — notably Exynos’ diminishing presence in Galaxy models. Securing Apple as a client offers a significant strategic lifeline.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[Samsung Electronics has found an opportunity to rebound in its system semiconductor and foundry businesses by securing a deal to supply Apple with advanced image sensor (CIS) chips and produce them at]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK400111</code_id>
+<code_nm><![CDATA[Biz]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00308</middle_code_id>
+<middle_code_nm><![CDATA[English]]></middle_code_nm>
+<small_code_id>MK400111</small_code_id>
+<small_code_nm><![CDATA[Biz]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/08/news-p.v1.20250808.17a50b0f0571412d95d156ccc8147e02_P1.jpg]]></image_url>
+<image_caption><![CDATA[ (Reuters/Yonhap News)]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11388462]]></article_url>
+</article>
+</saltlux>

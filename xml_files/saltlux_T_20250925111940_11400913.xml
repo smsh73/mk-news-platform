@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11400913</art_id>
+<art_year>2025</art_year>
+<art_no>602146</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-22 22:54:26</service_daytime>
+<title><![CDATA[북한 ‘김수키’ 아닌 듯…국내 이통사·정부기관 해킹 주체는 중국?]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[안서진 매경 디지털뉴스룸 기자(seojin@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-22 22:54:26</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100801</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/22/news-p.v1.20250822.da5f49099adb4f238250d3e898caf8ef_P1.png' alt=' [사진출처=연합뉴스]'>
+지난해부터 올해 6월까지 국내 이동통신사와 정부기관 등을 공격한 해커 조직은 북한 정찰총국 산하 ‘김수키(Kimsuky)’가 아니라 중국 조직일 가능성이 높다는 국내 연구진 분석이 나왔다.
+고려대 정보보호대학원 해킹대응기술연구실과 디지털포렌식연구센터는 22일 오후 서울 성북구 고려대 정운오IT교양관에서 이 같은 내용을 담은 연구결과를 발표했다.
+연구는 최근 미국 보안 전문지 ‘프랙’(Phrack)에 실린 김수키 추정 해킹 관련 공개자료를 분석해 이뤄졌다. 이 자료에는 행정안전부와 외교부, 통일부, 해양수산부 등 정부 기관을 비롯해 통신사와 언론사 등 민간 기업에 대한 해킹 공격 흔적이 담겼다.
+해킹 기간은 지난해부터 올해 6월까지로 장기간에 걸쳐 공격이 이뤄진 것으로 파악됐다.
+연구진은 “공개된 자료만으로는 북한에 의한 공격이라 단정 지을 수 없다는 결론”이라며 “해커 작업 패턴을 종합하면 중국어에 친숙하고 한국어는 익숙하지 않은 중국인일 가능성이 매우 높다”고 분석했다.
+이들은 그 근거로 소스 코드에 중국어로 작성된 주석이 포함된 점, 중국 해커그룹들이 그간 즐겨 쓰던 해킹 수법과 동일한 공격 도구를 사용한 점 등을 제시했다.
+또 한국어 문장을 구글 번역 사이트를 통해 중국어 또는 영어로 번역한 점, 중국 청명절이나 노동절, 단오 등에는 해킹하지 않은 점, 여가 시간에 중국 동영상 사이트 에이시펀(AcFun)에 반복적으로 접근한 점 등에도 주목했다.
+연구진은 이 같은 내용을 바탕으로 이 해킹 조직이 중국 정부의 후원을 받는 것으로 알려진 해킹 조직인 ‘APT 41’과 ‘UNC3887’ 등과 관련이 있거나 영향받았을 가능성이 있다고 추정했다.
+해커들은 피해 기관에 대한 해킹 작업용 리눅스 시스템에서는 한국표준시(UTC+9)로 설정했으나 피싱 사이트 서버 코드(PHP)는 ‘UTC+8’로 설정한 것으로 분석됐다. ‘UTC+8’을 표준시간으로 쓰는 국가군에 중국이 포함돼 있다는 게 연구진의 설명이다.
+연구진은 “‘프랙’ 저자들의 추론처럼 중국과 긴밀하게 교류하는 김수키 그룹의 행위일 가능성도 배제할 수는 없으나 북한의 소행이라고 단정 짓기에는 증거가 미비하다”고 설명했다.
+김휘영 해킹대응기술연구실 교수는 이와 관련해 “김수키 그룹 안에서 중국인을 용병처럼 아웃소싱(외부 용역)해서 썼다는 다양한 가설이 있을 수도 있다”면서도 “다만 팩트가 아직 찾아지지 않은 그런 가설들은 배제하고 순수하게 발견된 수법, 기술들을 분석했을 때 중국 쪽이 조금 더 맞는 것으로 보인다”고 설명했다.
+이 해커 조직은 리눅스 환경에서 개발 능력이 능수능란하고 최근 유행하는 공격 기법들을 잘 이해해 개인화하는 능력이 있어 최소 중급에서 고급 수준의 개발 능력을 갖춘 것으로 연구진은 추정했다.
+과학기술정보통신부는 지난 20일 국회에서 통신사들로부터 자료를 제출받아 이들이 제기한 의혹을 파악해보겠다고 밝힌 상태다.
+고려대 연구진은 두 해커가 이달 초 미국에서 열린 해킹대회 ‘데프콘 2025’(DefCon 2025)에서 배포한 파일과 데이터를 심층 분석했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[지난해부터 올해 6월까지 국내 이동통신사와 정부기관 등을 공격한 해커 조직은 북한 정찰총국 산하 ‘김수키(Kimsuky)’가 아니라 중국 조직일 가능성이 높다는 국내 연구진 분석이 나왔다. 고려대 정보보호대학원 해킹대응기술연구실과 디지털포렌식연구센터는 22일 오후 서울 성북구 고려대 정운오IT교양관에서 이 같은 내용을 담은 연구결과를 발표했다. 연구는 최근]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100801</code_id>
+<code_nm><![CDATA[사회일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100801</small_code_id>
+<small_code_nm><![CDATA[사회일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100805</code_id>
+<code_nm><![CDATA[법원·검찰·경찰]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100805</small_code_id>
+<small_code_nm><![CDATA[법원·검찰·경찰]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/22/news-p.v1.20250822.da5f49099adb4f238250d3e898caf8ef_P1.png]]></image_url>
+<image_caption><![CDATA[ [사진출처=연합뉴스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11400913]]></article_url>
+</article>
+</saltlux>

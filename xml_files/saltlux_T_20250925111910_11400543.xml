@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11400543</art_id>
+<art_year>2025</art_year>
+<art_no>601160</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-22 15:52:33</service_daytime>
+<title><![CDATA[에어리퀴드, 4.6조원에 DIG에어가스 품는다]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[명지예 기자(bright@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-22 15:52:33</reg_dt>
+<mod_dt>2025-08-22 16:23:34</mod_dt>
+<art_org_class>MK100514</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/22/news-p.v1.20250822.daa9ed000870430c9782ce3b86866c8f_P1.png' alt=' [사진=DIG에어가스]'>
+프랑스 산업용 가스 기업 에어리퀴드가 DIG에어가스 인수를 위한 최종 계약을 체결했다. 거래 규모는 기업가치 4조6000억원에 달한다.
+22일 에어리퀴드 측은 맥쿼리자산운용과 DIG에어가스 지분 100% 인수를 위한 주식매매계약(SPA)을 맺었다.
+이번 거래는 내년 상반기 안에 한국 당국의 기업결합 심사 등 관련 절차를 마무리한 뒤 종결될 예정이다.
+거래 금액은 총 28억5000만유로, 원화 기준 4조6000억원 규모로 평가됐다. DIG에어가스의 2024년 예상 EBITDA(상각전 영업이익) 대비 약 20배 수준이다.
+향후 DIG에어가스가 보유한 대형 프로젝트 수주 물량과 비용 절감 시너지를 반영하면 배수는 변경될 수 있다.
+DIG에어가스는 1979년 설립된 한국 3위 산업용 가스 기업으로, 전국에 60여 개 생산 거점과 220km 파이프라인 네트워크를 보유하고 있다.
+맥쿼리자산운용은 지난 2020년 아시아인프라펀드 2호를 통해 DIG에어가스 지분 100%를 2조8000억원에 인수한 바 있다.
+DIG에어가스의 지난해 매출은 7520억원, 임직원은 약 550명 규모다.
+반도체·2차전지 등 첨단산업 고객사를 다수 확보하며 성장세를 이어가고 있다.
+프랑수아 자코 에어리퀴드 CEO는 “이번 인수로 한국이라는 핵심 성장 시장에서 입지를 대폭 강화하게 됐다”며 “DIG에어가스와의 결합을 통해 반도체, 청정에너지, 모빌리티 분야에서 시너지를 창출하고 그룹 순이익 증가에도 기여할 것”이라고 말했다.
+이번 계약 체결로 DIG에어가스 매각전은 사실상 마무리 단계에 들어섰으며 에어리퀴드는 한국 산업용 가스 시장에서 입지를 대폭 강화하게 됐다.
+맥쿼리자산운용 관계자는 “4조6000억원은 지난해 말 기준 몸값이며 실제 클로징 시점에는 이자와 부채가 반영돼 부담 총액이 5조원에 육박할 것”이라고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[프랑스 산업용 가스 기업 에어리퀴드가 DIG에어가스 인수를 위한 최종 계약을 체결했다. 거래 규모는 기업가치 4조6000억원에 달한다. 22일 에어리퀴드 측은 맥쿼리자산운용과 DIG에어가스 지분 100% 인수를 위한 주식매매계약(SPA)을 맺었다. 이번 거래는 내년 상반기 안에 한국 당국의 기업결합 심사 등 관련 절차를 마무리한 뒤 종결될 예정이다. 거래 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100514</code_id>
+<code_nm><![CDATA[펀드]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100514</small_code_id>
+<small_code_nm><![CDATA[펀드]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100509</code_id>
+<code_nm><![CDATA[증권계동향]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100509</small_code_id>
+<small_code_nm><![CDATA[증권계동향]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/22/news-p.v1.20250822.daa9ed000870430c9782ce3b86866c8f_P1.png]]></image_url>
+<image_caption><![CDATA[ [사진=DIG에어가스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11400543]]></article_url>
+</article>
+</saltlux>

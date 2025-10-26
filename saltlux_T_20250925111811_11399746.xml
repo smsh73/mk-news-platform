@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11399746</art_id>
+<art_year>2025</art_year>
+<art_no>598892</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-21 17:58:57</service_daytime>
+<title><![CDATA[韓증시 흔드는 외국계 보고서]]></title>
+<sub_title><![CDATA[알테오젠, 매도 의견 이후<br>외국인자금 840억 순유출<br>매수 유지 카카오는 뭉칫돈]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김정석 기자(jsk@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250822</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>20</pub_page>
+<reg_dt>2025-08-21 17:58:58</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100502</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/22/20250822_01110120000003_L00.jpg' alt=''>
+
+글로벌 투자은행(IB) 리포트가 부정적인 투자의견을 낸 국내 종목에서 외국인 자금이 줄줄이 빠져나가고 있다. 외국인 투자자들이 국내 증시로 돌아오면서 외국계 증권사의 매도 리포트가 수급에 이어 주요 종목들 주가까지 좌우하는 현상이 강해지고 있다.
+21일 한국거래소에 따르면 알테오젠은 지난 13일(현지시간) 글로벌 증권사 UBS가 매도 의견 리포트를 낸 이후 외국인 자금 840억원어치가 빠져나갔다. 외국인 투자자들의 매도세에 알테오젠 주가는 지난 14일부터 이날까지 9.69% 하락했다. 당시 UBS는 알테오젠의 키트루다 피하주사(SC) 제형 등 파이프라인(연구개발 중인 신약 프로젝트) 가치보다 주가가 고평가됐다며 부정적인 의견을 내놨다. 
+알테오젠은 즉시 UBS의 과소평가를 문제 삼으며 반박하는 입장을 냈지만 외국인의 이탈세는 이어졌다. 한때 국민주로 꼽혔던 '네카오'의 외국인 수급도 골드만삭스의 리포트 이후 엇갈렸다. 지난달 16일 골드만삭스는 네이버의 투자의견을 기존 '매수'에서 '중립'으로 내리고, 카카오에 대해서는 매수 의견을 유지하며 목표가를 올렸다.
+이후 외국인 투자자들은 네이버를 9500억원어치 팔아치운 반면 카카오는 3570억원어치 사들였다. 이때 네이버 주가는 10.8% 하락했으나 카카오는 14.08% 치솟았다. 
+[김정석 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[글로벌 투자은행(IB) 리포트가 부정적인 투자의견을 낸 국내 종목에서 외국인 자금이 줄줄이 빠져나가고 있다. 외국인 투자자들이 국내 증시로 돌아오면서 외국계 증권사의 매도 리포트가 수급에 이어 주요 종목들 주가까지 좌우하는 현상이 강해지고 있다.
+21일 한국거래소에 따르면 알테오젠은 지난 13일(현지시간) 글로벌 증권사 UBS가 매도 의견 리포트를 낸 이후 외국인 자금 840억원어치가 빠져나갔다. 외국인 투자자들의 매도세에 알테오젠 주가는 지난 14일부]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100502</code_id>
+<code_nm><![CDATA[시황]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100502</small_code_id>
+<small_code_nm><![CDATA[시황]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/22/20250822_01110120000003_L00.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11399746]]></article_url>
+</article>
+</saltlux>

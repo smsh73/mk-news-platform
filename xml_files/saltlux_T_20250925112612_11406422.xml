@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11406422</art_id>
+<art_year>2025</art_year>
+<art_no>619281</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-29 19:48:02</service_daytime>
+<title><![CDATA[D램 가격 이달 46% 급등 … 6년 반 만에 5달러 돌파]]></title>
+<sub_title><![CDATA[PC용 DDR4 공급 부족에<br>5개월째 상승, DDR5 역전]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[박소라 기자(park.sora@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250830</pub_date>
+<pub_edition>16</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>9</pub_page>
+<reg_dt>2025-08-29 19:48:02</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100308</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[8월 메모리 반도체 시장에서 D램과 낸드플래시 가격이 나란히 상승세를 이어갔다. 특히 PC용 범용 제품인 DDR4는 5달러를 돌파하며 '폭등' 수준의 흐름을 보였다.
+29일 시장조사업체 D램익스체인지에 따르면 8월 DDR4 8Gb(1Gx8) 평균 고정거래가격은 전월보다 46.2% 급등한 5.70달러를 기록했다.
+지난 4~7월 각각 22.22%, 27.27%, 23.81%, 50.0% 오르며 다섯 달 연속 급등세를 보인 결과다. DDR4 가격이 5달러를 넘어선 것은 2019년 2월(5.13달러) 이후 6년6개월 만이다.
+DDR4가 출시된 지 10년이 넘은 구형 제품임에도 가격이 역주행하듯 치솟는 배경에는 서버용 DDR5 수요 폭증이 자리한다.
+데이터센터 시장을 중심으로 DDR5 채택이 확대되면서 주요 메모리 업체들이 DDR4 생산을 줄였고 여기에 미국발 관세 변수와 생산 종료 예고가 겹치자 공급 차질을 우려한 '사재기 수요'까지 불거진 것이다. 이 같은 요인들이 맞물리며 가격 상승을 부추겼다는 분석이다.
+시장조사업체 트렌드포스는 "서버용 DDR5 수요 급증으로 PC용 범용 DDR4 공급량이 크게 줄었다"며 "DDR5 가격은 오히려 DDR4 대비 1% 저렴해졌는데, 이는 지난 2분기 DDR5가 DDR4보다 31% 비쌌던 것과 대조적"이라고 설명했다.
+실제 모듈 가격을 보면 8월 DDR4 8GB 모듈 평균가는 전월 대비 0~5% 오른 27달러, DDR5 8GB 모듈 평균가는 3~8% 상승한 26.75달러 수준으로 집계됐다. 낸드플래시 역시 상승세를 이어갔다. 메모리카드·USB용 128Gb(16Gx8 MLC) 제품의 8월 평균 고정거래가격은 전월보다 1.12% 올랐다.  
+[박소라 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[8월 메모리 반도체 시장에서 D램과 낸드플래시 가격이 나란히 상승세를 이어갔다. 특히 PC용 범용 제품인 DDR4는 5달러를 돌파하며 '폭등' 수준의 흐름을 보였다.
+29일 시장조사업체 D램익스체인지에 따르면 8월 DDR4 8Gb(1Gx8) 평균 고정거래가격은 전월보다 46.2% 급등한 5.70달러를 기록했다.
+지난 4~7월 각각 22.22%, 27.27%, 23.81%, 50.0% 오르며 다섯 달 연속 급등세를 보인 결과다. DDR4 가격이 5달러를 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100308</code_id>
+<code_nm><![CDATA[자동차]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100308</small_code_id>
+<small_code_nm><![CDATA[자동차]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11406422]]></article_url>
+</article>
+</saltlux>

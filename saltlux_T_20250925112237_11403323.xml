@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11403323</art_id>
+<art_year>2025</art_year>
+<art_no>610034</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-26 16:56:36</service_daytime>
+<title><![CDATA[“나도 모르는 TV 고장을 고쳤다고?”…LG유플러스가 가능하다고 자신하는 이유]]></title>
+<sub_title><![CDATA[AI가 IPTV 품질 문제 사전 탐지
+이용자 불편 최소화하는 선제 대응
+불만 접수 10% 감소 효과 확인]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[이가람 매경 디지털뉴스룸 기자(r2ver@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-26 16:56:36</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100309</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">AI가 IPTV 품질 문제 사전 탐지<br>이용자 불편 최소화하는 선제 대응<br>불만 접수 10% 감소 효과 확인</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/26/news-p.v1.20250826.b9f2e59ad80e41cbb580848181f71067_P1.jpg' alt=' 강봉수 LG유플러스 품질혁신센터장이 26일 서울 중구 LG서울역빌딩에서 기자간담회를 열고 ‘AI 기반 고객 불편 예측 및 선제 조치 시스템’을 소개하고 있다. [사진 제공 = LG유플러스]'>
+LG유플러스가 통신산업의 기본기인 품질·보안·안전을 강화한다. 이를 위해 인공지능(AI) 기술 기반 인터넷(IP)TV 품질 개선에 나선다. IPTV 고장 또는 이상 여부를 이용자보다 먼저 감지하고 해결해 이용자 불만 제로에 도전하겠다는 목표다.
+26일 LG유플러스는 이날 오전 서울 중구 LG서울역빌딩에서 기자간담회를 열고 자체 개발한 ‘AI 기반 이용자 불편 예측 및 선제 조치 시스템’을 소개했다. 이 시스템은 이용자가 IPTV 서비스를 이용하면서 발생하는 데이터를 AI가 분석해 이상 징후를 파악하고 오류 발생 시 자체적으로 대응한다.
+영화 ‘마이너리티 리포트’에서 주인공이 최첨단 치안 시스템을 활용해 범죄가 일어날 것을 예측하고 범죄자를 검거하는 것과 비슷하다. LG유플러스에 따르면 AI가 집계하는 이용자 데이터는 하루에 1조개가 넘는다.
+예를 들어 AI 시스템이 이용자가 서비스 장애를 체감하기도 전에 화질 저하 기미를 알아채고 원격 조치해 문제를 해결하는 방식이다. 이러한 조치는 이용자가 셋톱박스를 사용하지 않을 때 이뤄진다. 기존에는 이용자가 불편을 겪게 되면 고객센터로 연락해 상담원이 원인을 찾는 방식으로 문제를 해결해야 했다. 이 과정에서 적지 않은 시간이 소요되곤 했다.
+<strong><div style="border-top: 4px solid #ed6d01;border-bottom: 1px solid #ed6d01;font-size: 18px;padding: 10px 0;margin:30px 0;">수집→학습→탐지·조치…단계별 대응 체계</div></strong><img src='https://wimg.mk.co.kr/news/cms/202508/26/news-p.v1.20250826.0989ceb5d3c7447f82fc75735cf1023b_P1.jpg' alt=' LG유플러스 직원들이 인공지능(AI) 기반 고객 불편 예측·선제 조치 시스템을 확인하고 있다. [사진 제공 = LG유플러스]'>
+이 시스템은 구체적으로 데이터 수집, AI 학습, 이상 탐지 및 조치 등 3단계로 운영된다. 첫 번째 데이터 수집 단계에서는 이용자가 IPTV를 시청할 때 발생하는 단말 품질 데이터와 인터넷 공유기 및 네트워크 연결 상태와 관련된 데이터 등 700종 이상의 데이터를 모은다. 이 중에서 이상 여부 판단에 필요한 270여종의 데이터를 선별한 뒤, AI 분석이 가능한 형태로 가공해 LG유플러스 데이터 허브에 저장한다.
+두 번째 AI 학습 단계에서는 AI가 과거에 발생했던 서비스 이상 사례를 비교·분석해 이상 탐지의 정확도를 높인다. 딥러닝 기반의 최신 AI 모델인 시계열 데이터 처리 기술(Transformer)을 최적화해 사소한 오류까지도 식별이 가능하도록 정밀도를 향상시켰다.
+세 번째 문제 탐지 및 조치 단계에서는 AI가 이용자의 환경을 분석해 서비스 상태가 정상인지 판단한다. 이상 징후가 확인되면 단말기의 상태와 접속 환경을 점검한다. 이후 재연결·재시작 등 가장 적합한 처치 방법을 AI가 스스로 결정한다.
+LG유플러스가 시스템 테스트를 진행한 결과 이용자 불만 예측 정확도가 약 30%로 나타났다. 이용자의 불만 접수 건수는 약 10% 줄어들었다. 수작업으로 진행할 경우 약 7만 시간이 걸리는 데이터 분석은 6시간으로, 문제 해결에 걸리는 기간은 기존 최대 3일에서 즉시로 단축됐다.
+LG유플러스는 UHD4 셋톱박스 사용자 90만명을 대상으로 이 시스템을 우선 도입할 방침이다. 내년에는 400만명에 이르는 모든 IPTV 고객으로 적용 범위를 넓힌다.
+강봉수 LG유플러스 품질혁신센터장은 “이용자 누구나 인정하는 최고 품질의 서비스를 위해 완전 자율 관리 체계를 완성하겠다”라며 “향후 서비스 전 영역으로 AI를 확대 적용해 이용자 불만 제로화에 도전하겠다”라고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[AI가 IPTV 품질 문제 사전 탐지 이용자 불편 최소화하는 선제 대응 불만 접수 10% 감소 효과 확인LG유플러스가 통신산업의 기본기인 품질·보안·안전을 강화한다. 이를 위해 인공지능(AI) 기술 기반 인터넷(IP)TV 품질 개선에 나선다. IPTV 고장 또는 이상 여부를 이용자보다 먼저 감지하고 해결해 이용자 불만 제로에 도전하겠다는 목표다. 26일 L]]></summary>
+</wms_article_summary>
+<stock_codes>
+<stock_code>032640</stock_code>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100309</code_id>
+<code_nm><![CDATA[통신]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100309</small_code_id>
+<small_code_nm><![CDATA[통신]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101502</code_id>
+<code_nm><![CDATA[통신]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101502</small_code_id>
+<small_code_nm><![CDATA[통신]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/26/news-p.v1.20250826.b9f2e59ad80e41cbb580848181f71067_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 강봉수 LG유플러스 품질혁신센터장이 26일 서울 중구 LG서울역빌딩에서 기자간담회를 열고 ‘AI 기반 고객 불편 예측 및 선제 조치 시스템’을 소개하고 있다. [사진 제공 = LG유플러스]]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/26/news-p.v1.20250826.0989ceb5d3c7447f82fc75735cf1023b_P1.jpg]]></image_url>
+<image_caption><![CDATA[ LG유플러스 직원들이 인공지능(AI) 기반 고객 불편 예측·선제 조치 시스템을 확인하고 있다. [사진 제공 = LG유플러스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11403323]]></article_url>
+</article>
+</saltlux>

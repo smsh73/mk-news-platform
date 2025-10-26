@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11407117</art_id>
+<art_year>2025</art_year>
+<art_no>621319</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-31 18:00:44</service_daytime>
+<title><![CDATA[중국 'AI칩 기술독립' 선언 … 화웨이 만들고 딥시크 쓴다]]></title>
+<sub_title><![CDATA[美규제가 자극한 中기술자립<br>엔비디아 의존도줄이기 안간힘<br>알리바바 칩 자체 개발 소식에<br>美반도체기술주 3% 안팎 하락]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[원호섭 기자(wonc@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250901</pub_date>
+<pub_edition>16</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>3</pub_page>
+<reg_dt>2025-08-31 18:00:44</reg_dt>
+<mod_dt>2025-08-31 20:08:32</mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[◆ 美반도체규제 이중잣대 ◆
+<img src='https://wimg.mk.co.kr/news/cms/202509/01/20250901_01160103000001_L00.jpg' alt=''>
+
+중국이 인공지능(AI) 반도체 자립을 본격화하고 있다. 알리바바의 AI 칩 자체 개발에 이어 딥시크의 화웨이 칩 도입 결정까지 이어지면서 중국이 미국 중심의 AI 생태계 의존도를 줄이려는 전략이 뚜렷해지고 있다.
+지난 29일(현지시간) 월스트리트저널(WSJ)에 따르면 알리바바는 AI 추론 작업에 특화된 신형 칩 개발을 완료하고 클라우드·데이터센터에 적용하는 시험 단계에 들어갔다. 새 칩은 엔비디아의 '쿠다(CUDA)' 플랫폼과 호환성이 높아 기존 코드를 거의 손보지 않고도 적용 가능하다는 점이 특징이다. 특히 설계부터 생산까지 중국 내 파운드리에서 이뤄져 기술 독립의 상징적 의미를 갖는다. 알리바바는 해당 칩을 자사 클라우드 인프라스트럭처에 탑재해 임대 서비스 형태로 제공할 계획이다.
+이 소식이 전해지자 글로벌 증시는 즉각 반응했다. 뉴욕 증시에서 엔비디아 주가는 3% 넘게 하락한 반면, 홍콩 증시에서 알리바바 주가는 실적 호조와 맞물려 12%나 급등했다. 지난 1월 중국 AI 스타트업 딥시크가 낮은 비용으로 챗GPT에 버금가는 성능을 구현했다고 발표하면서 '딥시크 쇼크'라는 말이 나왔듯, 이번에는 '알리바바 쇼크'라는 표현까지 등장했다.
+중국 기술 기업들의 자국 AI 칩 적용이 확대되는 분위기다. 지난 30일 정보기술(IT) 전문매체 디인포메이션은 딥시크가 차세대 AI 모델 R2 훈련에 화웨이의 '어센드(Ascend)' 칩을 일부 적용한다고 보도했다. 딥시크는 바이두, 캠브리콘 칩을 시험한 끝에 화웨이를 최종 선택한 것으로 전해졌다. 딥시크는 최상위 모델 훈련에는 엔비디아 칩을 계속 활용하되, 중소규모 모델 학습에는 화웨이 칩을 투입해 점진적 국산화를 추진한다는 전략이다.
+중국 내 AI 반도체 생태계는 기존 빅테크뿐 아니라 전문 스타트업을 중심으로도 빠르게 확대되고 있다. '중국판 엔비디아'로 불리는 캠브리콘은 최근 클라우드·데이터센터용 AI 칩 사업을 확장하며 알리바바, 텐센트, 딥시크 등 주요 고객을 확보했다. 중국 내에서는 최신 칩 성능이 엔비디아 A100의 80%에 도달했다는 평가까지 나오고 있다. 또 다른 AI 반도체 스타트업 비런테크놀로지는 지난 6월 지방정부 펀드와 상하이시 정부 등으로부터 15억위안(약 2800억원)을 조달하며 홍콩 증시 상장을 준비 중이다. 비런은 2023년 미국 규제로 TSMC 생산이 막히는 타격을 입었지만 이후 중국 파운드리를 활용해 제품을 공급하며 차이나모바일·차이나텔레콤 등 중국 내 대형 고객에 칩을 제공하고 있다.
+현재 중국 내에서 생산되는 AI 칩에 대한 정확한 통계는 없지만 로이터통신에 따르면 중국 정부는 내년까지 이를 3배 이상 늘리는 계획을 추진하고 있다. 디인포메이션은 "중국이 자체 칩 경쟁력을 키워 엔비디아와 경쟁할 수 있다는 우려가 나오고 있다"고 분석했다.  
+[실리콘밸리 원호섭 특파원]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[중국이 인공지능(AI) 반도체 자립을 본격화하고 있다. 알리바바의 AI 칩 자체 개발에 이어 딥시크의 화웨이 칩 도입 결정까지 이어지면서 중국이 미국 중심의 AI 생태계 의존도를 줄이려는 전략이 뚜렷해지고 있다.
+지난 29일(현지시간) 월스트리트저널(WSJ)에 따르면 알리바바는 AI 추론 작업에 특화된 신형 칩 개발을 완료하고 클라우드·데이터센터에 적용하는 시험 단계에 들어갔다. 새 칩은 엔비디아의 '쿠다(CUDA)' 플랫폼과 호환성이 높아 기존 코드를]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202509/01/20250901_01160103000001_L00.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11407117]]></article_url>
+</article>
+</saltlux>

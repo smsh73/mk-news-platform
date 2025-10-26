@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11403027</art_id>
+<art_year>2025</art_year>
+<art_no>609203</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-26 13:54:34</service_daytime>
+<title><![CDATA[韓美 정상 웃었지만...증시는 울상]]></title>
+<sub_title><![CDATA[26일 오전 코스피지수 하락세
+시총 상위 종목 줄줄이 떨어져
+수혜주 떠오른 조선주도 하락]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김형주 기자(livebythesun@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-26 13:54:34</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100502</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">26일 오전 코스피지수 하락세<br>시총 상위 종목 줄줄이 떨어져<br>수혜주 떠오른 조선주도 하락</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/26/news-p.v1.20250826.4468e9815ca748308ab732f67bea1052_P1.png' alt=' 26일 오전 코스피 시가총액 상위 종목 주가 추이 [네이버페이 캡처]'>
+한미정상회담으로 한미 관세협상의 불확실성이 축소됐지만 박스권에 머물던 한국 증시는 오히려 하락세를 보이고 있다.
+26일 오전 10시40분 기준 코스피지수는 3189.67로 전거래일 대비 0.63% 하락 중이다.
+시가총액 상위 15개 종목 중 삼성전자(-1.4%), 하이닉스(-0.19%), 한화에어로스페이스(-1.99%), 현대차(-0.9%), KB금융(-1.45%), 기아(-0.96%), 두산에너빌리티(-3.95%) 등이 모두 떨어졌고 LG에너지솔루션(0.53%), 삼성바이오로직스(0.39%)만 소폭 올랐다.
+두 정상이 MASGA(미국 조선업을 다시 위대하게)를 위한 양국 조선 협력을 강조해 수혜주로 떠오른 조선주들도 하락하고 있다.
+한화오션(-5.31%), HD한국조선해양(-4.89%), HD현대중공업(-3.6%), HD현대마린솔루션(-2.13%), STX엔진(-2.58%) 등이 줄줄이 떨어졌고 삼성중공업(4%), 대한조선(0.66%) 정도만 올랐다.
+한국 증시 전체에 대한 선행지표도 부정적 움직임을 보였다. 다음날 한국 증시의 선행지표로 활용되는 뉴욕 증시의 상장지수펀드(ETF) EWY는 1.06% 하락한 상태다. EWY는 한국 주요 종목들로 이뤄진 MSCI Korea 25/50 지수를 추종해 EWY 하락은 외국인의 한국 증시 비중 축소 신호를 나타낸다.
+외국인 자금은 이미 한국 증시를 이탈하고 있다. 외국인은 5월(1조2660억원), 6월(2조7620억원), 7월(6조2620억원) 3개월간 국내 증시를 10조원 넘게 순매수했지만 8월 1~25일 1639억원 순매도로 돌아섰다.
+코스피시장의 공매도 순보유 잔고금액 역시 12거래일 연속 10조원을 넘어서고 있다. 공매도 순보유 잔고금액은 투자자가 주식을 빌려 시장에 판 뒤 아직 갚지 않고 남아 있는 물량의 금액을 나타낸다.
+공매도 순보유 잔고금액이 많은 건 공매도의 주요 주체인 외국인과 기관이 코스피를 부정적으로 보고 있는 것으로 해석할 수 있다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[26일 오전 코스피지수 하락세 시총 상위 종목 줄줄이 떨어져 수혜주 떠오른 조선주도 하락한미정상회담으로 한미 관세협상의 불확실성이 축소됐지만 박스권에 머물던 한국 증시는 오히려 하락세를 보이고 있다. 26일 오전 10시40분 기준 코스피지수는 3189.67로 전거래일 대비 0.63% 하락 중이다. 시가총액 상위 15개 종목 중 삼성전자(-1.4%), 하이닉]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100502</code_id>
+<code_nm><![CDATA[시황]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100502</small_code_id>
+<small_code_nm><![CDATA[시황]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/26/news-p.v1.20250826.4468e9815ca748308ab732f67bea1052_P1.png]]></image_url>
+<image_caption><![CDATA[ 26일 오전 코스피 시가총액 상위 종목 주가 추이 [네이버페이 캡처]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11403027]]></article_url>
+</article>
+</saltlux>

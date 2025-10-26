@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11397902</art_id>
+<art_year>2025</art_year>
+<art_no>593042</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-20 09:55:35</service_daytime>
+<title><![CDATA[Nextrade faces allegations of pressuring small brokerages into main market]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-20 09:55:35</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK400110</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/20/news-p.v1.20250820.903b4757c4b4445ab79898f0f88cfa03_P1.png' alt=' (News1)'>
+Nextrade (NXT), South Korea’s first alternative trading system launched in March, is facing allegations that it pressured small brokerages seeking access only to its pre- and after-hours sessions to sign conditional contracts requiring participation in the main market.
+According to brokerage sources on Tuesday, many of the 14 small and mid-sized firms set to join the main market at the end of October had initially told NXT they had no intention of joining the main market.
+Main market access requires installation of a smart order routing (SOR) system, which routes orders to either the Korea Exchange (KRX) or NXT, and requires substantial investment.
+NXT offered interim access to the pre- and after-hours sessions for firms without SOR infrastructure, but only on the condition that they build the system and fully join the main market by October. Some firms pushed back, but NXT leveraged its monopoly in the pre- and after-market to allegedly press for compliance, according to sources.
+Agreements reviewed by Maeil Business Newspaper showed that brokerage access to NXT trading would be suspended entirely if they declined to participate in the main market.
+“We originally had no plan to join the main market, but due to NXT’s demands we had to spend billions of won developing an SOR system,” one brokerage official said. “It was an abuse of power, forcing smaller firms to shoulder unnecessary costs.”
+Observers noted that NXT’s requirements could raise antitrust concerns, as they may constitute abuse of dominance in the pre- and after-market and an attempt to extend market power into the main market.
+NXT dismissed the criticism.
+“Our basic premise was full market participation,” it said. “Because smaller firms said they needed more time to prepare, we allowed partial participation until October. Joining only the pre- and after-market raises issues about cherry-picking, which is unfair to other participants.”
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[Nextrade (NXT), South Korea’s first alternative trading system launched in March, is facing allegations that it pressured small brokerages seeking access only to its pre- and after-hours sessions to s]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK400110</code_id>
+<code_nm><![CDATA[Market]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00308</middle_code_id>
+<middle_code_nm><![CDATA[English]]></middle_code_nm>
+<small_code_id>MK400110</small_code_id>
+<small_code_nm><![CDATA[Market]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/20/news-p.v1.20250820.903b4757c4b4445ab79898f0f88cfa03_P1.png]]></image_url>
+<image_caption><![CDATA[ (News1)]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11397902]]></article_url>
+</article>
+</saltlux>

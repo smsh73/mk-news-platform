@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11402288</art_id>
+<art_year>2025</art_year>
+<art_no>606661</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-25 16:05:23</service_daytime>
+<title><![CDATA[AI교육과 클라우드 시너지로 차별화 … 직접 코딩하며 배우죠]]></title>
+<sub_title><![CDATA[김재원 엘리스그룹 대표<br>온라인교육플랫폼 엘리스LXP<br>클라우드 환경에서 직접 실습<br>이용자 275만명·9500곳 도입<br>모듈러데이터센터덕에 효율↑<br>日·호주등 해외진출도 잰걸음<br>정책 지원 일관성이 가장 중요]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[고민서 기자(esms46@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250826</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>02</pub_section>
+<pub_page>7</pub_page>
+<reg_dt>2025-08-25 16:05:23</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK300108</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/26/20250826_01110207000003_L00.jpg' alt=''>
+
+"클라우드는 인프라(기반 시설)일 뿐 진짜 변화를 이끌 무대는 교육입니다."
+김재원 엘리스그룹 대표(사진)는 최근 매일경제신문과의 인터뷰에서 "그래픽처리장치(GPU) 기반 클라우드 시장이 폭발적으로 성장하고 있지만 결국 인공지능(AI)이 가장 큰 혁신을 가져올 분야는 교육"이라며 이같이 밝혔다. 그러면서 그는 "교육 현장에서 AI를 제대로 활용하려면 안정적인 인프라와 정책적 지원이 필요하다"며 "정책은 단발로 끝나선 안 되고, 좋은 정책이 만들어졌다면 일관되게 유지·확산돼야 한다. 정책 방향이 흔들리면 기업 생존 자체가 어려워진다"고 강조했다.
+엘리스그룹은 2015년 설립된 AI 에듀테크 기업으로, 프로그래밍·인공지능·데이터 사이언스 실습을 위한 온라인 교육 플랫폼 '엘리스LXP'를 중심으로 성장했다. 단순 이론 강의가 아니라 클라우드 기반 가상 환경에서 실제 코드를 작성하고 실습할 수 있도록 한 것이 차별점이다. 현재 누적 이용자는 275만명, 도입 기관은 9500곳 이상으로 확대됐다. 지난해 7월 172만명을 돌파한 이후 불과 1년 만에 100만명 이상 증가했고, 같은 기간 도입 기관도 4000여 개에서 2.4배 늘어났다.
+김 대표는 "재계 상위 대기업은 물론 건설기계, 소재부품 산업 등 제조업과 뷰티, 식품, 미디어 같은 소비재 산업까지 AI 전환 수요가 커지면서 엘리스LXP를 채택하는 기업들이 많이 늘었다"고 설명했다.
+특히 엘리스그룹이 클라우드 사업에 뛰어든 계기도 교육 현장이었다. 김 대표는 "AI 교육을 제대로 하려면 GPU 클라우드 환경이 필수였지만 당시 글로벌 퍼블릭 클라우드는 너무 비쌌다"며 "2019년부터 직접 서버를 구매해 운영하면서 비용을 10분의 1 수준으로 줄일 수 있었다. 이 과정에서 자체 클라우드 역량을 키우게 됐다"고 말했다.
+
+<img src='https://wimg.mk.co.kr/news/cms/202508/26/20250826_01110207000003_S02.jpg' alt=''>
+
+이 회사에 따르면 현재 엘리스LXP는 자체 클라우드 서비스 '엘리스클라우드'를 기반으로 운영되며, 데이터 분석, 머신러닝 등 AI 교육의 전 과정을 GPU 환경에서 별도 프로그램 설치 없이 제공할 수 있다.
+현재 엘리스그룹은 이동형 모듈러 데이터센터(PMDC) 사업에 힘을 싣고 있다. PMDC는 서버·전력·냉각 모듈을 컨테이너 단위로 구성해 빠르게 설치·운영할 수 있는 차세대 데이터센터다. 구축 기간은 평균 3개월 내외로, 기존 방식 대비 대폭 단축되며 최신 GPU 서버 환경에 최적화된다.
+김 대표는 "국내 데이터센터는 대부분 2010년대 규격으로 지어져 최신 GPU를 수용하기 어렵다"며 "효율성과 확장성을 고려했을 때 모듈형 데이터센터가 현실적인 해법이었다"고 말했다. 엘리스그룹은 현재 부산에서 단독 데이터센터 용지를 확보했고, 국가 주도 클라우드 프로젝트와도 협력 중이다. 이를 통해 자체 데이터센터와 PMDC를 병행하는 하이브리드 운영 전략을 펼치고 있다.
+
+<img src='https://wimg.mk.co.kr/news/cms/202508/26/20250826_01110207000003_M01.jpg' alt=''>
+
+교육과 클라우드는 엘리스그룹의 핵심 접점이다. 김 대표는 "교육용 클라우드는 안정성보다 실습과 연습이 중요하다"며 "학생들이 데이터를 반드시 완벽히 보관할 필요가 없기 때문에 백업 부담을 줄이고 비용을 낮추는 방식으로 최적화했다. 이런 차별화 덕분에 교육 현장에서 AI 활용 토대를 마련할 수 있었다"고 강조했다.
+이어 그는 "작년까지만 해도 교육 매출이 80%, 클라우드 매출이 20%였는데, 올해는 50대50에 근접할 가능성이 크다"고 말했다. 현재 클라우드 비중은 30~40% 수준이지만 하반기 성장세가 가팔라 연말까지 균형이 맞춰질 것으로 예상된다. 실제로 작년 말부터 관련 클라우드 매출은 월간 100% 이상 성장률을 기록하며 폭발적으로 확대되고 있다.
+향후 엘리스그룹은 해외 진출에 속도를 낼 계획이다. 일본, 호주, 인도네시아 등이 주요 타깃 시장이다. 김 대표는 "모듈형 데이터센터와 클라우드 소프트웨어를 패키지로 수출하거나 단순히 클라우드 크레디트 형태로 제공할 수도 있다"며 "한국은 전기료와 네트워크 지연이 일본보다 유리해 절반 수준의 가격으로 서비스가 가능하다"고 설명했다. 
+다만 김 대표는 "가격 경쟁력만으로는 지속하기 어렵다"고 진단했다. 그는 "아마존웹서비스(AWS)나 엔비디아가 강력한 개발자 생태계와 커뮤니티를 바탕으로 글로벌 경쟁력을 유지하듯 엘리스그룹도 개발자 커뮤니티와 AI 교육 생태계를 키워나갈 것"이라고 덧붙였다. 
+[고민서 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA["클라우드는 인프라(기반 시설)일 뿐 진짜 변화를 이끌 무대는 교육입니다."
+김재원 엘리스그룹 대표(사진)는 최근 매일경제신문과의 인터뷰에서 "그래픽처리장치(GPU) 기반 클라우드 시장이 폭발적으로 성장하고 있지만 결국 인공지능(AI)이 가장 큰 혁신을 가져올 분야는 교육"이라며 이같이 밝혔다. 그러면서 그는 "교육 현장에서 AI를 제대로 활용하려면 안정적인 인프라와 정책적 지원이 필요하다"며 "정책은 단발로 끝나선 안 되고, 좋은 정책이 만들어졌다면 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK300108</code_id>
+<code_nm><![CDATA[U-World (IT)]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK300108</small_code_id>
+<small_code_nm><![CDATA[U-World (IT)]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/26/20250826_01110207000003_L00.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/26/20250826_01110207000003_M01.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/26/20250826_01110207000003_S02.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11402288]]></article_url>
+</article>
+</saltlux>

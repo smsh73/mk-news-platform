@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11389713</art_id>
+<art_year>2025</art_year>
+<art_no>569399</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-10 13:07:13</service_daytime>
+<title><![CDATA[日, 사이버보안 기업 인증제 도입 추진]]></title>
+<sub_title><![CDATA[정보보안 사업자 신뢰성 심사
+중국 등서 영향 여부 등 점검]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[이승훈 특파원(thoth@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-10 13:07:13</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101002</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">정보보안 사업자 신뢰성 심사<br>중국 등서 영향 여부 등 점검</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/10/news-p.v1.20250810.ba7f75496e6444b682e033b280d4577a_P1.png' alt=' 일본 경제산업성 로고'>
+일본 정부가 사이버 보안 기업의 신뢰성과 안전성을 심사해 인증하는 제도 도입을 추진한다.
+10일 니혼게이자이신문(닛케이)은 일본 경제산업성이 이 같은 제도를 검토중이라고 보도했다.
+일본 국회는 지난 5월 사이버 공격을 사전에 막을 수 있도록 하는 ‘능동적 사이버 방어’ 관련 법을 가결했다. 법에는 국민 생활과 밀접하게 관련된 중요 인프라 사업자에게 사이버 공격을 받았을 때의 피해 보고를 의무화했다. 이에 따라 사이버 보안 수요가 늘어날 것으로 전망된다.
+경제산업성은 새로운 제도의 구체적 심사 기준에 사업자 거점 국가, 업체가 데이터를 주로 보관하는 나라 등을 포함할 방침이다. 또 외국 소프트웨어 이용 상황, 주주와 임원 국적 등도 확인할 계획이다.
+일본 정부는 이러한 사항을 심사한 뒤 신뢰할 만한 기업에 인증을 부여해 기업이 참고하도록 할 예정이다. 인증은 기업이 업무를 위탁할 때의 판단 기준이 될 것으로 보인다. 또 정부 조달 입찰에서는 인증된 사업자만을 대상으로 할 것으로 예상된다.
+닛케이는 이 제도에 대해 “중국을 비롯해 우려할 만한 나라로부터 부당한 영향을 받고 있는지를 심사하고 안전성을 확인할 것”이라고 해설했다.
+이어 지금도 ‘정보 시큐리티 서비스 심사 등록제도’라는 유사한 제도가 있으나, 서비스 품질을 중심으로 심사하는 것이 한계라고 덧붙였다. 이번 인증제는 외국의 영향 등을 포함한 기업의 신뢰성을 확인하는 것이 초점이다. 또 해외산 프로그램을 사용해 외국으로 정보가 유출될 우려 등도 점검한다.
+앞서 집권 자민당 경제안전보장추진본부의 고바야시 다카유키 본부장은 지난 6월 이시바 시게루 총리에게 “사업자의 신뢰성을 확보할 필요가 있다”고 제언한 바 있다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[정보보안 사업자 신뢰성 심사 중국 등서 영향 여부 등 점검일본 정부가 사이버 보안 기업의 신뢰성과 안전성을 심사해 인증하는 제도 도입을 추진한다. 10일 니혼게이자이신문(닛케이)은 일본 경제산업성이 이 같은 제도를 검토중이라고 보도했다. 일본 국회는 지난 5월 사이버 공격을 사전에 막을 수 있도록 하는 ‘능동적 사이버 방어’ 관련 법을 가결했다. 법에는 국]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101002</code_id>
+<code_nm><![CDATA[국제경제]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101002</small_code_id>
+<small_code_nm><![CDATA[국제경제]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101001</code_id>
+<code_nm><![CDATA[국제정치]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101001</small_code_id>
+<small_code_nm><![CDATA[국제정치]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101003</code_id>
+<code_nm><![CDATA[국제산업]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101003</small_code_id>
+<small_code_nm><![CDATA[국제산업]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101010</code_id>
+<code_nm><![CDATA[아시아/호주]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101010</small_code_id>
+<small_code_nm><![CDATA[아시아/호주]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101007</code_id>
+<code_nm><![CDATA[국제사건/사고]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101007</small_code_id>
+<small_code_nm><![CDATA[국제사건/사고]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/10/news-p.v1.20250810.ba7f75496e6444b682e033b280d4577a_P1.png]]></image_url>
+<image_caption><![CDATA[ 일본 경제산업성 로고]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11389713]]></article_url>
+</article>
+</saltlux>

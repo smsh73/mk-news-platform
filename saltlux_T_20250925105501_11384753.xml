@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11384753</art_id>
+<art_year>2025</art_year>
+<art_no>555539</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-04 14:29:14</service_daytime>
+<title><![CDATA[“경영전략 회의에 AI임원 들여보내라”…직감 대신 데이터 믿는 맥주 회사]]></title>
+<sub_title><![CDATA[기린홀딩스 자체개발 가상AI
+마케팅·법무 12개 전문 분야
+객관적 데이터로 경영 조언]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[이승훈 특파원(thoth@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-04 14:29:14</reg_dt>
+<mod_dt>2025-08-04 18:34:37</mod_dt>
+<art_org_class>MK101002</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">기린홀딩스 자체개발 가상AI<br>마케팅·법무 12개 전문 분야<br>객관적 데이터로 경영 조언</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/04/news-p.v1.20250804.36aae7b8d8e24c6680e038c6b329e04a_P1.png' alt=' 도쿄 나카노구의 기린홀딩스 본사 내 쇼룸. [도쿄 이승훈 특파원]'>
+일본 맥주 회사 기린홀딩스가 경영전략회의에 인공지능(AI)으로 생성한 가상 임원을 참여시킨다.
+4일 니혼게이자이신문(닛케이)은 기린홀딩스가 마케팅이나 법무 등 12개 전문 분야에 능숙한 AI 임원과 함께 사장 등 경영 임원이 참여하는 경영전략회의를 진행한다고 보도했다.
+기린은 지난달 경영전략회의부터 AI임원을 참여시켰다. 내부적으로는 ‘코어메이트(CoreMate)’라고 불린다.
+이 AI 모델은 미국 마이크로소프트와 구글 등이 제공하는 AI 모델을 기반으로 기린홀딩스가 독자적으로 개발했다. 과거 10년분의 이사회나 경영전략회의 회의록 등을 모두 학습시켰다. 여기에 사내 자료나 시장 조사 데이터 등 외부 최신 정보도 계속해서 입력하고 있다.
+AI임원인 코어메이트는 회의 안건에 대해 전문적인 논점이나 의견을 생성해 PC를 통해 경영진에게 제시한다. 이를 통해 경험이나 직감에만 의존하지 않고 경영진이 객관적인 데이터를 바탕으로 신속한 경영판단을 할 수 있도록 돕는다.
+예를 들면 ESG(환경·사회적 책무·기업지배구조 개선)와 관련해서 AI임원은 “기후 변동을 근거로 한 원료와 물 등의 조달의 어려움에 대해 어떻게 대응할 것인지도 논의해야 한다”로 조언하게 된다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[기린홀딩스 자체개발 가상AI 마케팅·법무 12개 전문 분야 객관적 데이터로 경영 조언일본 맥주 회사 기린홀딩스가 경영전략회의에 인공지능(AI)으로 생성한 가상 임원을 참여시킨다. 4일 니혼게이자이신문(닛케이)은 기린홀딩스가 마케팅이나 법무 등 12개 전문 분야에 능숙한 AI 임원과 함께 사장 등 경영 임원이 참여하는 경영전략회의를 진행한다고 보도했다. 기린]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101002</code_id>
+<code_nm><![CDATA[국제경제]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101002</small_code_id>
+<small_code_nm><![CDATA[국제경제]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101003</code_id>
+<code_nm><![CDATA[국제산업]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101003</small_code_id>
+<small_code_nm><![CDATA[국제산업]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101010</code_id>
+<code_nm><![CDATA[아시아/호주]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101010</small_code_id>
+<small_code_nm><![CDATA[아시아/호주]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/04/news-p.v1.20250804.36aae7b8d8e24c6680e038c6b329e04a_P1.png]]></image_url>
+<image_caption><![CDATA[ 도쿄 나카노구의 기린홀딩스 본사 내 쇼룸. [도쿄 이승훈 특파원]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11384753]]></article_url>
+</article>
+</saltlux>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11396609</art_id>
+<art_year>2025</art_year>
+<art_no>589378</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-18 22:52:21</service_daytime>
+<title><![CDATA[중국, 데이터센터에 “칩 절반 이상 중국산 사용” 의무화]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[한수진 매경 디지털뉴스룸 기자(han.sujin@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-18 22:52:21</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101002</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/18/news-p.v1.20250412.59142de63a0b455f9082352598997585_P1.jpeg' alt=' 중국 반도체 [사진 = 연합뉴스]'>
+미국의 제재에 맞서 반도체 자립을 추진 중인 중국이 자국 데이터센터들에 국산 인공지능(AI) 칩 사용을 늘리도록 요구하고 있는 것으로 전해졌다.
+홍콩매체 사우스차이나모닝포스트(SCMP)는 17일(현지시간) 복수의 익명 소식통을 인용해 중국 당국이 공공 소유 데이터센터들에 컴퓨팅 칩의 절반 이상을 국내 업체로부터 공급받도록 요청하고 있다고 보도했다.
+앞서 상하이 당국은 지난해 3월 가이드라인을 통해 “상하이 내 ‘지능형 컴퓨팅센터’에서의 컴퓨팅·스토리지(저장장치) 칩 국산 채택률이 2025년까지 50%를 넘겨야 한다”고 밝힌 바 있다.
+SCMP에 따르면 이같은 계획이 중국 전역으로 확대, 의무화됐다.
+다만 소식통은 중국산과 외국산을 섞어 사용하는 AI 데이터센터들은 기술적 어려움에 직면했다고 전했다. 엔비디아 칩의 경우 자체 소프트웨어 생태계인 ‘쿠다’(CUDA) 위에서 작동하는데, 다른 칩을 섞어 쓰면 어려움이 생길 수 있다는 것이다.
+한편 미국은 중국을 대상으로 반도체 수출 규제를 강화하고 있다. 지난달에는 엔비디아 AI 칩 H20의 대중국 수출 규제를 해제하는 대신 엔비디아로부터 중국 내 H20 칩 매출의 15%를 받기로 한 것으로 전해졌다.
+하지만 블룸버그통신은 중국 당국이 자국 기업들에 H20 칩 사용을 제한하도록 지침을 내렸다고 보도했다. 중국은 이에 대해 엔비디아 측에 설명을 요구하고 있다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[미국의 제재에 맞서 반도체 자립을 추진 중인 중국이 자국 데이터센터들에 국산 인공지능(AI) 칩 사용을 늘리도록 요구하고 있는 것으로 전해졌다. 홍콩매체 사우스차이나모닝포스트(SCMP)는 17일(현지시간) 복수의 익명 소식통을 인용해 중국 당국이 공공 소유 데이터센터들에 컴퓨팅 칩의 절반 이상을 국내 업체로부터 공급받도록 요청하고 있다고 보도했다. 앞서 상]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101002</code_id>
+<code_nm><![CDATA[국제경제]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101002</small_code_id>
+<small_code_nm><![CDATA[국제경제]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101003</code_id>
+<code_nm><![CDATA[국제산업]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00303</middle_code_id>
+<middle_code_nm><![CDATA[국제]]></middle_code_nm>
+<small_code_id>MK101003</small_code_id>
+<small_code_nm><![CDATA[국제산업]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/18/news-p.v1.20250412.59142de63a0b455f9082352598997585_P1.jpeg]]></image_url>
+<image_caption><![CDATA[ 중국 반도체 [사진 = 연합뉴스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11396609]]></article_url>
+</article>
+</saltlux>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11391863</art_id>
+<art_year>2025</art_year>
+<art_no>575631</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-12 16:19:20</service_daytime>
+<title><![CDATA[AI모델 컴퓨터 실행, 두 배 더 빠르게 가능하다고?]]></title>
+<sub_title><![CDATA[이슬기 UNIST 컴퓨터공학과 교수
+AI 모델을 컴퓨터에 구현하는 오토튜닝
+반복 작업 줄여 2.5배 더 빠르게
+AI 모델 실행에 걸리는 시간과 전력 아껴]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[최원석 기자(choi.wonseok@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-12 16:19:20</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101401</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">이슬기 UNIST 컴퓨터공학과 교수<br>AI 모델을 컴퓨터에 구현하는 오토튜닝<br>반복 작업 줄여 2.5배 더 빠르게<br>AI 모델 실행에 걸리는 시간과 전력 아껴</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/12/news-p.v1.20250812.987073756e744fc6a691ee60a3d2c9ac_P1.jpg' alt=' 이슬기 UNIST 컴퓨터공학과 교수팀이 AI 모델을 컴퓨터에 2배 이상 빠르게 실행할 수 있는 기술을 개발했다. [사진=구글 이미지FX]'>
+인공지능(AI) 모델을 컴퓨터에 실행할 수 있는 프로그램 형태로 바꾸는 시간이 절반 이상 줄어들게 됐다.
+이슬기 UNIST 컴퓨터공학과 교수팀은 AI 모델을 컴퓨터 프로그램으로 바꾸는 과정을 최대 2.5배 빠르게 하는 기술을 개발했다고 12일 밝혔다.
+이번 연구 결과는 컴퓨터 시스템 분야의 권위 있는 학회인 OSDI에 채택됐는데, 국내 연구가 채택된 사례는 지금까지 12건에 그친다.
+메타의 라마, 오픈AI의 GPT 같은 AI 모델을 컴퓨터에 코드 형태로 구현하려면 ‘컴파일’이라는 과정을 거쳐야 한다. 컴퓨터에 시스템이 작동하려면 사람이 코딩하는 것처럼 코드가 있어야 하는데, AI 모델은 원래 코드 형태가 아니다.
+딥러닝 AI 등은 신경망의 형태이기 때문에, 여러 층위와 매개변수가 있는 그래프로 만들어진다. 이걸 사용하려면 컴퓨터에 맞는 프로그램 코드로 바꿔야 한다. 같은 AI라고 하더라도 다른 하드웨어에 들어가면 그에 맞는 새로운 코드가 필요하다.
+원래는 사람이 일일이 최적화된 코딩을 해야 하지만, 이를 해결하는 기술이 오토튜닝이다. 수십만 개의 코드 조합 중 가장 효율적인 코드를 자동으로 찾아준다.
+다만 지금까지는 수십만 건의 코드를 일일이 대조했기 때문에 시간과 전력이 많이 들었다. 경우에 따라 오토튜닝에만 수 시간이 걸린다.
+이 교수가 개발한 기술은 오토튜닝 과정을 두 배 이상 줄인다. 이 교수는 “AI 모델은 비슷한 게 반복되는 구조”라며 “반복 작업만 줄여도 필요한 시간과 자원을 훨씬 아낄 수 있다”고 했다.
+한 모델 안에 반복되는 계산이 있다면, 이전에 사용했던 코드를 가져와 바로 프로그램 코드를 만들 수 있는 것이다.
+이 방식을 적용한 결과, 동일한 성능의 코드를 생성하는 데 걸리는 시간이 CPU 기준 평균 2.5배, GPU 기준 평균 2배 단축됐다. 그만큼 전력 소모도 줄어든다.
+AI 모델을 컴퓨터 프로그램으로 만드는 작업은 일반 사용자는 사용할 일이 없지만, 반도체 등 시스템 개발자들은 많이 사용한다. 이 교수는 “AI를 구현하고 최적화하는 작업에는 오토튜닝이 항상 필요하다”며 “다양한 분야에 활용될 것을 기대한다”고 했다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/12/news-p.v1.20250812.60f548eebba6405aa7f96d2f6be9e261_P1.jpg' alt=' 이슬기 UNIST 컴퓨터공학과 교수와 논문 제1저자인 정이수 연구원. [사진=UNIST]'>
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[이슬기 UNIST 컴퓨터공학과 교수 AI 모델을 컴퓨터에 구현하는 오토튜닝 반복 작업 줄여 2.5배 더 빠르게 AI 모델 실행에 걸리는 시간과 전력 아껴인공지능(AI) 모델을 컴퓨터에 실행할 수 있는 프로그램 형태로 바꾸는 시간이 절반 이상 줄어들게 됐다. 이슬기 UNIST 컴퓨터공학과 교수팀은 AI 모델을 컴퓨터 프로그램으로 바꾸는 과정을 최대 2.5배 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101401</code_id>
+<code_nm><![CDATA[과학일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101401</small_code_id>
+<small_code_nm><![CDATA[과학일반]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/12/news-p.v1.20250812.987073756e744fc6a691ee60a3d2c9ac_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 이슬기 UNIST 컴퓨터공학과 교수팀이 AI 모델을 컴퓨터에 2배 이상 빠르게 실행할 수 있는 기술을 개발했다. [사진=구글 이미지FX]]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/12/news-p.v1.20250812.60f548eebba6405aa7f96d2f6be9e261_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 이슬기 UNIST 컴퓨터공학과 교수와 논문 제1저자인 정이수 연구원. [사진=UNIST]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11391863]]></article_url>
+</article>
+</saltlux>

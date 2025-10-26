@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11385510</art_id>
+<art_year>2025</art_year>
+<art_no>557770</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-05 11:09:22</service_daytime>
+<title><![CDATA[외환거래 늘자…농협은행, 비대면 외환거래 플랫폼 내놔]]></title>
+<sub_title><![CDATA[선물환·FX스왑 등 파생상품 거래 지원
+주문 가능시간도 새벽 2시까지 확대]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[안정훈 기자(esoterica@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-05 11:09:22</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100202</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">선물환·FX스왑 등 파생상품 거래 지원<br>주문 가능시간도 새벽 2시까지 확대</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/05/news-p.v1.20250805.80270acc71194756ae0042b7a73dc220_P1.jpg' alt=' [사진=NH농협은행 제공]'>
+환율 급등락에 시중 외환거래액이 급증하는 가운데 NH농협은행에서 이에 대응한 비대면 외환거래 플랫폼 ‘FX allone(올원)’을 5일 출시했다.
+‘FX allone’은 기존 농협은행 외환거래 플랫폼이었던 ‘인터넷FX딜링HTS’에 비해 상품 및 서비스 등의 기능을 대폭 강화했다. 다수의 중개사를 활용해 고객에게 경쟁력 있는 호가를 제공한다. 환전과 현물환 외 선물환, FX스왑 등 외환부문 파생상품 거래도 지원한다.
+또 법인고객의 응용프로그램 인터페이스(API)와 연계해 고객맞춤형 외환서비스 제공도 가능해졌다. 상품에 따라 주문 가능시간을 새벽 2시까지 확대했으며, UI/UX(사용자인터페이스·사용자 경험) 등도 고객 경험을 토대로 개선했다.
+고객 편의 강화와 함께 은행 직원의 업무부담도 경감했다. 고객과의 거래로 발생한 은행의 포지션을 자동으로 커버하는 ‘오토헷지’ 기능을 도입했다. 직원 간 외환 관련 소통채널도 플랫폼 내에서 제공한다.
+농협은행 관계자는 “FX allone 출시로 리스크 관리를 강화하고, 안정적인 외화사업 기반을 마련했다”며 “외환시장 선진화 방안에 발 맞추며 고객 중심의 외환거래 서비스를 혁신해 나갈 것”이라고 밝혔다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[선물환·FX스왑 등 파생상품 거래 지원 주문 가능시간도 새벽 2시까지 확대환율 급등락에 시중 외환거래액이 급증하는 가운데 NH농협은행에서 이에 대응한 비대면 외환거래 플랫폼 ‘FX allone(올원)’을 5일 출시했다. ‘FX allone’은 기존 농협은행 외환거래 플랫폼이었던 ‘인터넷FX딜링HTS’에 비해 상품 및 서비스 등의 기능을 대폭 강화했다. 다수]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100202</code_id>
+<code_nm><![CDATA[외환·환율]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100202</small_code_id>
+<small_code_nm><![CDATA[외환·환율]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100203</code_id>
+<code_nm><![CDATA[은행]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00301</middle_code_id>
+<middle_code_nm><![CDATA[경제]]></middle_code_nm>
+<small_code_id>MK100203</small_code_id>
+<small_code_nm><![CDATA[은행]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/05/news-p.v1.20250805.80270acc71194756ae0042b7a73dc220_P1.jpg]]></image_url>
+<image_caption><![CDATA[ [사진=NH농협은행 제공]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11385510]]></article_url>
+</article>
+</saltlux>

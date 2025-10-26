@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11398290</art_id>
+<art_year>2025</art_year>
+<art_no>594682</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-20 15:28:00</service_daytime>
+<title><![CDATA[목소리까지 복제…메타, 페북·인스타 릴스에 AI 더빙 도입]]></title>
+<sub_title><![CDATA[영어-스페인어 간 더빙 우선 출시
+“크리에이터 글로벌 진출 지원”]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[안선제 기자(ahn.sunje@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-20 15:28:00</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">영어-스페인어 간 더빙 우선 출시<br>“크리에이터 글로벌 진출 지원”</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/20/news-p.v1.20250820.ef896eb36f7241c6b785982041d236fc_P1.png' alt=' [사진 = 메타]'>
+메타가 페이스북과 인스타그램에 인공지능(AI) 기반 음성 더빙 기능을 도입했다. 크리에이터들은 별도의 녹음이나 편집 없이도 릴스를 다국어로 전달할 수 있게 되면서 콘텐츠의 언어 장벽 해소가 본격화되고 있다.
+19일(현지시간) IT 전문매체 테크크런치에 따르면 이번 신규 기능은 크리에이터가 릴스를 업로드하기 전 ‘메타 AI로 음성 번역’을 선택하면 영어와 스페인어 간 자동 더빙을 제공한다. 초기에는 영어–스페인어만 지원되지만 향후 더 많은 언어가 추가될 예정이다.
+AI는 화자의 목소리 톤과 억양까지 모방해 자연스러운 더빙을 구현하며, 필요할 경우 입 모양까지 맞추는 립싱크 기능도 더해진다.
+크리에이터는 공개 전에 번역과 립싱크 결과를 미리 확인할 수 있고, 원치 않으면 옵션을 끌 수 있다. 메타는 얼굴이 직접 등장하는 영상에서 가장 효과적이라며, 입을 가리거나 배경음악이 강한 경우는 피할 것을 권장했다.
+다만 기능 활용에 약간의 제한이 있다. 페이스북에서는 팔로워 1000명 이상을 보유한 크리에이터만 이용할 수 있고, 인스타그램에서는 모든 공개 계정이 활용 가능하다.
+이번 기능은 지난해 메타의 ‘커넥트 개발자 컨퍼런스’에서 처음 공개된 이후 시험 운영을 거쳐 출시됐다.
+아담 모세리 인스타그램 책임자는 게시글을 통해 “언어와 문화적 장벽을 뛰어넘어 더 넓은 잠재 고객에게 다가갈 수 있도록 지원한다면 크리에이터들이 팔로워를 늘리고 더 큰 가치를 창출할 수 있을 것”이라고 설명했다.
+업계는 이번 행보가 주요 플랫폼 기업들 사이에서 AI 기반 더빙 기술 경쟁을 한층 가속화할 것으로 보고 있다. 이미 유튜브와 틱톡도 유사한 기능을 운영해왔으나, 메타가 자동화 수준을 높인 기술을 도입하면서 글로벌 크리에이터 지원 전략에 새로운 차별점을 제시했다는 평가가 나온다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[영어-스페인어 간 더빙 우선 출시 “크리에이터 글로벌 진출 지원”메타가 페이스북과 인스타그램에 인공지능(AI) 기반 음성 더빙 기능을 도입했다. 크리에이터들은 별도의 녹음이나 편집 없이도 릴스를 다국어로 전달할 수 있게 되면서 콘텐츠의 언어 장벽 해소가 본격화되고 있다. 19일(현지시간) IT 전문매체 테크크런치에 따르면 이번 신규 기능은 크리에이터가 릴스]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/20/news-p.v1.20250820.ef896eb36f7241c6b785982041d236fc_P1.png]]></image_url>
+<image_caption><![CDATA[ [사진 = 메타]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11398290]]></article_url>
+</article>
+</saltlux>

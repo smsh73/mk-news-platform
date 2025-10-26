@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11399988</art_id>
+<art_year>2025</art_year>
+<art_no>599353</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-22 07:29:42</service_daytime>
+<title><![CDATA[도입 1년 반 만에 상담 건수 2배 ‘쑥’…똑똑하다고 소문난 항공사 AI]]></title>
+<sub_title><![CDATA[1년 반 만에 누적 상담 건수 50만 건 돌파
+생성형 AI 도입한 국내 항공사는 단 두 곳
+도입 후 고객센터 상담 건수 18.44% 감소
+RAG 기능으로 GPT 기반 챗봇 환각 최소화]]></sub_title>
+<media_code>15</media_code>
+<writers><![CDATA[김혜성 여행플러스 기자(mgs07175@naver.com)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-22 07:29:42</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101201</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">1년 반 만에 누적 상담 건수 50만 건 돌파<br>생성형 AI 도입한 국내 항공사는 단 두 곳<br>도입 후 고객센터 상담 건수 18.44% 감소<br>RAG 기능으로 GPT 기반 챗봇 환각 최소화</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/22/news-p.v1.20250821.2c7a3d6f67e549418a810a298c175d57_P1.png' alt=' 제주항공 하이제코  / 사진=제주항공 홈페이지 캡쳐'>
+<b>“컴맹의 노인...AI 친절 상담에 힘입어 예약해 볼게요.”</b>
+제주항공 인공지능(AI) 기반 챗봇 ‘하이제코(HI JECO)’를 써 본 이용객 반응이다. AI에 익숙지 않은 중장년층이 큰 만족감을 나타낸 것.
+지난 2023년 12월, 제주항공은 국적 항공사 최초로 GPT-4o 기술을 적용한 24시간 생성형 AI 챗봇 하이제코를 도입했다. 국내 항공사 중 생성형 AI를 도입한 곳은 제주항공과 이스타항공뿐이다.
+제주항공 챗봇 하이제코는 도입 1년 반 만에 누적 상담 건수 50만 건을 돌파하며 항공업계의 ‘스마트 여행’을 선도하고 있다는 평가가 나온다. 사용자의 상황과 수요를 파악해 감성적 공감과 이성적 대안을 함께 내놓는 게 큰 장점이다.
+하이제코는 항공권 예약부터 여행 정보까지 다양한 문의에 응대하는 항공 및 여행 특화 AI 비서 임무를 수행한다. 제주항공 공식 홈페이지와 모바일 앱과 웹에서 이용할 수 있다.
+검색증강생성(Retrieval-Augmented Generation·RAG) 기능으로 GPT 모델의 고질적 문제인 할루시네이션(hallucination) 현상도 최소화했다. 할루시네이션은 AI가 정보를 처리하는 과정에서 답변을 지어내는 등 오류를 뜻한다. RAG는 대규모 언어 모델(LLM)이 답변을 생성하기 전 외부에서 정보를 검색해 실존하는 데이터를 인용해 답변이 나오게 한 기술이다.
+실제로 하이제코에 “몇 월에 찜특가가 열리냐”고 물으니 “찜특가 이벤트의 구체적인 시작 월은 매년 다르게 진행되기 때문에 정확히 말씀드리기 어렵습니다. 하지만 찜특가는 일반적으로 연초(1~3월) 또는 하반기(7~9월) 중에 진행되는 경우가 많습니다”라고 답변했다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/22/news-p.v1.20250821.51efbfb4edba45398109b1c8a4fd7183_P1.png' alt=' 제주항공 항공기 / 사진=제주항공'>
+하이제코는 365일 24시간 서비스를 제공해 세계 각지로 여행을 떠난 제주항공 여행객의 불편접수를 돕는다. 문장 단위 질문은 물론 한 문장 내 포함한 복수 질문도 소화 가능하다. ▲개인 맞춤형 여행 플래너 ▲상담원 연계형 서비스 ▲자주 묻는 답변 추천 문장 자동 생성 등 다양한 기능도 있다.
+‘언어의 장벽’을 허물어 글로벌 사용자들의 접근성을 높인 점도 특징이다. 한국어·영어·일본어·중국어를 포함한 전 세계 198개국 언어를 지원한다. 두 번째로 많은 언어를 제공하는 대한항공 ‘대한이’는 4개 언어만 제공 중이다.
+이런 사용 편의성을 바탕으로 도입 이후 지난 7월까지 누적 상담 건수가 50만 건을 넘어설 정도로 빠르게 성장하고 있다. 올해 1월부터 7월까지의 상담 건수는 28만 3172건으로 전년 동기 대비 202.18% 급증했다. 같은 기간 고객센터 상담 건수는 외려 18.44% 감소했다. 제주항공의 최대 할인행사인 ‘찜(JJIM)’ 특가를 진행했던 지난 6월에는 하이제코 챗봇 상담 건수가 전년 동월 대비 613%나 늘었다.
+실제로 이용객들의 평도 좋다. 제주항공에 따르면 “타 항공사 챗봇 사용하다가 속 터져 죽을 뻔했는데, 제주항공 챗봇은 신세계다”, “생성형 AI 챗봇, 진짜 좋다. 아주 잘 만들어진 챗봇이네요”, “지금까지 이용해 본 챗봇 서비스 중 가장 만족스럽다”는 등 호평이 잇고 있다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[1년 반 만에 누적 상담 건수 50만 건 돌파 생성형 AI 도입한 국내 항공사는 단 두 곳 도입 후 고객센터 상담 건수 18.44% 감소 RAG 기능으로 GPT 기반 챗봇 환각 최소화“컴맹의 노인...AI 친절 상담에 힘입어 예약해 볼게요.” 제주항공 인공지능(AI) 기반 챗봇 ‘하이제코(HI JECO)’를 써 본 이용객 반응이다. AI에 익숙지 않은 중장]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101201</code_id>
+<code_nm><![CDATA[레저/관광]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00505</middle_code_id>
+<middle_code_nm><![CDATA[문화]]></middle_code_nm>
+<small_code_id>MK101201</small_code_id>
+<small_code_nm><![CDATA[레저/관광]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/22/news-p.v1.20250821.2c7a3d6f67e549418a810a298c175d57_P1.png]]></image_url>
+<image_caption><![CDATA[ 제주항공 하이제코  / 사진=제주항공 홈페이지 캡쳐]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/22/news-p.v1.20250821.51efbfb4edba45398109b1c8a4fd7183_P1.png]]></image_url>
+<image_caption><![CDATA[ 제주항공 항공기 / 사진=제주항공]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11399988]]></article_url>
+</article>
+</saltlux>

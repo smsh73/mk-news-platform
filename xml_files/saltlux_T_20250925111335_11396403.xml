@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11396403</art_id>
+<art_year>2025</art_year>
+<art_no>589066</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-18 18:00:50</service_daytime>
+<title><![CDATA[오락가락 상장 규제에 기업 혼선]]></title>
+<sub_title><![CDATA[거래소, 가이드라인 마련나서]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[우수민 기자(rsvp@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250819</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>3</pub_page>
+<reg_dt>2025-08-18 18:00:50</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100509</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[재계와 금융투자 업계에서는 최근 뜨거운 감자가 된 '중복 상장'을 두고 정의 자체가 모호하다는 원성이 쏟아지고 있다. 기업 경영의 근간이 되는 지배구조를 두고 정부 기조가 수시로 바뀌다 보니 기업들로서는 중장기 전략 수립이 어렵다는 것이다.
+중복 상장은 전 세계에 유례를 찾기 어려운 급속 성장이 남긴 잔재로 평가된다. 금융시장이 미성숙했던 1970년대 국내 기업들은 고리의 사채에 허덕이고 있었다. 이에 정부는 1972년 8월 기업과 사채업자 간 계약을 강제로 무효화한 뒤 금리를 연 35%에서 16% 수준으로 낮춰 새로 계약하게 했다. 같은 해 12월에는 기업공개촉진법을 제정해 기업들이 주식시장에 상장하지 않으면 불이익을 주는 형태로 상장을 밀어붙였다. 이 과정에서 재계 총수들은 계열사의 지배력을 유지하기 위해 순환출자나 교차출자를 동원했다. 
+하지만 외환위기를 겪으면서 한 계열사의 부실이 그룹 전체로 전이되는 폐단이 드러났다. 정부는 세제 혜택 등을 부여하며 지주사 전환을 장려했다. 순환출자 해소에 초점을 맞추고 있던 터라 모자회사 중복 상장까지는 문제 삼지 않았다. 지주사만 상장하고 사업회사들은 100% 비상장으로 유지하는 미국식 거버넌스와는 태생부터 다른 것이다. 그런데 최근 갑자기 중복 상장을 막겠다고 하니 기업들 입장에서는 혼란스럽다. 
+한국거래소 역시 현실적으로 중복 상장을 원천 차단하기는 어렵다는 입장이다. 유가증권시장본부 주도로 관련 가이드라인을 마련하기 위해 업계와 꾸준히 소통 중인 것으로 전해졌다.  
+[우수민 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[재계와 금융투자 업계에서는 최근 뜨거운 감자가 된 '중복 상장'을 두고 정의 자체가 모호하다는 원성이 쏟아지고 있다. 기업 경영의 근간이 되는 지배구조를 두고 정부 기조가 수시로 바뀌다 보니 기업들로서는 중장기 전략 수립이 어렵다는 것이다.
+중복 상장은 전 세계에 유례를 찾기 어려운 급속 성장이 남긴 잔재로 평가된다. 금융시장이 미성숙했던 1970년대 국내 기업들은 고리의 사채에 허덕이고 있었다. 이에 정부는 1972년 8월 기업과 사채업자 간 계약을 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100509</code_id>
+<code_nm><![CDATA[증권계동향]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00502</middle_code_id>
+<middle_code_nm><![CDATA[증권]]></middle_code_nm>
+<small_code_id>MK100509</small_code_id>
+<small_code_nm><![CDATA[증권계동향]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11396403]]></article_url>
+</article>
+</saltlux>

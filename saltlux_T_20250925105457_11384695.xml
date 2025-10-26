@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11384695</art_id>
+<art_year>2025</art_year>
+<art_no>555291</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-04 13:23:37</service_daytime>
+<title><![CDATA[경찰 “인천 아들 사제총기 총격범, 사이코패스 검사 대상 아냐”]]></title>
+<sub_title><![CDATA[40점 만점에 25점 이상 나오면 사이코패스<br>인천 송도 사제총기 피의자는 25점 미만]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[한수진 매경 디지털뉴스룸 기자(han.sujin@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-04 13:23:37</reg_dt>
+<mod_dt>2025-08-04 14:16:53</mod_dt>
+<art_org_class>MK100801</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">40점 만점에 25점 이상 나오면 사이코패스<br>인천 송도 사제총기 피의자는 25점 미만</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/04/rcv.YNA.20250730.PYH2025073003960006500_P1.jpg' alt=' 인천 송도에서 사제 총기로 아들을 살해한 60대 남성 A씨가 지난달 30일 인천 논현경찰서 유치장에서 검찰로 송치되고 있다.  [사진 출처 = 연합뉴스]'>
+인천 송도에서 사제총기로 아들을 살인한 혐의를 받는 피의자가 반사회적 인격장애(사이코패스) 진단 검사 대상자에 포함되지 않는 것으로 나타났다.
+경찰은 4일 정례 기자간담회에서 “프로파일러 면담 결과 피의자가 사이코패스 검사 대상에 포함되지 않는 것으로 나타나 본 검사는 따로 진행하지 않았다”고 밝혔다.
+사이코패스 진단 검사는 총 20문항으로 냉담함·충동성·무책임 등 성격적 특성을 지수화해 진단한다. 국내에서는 40점 만점에 25점 이상이면 사이코패스로 분류되는데, 인천 송도 사제총기 사건 피의자는 25점 미만을 기록했다는 것이다.
+<strong><div style="border-top: 4px solid #ed6d01;border-bottom: 1px solid #ed6d01;font-size: 18px;padding: 10px 0;margin:30px 0;">쌍문동 자택에 설치된 폭발물의 정체는</div></strong>경찰은 또 피의자가 서울 도봉구 쌍문동 자택에 설치한 폭발물에 대해선 “국립과학수사연구원에 감정을 의뢰했지만 (현재까지) 확답을 할 수 없다는 것이 국과수의 의견”이라며 “감정 결과가 정확하게 나올 때까지는 확정적으로 답할 수 없다”고 부연했다.
+
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>송도 사제총기 사건 타임라인</title>
+  <style>
+    :root {
+      --main-bg: #ffffff;
+      --header-bg: #2563eb;
+      --header-hover: #1e40af;
+      --card-bg: #ffffff;
+      --card-border: #e5e7eb;
+      --body-font: 'Noto Sans KR', sans-serif;
+    }
+
+    .songdo-timeline-container {
+      font-family: var(--body-font);
+      background: var(--main-bg);
+      margin: 0;
+      padding: 2rem;
+      color: #333;
+    }
+
+    .songdo-timeline-container h1 {
+      text-align: center;
+      margin-bottom: 2rem;
+      font-size: 2rem;
+      color: #1e3a8a;
+    }
+
+    .timeline {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+
+    .event {
+      background: var(--card-bg);
+      border-radius: 16px;
+      margin-bottom: 1.5rem;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      transition: all 0.4s ease;
+    }
+
+    .event-header {
+      cursor: pointer;
+      padding: 1.2rem 1.5rem;
+      background: var(--header-bg);
+      color: #fff;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-weight: 600;
+      font-size: 1rem;
+    }
+
+    .event-header:hover {
+      background: var(--header-hover);
+    }
+
+    .event-body {
+      padding: 0 1.5rem;
+      background: #f9fafb;
+      border-top: 1px solid var(--card-border);
+      max-height: 0;
+      overflow: hidden;
+      transition: max-height 0.4s ease, padding 0.4s ease;
+    }
+
+    .event.open .event-body {
+      max-height: 800px;
+      padding: 1rem 1.5rem;
+    }
+
+    .event-body p {
+      margin: 0;
+      line-height: 1.6;
+    }
+
+    .event-icon {
+      transition: transform 0.3s ease;
+    }
+
+    .event.open .event-icon {
+      transform: rotate(90deg);
+    }
+
+    @media (max-width: 768px) {
+      .songdo-timeline-container {
+        padding: 1rem;
+      }
+      .event-header, .event-body {
+        padding-left: 1rem;
+        padding-right: 1rem;
+      }
+      .songdo-timeline-container h1 {
+        font-size: 1.5rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="songdo-timeline-container">
+    <h1>🕒 송도 사제총기 사건 타임라인</h1>
+    <div class="timeline">
+
+      <div class="event">
+        <div class="event-header">7월 20일 19:00경 - 아들 집 도착 <span class="event-icon">▶</span></div>
+        <div class="event-body">
+          <p>아버지 A는 아들 B의 생일파티를 위해 송도 아파트에 방문.</p>
+        </div>
+      </div>
+
+      <div class="event">
+        <div class="event-header">20:30 ~ 21:00경 - 생일파티 진행 <span class="event-icon">▶</span></div>
+        <div class="event-body">
+          <p>가족 및 지인들과 케이크 커팅, 기념촬영 등 행사 진행.</p>
+        </div>
+      </div>
+
+      <div class="event">
+        <div class="event-header">21:30경 - 총기 휴대 후 복귀 <span class="event-icon">▶</span></div>
+        <div class="event-body">
+          <p>"편의점 다녀오겠다"며 외출한 뒤 차량에서 사제총기를 들고 복귀.</p>
+        </div>
+      </div>
+
+      <div class="event">
+        <div class="event-header">21:31 - 총격 발생 <span class="event-icon">▶</span></div>
+        <div class="event-body">
+          <p>총 3발 발사: 아들에게 2발 명중, 문에 1발. 지인을 향한 발사는 불발.</p>
+        </div>
+      </div>
+
+      <div class="event">
+        <div class="event-header">~21:35 - 신고 및 도주 <span class="event-icon">▶</span></div>
+        <div class="event-body">
+          <p>며느리가 경찰에 신고. 피의자 A는 렌터카로 도주.</p>
+        </div>
+      </div>
+
+      <div class="event">
+        <div class="event-header">23:09 - 아들 사망 <span class="event-icon">▶</span></div>
+        <div class="event-body">
+          <p>아들은 병원 이송 후 사망 판정.</p>
+        </div>
+      </div>
+
+      <div class="event">
+        <div class="event-header">7월 21일 00:20 - 서초구에서 체포 <span class="event-icon">▶</span></div>
+        <div class="event-body">
+          <p>경찰 특공대 투입, 서울 서초구에서 피의자 A 검거.</p>
+        </div>
+      </div>
+
+      <div class="event">
+        <div class="event-header">이른 새벽 - 도봉구 주거지 폭발물 발견 <span class="event-icon">▶</span></div>
+        <div class="event-body">
+          <p>아파트서 폭탄 장치 15개, 총기 부품 및 인화물질 발견. 105명 대피 조치.</p>
+        </div>
+      </div>
+
+      <div class="event">
+        <div class="event-header">7월 22~28일 - 여파 및 제도적 대응 <span class="event-icon">▶</span></div>
+        <div class="event-body">
+          <p>가족 갈등이 범행 동기로 확인. 유튜브 통해 사제총기 제작 습득.</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+  <script>
+    const headers = document.querySelectorAll('.event-header');
+    headers.forEach(header => {
+      header.addEventListener('click', () => {
+        const event = header.parentElement;
+        event.classList.toggle('open');
+      });
+    });
+  </script>
+</body>
+</html>
+
+
+한편 피의자 A씨는 지난달 20일 오후 9시 31분께 인천 송도국제도시의 한 아파트에서 사제 총기를 발사해 30대 아들을 살해한 혐의를 받고 있다.
+A씨의 서울 도봉구 집에서는 시너가 담긴 페트병, 세제통, 우유통 등 인화성 물질 15개와 점화장치가 발견됐다. 또 살인 범행 이튿날인 21일 정오에 불이 붙도록 타이머 설정이 돼 있었던 것으로 조사됐다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[40점 만점에 25점 이상 나오면 사이코패스 인천 송도 사제총기 피의자는 25점 미만인천 송도에서 사제총기로 아들을 살인한 혐의를 받는 피의자가 반사회적 인격장애(사이코패스) 진단 검사 대상자에 포함되지 않는 것으로 나타났다. 경찰은 4일 정례 기자간담회에서 “프로파일러 면담 결과 피의자가 사이코패스 검사 대상에 포함되지 않는 것으로 나타나 본 검사는 따로]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100801</code_id>
+<code_nm><![CDATA[사회일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100801</small_code_id>
+<small_code_nm><![CDATA[사회일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100805</code_id>
+<code_nm><![CDATA[법원·검찰·경찰]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100805</small_code_id>
+<small_code_nm><![CDATA[법원·검찰·경찰]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/04/rcv.YNA.20250730.PYH2025073003960006500_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 인천 송도에서 사제 총기로 아들을 살해한 60대 남성 A씨가 지난달 30일 인천 논현경찰서 유치장에서 검찰로 송치되고 있다.  [사진 출처 = 연합뉴스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11384695]]></article_url>
+</article>
+</saltlux>

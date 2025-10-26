@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11390560</art_id>
+<art_year>2025</art_year>
+<art_no>571809</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-11 14:30:00</service_daytime>
+<title><![CDATA[H2·ETRI·KTR, 바나듐 플로우 배터리 기반 수출형 ESS 모델 공동 개발]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>09</media_code>
+<writers><![CDATA[남궁선희 매경비즈 기자(namkung.sunhee@mkinternet.com)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-11 14:04:28</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100402</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[국내에서 개발된 바나듐 플로우 배터리(VFB) 기술이 해외 실증을 통해 본격적인 글로벌 확산을 시작한다.
+에이치투(H2)는 한국전자통신연구원(ETRI), 한국화학융합시험연구원(KTR)과 함께 산업통상자원부와 에너지기술평가원이 주관하는 ‘2025년도 에너지국제공동연구개발사업’에 최종 선정되어, 장주기 에너지저장장치(ESS) 기술의 해외 수출 모델 개발에 나선다고 밝혔다.
+이번 사업은 바나듐 플로우 배터리(VFB)와 AI 기반 에너지관리시스템(EMS)을 결합한 장주기 에너지 저장 장치를 개발하고, 중국 및 싱가포르를 중심으로 한 아시아 시장을 대상으로 상용화를 추진하는 것을 목표로 올해 7월부터 3년간 수행된다.
+그동안 ESS 시장은 리튬이차전지가 주류였지만, 글로벌 시장은 최근 비리튬계 장주기 저장 기술로 눈을 돌리고 있다. 미국 에너지부(DOE)는 리튬 외 장주기 기술 육성전략을 발표했고, 중국은 2030년까지 23GW 규모의 플로우 배터리 설치를 추진 중이다. 일본 또한 NEDO(신에너지산업기술종합개발기구)를 통해 VFB, NaS 등 새로운 배터리 기술을 적극 지원하고 있다.
+바나듐 플로우 배터리(VFB : Vanadium Flow Battery)는 4~10시간 이상 장주기 전력 저장에 적합하고, 수계 전해질 기반으로 화재 위험이 사실상 없으며, 사이클 수명이 길어 최대 30년까지 장기 운전이 가능한 지속 가능 기술로 평가받는다.
+본 사업은 AI를 포함한 VFB 해외 인증 등 전 주기 기술 개발을 포함하는 것이 특징으로 ETRI는 AI 기반 EMS 기술개발, 에이치투는 8시간 장주기 VFB ESS 모듈 개발 및 총괄 사업을 담당한다. 한편, 참여기관인 KTR은 국제표준화 기구인 IEC TC 120 기술위원회 의장 기관으로서 본 사업에서 개발되는 VFB의 국제표준 부합화 및 시험 기술 개발로 해외 시장 진출을 지원할 예정이다.
+해외 기관으로는 네이처 인덱스 기준 전 세계 1위 연구기관인 중국과학원이 EMS 기술 개발에 참여하며, 에너지 종합 솔루션 기업인 YOTAI Digital Energy社가 시스템 설치 및 운영지원을 통해 글로벌 시장 진출에 협력할 예정이다.
+과제 책임자인 에이치투 허지향 박사는 “이번 프로젝트는 국내에서 개발한 장주기 ESS 기술을 해외에서 인증받고, AI 기반의 EMS까지 결합한 수출형 통합 패키지로 완성하는 계기”라며 “지난해 수주하여 올해 10월 상용 운전에 들어가는 스페인 최대 규모 8.8MWh VFB에 이어 이번에는 국제 공동 협력을 통해 글로벌 에너지 기업의 수요에 대응하는 경쟁력 있는 국산 기술의 수출 기반을 확보한다는 것이 가장 큰 의미”라고 강조했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[국내에서 개발된 바나듐 플로우 배터리(VFB) 기술이 해외 실증을 통해 본격적인 글로벌 확산을 시작한다. 에이치투(H2)는 한국전자통신연구원(ETRI), 한국화학융합시험연구원(KTR)과 함께 산업통상자원부와 에너지기술평가원이 주관하는 ‘2025년도 에너지국제공동연구개발사업’에 최종 선정되어, 장주기 에너지저장장치(ESS) 기술의 해외 수출 모델 개발에 나선]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100402</code_id>
+<code_nm><![CDATA[중견/중소기업]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100402</small_code_id>
+<small_code_nm><![CDATA[중견/중소기업]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11390560]]></article_url>
+</article>
+</saltlux>

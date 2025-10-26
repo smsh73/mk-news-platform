@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11382837</art_id>
+<art_year>2025</art_year>
+<art_no>549368</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-01 11:05:18</service_daytime>
+<title><![CDATA[JPMorgan, Coinbase partner to expand crypto access]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-01 11:05:18</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK400110</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/01/news-p.v1.20250801.6eb35f916b5d45f696cb1644f7a6758c_P1.png' alt=' (Coinbase)'>
+U.S. banking giant JPMorgan Chase & Co. and Coinbase Global Inc., the largest U.S. cryptocurrency exchange, have formed a partnership to expand access to digital assets.
+Coinbase said Wednesday, local time, that the agreement aims to strengthen collaboration between the two companies in cryptocurrency-related services.
+Beginning in the second half of this year, customers will be able to purchase cryptocurrencies on Coinbase using credit cards issued by Chase Bank. Starting next year, Chase credit card reward points can be converted into USDC, marking the first time a major U.S. bank has offered cryptocurrency-related benefits through its credit cards.
+Next year, Chase bank accounts will also be linked directly to Coinbase.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[U.S. banking giant JPMorgan Chase & Co. and Coinbase Global Inc., the largest U.S. cryptocurrency exchange, have formed a partnership to expand access to digital assets. Coinbase said Wednesday, local]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK400110</code_id>
+<code_nm><![CDATA[Market]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00308</middle_code_id>
+<middle_code_nm><![CDATA[English]]></middle_code_nm>
+<small_code_id>MK400110</small_code_id>
+<small_code_nm><![CDATA[Market]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/01/news-p.v1.20250801.6eb35f916b5d45f696cb1644f7a6758c_P1.png]]></image_url>
+<image_caption><![CDATA[ (Coinbase)]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11382837]]></article_url>
+</article>
+</saltlux>

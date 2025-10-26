@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11390323</art_id>
+<art_year>2025</art_year>
+<art_no>570803</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-11 10:20:53</service_daytime>
+<title><![CDATA[[속보] 경찰, 주식 차명거래 의혹 이춘석 의원 사무실 압수수색]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>03</media_code>
+<writers><![CDATA[이가람 매경 디지털뉴스룸 기자(r2ver@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-11 10:20:53</reg_dt>
+<mod_dt>2025-08-11 10:54:54</mod_dt>
+<art_org_class>MK100701</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250811.3f2fba7271fb429c9580f7013f3ccd8a_P1.jpeg' alt=' 이춘석 더불어민주당 의원이 지난 4일 서울 여의도 국회에서 열린 본회의에서 타인 명의로 개설된 주식 계좌를 확인하고 있다. [사진 = 더팩트]'>
+주식을 차명 거래한 혐의를 받는 이춘석 무소속 의원의 국회 사무실에 대한 압수수색에 착수했다.
+11일 서울경찰청 금융범죄수사대 전담수사팀은 이날 오전 10시 18분께 서울시 영등포구 여의도 국회의원회관에 있는 이 의원 사무실에 수사관을 보내 관련 자료 확보에 나섰다. 이 의원은 사무실을 비운 상태였던 것으로 알려졌다.
+이 의원은 금융실명법 위반 및 이해충돌방지법 위반 등 혐의를 받고 있다. 지난 4일 국회 본회의장에서 보좌관 명의로 주식을 거래하는 사진이 찍혀 논란에 휩싸였다. 이 의원은 보좌관 명의로 인공지능(AI) 관련주인 네이버와 LG CNS 주식을 보유한 것으로 확인됐다. 이 의원은 곧바로 더불어민주당에서 자진 탈당했다.
+이 의원이 차명 거래를 했다는 의혹을 받은 것은 처음이 아니다. 이 의원은 지난해 10월 7일 정부세종청사에서 열린 국회 국토교통위원회 국정감사에서도 보좌관 명의 계좌로 주식을 거래하는 모습이 포착돼 경찰이 수사에 착수한 바 있다.
+경찰은 지난 7일 안용식 금융범죄수사대장을 팀장으로 세우고 변호사와 회계사를 포함한 법률·자금 추적 전문 인력을 선별해 총 25명 규모의 수사팀을 편성했다. 수사팀을 꾸린 지 4일 만에 압수수색이 이뤄진 것이다. 다만 증거를 인멸할 수 있는 시간이 충분했다는 점에서 우려를 사고 있다.
+수사팀은 언론 공지를 통해 “현재 압수수색 영장을 집행 중”이라며 “법과 원칙에 따라 엄정하게 수사를 진행할 예정”이라고 설명했다. 압수물 분석이 일단락되는 대로 이 의원과 보좌관에 대한 대면 조사가 시작될 전망이다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[주식을 차명 거래한 혐의를 받는 이춘석 무소속 의원의 국회 사무실에 대한 압수수색에 착수했다. 11일 서울경찰청 금융범죄수사대 전담수사팀은 이날 오전 10시 18분께 서울시 영등포구 여의도 국회의원회관에 있는 이 의원 사무실에 수사관을 보내 관련 자료 확보에 나섰다. 이 의원은 사무실을 비운 상태였던 것으로 알려졌다. 이 의원은 금융실명법 위반 및 이해충돌]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100701</code_id>
+<code_nm><![CDATA[정치일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00302</middle_code_id>
+<middle_code_nm><![CDATA[정치]]></middle_code_nm>
+<small_code_id>MK100701</small_code_id>
+<small_code_nm><![CDATA[정치일반]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100801</code_id>
+<code_nm><![CDATA[사회일반]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100801</small_code_id>
+<small_code_nm><![CDATA[사회일반]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/11/news-p.v1.20250811.3f2fba7271fb429c9580f7013f3ccd8a_P1.jpeg]]></image_url>
+<image_caption><![CDATA[ 이춘석 더불어민주당 의원이 지난 4일 서울 여의도 국회에서 열린 본회의에서 타인 명의로 개설된 주식 계좌를 확인하고 있다. [사진 = 더팩트]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11390323]]></article_url>
+</article>
+</saltlux>

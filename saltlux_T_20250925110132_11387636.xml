@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11387636</art_id>
+<art_year>2025</art_year>
+<art_no>564358</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-07 14:51:54</service_daytime>
+<title><![CDATA[올 상반기 해킹 1034건…지난해 보다 15% 급증]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김규식 기자(dorabono@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-07 14:51:54</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101505</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[올해 상반기 해킹 사고가 총 1034건 발생해 지난해 같은 기간보다 약 15% 늘어난 것으로 나타났다. 갈수록 정교해지는 사이버 공격에 따라 국민과 기업 모두의 일상이 위협받고 있다는 우려가 커지고 있다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/07/news-p.v1.20250807.9d740ba363464303aa620b0b96e6a909_P1.png' alt=' 과학기술정보통신부 전경.'>
+과학기술정보통신부와 한국인터넷진흥원(KISA)이 7일 발표한 ‘2025년 상반기 사이버위협 동향’에 따르면 침해 사고는 지난해 상반기 899건에서 올해 1034건으로 늘었다. 해킹 방식은 여전히 서버 침투가 51.4%로 가장 많았고, 디도스(23.0%), 악성코드(11.1%), 랜섬웨어(7.9%) 등이 뒤를 이었다.
+특히 예스24, SGI서울보증보험 등 랜섬웨어 감염으로 주요 서비스가 마비되는 사례가 잇따랐다. 그러나 피해 기업의 4분의 1은 여전히 백업 시스템을 갖추지 않아 복구가 어렵고 피해가 장기화되는 문제도 지적됐다. 보고서에 따르면 랜섬웨어 피해 기업의 44.4%는 백업 시스템까지 함께 감염된 것으로 분석됐다.
+정보통신 분야 해킹이 390건으로 가장 많았고 제조업(157건), 도소매업(132건), 기타 분야(296건) 순으로 나타났다. 특히 SK텔레콤 해킹 사건은 계정 관리 부실, 암호화 미흡 등 전반적인 보안 체계의 허점이 원인으로 지목됐다. 정부는 인공지능(AI) 시대를 맞아 더욱 정교해지는 사이버 공격에 맞서기 위해 대응 전 과정에 AI 기술을 도입할 방침이다. 과기정통부 최우혁 정보보호네트워크정책관은 “정부는 갈수록 지능화‧고도화되는 사이버위협에 대응할 수 있도록 탐지·대응, 조사·분석 등 침해사고 대응 전주기에 사이버보안에 특화된 AI를 적극 도입하고 있다”고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[올해 상반기 해킹 사고가 총 1034건 발생해 지난해 같은 기간보다 약 15% 늘어난 것으로 나타났다. 갈수록 정교해지는 사이버 공격에 따라 국민과 기업 모두의 일상이 위협받고 있다는 우려가 커지고 있다. 과학기술정보통신부와 한국인터넷진흥원(KISA)이 7일 발표한 ‘2025년 상반기 사이버위협 동향’에 따르면 침해 사고는 지난해 상반기 899건에서 올해 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101505</code_id>
+<code_nm><![CDATA[보안/해킹]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101505</small_code_id>
+<small_code_nm><![CDATA[보안/해킹]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/07/news-p.v1.20250807.9d740ba363464303aa620b0b96e6a909_P1.png]]></image_url>
+<image_caption><![CDATA[ 과학기술정보통신부 전경.]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11387636]]></article_url>
+</article>
+</saltlux>

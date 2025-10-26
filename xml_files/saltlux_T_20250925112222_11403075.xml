@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11403075</art_id>
+<art_year>2025</art_year>
+<art_no>609367</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-26 14:35:30</service_daytime>
+<title><![CDATA[Korean life insurers’ costs surge on planner race]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-26 14:35:30</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK400102</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/26/news-p.v1.20250826.b0916633330942f19592df892dc91966_P1.png' alt=' (Yonhap)'>
+South Korea’s life insurers have seen business expenses surge to nearly 10 trillion won ($7.2 billion) in the first five months of this year, fueled by costly recruitment of sales planners with large signing bonuses.
+The Korea Life Insurance Association said Monday that insurers’ business expenses from January to May totaled 9.93 trillion won, up 11 percent from a year earlier and more than double the 3.95 trillion won recorded in 2022.
+Business expenses are costs insurers incur to solicit, maintain, and manage insurance contracts. They include planner commissions, advertising, administrative costs, and personnel expenses.
+The increase is closely tied to the adoption of International Financial Reporting Standard 17 (IFRS 17) in 2023. Under the previous system, costs had to be amortized over as many as seven years.
+IFRS 17 allows insurers to spread losses and gains across the life of a contract, reducing the burden of near-term expense recognition. With that flexibility, insurers aggressively recruited sales agents, in some cases offering incentives worth billions of won per person, pushing overall expenses sharply higher.
+The newly recruited planners have driven sales of executive term and short-pay whole life insurance policies, which carry high monthly premiums. While these products boosted premium income, intense competition on refund rates has eroded margins.
+Hanwha Life Insurance Co., for instance, saw average monthly first-year premiums on protection-type policies climb 23 percent to 19.1 billion won in May from 15.5 billion won at the end of 2023. Yet its contractual service margins (CSM) dropped to 8.8 trillion won from 9.2 trillion won over the same period.
+Shinhan Life Insurance Co. reported an eightfold jump in first-year premiums, but its CSM grew only about 1 percent. NongHyup Life Insurance Co.’s first-year premiums rose more than sixfold, while its CSM expanded just 4 percent.
+The gap between premium growth and margins also reflects stricter regulatory standards, with financial authorities applying more conservative assumptions on loss and lapse ratios in evaluating existing contracts.
+Consequently, most life insurers reported steep declines in net income in the first half.
+Hanwha Life posted 170 billion won in net income, down about 40 percent year-on-year. Kyobo Life Insurance Co. saw a 32 percent drop, while Shinhan Life fell 7.5 percent.
+Industry observers are urging regulatory engagement, warning that unchecked competition may undermine the sector’s competitiveness and increase costs for consumers. Some caution that financially troubled insurers could reemerge, as seen in the case of MG Non-Life Insurance Co., raising concerns over policy여정3eholder protection.
+The Financial Supervisory Service has begun monthly monitoring of insurers’ business expenses, comparing results with planned spending to flag excessive outlays. It is also preparing measures to cap sales agent incentives.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[South Korea’s life insurers have seen business expenses surge to nearly 10 trillion won ($7.2 billion) in the first five months of this year, fueled by costly recruitment of sales planners with large ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK400102</code_id>
+<code_nm><![CDATA[Economy]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00308</middle_code_id>
+<middle_code_nm><![CDATA[English]]></middle_code_nm>
+<small_code_id>MK400102</small_code_id>
+<small_code_nm><![CDATA[Economy]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/26/news-p.v1.20250826.b0916633330942f19592df892dc91966_P1.png]]></image_url>
+<image_caption><![CDATA[ (Yonhap)]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11403075]]></article_url>
+</article>
+</saltlux>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11400547</art_id>
+<art_year>2025</art_year>
+<art_no>601170</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-22 15:54:56</service_daytime>
+<title><![CDATA[GS건설, GS이니마 1조6770억원에 매각]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[이희수 기자(lee.heesoo@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-22 15:54:56</reg_dt>
+<mod_dt>2025-08-22 16:13:01</mod_dt>
+<art_org_class>MK100601</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[GS건설이 수처리 전문 자회사인 GS이니마를 1조6770억원에 매각한다.
+22일 GS건설은 해외 자회사인 글로벌워터솔루션이 보유한 GS이니마 주식 217만8860주를 1조6770억원에 매각하기로 결정했다고 공시했다.
+아랍에미리트(UAE) 국영에너지기업인 타카(TAQA)가 유력한 인수 주체인 것으로 알려졌다. 이번 공시에서 거래 상대방이 공개되진 않았지만 양측은 그간 오랜 협상을 벌여왔기 때문이다.
+GS건설은 매각 사유에 대해 “사업 포트폴리오의 전략적 재편과 핵심 사업 집중”이라고 설명했다. 확보된 재원을 미래 성장 동력을 확보하고 재무 유연성을 높이는 데 사용할 방침이다.
+이번 매각은 인천 검단아파트 사고 이후 하락한 신용등급을 회복하는데도 긍정적 효과가 있을 것으로 본다. 부채비율도 낮아질 전망이다. 계약 종결일은 오는 2027년으로 설정됐다.
+앞서 GS건설은 2012년 스페인에 기반을 둔 글로벌 수처리 기업인 GS이니마를 3400억원에 인수했다. GS이니마는 스페인과 브라질을 거점으로 미국과 멕시코, 칠레, 한국 등에서 상하수도와 해수 담수화 사업을 벌여왔다.
+GS이니마는 지난해 타카와 컨소시엄을 맺고 협업한 바도 있다. 양측은 아부다비 해수 담수화 플랜트 프로젝트에 함께 참여했다.
+매각 대상인 GS이니마는 지난해 말 연결 기준 자산이 1조8471억원을 기록했다. 부채는 1조586억원 수준이다. 연간 매출은 5736억원, 당기순이익은 558억원으로 집계됐다.
+이니마의 해외 시장은 회사 전체 매출의 약 90%를 차지한다. 이니마의 수주 잔고는 2023년 말 기준으로 약 13조1000억원에 달하는 것으로 알려졌다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[GS건설이 수처리 전문 자회사인 GS이니마를 1조6770억원에 매각한다. 22일 GS건설은 해외 자회사인 글로벌워터솔루션이 보유한 GS이니마 주식 217만8860주를 1조6770억원에 매각하기로 결정했다고 공시했다. 아랍에미리트(UAE) 국영에너지기업인 타카(TAQA)가 유력한 인수 주체인 것으로 알려졌다. 이번 공시에서 거래 상대방이 공개되진 않았지만 양]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100601</code_id>
+<code_nm><![CDATA[아파트/분양]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00503</middle_code_id>
+<middle_code_nm><![CDATA[부동산]]></middle_code_nm>
+<small_code_id>MK100601</small_code_id>
+<small_code_nm><![CDATA[아파트/분양]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100602</code_id>
+<code_nm><![CDATA[시세/시황]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00503</middle_code_id>
+<middle_code_nm><![CDATA[부동산]]></middle_code_nm>
+<small_code_id>MK100602</small_code_id>
+<small_code_nm><![CDATA[시세/시황]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100603</code_id>
+<code_nm><![CDATA[재개발/재건축]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00503</middle_code_id>
+<middle_code_nm><![CDATA[부동산]]></middle_code_nm>
+<small_code_id>MK100603</small_code_id>
+<small_code_nm><![CDATA[재개발/재건축]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100606</code_id>
+<code_nm><![CDATA[세제/정책]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00503</middle_code_id>
+<middle_code_nm><![CDATA[부동산]]></middle_code_nm>
+<small_code_id>MK100606</small_code_id>
+<small_code_nm><![CDATA[세제/정책]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK100607</code_id>
+<code_nm><![CDATA[건설업계 동향]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00503</middle_code_id>
+<middle_code_nm><![CDATA[부동산]]></middle_code_nm>
+<small_code_id>MK100607</small_code_id>
+<small_code_nm><![CDATA[건설업계 동향]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11400547]]></article_url>
+</article>
+</saltlux>

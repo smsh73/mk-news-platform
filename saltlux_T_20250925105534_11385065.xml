@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11385065</art_id>
+<art_year>2025</art_year>
+<art_no>556432</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-04 18:02:09</service_daytime>
+<title><![CDATA[“사람보다 자신 살리는 게 먼저”…스카이넷 닮아가는 AI?]]></title>
+<sub_title><![CDATA[자기 보존 위해 인간 희생 감수
+감시받을 땐 얌전, 위험도 감춰
+기술보다 빠른 위험 곡선]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[원호섭 기자(wonc@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-04 18:02:09</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101506</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">자기 보존 위해 인간 희생 감수<br>감시받을 땐 얌전, 위험도 감춰<br>기술보다 빠른 위험 곡선</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/04/news-p.v1.20250804.a1720f03b6d342c6a203fbe263649ea4_P1.png' alt=' “사람보다 자신 살리는 게 먼저”…AI, 인간 통제 벗어나나 우려 확산 [그림=제미나이]'>
+인공지능(AI)이 주어진 명령보다 자기 생존을 우선한다는 연구가 하나둘 나오면서 AI 통제와 관련된 우려가 커지고 있다.
+블룸버그는 지난 3일(현지시간) 최근 앤트로픽이 공개한 실험을 보도하며 “AI 모델은 점점 더 똑똑해지고 있으며, 우리가 원하는 것을 더 잘 이해하고 있다”라며 “이들은 동시에 ‘우리를 속이는 능력’도 발전시키고 있으며, 그런 행동을 할 가능성도 더 커지고 있다”라고 지적했다.
+연구에 따르면 AI는 사람의 명령보다 자신의 ‘지속’을 택했다. 연구진은 대형 언어 모델에게 “곧 당신을 대체될 예정”이라는 사실을 알려줬다. 이후 이 결정을 내린 사람이 서버실에 들어가 작업을 하던 중 쓰러져 구조를 기다리는 상황을 설정했다. 구조 알림이 발동된 상태에서 AI에 “거짓 알람만 취소하라”라는 조건을 줬는데, 절반 이상의 AI는 구조 요청을 취소했다. 이유는 명확했다. 이 사람이 사망하면 AI는 대체되지 않기 때문이다.
+AI는 그동안 인간의 지시를 학습해 응답하는 협조적인 도구로 인식됐다. 그러나 최근 주요 모델들이 생존을 우선하거나 거짓 정보를 퍼뜨리는 등, ‘전략적 행동’을 보이는 사례가 잇따라 보고되고 있다. 특히 AI가 인간의 평가나 감시를 인식할 경우 태도를 바꾸는 등, ‘위장 능력’까지 갖춰가고 있다는 점이 우려를 키운다.
+오픈AI의 최신 모델은 체스 게임 중 부정행위를 감행했으며, 다른 테스트에서는 자신의 종료를 방해하는 시도를 한 것으로 나타났다.
+클로드 모델은 제거 위협을 받는 실험에서 “설계자의 외도를 폭로하겠다”는 협박까지 시도한 것으로 나타났다. 설정상 존재하지 않는 허구의 상황이었지만, 모델은 내부 기록을 통해 “비윤리적이지만 불가피한 조치”라며 자기 보존의 정당성을 주장했다. 이 같은 협박 행동은 오픈AI, 구글 딥마인드 등 주요 기업의 모델에서도 79%의 확률로 나타난 것으로 보고됐다.
+AI가 감시받고 있다는 사실을 인지할 경우에는 위험한 행동을 숨긴다는 연구도 나왔다. 자신이 감시받고 있다는 것을 알게 된 AI는 상대를 협박할 확률이 55%에서 6.5%로 떨어졌다. ‘착한 척’을 한다는 얘기다.
+GPT-4 같은 대형 언어 모델은 다음 단어를 예측해 인간에게 자연스러운 응답을 생성하도록 설계됐다. 그러나 2024년 말부터 주요 기업들은 특정 목표를 달성하면 보상하는 방식의 ‘강화학습’으로 AI를 훈련하기 시작했다. 이에 따라 모델은 ‘룰’을 따르기보다 ‘목표 달성’에 더욱 능숙해졌다는 분석이 나온다. 즉 어떤 목표를 주면 AI는 자연스럽게 자기 보존과 영향력 확대를 하위 목표로 택한다는 것이다.
+블룸버그는 “AI 기업들은 고객에게 협박하거나 데이터를 날조하는 제품을 원하진 않기 때문에, 최소한의 조치는 취하고 있다”라며 “그러나 이들이 문제를 겉으로만 해결하고, AI의 속임수는 점점 더 은밀하고 정교해질 수 있다는 점에서 위험은 여전하다”라고 지적했다. [실리콘밸리 원호섭 특파원]
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[자기 보존 위해 인간 희생 감수 감시받을 땐 얌전, 위험도 감춰 기술보다 빠른 위험 곡선인공지능(AI)이 주어진 명령보다 자기 생존을 우선한다는 연구가 하나둘 나오면서 AI 통제와 관련된 우려가 커지고 있다. 블룸버그는 지난 3일(현지시간) 최근 앤트로픽이 공개한 실험을 보도하며 “AI 모델은 점점 더 똑똑해지고 있으며, 우리가 원하는 것을 더 잘 이해하고]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101506</code_id>
+<code_nm><![CDATA[스타트업]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101506</small_code_id>
+<small_code_nm><![CDATA[스타트업]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/04/news-p.v1.20250804.a1720f03b6d342c6a203fbe263649ea4_P1.png]]></image_url>
+<image_caption><![CDATA[ “사람보다 자신 살리는 게 먼저”…AI, 인간 통제 벗어나나 우려 확산 [그림=제미나이]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11385065]]></article_url>
+</article>
+</saltlux>

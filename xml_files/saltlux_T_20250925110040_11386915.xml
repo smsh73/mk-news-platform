@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11386915</art_id>
+<art_year>2025</art_year>
+<art_no>562022</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-06 17:38:19</service_daytime>
+<title><![CDATA[오픈AI도 오픈소스 참전 메타·딥시크와 한판 승부]]></title>
+<sub_title><![CDATA[6년만에 개방형모델 2개 공개<br>"해킹 악용 못하게 안전 강화"]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[원호섭 기자(wonc@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250807</pub_date>
+<pub_edition>11</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>17</pub_page>
+<reg_dt>2025-08-06 17:38:19</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[챗GPT 개발사인 오픈AI가 오픈소스 인공지능(AI) 모델 두 개를 5일(현지시간) 공개했다. 오픈AI가 개방형 모델을 내놓은 것은 챗GPT의 기반이 된 'GPT-2'를 선보인 2019년 후 처음이다. 그동안 오픈AI는 사용자 수정이 불가능하며 기술적 기반 정보도 제한적으로 공개하는 폐쇄형 모델을 고수해왔다. 
+오픈AI가 공개한 오픈소스 모델은 'GPT-oss-120b'와 'GPT-oss-20b' 두 가지다. 두 모델은 오픈소스 소프트웨어 플랫폼 '허깅페이스'를 통해 누구나 다운로드받아 사용할 수 있으며 기업들도 상업적 용도로 자유롭게 활용할 수 있다.
+GPT-oss-120b는 1170억개의 파라미터를 갖춘 대형 모델로 단일 GPU로 실행이 가능하다. 소형 모델인 GPT-oss-20b는 일반 노트북(16GB 메모리)에서도 작동한다. 두 가지 모두 텍스트 생성, 코드 작성, 온라인 정보 검색, 도구 호출 등 복잡한 작업을 수행할 수 있다.
+다만 완전한 오픈소스는 아니다. 모델 가중치는 공개됐지만 학습에 사용된 데이터세트는 비공개다. 오픈AI는 현재 진행 중인 저작권 관련 소송 등을 감안해 학습 데이터를 공개하지 않기로 했다.
+이번 GPT-oss 모델은 '생각의 사슬(chain-of-thought)' 추론 방식을 채택해 문제 해결 과정에서 다단계 사고를 수행한다. AI가 바로 정답을 말하는 게 아니라 사고 과정을 거치며 단계별로 천천히 답을 찾아가는 방식이다. 오픈AI의 폐쇄형 모델 'o시리즈'에 적용된 기술이다. 또 '혼합 전문가 구조'를 도입해 토큰당 활성화되는 파라미터 수를 줄임으로써 연산 효율을 높였다. 즉 GPT-oss-120b는 파라미터 1170억개를 가지고 있는데 질문당 51억개만 사용하도록 설계돼 있다. 계산 효율은 높아지고 속도와 비용도 절감된다.
+GPT-oss 시리즈는 딥시크 등 주요 오픈소스보다 높은 성능을 기록했다. 오픈AI는 이들 모델이 보안 위협에 악용될 가능성을 평가하기 위해 생물·화학무기 설계, 사이버 공격 시뮬레이션을 진행한 결과 "생물학적 역량이 소폭 증가할 수는 있으나 고위험군에 도달할 정도는 아니다"고 밝혔다. 
+[실리콘밸리 원호섭 특파원]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[챗GPT 개발사인 오픈AI가 오픈소스 인공지능(AI) 모델 두 개를 5일(현지시간) 공개했다. 오픈AI가 개방형 모델을 내놓은 것은 챗GPT의 기반이 된 'GPT-2'를 선보인 2019년 후 처음이다. 그동안 오픈AI는 사용자 수정이 불가능하며 기술적 기반 정보도 제한적으로 공개하는 폐쇄형 모델을 고수해왔다. 
+오픈AI가 공개한 오픈소스 모델은 'GPT-oss-120b'와 'GPT-oss-20b' 두 가지다. 두 모델은 오픈소스 소프트웨어 플랫폼 '허깅]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11386915]]></article_url>
+</article>
+</saltlux>

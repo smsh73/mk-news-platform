@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11386519</art_id>
+<art_year>2025</art_year>
+<art_no>561096</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-06 14:15:38</service_daytime>
+<title><![CDATA[AI 반도체 핵심기술 빼돌린 사피온 전 임직원 3명 기소…280억원 가치]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[이대현 기자(lee.deahyun@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-06 14:15:38</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100804</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/06/news-p.v1.20250806.429d603716fd4f75bab4838fca55e299_P1.jpg' alt=' 사건 개요도. 수원지검 제공'>
+국내 AI 반도체 기업 리벨리온과 사피온의 합병을 앞두고 정부가 첨단기술로 지정한 핵심기술을 유출한 전 사피온 임직원 3명이 재판에 넘겨졌다.
+수원지검 방위사업·산업기술범죄수사부(박경택 부장검사)는 산업기술보호법 위반, 부정경쟁방지법위반, 업무상배임 등 혐의로 A씨와 B씨 등 사피온 전 직원 2명을 구속기소하고, 전 임원 C씨를 불구속기소 했다고 6일 밝혔다.
+A씨는 지난해 1~4월 3차례에 걸쳐 AI 반도체 소스코드를 비롯한 각종 기술자료를 외장하드로 유출한 혐의를 받고 있으며, B씨는 같은 해 1~6월 2차례 소스코드 자료를 개인 클라우드에 올려 유출한 혐의다.
+이들이 유출한 소스코드는 AI 반도체의 아키텍처(기초 설계도) 구조를 프로그래밍한 언어로, AI 반도체 상세 설계도에 해당하는 핵심 기술 자료다.
+C씨는 2023년 3월 AI 반도체 아키텍처 자료를 외장하드로 유출한 혐의 등을 받는다.
+그는 사피온이 AI 반도체 개발업체 리벨리온에 흡수 합병되기 전 퇴사해 새로운 AI 반도체 스타트업을 설립했으며, A씨 등 2명은 이후 사피온을 나와 해당 스타트업에서 팀장급 엔지니어로 근무해왔다.
+이들이 유출한 소스코드 등의 평가 가치는 약 280억원에 달하는 것으로 알려졌다.
+검찰 관계자는 “국정원 산하 산업기밀보호센터에서 수집한 정보를 바탕으로 신속히 수사한 결과 피고인들이 유출한 기술자료로 유사한 AI 반도체를 개발하기 전 범행을 적발해 추가 피해를 막았다”며 “산업기술 유출 등 불공정 행위에 대해 엄정히 대응하겠다”고 강조했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[국내 AI 반도체 기업 리벨리온과 사피온의 합병을 앞두고 정부가 첨단기술로 지정한 핵심기술을 유출한 전 사피온 임직원 3명이 재판에 넘겨졌다. 수원지검 방위사업·산업기술범죄수사부(박경택 부장검사)는 산업기술보호법 위반, 부정경쟁방지법위반, 업무상배임 등 혐의로 A씨와 B씨 등 사피온 전 직원 2명을 구속기소하고, 전 임원 C씨를 불구속기소 했다고 6일 밝혔]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100804</code_id>
+<code_nm><![CDATA[사건·사고]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00504</middle_code_id>
+<middle_code_nm><![CDATA[사회]]></middle_code_nm>
+<small_code_id>MK100804</small_code_id>
+<small_code_nm><![CDATA[사건·사고]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/06/news-p.v1.20250806.429d603716fd4f75bab4838fca55e299_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 사건 개요도. 수원지검 제공]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11386519]]></article_url>
+</article>
+</saltlux>

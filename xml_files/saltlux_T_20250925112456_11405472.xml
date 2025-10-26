@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11405472</art_id>
+<art_year>2025</art_year>
+<art_no>616514</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-28 18:04:13</service_daytime>
+<title><![CDATA[앤스로픽 "클로드, 北·中 해커 공격 도구로 활용"]]></title>
+<sub_title><![CDATA[위협 인텔리전스 보고서<br>北 해커는 美 기업 위장취업<br>中, 베트남 통신사 침투 활용]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[원호섭 기자(wonc@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250829</pub_date>
+<pub_edition>16</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>16</pub_page>
+<reg_dt>2025-08-28 18:04:13</reg_dt>
+<mod_dt>2025-08-28 19:40:27</mod_dt>
+<art_org_class>MK101507</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[미국 인공지능(AI) 스타트업 앤스로픽이 자사의 생성형 인공지능(AI) 도구 '클로드'가 대규모 해킹 공격에 활용됐다고 밝혔다. 이번 사례는 AI가 사이버 범죄에 다양한 방식으로 동원될 수 있음을 드러내며 그 위험성에 대한 우려가 한층 커지고 있다.
+27일(현지시간) 앤스로픽이 공개한 '위협 인텔리전스 보고서'에 따르면 한 해커는 클로드를 이용해 미국 정부와 의료기관, 종교 단체 등 17개 기관을 공격했다. 이 해커는 의료 데이터와 금융 정보를 탈취한 뒤 7만5000달러에서 최대 50만달러에 이르는 가상화폐를 요구한 것으로 알려졌다. 보고서는 "AI가 사이버 범죄에서 컨설턴트이자 실행자 역할을 동시에 수행하면서 해커 한 명이 조직화한 범죄집단처럼 활동할 수 있게 됐다"고 설명했다.
+앤스로픽은 이 사건 외에 북한과 중국의 악용 사례도 보고했다. 북한 해커들은 클로드를 활용해 미국의 기술 기업에 원격 근무자로 위장 취업해 고액 연봉을 챙기고 이를 무기 개발 자금으로 사용했다. 이들은 기본적인 코딩 업무조차 AI에 전적으로 의존한 것으로 파악됐다. 중국 해킹 조직은 9개월간 베트남의 주요 통신사와 농업 관리 시스템, 정부 데이터베이스에 침투하는 과정에서 클로드를 활용했다.
+앤스로픽은 자사의 조사 결과를 바탕으로 "AI 기반 공격은 방어 조치에 실시간으로 적응했으며 전략적이고 전술적인 결정을 내릴 수 있다"고 경고했다. 공격자가 목표를 더 정밀하게 공략하고 수익화하는 데 AI가 핵심 도구로 자리 잡고 있다는 의미다.
+이 같은 사례는 비단 앤스로픽만의 문제가 아니다. 지난 2월 마이크로소프트(MS)에 따르면 중국, 이란, 러시아 등의 해커 그룹들이 오픈AI의 챗봇 등을 악성 이미지와 보안 우회 코드 생성 등에 활용했다고 밝힌 바 있다. 블룸버그는 "이번 사례는 AI 기반 해킹이 우려스럽게 진화하고 있음을 보여준다"며 "해커는 AI를 공격 수행을 직접 지원하는 '운영자'로 활용해 기존에는 어려웠던 공격도 실행했다"고 전했다. 
+[실리콘밸리 원호섭 특파원]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[미국 인공지능(AI) 스타트업 앤스로픽이 자사의 생성형 인공지능(AI) 도구 '클로드'가 대규모 해킹 공격에 활용됐다고 밝혔다. 이번 사례는 AI가 사이버 범죄에 다양한 방식으로 동원될 수 있음을 드러내며 그 위험성에 대한 우려가 한층 커지고 있다.
+27일(현지시간) 앤스로픽이 공개한 '위협 인텔리전스 보고서'에 따르면 한 해커는 클로드를 이용해 미국 정부와 의료기관, 종교 단체 등 17개 기관을 공격했다. 이 해커는 의료 데이터와 금융 정보를 탈취한 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11405472]]></article_url>
+</article>
+</saltlux>

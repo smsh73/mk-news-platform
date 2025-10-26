@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11385914</art_id>
+<art_year>2025</art_year>
+<art_no>559189</art_no>
+<gubun>D</gubun>
+<service_daytime>2025-08-05 17:59:54</service_daytime>
+<title><![CDATA[AX에 빠진 기업들…LGD 비용절감 2천억원]]></title>
+<sub_title><![CDATA[AI에이전트가 수율까지 높여<br>설계시간 한달서 8일로 단축<br>삼성전기, 자동화 생산 진행<br>"중국과 경쟁 답 AI서 찾아야"]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[이덕주 기자(mrdjlee@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>P</pub_div>
+<pub_date>20250806</pub_date>
+<pub_edition>16</pub_edition>
+<pub_section>01</pub_section>
+<pub_page>14</pub_page>
+<reg_dt>2025-08-05 17:59:54</reg_dt>
+<mod_dt>2025-08-05 20:32:32</mod_dt>
+<art_org_class>MK100305</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/06/20250806_01160114000001_L00.jpg' alt=''>
+
+중국 기업과 벌이는 글로벌 경쟁에서 살아남기 위해 제조업체들이 인공지능(AI)을 빠르게 도입하고 있다. AI를 활용해 제조·설계는 물론 사무 업무까지 전반적으로 생산성을 높이겠다는 전략이다.
+LG디스플레이는 5일 인공지능 전환(AX:AI Transformation) 온라인 세미나를 열고 올해를 AX 혁신 원년으로 삼아 개발부터 생산, 사무 영역까지 자체 개발한 AI를 적용한다고 밝혔다.
+AI로 생산성 향상이 두드러지는 영역은 디스플레이 수율이다. AI가 각 패널에서 발생하는 불량률이 높은 영역을 찾아내 원인을 자동 분석한다. LG디스플레이는 여기서 그치지 않고 수율 향상 작업을 AI 에이전트들끼리 직접 수행하는 고도화도 준비 중이다. 이영주 LG디스플레이 제조AI실장은 "현재는 AI가 감지하고 사람이 판단하지만 앞으로는 슈퍼 에이전트 AI를 만들어서 AI가 슈퍼 에이전트에 보고하게 할 것"이라면서 "슈퍼 에이전트가 문제가 있는 설비를 다시 스케줄링하고 공정제어도 직접 하는 것이 목표"라고 설명했다.
+이런 AI 개발이 가능해진 것은 유기발광다이오드(OLED) 제조공정의 전문(도메인) 지식을 AI에 학습시켰기 때문이다. AI로 인해 품질 개선에 걸리는 시간은 3주에서 2일로 크게 줄었고 양품 생산량이 늘면서 연간 2000억원 넘는 비용 효과를 얻었다.
+생산뿐 아니라 설계에도 AI를 도입했다. LG디스플레이는 복잡한 곡면 패널 설계를 위한 '에지 설계 AI 알고리즘'을 6월 자체 개발했다. 패널 설계기간이 1개월에서 8시간으로 단축됐고, 오류율도 크게 낮아졌다. 광학 설계에서도 AI가 설계안 작성부터 검증, 제안까지 수행해 설계기간을 5일에서 8시간으로 줄였다.
+LG디스플레이는 패널 기판 설계에 AI를 우선 적용한 뒤 재료·소자, 회로, 기구 등으로 단계적으로 확대할 계획이다.
+LG디스플레이 AI에는 LG AI연구원의 엑사원(EXAONE)을 활용했다. 사무직을 위한 AI 어시스턴트 '하이디(HI-D)'에는 엑사원이 파운데이션 모델로 적용되고 있다. 하이디는 챗GPT처럼 AI 지식 검색, 영상회의 실시간 번역, 회의록 작성, 메일 요약과 초안 작성 등을 지원한다. 내부망에서 사용하기 때문에 외부로 정보가 유출되는 걸 원천적으로 차단할 수 있다. 하이디 도입으로 하루 평균 업무 생산성이 약 10% 향상됐는데, LG디스플레이는 이를 3년 내 30%까지 끌어올릴 방침이다. 외부 솔루션 대신 하이디를 자체 개발함으로써 연간 100억원에 이르는 비용 절감 효과도 거뒀다.
+다른 제조기업에도 AI 도입 바람이 불고 있다. 
+조주완 LG전자 사장은 지난달 AX를 주제로 열린 임직원 소통 행사 'AX 토크콘서트'에 참석해 생성형 AI 데이터 시스템 '찾다(CHATDA)' 등을 소개했다.
+삼성전기는 AI를 기반으로 생산을 자동화하는 프로젝트를 진행 중이다. 이를 통해 중국 기업과 경쟁할 수 있는 생산성을 확보하겠다는 것이다.
+삼성전자 반도체 부문은 지난해 말 SAIT(옛 종합기술원) 산하에 있던 AI센터와 DS부문 내 혁신센터를 통합해 'AI센터'를 신설했다. AI를 활용해 반도체 연구개발(R&D) 역량을 높이려는 목적이다.
+한 국내 전자업체 CEO는 "한국보다 수십 배 많은 엔지니어를 배출하는 중국과의 경쟁에서 살아남기 위해 한국은 AI에서 답을 찾아야 한다"면서 "공장을 무인 자동화하고 AI를 활용해 R&D를 진행하는 것이 유일한 생존 방법"이라고 조언했다. 
+[이덕주 기자]]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[중국 기업과 벌이는 글로벌 경쟁에서 살아남기 위해 제조업체들이 인공지능(AI)을 빠르게 도입하고 있다. AI를 활용해 제조·설계는 물론 사무 업무까지 전반적으로 생산성을 높이겠다는 전략이다.
+LG디스플레이는 5일 인공지능 전환(AX:AI Transformation) 온라인 세미나를 열고 올해를 AX 혁신 원년으로 삼아 개발부터 생산, 사무 영역까지 자체 개발한 AI를 적용한다고 밝혔다.
+AI로 생산성 향상이 두드러지는 영역은 디스플레이 수율이다. AI가]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100305</code_id>
+<code_nm><![CDATA[전기·전자·통신]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100305</small_code_id>
+<small_code_nm><![CDATA[전기·전자·통신]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/06/20250806_01160114000001_L00.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11385914]]></article_url>
+</article>
+</saltlux>

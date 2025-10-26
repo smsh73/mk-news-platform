@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11402323</art_id>
+<art_year>2025</art_year>
+<art_no>606753</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-25 16:40:47</service_daytime>
+<title><![CDATA[“최첨단공정서 중국 장비·소재 다 뺀다”...TSMC, 미국 규제 영향 차단[닛케이]]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[이동인 기자(moveman@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-25 16:40:47</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100301</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/25/news-p.v1.20250825.8ee77e33470b45f2abcfe028944d95ad_P1.jpg' alt=' TSMC. 연합뉴스'>
+세계 최대 반도체 위탁생산(파운드리) 업체인 대만 TSMC가 연내 양산을 추진 중인 2나노(㎚·1㎚=10억분의 1m) 생산라인에서 중국 제조장비 사용을 배제한다고 니혼게이자이신문(닛케이)이 25일 보도했다.
+이 신문은 “미국에서 중국산 장치에 대한 규제가 강화될 전망이어서 향후 생산에 지장이 생기는 것을 막으려는 것”이라고 해설했다.
+TSMC는 우선 대만 북부 신주에서 2나노 공정 제품 양산을 시작하고, 이후 대만 남부 가오슝과 미국 애리조나주에서도 2나노 제품을 만들 예정이다.
+TSMC는 지금까지 중국 반도체 장비회사 중웨이반도체(AMEC)와 중국 기업 산하 업체인 미국 맷슨 테크놀로지 장비를 사용해 왔다.
+다만 이미 양산 중인 3나노 생산라인에서도 1년 전쯤 중국산 장비 제외를 검토했으나, 제반 상황을 고려해 보류했다고 닛케이는 전했다.
+TSMC는 반도체 제조장치뿐만 아니라 중국산 소재 이용도 줄이기 위한 조사를 진행 중인 것으로 알려졌다.
+이 신문은 “TSMC가 중국 제조장치 등을 배제하려는 것은 미국에서 규제가 강화될 가능성이 있기 때문”이라며 지난해 미국에서 반도체법 지원 아래 건설된 미국 공장에서 중국산 장비를 사용하지 못하도록 하는 법안이 발의됐다고 전했다.
+이어 TSMC가 미국 정부 보조금을 받아 애리조나주에 첨단 반도체 공장을 짓고 있다고 덧붙였다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[세계 최대 반도체 위탁생산(파운드리) 업체인 대만 TSMC가 연내 양산을 추진 중인 2나노(㎚·1㎚=10억분의 1m) 생산라인에서 중국 제조장비 사용을 배제한다고 니혼게이자이신문(닛케이)이 25일 보도했다. 이 신문은 “미국에서 중국산 장치에 대한 규제가 강화될 전망이어서 향후 생산에 지장이 생기는 것을 막으려는 것”이라고 해설했다. TSMC는 우선 대만 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100301</code_id>
+<code_nm><![CDATA[기업 경영]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100301</small_code_id>
+<small_code_nm><![CDATA[기업 경영]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/25/news-p.v1.20250825.8ee77e33470b45f2abcfe028944d95ad_P1.jpg]]></image_url>
+<image_caption><![CDATA[ TSMC. 연합뉴스]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11402323]]></article_url>
+</article>
+</saltlux>

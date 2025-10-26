@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11391671</art_id>
+<art_year>2025</art_year>
+<art_no>574929</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-12 14:24:31</service_daytime>
+<title><![CDATA[NIA ‘공공AI전환지원센터’ 신설…“공공부문 AI 도입 지원”]]></title>
+<sub_title><![CDATA[]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김대기 기자(daekey1@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-12 14:24:31</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK101501</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<img src='https://wimg.mk.co.kr/news/cms/202508/12/news-p.v1.20250812.c077a080dd024e399c77977cf70d15f8_P1.jpg' alt=''>
+<img src='https://wimg.mk.co.kr/news/cms/202508/12/news-p.v1.20250812.1fb74be8a46e449bb9ad4a6cf60f4523_P1.jpg' alt=' 황종성 한국지능정보사회진흥원(NIA) 원장'>
+한국지능정보사회진흥원(NIA)은 공공부문 인공지능(AI) 도입·활용을 체계적으로 지원하기 위해 ‘공공AI전환지원센터’를 신설했다고 11일 밝혔다.
+이번 센터 신설은 지난달 기획재정부 공공기관운영위원회가 의결한 ‘공공기관 AI 활용 활성화 방안’의 첫 실행 단계다. 공공기관의 급증하는 AI 도입 수요와 정부 AI 정책에 부응해 AI 전문기관인 NIA가 공공기관 AI 확산과 생태계 조성을 주도한다.
+공공AI전환지원센터는 정책·기술 가이드 제공, 우수사례 발굴·확산, AI 역량강화 등 AI 도입 전 주기를 지원하는 허브로 운영된다. 센터는 공공기관의 AI 도입을 위한 실무지침을 마련해 정책·기술적 고려사항, 운영·고도화 방안 등 현장 중심 가이드를 제공하고, 조직 차원의 AI 전환 지원과 기관별 핵심 AI 활용 과제 발굴을 위한 컨설팅 제공, 우수사례 정리 및 확산을 맡는다.
+나아가 AI 전문 교육과정을 신설해 실무 사례 중심의 교육 콘텐츠를 통해 공공기관의 AI 전환 역량을 강화할 계획이다.
+황종성 NIA 원장은 “이번 조직 개편으로 NIA가 AI 전문기관으로서의 위상을 강화하고, 공공기관 AI 전환을 지원하는 핵심 허브로 공공부문 AI 확산을 선도할 것”이라고 말했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[한국지능정보사회진흥원(NIA)은 공공부문 인공지능(AI) 도입·활용을 체계적으로 지원하기 위해 ‘공공AI전환지원센터’를 신설했다고 11일 밝혔다. 이번 센터 신설은 지난달 기획재정부 공공기관운영위원회가 의결한 ‘공공기관 AI 활용 활성화 방안’의 첫 실행 단계다. 공공기관의 급증하는 AI 도입 수요와 정부 AI 정책에 부응해 AI 전문기관인 NIA가 공공기]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK101501</code_id>
+<code_nm><![CDATA[모바일]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101501</small_code_id>
+<small_code_nm><![CDATA[모바일]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/12/news-p.v1.20250812.c077a080dd024e399c77977cf70d15f8_P1.jpg]]></image_url>
+<image_caption><![CDATA[]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/12/news-p.v1.20250812.1fb74be8a46e449bb9ad4a6cf60f4523_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 황종성 한국지능정보사회진흥원(NIA) 원장]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11391671]]></article_url>
+</article>
+</saltlux>

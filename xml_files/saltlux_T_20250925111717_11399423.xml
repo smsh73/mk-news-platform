@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11399423</art_id>
+<art_year>2025</art_year>
+<art_no>598196</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-21 15:36:04</service_daytime>
+<title><![CDATA[현대모비스 차량용반도체 연구개발 절차, 국제표준  ISO26262 최고등급 획득...3년 내 차세대 반도체 개발 목표]]></title>
+<sub_title><![CDATA[단일 제품 넘어 연구개발 전 과정 인증 획득
+현대모비스 개발 반도체, 동일한 신뢰성 자동 확보
+3년 내 차세대 반도체 개발 완료 목표 
+“국내 차량용반도체 생태계 확장 이끌 것”]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[한창호 기자(han.changho@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-21 15:36:04</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100308</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">단일 제품 넘어 연구개발 전 과정 인증 획득<br>현대모비스 개발 반도체, 동일한 신뢰성 자동 확보<br>3년 내 차세대 반도체 개발 완료 목표 <br>“국내 차량용반도체 생태계 확장 이끌 것”</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250821.89fd5f39f5ce418ba79235bfcf346d4a_P1.jpg' alt=' 현대모비스 차량용 반도체 개발과정이 획득한 ISO 26262 국제표준 인증서 [자료출처=현대모비스]'>
+현대모비스의 차량용 반도체 연구개발 프로세스가 국제표준 최고 수준의 안전 등급을 획득하며 차량용 반도체 생태계 확장에 앞장선다.
+현대모비스는 21일 자동차 기능안전·사이버보안 전문 심사기관 독일 ‘엑시다(Exida)’로부터 국제표준 ISO 26262 인증을 취득했다고 밝혔다.
+ISO 26262는 차량용 전기·전자시스템 안전사고를 예방하기 위한 국제표준으로 지난 2018년부터 차량용 반도체에 적용되고 있다.
+특히 현대모비스가 획득한 인증은 반도체 설계부터 품질 검증에 이르기까지 차량용 반도체 연구개발 프로세스의 전 과정과 플랫폼이 대상이다. 단일 반도체 제품이 인증을 받는 것이 일반적인데 현대모비스와 같이 연구개발 플랫폼 전체에 인증을 받는 것은 과정이 매우 까다로워 흔치 않은 것으로 알려진다.
+이번 인증으로 향후 현대모비스가 표준화된 연구개발 절차를 거쳐 설계하는 차량용 반도체는 제품에 대한 인증을 받는 것과 동일한 신뢰성이 자동으로 확보된다. 현대모비스는 이러한 성과를 주요 협력사와 적극 공유하며 국내 차량용 반도체 생태계 확장에 앞장선다는 방침이다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250821.736240d69cfb42e099547d9404934af9_P1.jpg' alt=' 현대모비스 차량용 반도체 연구개발 성과 [자료출처=현대모비스]'>
+현대모비스는 현재 에어백용 통합반도체, 친환경차용 전원반도체, 모터제어용 통합반도체 등 총 16종의 반도체를 자체 개발해 외부 파운드리를 통해 양산하고 있다. 현대모비스는 배터리관리시스템, 램프, 통신용 반도체와 네트워크 SoC(System on Chip) 등 11종의 차세대 반도체를 3년 내 개발 완료를 목표로 연구개발에 박차를 가하고 있다.
+현대모비스는 ISO 26262 인증을 위한 차량 안전 무결성 기준 ASIL(Automotive Safety Integrity Level)에서 가장 획득하기 어려운 D등급을 받았다. ASIL은 A부터 D까지 4단계로 나뉘는데, D등급은 99% 이상의 엄격한 신뢰도로 안전사고를 예방할 수 있는 최고 등급이다.
+이번 인증을 바탕으로 현대모비스가 자체 설계한 반도체와 이를 탑재한 제어기·핵심부품 경쟁력이 동시에 향상될 것이라 기대된다. 반도체의 중요성이 강조되며 완성차 제작사들도 표준 인증체계를 갖춘 부품사를 선호하기 때문이다. ISO 26262 획득으로 현대모비스가 향후 글로벌 부품사간 수주 경쟁에서 유리한 위치를 선점할 수 있게 됐다.
+이희현 현대모비스 시스템반도체실장 상무는 “이번 인증으로 미래 모빌리티의 경쟁력을 좌우하는 차량용 반도체 분야에서 전략적 기반을 확보하게 됐다”며 “기술 내재화와 국내외 주요 기업들과의 파트너십 강화로 기능안전을 강조하는 연구개발환경 구축에 앞장서겠다”고 전했다.
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[단일 제품 넘어 연구개발 전 과정 인증 획득 현대모비스 개발 반도체, 동일한 신뢰성 자동 확보 3년 내 차세대 반도체 개발 완료 목표  “국내 차량용반도체 생태계 확장 이끌 것”현대모비스의 차량용 반도체 연구개발 프로세스가 국제표준 최고 수준의 안전 등급을 획득하며 차량용 반도체 생태계 확장에 앞장선다. 현대모비스는 21일 자동차 기능안전·사이버보안 전문 ]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100308</code_id>
+<code_nm><![CDATA[자동차]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00501</middle_code_id>
+<middle_code_nm><![CDATA[기업]]></middle_code_nm>
+<small_code_id>MK100308</small_code_id>
+<small_code_nm><![CDATA[자동차]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250821.89fd5f39f5ce418ba79235bfcf346d4a_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 현대모비스 차량용 반도체 개발과정이 획득한 ISO 26262 국제표준 인증서 [자료출처=현대모비스]]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/21/news-p.v1.20250821.736240d69cfb42e099547d9404934af9_P1.jpg]]></image_url>
+<image_caption><![CDATA[ 현대모비스 차량용 반도체 연구개발 성과 [자료출처=현대모비스]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11399423]]></article_url>
+</article>
+</saltlux>
