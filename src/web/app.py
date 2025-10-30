@@ -1415,21 +1415,34 @@ async def upload_xml_file(
         
         # 처리 로그 생성
         db = next(get_db())
-        log_entry = ProcessingLog(
-            process_type="embedding",
-            status="processing",
-            message=f"{file.filename}: 업로드 완료"
-        )
-        db.add(log_entry)
-        db.commit()
-        job_id = str(log_entry.id)
+        try:
+            log_entry = ProcessingLog(
+                process_type="embedding",
+                status="processing",
+                message=f"{file.filename}: 업로드 완료"
+            )
+            db.add(log_entry)
+            db.commit()
+            job_id = str(log_entry.id)
+        finally:
+            db.close()
         
         # 백그라운드 작업으로 임베딩 처리
-        background_tasks.add_task(
-            process_xml_embeddings,
-            str(file_path),
-            job_id
-        )
+        if background_tasks:
+            background_tasks.add_task(
+                process_xml_embeddings,
+                str(file_path),
+                job_id
+            )
+        else:
+            # 백그라운드 작업이 없는 경우 직접 처리 (테스트 환경)
+            import threading
+            thread = threading.Thread(
+                target=process_xml_embeddings,
+                args=(str(file_path), job_id),
+                daemon=True
+            )
+            thread.start()
         
         return {
             "success": True,

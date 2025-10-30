@@ -77,20 +77,77 @@ const VectorEmbedding: React.FC = () => {
   const [isProcessing, setIsProcessing] = useState(false);
   const [uploadDialogOpen, setUploadDialogOpen] = useState(false);
   const [selectedFile, setSelectedFile] = useState<File | null>(null);
+  const [selectedFiles, setSelectedFiles] = useState<File[]>([]);
   const [uploadProgress, setUploadProgress] = useState(0);
+  const [gcpAuthenticated, setGcpAuthenticated] = useState(false);
+  const [gcpAuthStatus, setGcpAuthStatus] = useState<any>(null);
+  const [gcpLoginDialogOpen, setGcpLoginDialogOpen] = useState(false);
 
   useEffect(() => {
     fetchEmbeddingJobs();
     fetchEmbeddingStats();
+    checkGcpAuth();
 
     // 10초마다 자동 새로고침
     const interval = setInterval(() => {
       fetchEmbeddingJobs();
       fetchEmbeddingStats();
+      checkGcpAuth();
     }, 10000);
 
     return () => clearInterval(interval);
   }, []);
+
+  const checkGcpAuth = async () => {
+    try {
+      const response = await fetch('/api/gcp/auth-status');
+      if (response.ok) {
+        const data = await response.json();
+        setGcpAuthenticated(data.authenticated || false);
+        setGcpAuthStatus(data);
+      }
+    } catch (error) {
+      console.error('GCP 인증 상태 확인 실패:', error);
+      setGcpAuthenticated(false);
+    }
+  };
+
+  const handleGcpLogin = async () => {
+    try {
+      const response = await fetch('/api/gcp/init-login', {
+        method: 'POST',
+      });
+      if (response.ok) {
+        const data = await response.json();
+        
+        if (data.auth_url) {
+          window.open(data.auth_url, '_blank', 'width=800,height=600');
+          
+          alert(`${data.message}\n\n인증 코드: ${data.verification_code || 'N/A'}\n\n브라우저에서 로그인을 완료하세요.`);
+          
+          // 주기적으로 인증 상태 확인 (최대 2분)
+          let checkCount = 0;
+          const checkInterval = setInterval(async () => {
+            checkCount++;
+            await checkGcpAuth();
+            
+            if (gcpAuthenticated) {
+              clearInterval(checkInterval);
+              setGcpLoginDialogOpen(false);
+              alert('GCP 로그인이 완료되었습니다!');
+            } else if (checkCount >= 40) {
+              clearInterval(checkInterval);
+            }
+          }, 3000);
+        } else {
+          alert(data.message || data.instructions || '터미널에서 gcloud auth login 명령을 실행하세요.');
+        }
+      }
+    } catch (error) {
+      console.error('GCP 로그인 시작 실패:', error);
+      alert('GCP 로그인 시작에 실패했습니다.');
+    }
+  };
 
   const fetchEmbeddingJobs = async () => {
     try {
@@ -127,13 +184,31 @@ const VectorEmbedding: React.FC = () => {
   };
 
   const handleFileSelect = (event: React.ChangeEvent<HTMLInputElement>) => {
-    const file = event.target.files?.[0];
-    if (file && file.name.endsWith('.xml')) {
-      setSelectedFile(file);
-      setUploadDialogOpen(true);
-    } else {
-      alert('XML 파일만 업로드 가능합니다.');
+    const files = event.target.files;
+    if (!files || files.length === 0) return;
+    
+    const xmlFiles: File[] = [];
+    for (let i = 0; i < files.length; i++) {
+      const file = files[i];
+      if (file.name.endsWith('.xml')) {
+        xmlFiles.push(file);
+      }
     }
+    
+    if (xmlFiles.length === 0) {
+      alert('XML 파일만 업로드 가능합니다.');
+      return;
+    }
+    
+    if (xmlFiles.length === 1) {
+      setSelectedFile(xmlFiles[0]);
+      setSelectedFiles([xmlFiles[0]]);
+    } else {
+      setSelectedFile(null);
+      setSelectedFiles(xmlFiles);
+    }
+    
+    setUploadDialogOpen(true);
   };
 
   const handleStartEmbedding = async () => {
@@ -147,6 +222,18 @@ const VectorEmbedding: React.FC = () => {
   };
 
   const handleFTPPipeline = async () => {
+    // GCP 인증 확인
+    if (!gcpAuthenticated) {
+      const confirmLogin = window.confirm('FTP 파이프라인 실행을 위해 GCP 로그인이 필요합니다. 로그인하시겠습니까?');
+      if (confirmLogin) {
+        await handleGcpLogin();
+        return;
+      } else {
+        alert('GCP 로그인이 필요합니다.');
+        return;
+      }
+    }
+
     setIsProcessing(true);
     try {
       const response = await fetch('/api/ftp/pipeline', {
@@ -166,18 +253,29 @@ const VectorEmbedding: React.FC = () => {
         const result = await response.json();
         if (result.success) {
           alert('FTP 파이프라인이 시작되었습니다.');
+          // 작업 목록 새로고침
+          setTimeout(() => {
+            fetchEmbeddingJobs();
+          }, 2000);
+        } else {
+          alert(`FTP 파이프라인 시작 실패: ${result.message || 'Unknown error'}`);
         }
+      } else {
+        const errorData = await response.json().catch(() => ({ message: 'Unknown error' }));
+        alert(`FTP 파이프라인 실행 실패: ${errorData.message || response.statusText}`);
       }
-    } catch (error) {
+    } catch (error: any) {
       console.error('FTP 파이프라인 실행 실패:', error);
-      alert('FTP 파이프라인 실행 실패');
+      alert(`FTP 파이프라인 실행 실패: ${error.message || 'Network error'}`);
     } finally {
       setIsProcessing(false);
     }
   };
 
   const handleFileUpload = async () => {
-    if (!selectedFile) {
+    const filesToUpload = selectedFile ? [selectedFile] : selectedFiles;
+    
+    if (filesToUpload.length === 0) {
       alert('파일을 선택해주세요.');
       return;
     }
@@ -186,28 +284,51 @@ const VectorEmbedding: React.FC = () => {
     setUploadProgress(0);
 
     try {
-      const formData = new FormData();
-      formData.append('file', selectedFile);
+      // GCP 인증 확인 (복수 파일 처리 시 필요)
+      if (!gcpAuthenticated && filesToUpload.length > 0) {
+        const confirmLogin = window.confirm('GCP 로그인이 필요합니다. 로그인하시겠습니까?');
+        if (confirmLogin) {
+          await handleGcpLogin();
+          setIsProcessing(false);
+          return;
+        }
+      }
 
-      const response = await fetch('/api/upload-xml', {
-        method: 'POST',
-        body: formData,
+      // 복수 파일 업로드
+      const uploadPromises = filesToUpload.map(async (file, index) => {
+        const formData = new FormData();
+        formData.append('file', file);
+
+        const response = await fetch('/api/upload-xml', {
+          method: 'POST',
+          body: formData,
+        });
+
+        if (response.ok) {
+          const result = await response.json();
+          return { success: true, filename: file.name, job_id: result.job_id, ...result };
+        } else {
+          return { success: false, filename: file.name, error: 'Upload failed' };
+        }
       });
 
-      if (response.ok) {
-        const result = await response.json();
-        if (result.success) {
-          alert('파일 업로드 및 임베딩이 시작되었습니다.');
-          setUploadDialogOpen(false);
-          setSelectedFile(null);
-          
-          // 작업 목록 새로고침
-          setTimeout(() => {
-            fetchEmbeddingJobs();
-          }, 2000);
-        }
+      const results = await Promise.all(uploadPromises);
+      
+      const successCount = results.filter(r => r.success).length;
+      const failCount = results.filter(r => !r.success).length;
+
+      if (successCount > 0) {
+        alert(`${successCount}개 파일 업로드 및 임베딩이 시작되었습니다.${failCount > 0 ? `\n${failCount}개 파일 업로드 실패.` : ''}`);
+        setUploadDialogOpen(false);
+        setSelectedFile(null);
+        setSelectedFiles([]);
+        
+        // 작업 목록 새로고침
+        setTimeout(() => {
+          fetchEmbeddingJobs();
+        }, 2000);
       } else {
-        alert('파일 업로드 실패');
+        alert(`모든 파일 업로드 실패: ${results.map(r => r.filename).join(', ')}`);
       }
     } catch (error) {
       console.error('파일 업로드 실패:', error);
@@ -272,9 +393,38 @@ const VectorEmbedding: React.FC = () => {
 
   return (
     <Box sx={{ p: 3 }}>
-      <Typography variant="h4" gutterBottom sx={{ fontWeight: 600, mb: 3 }}>
-        Vertex AI 벡터 임베딩
-      </Typography>
+      <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', mb: 3 }}>
+        <Typography variant="h4" sx={{ fontWeight: 600 }}>
+          Vertex AI 벡터 임베딩
+        </Typography>
+        <Box sx={{ display: 'flex', gap: 1, alignItems: 'center' }}>
+          {gcpAuthenticated ? (
+            <Chip 
+              icon={<CheckCircle />} 
+              label={`GCP 로그인됨: ${gcpAuthStatus?.active_account || 'N/A'}`} 
+              color="success" 
+              size="small"
+            />
+          ) : (
+            <>
+              <Chip 
+                icon={<Warning />} 
+                label="GCP 로그인 필요" 
+                color="warning" 
+                size="small"
+              />
+              <Button
+                variant="outlined"
+                size="small"
+                onClick={handleGcpLogin}
+                startIcon={<CloudUpload />}
+              >
+                GCP 로그인
+              </Button>
+            </>
+          )}
+        </Box>
+      </Box>
 
       {/* 통계 카드 */}
       <Box sx={{ display: 'flex', flexWrap: 'wrap', gap: 3, mb: 3 }}>
@@ -380,6 +530,7 @@ const VectorEmbedding: React.FC = () => {
                   style={{ display: 'none' }}
                   id="xml-file-upload"
                   type="file"
+                  multiple
                   onChange={handleFileSelect}
                 />
                 <label htmlFor="xml-file-upload">
@@ -389,16 +540,23 @@ const VectorEmbedding: React.FC = () => {
                     startIcon={<Upload />}
                     sx={{ flex: 1 }}
                   >
-                    XML 파일 선택
+                    XML 파일 선택 {selectedFiles.length > 0 && `(${selectedFiles.length}개 선택됨)`}
                   </Button>
                 </label>
+                {selectedFiles.length > 1 && (
+                  <Alert severity="info" sx={{ flex: 1 }}>
+                    {selectedFiles.length}개 파일이 선택되었습니다. 모두 동시에 처리됩니다.
+                  </Alert>
+                )}
                 <Button
                   variant="contained"
                   onClick={handleStartEmbedding}
-                  disabled={isProcessing || !selectedFile}
+                  disabled={isProcessing || (selectedFiles.length === 0 && !selectedFile)}
                   startIcon={<PlayArrow />}
                 >
-                  업로드 및 임베딩
+                  {selectedFiles.length > 1 
+                    ? `업로드 및 임베딩 (${selectedFiles.length}개 파일)`
+                    : '업로드 및 임베딩'}
                 </Button>
               </>
             )}
