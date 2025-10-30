@@ -1671,3 +1671,4 @@ if __name__ == "__main__":
     )
 // Test CI/CD after permission fix
 // Test CI/CD after storage permission fix
+// CI/CD 재테스트 - 20251031_043347
