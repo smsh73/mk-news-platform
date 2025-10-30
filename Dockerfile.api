@@ -1,4 +1,4 @@
-# FastAPI 애플리케이션 Dockerfile (GCP Cloud Run용)
+# FastAPI 백엔드 서비스 Dockerfile (GCP Cloud Run용)
 FROM python:3.11-slim
 
 # 작업 디렉토리 설정
@@ -16,29 +16,25 @@ RUN apt-get update && apt-get install -y \
     curl \
     && rm -rf /var/lib/apt/lists/*
 
-# Google Cloud SDK 설치 (선택사항)
-RUN curl https://sdk.cloud.google.com | bash
-ENV PATH="/root/google-cloud-sdk/bin:${PATH}"
-
 # Python 의존성 설치
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
 # 애플리케이션 코드 복사
 COPY src/ ./src/
-COPY static/ ./static/
-COPY templates/ ./templates/
+
+# 정적 파일들 복사 (React 앱 빌드 결과물)
+COPY src/web/static/ ./src/web/static/
 
 # GCP 서비스 계정 키 파일을 위한 디렉토리 생성
 RUN mkdir -p /app/credentials
 
-# 포트 노출 (Cloud Run은 PORT 환경변수 사용)
+# 포트 노출
 EXPOSE $PORT
 
 # 헬스체크 추가
-HEALTHCHECK --interval=30s --timeout=30s --start-period=5s --retries=3 \
+HEALTHCHECK --interval=30s --timeout=10s --start-period=40s --retries=3 \
     CMD curl -f http://localhost:$PORT/health || exit 1
 
-# 애플리케이션 실행
+# FastAPI 애플리케이션 실행
 CMD ["sh", "-c", "uvicorn src.web.app:app --host 0.0.0.0 --port $PORT --workers 1"]
-

@@ -1,0 +1,631 @@
+# GCP 인프라 구성 - 매일경제 신문기사 벡터임베딩 플랫폼
+terraform {
+  required_version = ">= 1.0"
+  required_providers {
+    google = {
+      source  = "hashicorp/google"
+      version = "~> 5.0"
+    }
+  }
+}
+
+# ========================================
+# 변수 정의
+# ========================================
+variable "project_id" {
+  description = "GCP 프로젝트 ID"
+  type        = string
+  default     = ""  # Streamlit에서 입력받음
+}
+
+variable "region" {
+  description = "GCP 리전"
+  type        = string
+  default     = "asia-northeast3"  # 서울
+}
+
+variable "zone" {
+  description = "GCP Zone"
+  type        = string
+  default     = "asia-northeast3-a"
+}
+
+variable "environment" {
+  description = "환경 이름"
+  type        = string
+  default     = "production"
+}
+
+provider "google" {
+  project = var.project_id
+  region  = var.region
+  zone    = var.zone
+}
+
+# ========================================
+# 1. 필수 API 활성화
+# ========================================
+resource "google_project_service" "compute_engine" {
+  service = "compute.googleapis.com"
+}
+
+resource "google_project_service" "cloud_sql" {
+  service = "sqladmin.googleapis.com"
+}
+
+resource "google_project_service" "cloud_storage" {
+  service = "storage.googleapis.com"
+}
+
+resource "google_project_service" "cloud_run" {
+  service = "run.googleapis.com"
+}
+
+resource "google_project_service" "vpc_access" {
+  service = "vpcaccess.googleapis.com"
+}
+
+resource "google_project_service" "servicenetworking" {
+  service = "servicenetworking.googleapis.com"
+}
+
+resource "google_project_service" "artifact_registry" {
+  service = "artifactregistry.googleapis.com"
+}
+
+resource "google_project_service" "vertex_ai" {
+  service = "aiplatform.googleapis.com"
+}
+
+resource "google_project_service" "cloudbuild" {
+  service = "cloudbuild.googleapis.com"
+}
+
+resource "google_project_service" "secretmanager" {
+  service = "secretmanager.googleapis.com"
+}
+
+resource "google_project_service" "monitoring" {
+  service = "monitoring.googleapis.com"
+}
+
+resource "google_project_service" "logging" {
+  service = "logging.googleapis.com"
+}
+
+# ========================================
+# 2. VPC 네트워크 구성
+# ========================================
+resource "google_compute_network" "mk_news_vpc" {
+  name                    = "mk-news-vpc"
+  auto_create_subnetworks = false
+  description             = "매일경제 신문기사 벡터임베딩 플랫폼 VPC"
+  
+  depends_on = [google_project_service.compute_engine]
+}
+
+resource "google_compute_subnetwork" "mk_news_subnet" {
+  name          = "mk-news-subnet"
+  ip_cidr_range = "10.0.1.0/24"
+  region        = var.region
+  network       = google_compute_network.mk_news_vpc.id
+  description   = "매일경제 신문기사 플랫폼 서브넷"
+
+  log_config {
+    aggregation_interval = "INTERVAL_10_MIN"
+    flow_sampling        = 0.5
+  }
+}
+
+# ========================================
+# 3. Private Service Networking (주석 처리 - 수동 설정 필요)
+# ========================================
+# Note: Service Networking Connection requires special permissions
+# To use Cloud SQL with Private IP, configure this manually in Cloud Console
+
+# resource "google_compute_global_address" "mk_news_private_ip" {
+#   name          = "mk-news-private-ip"
+#   purpose       = "VPC_PEERING"
+#   address_type  = "INTERNAL"
+#   prefix_length = 16
+#   network       = google_compute_network.mk_news_vpc.id
+# }
+
+# resource "google_service_networking_connection" "mk_news_private_connection" {
+#   network                 = google_compute_network.mk_news_vpc.id
+#   service                 = "servicenetworking.googleapis.com"
+#   reserved_peering_ranges = [google_compute_global_address.mk_news_private_ip.name]
+# }
+
+# ========================================
+# 4. VPC Access Connector
+# ========================================
+resource "google_vpc_access_connector" "mk_news_connector" {
+  name          = "mk-news-connector"
+  ip_cidr_range = "10.8.0.0/28"
+  network       = google_compute_network.mk_news_vpc.name
+  region        = var.region
+  
+  min_instances = 2
+  max_instances = 3
+  
+  machine_type = "e2-micro"
+  
+  depends_on = [
+    google_project_service.vpc_access,
+    google_compute_network.mk_news_vpc
+  ]
+}
+
+# ========================================
+# 5. Cloud SQL (PostgreSQL) - Private IP
+# ========================================
+resource "google_sql_database_instance" "mk_news_db" {
+  name             = "mk-news-db"
+  database_version = "POSTGRES_15"
+  region           = var.region
+
+  settings {
+    tier = "db-f1-micro"
+    
+    availability_type = "REGIONAL"
+    
+    backup_configuration {
+      enabled                        = true
+      start_time                     = "03:00"
+      point_in_time_recovery_enabled = true
+      transaction_log_retention_days = 7
+      backup_retention_settings {
+        retained_backups = 7
+      }
+    }
+    
+    ip_configuration {
+      ipv4_enabled = true  # Public IP for testing
+      authorized_networks {
+        name  = "all"
+        value = "0.0.0.0/0"
+      }
+    }
+    
+    database_flags {
+      name  = "log_statement"
+      value = "all"
+    }
+    
+    database_flags {
+      name  = "log_min_duration_statement"
+      value = "1000"
+    }
+  }
+
+  deletion_protection = false
+  
+  depends_on = [
+    google_project_service.cloud_sql
+  ]
+}
+
+resource "google_sql_database" "mk_news_database" {
+  name     = "mk_news"
+  instance = google_sql_database_instance.mk_news_db.name
+}
+
+resource "google_sql_user" "mk_news_user" {
+  name     = "postgres"
+  instance = google_sql_database_instance.mk_news_db.name
+  password = "YourStrongPassword123!"
+}
+
+# ========================================
+# 6. Cloud Storage 버킷들
+# ========================================
+resource "google_storage_bucket" "mk_news_data" {
+  name          = "${var.project_id}-mk-news-data"
+  location      = var.region
+  force_destroy = false
+
+  versioning {
+    enabled = true
+  }
+
+  lifecycle_rule {
+    condition {
+      age = 90
+    }
+    action {
+      type = "Delete"
+    }
+  }
+  
+  depends_on = [google_project_service.cloud_storage]
+}
+
+resource "google_storage_bucket" "mk_news_vector_index" {
+  name          = "${var.project_id}-vector-index"
+  location      = var.region
+  force_destroy = false
+
+  versioning {
+    enabled = true
+  }
+  
+  depends_on = [google_project_service.cloud_storage]
+}
+
+resource "google_storage_bucket" "mk_news_logs" {
+  name          = "${var.project_id}-mk-news-logs"
+  location      = var.region
+  force_destroy = false
+
+  lifecycle_rule {
+    condition {
+      age = 30
+    }
+    action {
+      type = "Delete"
+    }
+  }
+  
+  depends_on = [google_project_service.cloud_storage]
+}
+
+# ========================================
+# 7. Artifact Registry
+# ========================================
+resource "google_artifact_registry_repository" "mk_news_repo" {
+  location      = var.region
+  repository_id = "mk-news-repo"
+  description   = "매일경제 신문기사 플랫폼 컨테이너 이미지 저장소"
+  format        = "DOCKER"
+  
+  depends_on = [google_project_service.artifact_registry]
+}
+
+# ========================================
+# 8. Vertex AI Vector Search
+# ========================================
+# Note: Vertex AI Index requires complex metadata configuration
+# Will be created manually in Cloud Console after deployment
+# resource "google_vertex_ai_index" "mk_news_vector_index" {
+#   project     = var.project_id
+#   region      = var.region
+#   display_name = "mk-news-vector-index"
+#   description  = "매일경제 신문기사 벡터 임베딩 인덱스"
+#   
+#   labels = {
+#     environment = var.environment
+#   }
+# }
+
+resource "google_vertex_ai_index_endpoint" "mk_news_vector_endpoint" {
+  project     = var.project_id
+  region      = var.region
+  display_name = "mk-news-vector-endpoint"
+  description  = "매일경제 신문기사 벡터 검색 엔드포인트"
+  # network      = google_compute_network.mk_news_vpc.name  # Public endpoint for testing
+  
+  depends_on = [google_project_service.vertex_ai]
+}
+
+# ========================================
+# 9. Secret Manager (Gemini API 키)
+# ========================================
+resource "google_secret_manager_secret" "gemini_api_key" {
+  secret_id = "gemini-api-key"
+  
+  replication {
+    user_managed {
+      replicas {
+        location = var.region
+      }
+    }
+  }
+  
+  labels = {
+    environment = var.environment
+  }
+  
+  depends_on = [google_project_service.secretmanager]
+}
+
+# Note: Secret Version requires special permissions
+# Add the Gemini API key manually in Cloud Console after deployment
+# resource "google_secret_manager_secret_version" "gemini_api_key_version" {
+#   secret      = google_secret_manager_secret.gemini_api_key.id
+#   secret_data = "your-gemini-api-key-here"
+# }
+
+# ========================================
+# 10. 서비스 계정
+# ========================================
+resource "google_service_account" "mk_news_platform" {
+  account_id   = "mk-news-platform"
+  display_name = "매일경제 신문기사 플랫폼 서비스 계정"
+  description  = "Vertex AI, Cloud SQL, Storage 접근용 서비스 계정"
+}
+
+# Note: IAM permissions require project owner role
+# Manually grant these roles in Cloud Console after deployment
+# resource "google_project_iam_member" "mk_news_sa_aiplatform" {
+#   project = var.project_id
+#   role    = "roles/aiplatform.user"
+#   member  = "serviceAccount:${google_service_account.mk_news_platform.email}"
+# }
+
+# resource "google_project_iam_member" "mk_news_sa_storage_admin" {
+#   project = var.project_id
+#   role    = "roles/storage.admin"
+#   member  = "serviceAccount:${google_service_account.mk_news_platform.email}"
+# }
+
+# resource "google_project_iam_member" "mk_news_sa_cloudsql_client" {
+#   project = var.project_id
+#   role    = "roles/cloudsql.client"
+#   member  = "serviceAccount:${google_service_account.mk_news_platform.email}"
+# }
+
+# resource "google_project_iam_member" "mk_news_sa_secret_accessor" {
+#   project = var.project_id
+#   role    = "roles/secretmanager.secretAccessor"
+#   member  = "serviceAccount:${google_service_account.mk_news_platform.email}"
+# }
+
+# resource "google_project_iam_member" "mk_news_sa_ml_developer" {
+#   project = var.project_id
+#   role    = "roles/ml.developer"
+#   member  = "serviceAccount:${google_service_account.mk_news_platform.email}"
+# }
+
+# ========================================
+# 11. Cloud Run 서비스 - API (주석 처리: 이미지 빌드 후 배포)
+# ========================================
+# Note: Cloud Run은 Docker 이미지가 필요합니다.
+# 이미지를 빌드하고 Artifact Registry에 업로드한 후 배포하세요.
+# resource "google_cloud_run_v2_service" "mk_news_api" {
+#  name     = "mk-news-api"
+#  location = var.region
+#
+#  template {
+#    containers {
+#      image = "asia-northeast3-docker.pkg.dev/${var.project_id}/${google_artifact_registry_repository.mk_news_repo.repository_id}/mk-news-api:latest"
+#      
+#      ports {
+#        container_port = 8000
+#      }
+#      
+#      env {
+#        name  = "GCP_PROJECT_ID"
+#        value = var.project_id
+#      }
+#      
+#      env {
+#        name  = "GCP_REGION"
+#        value = var.region
+#      }
+#      
+#      env {
+#        name  = "USE_MANAGED_SERVICES"
+#        value = "true"
+#      }
+#      
+#      env {
+#        name  = "DB_CONNECTION_NAME"
+#        value = "${var.project_id}:${var.region}:${google_sql_database_instance.mk_news_db.name}"
+#      }
+#      
+#      env {
+#        name  = "STORAGE_BUCKET"
+#        value = google_storage_bucket.mk_news_data.name
+#      }
+#      
+#      env {
+#        name  = "VECTOR_STORAGE_BUCKET"
+#        value = google_storage_bucket.mk_news_vector_index.name
+#      }
+#      
+#      resources {
+#        limits = {
+#          cpu    = "2"
+#          memory = "4Gi"
+#        }
+#      }
+#    }
+#    
+#    service_account = google_service_account.mk_news_platform.email
+#    
+#    vpc_access {
+#      connector = google_vpc_access_connector.mk_news_connector.id
+#      egress    = "PRIVATE_RANGES_ONLY"
+#    }
+#    
+#    max_instance_request_concurrency = 80
+#    
+#    scaling {
+#      min_instance_count = 0
+#      max_instance_count = 10
+#    }
+#    
+#    timeout = "3600s"
+#  }
+#  
+#  traffic {
+#    percent = 100
+#    type    = "TRAFFIC_TARGET_ALLOCATION_TYPE_LATEST"
+#  }
+#  
+#  depends_on = [
+#    google_project_service.cloud_run,
+#    google_vpc_access_connector.mk_news_connector,
+#    google_service_account.mk_news_platform
+#  ]
+#}
+
+#resource "google_cloud_run_service_iam_member" "mk_news_api_public" {
+#  location = google_cloud_run_v2_service.mk_news_api.location
+#  service  = google_cloud_run_v2_service.mk_news_api.name
+#  role     = "roles/run.invoker"
+#  member   = "allUsers"
+#}
+
+# ========================================
+# 12. Cloud Run 서비스 - Admin
+# ========================================
+resource "google_cloud_run_v2_service" "mk_news_admin" {
+  name     = "mk-news-admin"
+  location = var.region
+
+  template {
+    containers {
+      image = "asia-northeast3-docker.pkg.dev/${var.project_id}/${google_artifact_registry_repository.mk_news_repo.repository_id}/mk-news-admin:latest"
+      
+      ports {
+        container_port = 8501
+      }
+      
+      env {
+        name  = "GCP_PROJECT_ID"
+        value = var.project_id
+      }
+      
+      env {
+        name  = "GCP_REGION"
+        value = var.region
+      }
+      
+      env {
+        name  = "USE_MANAGED_SERVICES"
+        value = "true"
+      }
+      
+      env {
+        name  = "API_URL"
+        value = google_cloud_run_v2_service.mk_news_api.uri
+      }
+      
+      resources {
+        limits = {
+          cpu    = "1"
+          memory = "2Gi"
+        }
+      }
+    }
+    
+    service_account = google_service_account.mk_news_platform.email
+    
+    vpc_access {
+      connector = google_vpc_access_connector.mk_news_connector.id
+      egress    = "PRIVATE_RANGES_ONLY"
+    }
+    
+    max_instance_request_concurrency = 80
+    
+    scaling {
+      min_instance_count = 0
+      max_instance_count = 5
+    }
+    
+    timeout = "3600s"
+  }
+  
+  traffic {
+    percent = 100
+    type    = "TRAFFIC_TARGET_ALLOCATION_TYPE_LATEST"
+  }
+  
+  depends_on = [
+    google_project_service.cloud_run,
+    google_vpc_access_connector.mk_news_connector,
+    google_service_account.mk_news_platform
+  ]
+}
+
+resource "google_cloud_run_service_iam_member" "mk_news_admin_public" {
+  location = google_cloud_run_v2_service.mk_news_admin.location
+  service  = google_cloud_run_v2_service.mk_news_admin.name
+  role     = "roles/run.invoker"
+  member   = "allUsers"
+}
+
+# ========================================
+# 출력값
+# ========================================
+output "vpc_network" {
+  description = "VPC 네트워크 이름"
+  value       = google_compute_network.mk_news_vpc.name
+}
+
+output "subnet" {
+  description = "서브넷 이름"
+  value       = google_compute_subnetwork.mk_news_subnet.name
+}
+
+output "database_instance" {
+  description = "Cloud SQL 인스턴스 이름"
+  value       = google_sql_database_instance.mk_news_db.name
+}
+
+output "database_connection_name" {
+  description = "Cloud SQL 연결 이름"
+  value       = "${var.project_id}:${var.region}:${google_sql_database_instance.mk_news_db.name}"
+}
+
+output "database_private_ip" {
+  description = "Cloud SQL Private IP"
+  value       = google_sql_database_instance.mk_news_db.private_ip_address
+}
+
+output "storage_bucket_data" {
+  description = "데이터 저장소 버킷"
+  value       = google_storage_bucket.mk_news_data.name
+}
+
+output "storage_bucket_vector" {
+  description = "벡터 인덱스 저장소 버킷"
+  value       = google_storage_bucket.mk_news_vector_index.name
+}
+
+output "storage_bucket_logs" {
+  description = "로그 저장소 버킷"
+  value       = google_storage_bucket.mk_news_logs.name
+}
+
+output "vector_index" {
+  description = "Vertex AI Vector Search 인덱스"
+  value       = "Created manually in Cloud Console"
+}
+
+output "vector_endpoint" {
+  description = "Vertex AI Vector Search 엔드포인트"
+  value       = google_vertex_ai_index_endpoint.mk_news_vector_endpoint.name
+}
+
+# output "api_service_url" {
+#   description = "API 서비스 breeds  URL"
+#   value       = google_cloud_run_v2_service.mk_news_api.uri
+# }
+
+# output "admin_service_url" {
+#   description = "관리자 대시보드 URL"
+#   value       = google_cloud_run_v2_service.mk_news_admin.uri
+# }
+
+output "artifact_registry" {
+  description = "Artifact Registry 저장소"
+  value       = google_artifact_registry_repository.mk_news_repo.id
+}
+
+output "vpc_connector" {
+  description = "VPC 접근 커넥터"
+  value       = google_vpc_access_connector.mk_news_connector.name
+}
+
+output "service_account_email" {
+  description = "서비스 계정 이메일"
+  value       = google_service_account.mk_news_platform.email
+}
+
+output "gemini_secret_name" {
+  description = "Gemini API Secret 이름"
+  value       = google_secret_manager_secret.gemini_api_key.secret_id
+}

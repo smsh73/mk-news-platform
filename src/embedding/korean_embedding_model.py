@@ -5,9 +5,16 @@ import os
 import logging
 import numpy as np
 from typing import List, Dict, Optional
-import torch
-from transformers import AutoTokenizer, AutoModel
 import re
+
+try:
+    import torch
+    from transformers import AutoTokenizer, AutoModel
+    TORCH_AVAILABLE = True
+except ImportError:
+    TORCH_AVAILABLE = False
+    AutoTokenizer = None
+    AutoModel = None
 
 logger = logging.getLogger(__name__)
 
@@ -22,6 +29,10 @@ class KoreanEmbeddingModel:
     
     def _initialize_model(self):
         """모델 초기화"""
+        if not TORCH_AVAILABLE:
+            logger.warning("torch 또는 transformers 패키지가 없습니다. 한국어 모델을 사용할 수 없습니다.")
+            return
+            
         try:
             self.tokenizer = AutoTokenizer.from_pretrained(self.model_name)
             self.model = AutoModel.from_pretrained(self.model_name)

@@ -1,0 +1,57 @@
+steps:
+  # Docker 이미지 빌드
+  - name: 'gcr.io/cloud-builders/docker'
+    args:
+      - 'build'
+      - '-f'
+      - 'Dockerfile.admin'
+      - '-t'
+      - 'asia-northeast3-docker.pkg.dev/${PROJECT_ID}/mk-news-repo/mk-news-admin:latest'
+      - '-t'
+      - 'asia-northeast3-docker.pkg.dev/${PROJECT_ID}/mk-news-repo/mk-news-admin:${BUILD_ID}'
+      - '.'
+
+  # Artifact Registry에 푸시
+  - name: 'gcr.io/cloud-builders/docker'
+    args:
+      - 'push'
+      - 'asia-northeast3-docker.pkg.dev/${PROJECT_ID}/mk-news-repo/mk-news-admin:latest'
+
+  - name: 'gcr.io/cloud-builders/docker'
+    args:
+      - 'push'
+      - 'asia-northeast3-docker.pkg.dev/${PROJECT_ID}/mk-news-repo/mk-news-admin:${BUILD_ID}'
+
+  # Cloud Run에 배포
+  - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+    entrypoint: gcloud
+    args:
+      - 'run'
+      - 'deploy'
+      - 'mk-news-admin'
+      - '--image'
+      - 'asia-northeast3-docker.pkg.dev/${PROJECT_ID}/mk-news-repo/mk-news-admin:${BUILD_ID}'
+      - '--region'
+      - 'asia-northeast3'
+      - '--platform'
+      - 'managed'
+      - '--memory'
+      - '8Gi'
+      - '--cpu'
+      - '4'
+      - '--timeout'
+      - '900'
+      - '--min-instances'
+      - '0'
+      - '--max-instances'
+      - '10'
+      - '--port'
+      - '8000'
+      - '--set-env-vars'
+      - 'GCP_PROJECT_ID=${PROJECT_ID},GCP_REGION=asia-northeast3'
+
+images:
+  - 'asia-northeast3-docker.pkg.dev/${PROJECT_ID}/mk-news-repo/mk-news-admin:latest'
+  - 'asia-northeast3-docker.pkg.dev/${PROJECT_ID}/mk-news-repo/mk-news-admin:${BUILD_ID}'
+
+timeout: '1800s'

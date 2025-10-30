@@ -21,8 +21,8 @@ class DatabaseManager:
     def _setup_connection(self):
         """데이터베이스 연결 설정"""
         try:
-            # Cloud SQL 연결 설정
-            if os.getenv('USE_CLOUD_SQL', 'true').lower() == 'true':
+            # 로컬 개발을 위해 SQLite 사용
+            if os.getenv('USE_CLOUD_SQL', 'false').lower() == 'true':
                 self._setup_cloud_sql_connection()
             else:
                 self._setup_local_connection()
@@ -84,16 +84,12 @@ class DatabaseManager:
         """로컬 데이터베이스 연결 설정 (개발용)"""
         database_url = os.getenv(
             'DATABASE_URL', 
-            'postgresql://postgres:password@localhost:5432/mk_news'
+            'sqlite:///./mk_news.db'
         )
         
         self.engine = create_engine(
             database_url,
-            poolclass=QueuePool,
-            pool_size=5,
-            max_overflow=10,
-            pool_pre_ping=True,
-            pool_recycle=3600
+            connect_args={"check_same_thread": False} if "sqlite" in database_url else {}
         )
     
     def get_session(self):

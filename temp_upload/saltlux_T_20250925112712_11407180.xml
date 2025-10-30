@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<saltlux>
+<article>
+<action>T</action>
+<wms_article>
+<art_id>11407180</art_id>
+<art_year>2025</art_year>
+<art_no>621382</art_no>
+<gubun>S</gubun>
+<service_daytime>2025-08-31 18:22:14</service_daytime>
+<title><![CDATA[[단독] “해외 공관과 주고받은 전문 분석해줘”...외교부, 정부부처 처음으로 ‘AI 비서’ 도입]]></title>
+<sub_title><![CDATA[“AI가 외교전략도 짠다”
+외교부 AI ‘모파이’ 도입
+
+11월부터 정부부처 첫 운용
+챗GPT처럼 질문·답변 방식
+핵심업무 시간 40%까지 단축
+
+환각 방지 위해 검증 AI 탑재
+향후 단계적 기능 확대 통해
+허위정보 탐지·챗봇 역할도]]></sub_title>
+<media_code>01</media_code>
+<writers><![CDATA[김상준 기자(kim.sangjun@mk.co.kr)]]></writers>
+<free_type>F</free_type>
+<pub_div>W</pub_div>
+<pub_date></pub_date>
+<pub_edition></pub_edition>
+<pub_section></pub_section>
+<pub_page></pub_page>
+<reg_dt>2025-08-31 18:22:14</reg_dt>
+<mod_dt></mod_dt>
+<art_org_class>MK100709</art_org_class>
+</wms_article>
+<wms_article_body>
+<body><![CDATA[<MKSUBTITLE><div style="display:box;border-left:solid 4px rgb(228, 228, 228);padding-left: 20px; padding-right: 20px;">“AI가 외교전략도 짠다”<br>외교부 AI ‘모파이’ 도입<br><br>11월부터 정부부처 첫 운용<br>챗GPT처럼 질문·답변 방식<br>핵심업무 시간 40%까지 단축<br><br>환각 방지 위해 검증 AI 탑재<br>향후 단계적 기능 확대 통해<br>허위정보 탐지·챗봇 역할도</div></MKSUBTITLE>
+<img src='https://wimg.mk.co.kr/news/cms/202508/31/news-p.v1.20250831.ab068f249d0e455c87bc1fc052518cb8_P1.jpg' alt=' [사진 = 언스플래시]'>
+외교부가 오는 11월부터 생성형 인공지능(AI) ‘모파이(MOFAI)’를 도입한다. ‘AI 정부’를 표방한 이재명 정부에서 부처 단위로 자체 AI를 구축해 현장 업무에 적용하는 최초 사례다. 외교부의 영문 약칭 ‘모파(MOFA)’와 ‘AI’를 합쳐 모파이란 이름을 붙였다.
+외교 문서 수집·요약과 보고서 작성에 우선 활용될 모파이는 내년부터는 정보를 분석해 외교 전략을 제시하거나 각국 인물 네트워크를 구축하는 수준으로 대폭 업그레이드된다.
+31일 매일경제신문이 입수한 외교부의 ‘지능형 외교안보 데이터 플랫폼 구축사업 3개년 계획’에 따르면 외교부는 1단계인 ‘업무 지원’ AI 구축을 완료했다. AI의 ‘뇌’라고 불리는 대형언어모델(LLM) 구축이 완료됐다는 의미다. 해당 사업은 AI의 수준·기능을 기준으로 3단계로 이뤄져 있다. 1단계 AI를 기반으로 2단계는 ‘정책 결정’, 3단계는 ‘대국민 서비스’ 기능이 추가 탑재된다.
+<img src='https://wimg.mk.co.kr/news/cms/202508/31/news-p.v1.20250831.4dea9c4fa4f5497ca873d111bc4ed6a3_P1.png' alt=' 외교부 AI ‘모파이’ 구축 사업 계획 [사진 = 외교부]'>
+외교부는 11월부터 일부 부서에서 모파이를 시범 운용한다. 모파이가 외교부 내부 기밀 정보를 기반으로 하기 때문에 제한된 부서에서 먼저 모파이를 활용한다. 시범 운용 기간에 제기된 직원들의 피드백을 반영해 모파이가 전체 부서에 보급되는 시점은 내년 1월로 예정돼 있다.
+‘챗GPT’처럼 질문과 답변 방식으로 작동하는 생성형 AI 모파이는 외교 문서 수집·요약에 주로 쓰일 전망이다. 외교 문서란 본부가 해외 공관과 소통하는 문서인 전문(電文), 외국과 협의 관련 비공개 문건, 동향 분석 보고서 등의 통칭이다. 문서 수집과 요약은 전 세계에 퍼져 있는 한국 외교관들의 주요 업무다. 특정 주제에 대해 상대와 어디까지 논의했고, 상대방 요구는 무엇이며 우리 측 대응과 결과는 어땠는지를 철저히 파악해야 향후 외교 전략 수립이 가능하다.
+실제로 외교관들은 전문을 보내고 분석하는 데 많은 시간을 할애한다. 특히 전문을 포함한 외교 문서가 모두 전자문서화되면서 전문 수집과 분석에는 더 많은 시간이 소요되고 있다. 과거에는 유사 사안에 대한 전문이 문서철 형식으로 하나로 묶여 서고에 있었지만 지금은 개별 데이터로 흩어져 있기 때문이다.
+외교부에 따르면 모파이가 도입되면 전문 수집과 분석, 보고서 작성 등에 걸리는 시간이 약 40% 줄어들 것으로 기대된다. 이에 따라 외교관들은 창의성이 요구되는 업무에 시간을 더 많이 투입할 수 있을 전망이다. 특히 공관에 나가 있는 외교관의 경우 보고서 작성 시간이 줄어 외부 네트워킹에 집중할 수 있을 것으로 보인다.
+모파이는 일단 8개 국어를 지원한다. 범용 AI와 달리 전문적 외교 용어들이 LLM에 입력돼 있다. 타국 외교 문서 해석·분석과 타국 외교관과의 문서를 통한 소통이 보다 원활해질 수 있다. 다양한 언어로 연설문 초안도 작성할 수 있게 된다. 업데이트를 거쳐 최종적으로는 23개 안팎의 외국어가 지원될 예정이다.
+내년에 출시될 예정인 2단계 모파이는 정책 결정을 돕기 위한 ‘전략 AI’다. 외교 이슈 동향을 스스로 감지하고 외교 전략과 아이디어를 제시한다. 외교 인물 관계 분석, 특정 인물과의 ‘토킹 포인트’ 제공까지 가능하도록 하는 게 목표다. 허위 정보를 탐지하는 기능 역시 장착할 계획이다.
+모피아는 사용자인 외교관들의 의견도 반영해 스스로 학습한다. 외교관의 의사결정 구조와 생각하는 방식을 모파이가 점차 익혀 나가게 된다. 수준 높은 ‘훈련’을 위해 외교부는 ‘프롬프트(명령) 라이브러리’를 운영한다.
+다만 ‘AI 환각’은 정부도 유의하고 있다. AI 환각이란 AI가 잘못된 정보를 제공하는 현상을 의미한다. 정보가 없거나 관련 데이터가 복잡하게 얽혀 있는 불확실한 상황에서 인간은 답을 하지 않지만, AI는 그럴 듯한 답을 내놓는다. 외교 전문은 정세와 맥락을 모르면 의미 파악이 어렵기 때문에 AI 환각이 발생할 가능성이 높다.
+강근형 외교부 정보관리기획관은 매일경제와의 인터뷰에서 “오류 등 사고를 예방하기 위해 ‘투 트랙 검증’ 방법을 도입했다”고 말했다. 모파이는 모든 답변 아래에 반드시 출처와 오류 위험성을 표기한다. 강 기획관은 “다른 범용 AI와 달리 출처가 없으면 모파이는 답을 하지 않는다”며 “검증 AI의 경우 다른 논리 구조로 설계된 생성형 AI로, ‘메인 AI’와 답변이 다른 만큼을 오류 위험성으로 판단하고 사용자에게 그 수치를 제시해 확인을 유도한다”고 설명했다.
+외교부 내부 정보가 직급에 따라 접근 권한이 다르다는 점도 해결할 숙제다. 전문을 수집하고 분석해 보고서를 만드는 외교관이 특정 정보에 접근하지 못할 수 있다. 모파이의 효율성을 극대화할 수 있는 그룹이 정작 모파이의 성능을 최대로 쓸 수 없는 셈이다. 직급별로 모파이의 답변이 달라진다면 혼선도 예상된다.
+강 기획관은 “내부적으로 심도 있는 논의를 진행하고 있다”며 “철저한 개인 로그 관리를 통해 엄격한 조건을 충족한 직원에게는 정보 접근 권한을 일부 풀어주자는 의견 등이 있다”고 말했다. 기밀 유출 우려에 대해 그는 “모파이는 내부망에서만 작동하며 국가 암호 체계를 통해 접근을 허가받은 개인만 사용할 수 있다”며 “내부망에서 유통되는 데이터 역시 암호화되고 <span style="font-family: "Noto Sans KR";">사용자 개개인에 대한 자동 감시 체계도 마련된다”고 말했다. </span>
+]]></body>
+</wms_article_body>
+<wms_article_summary>
+<summary><![CDATA[“AI가 외교전략도 짠다” 외교부 AI ‘모파이’ 도입  11월부터 정부부처 첫 운용 챗GPT처럼 질문·답변 방식 핵심업무 시간 40%까지 단축  환각 방지 위해 검증 AI 탑재 향후 단계적 기능 확대 통해 허위정보 탐지·챗봇 역할도외교부가 오는 11월부터 생성형 인공지능(AI) ‘모파이(MOFAI)’를 도입한다. ‘AI 정부’를 표방한 이재명 정부에서 부]]></summary>
+</wms_article_summary>
+<stock_codes>
+</stock_codes>
+<wms_article_keywords>
+</wms_article_keywords>
+<wms_code_classes>
+<wms_code_class>
+<code_id>MK100709</code_id>
+<code_nm><![CDATA[외교]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00302</middle_code_id>
+<middle_code_nm><![CDATA[정치]]></middle_code_nm>
+<small_code_id>MK100709</small_code_id>
+<small_code_nm><![CDATA[외교]]></small_code_nm>
+</wms_code_class>
+<wms_code_class>
+<code_id>MK101507</code_id>
+<code_nm><![CDATA[인공지능]]></code_nm>
+<large_code_id>0</large_code_id>
+<large_code_nm><![CDATA[뉴스]]></large_code_nm>
+<middle_code_id>00559</middle_code_id>
+<middle_code_nm><![CDATA[IT·과학]]></middle_code_nm>
+<small_code_id>MK101507</small_code_id>
+<small_code_nm><![CDATA[인공지능]]></small_code_nm>
+</wms_code_class>
+</wms_code_classes>
+<wms_article_images>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/31/news-p.v1.20250831.ab068f249d0e455c87bc1fc052518cb8_P1.jpg]]></image_url>
+<image_caption><![CDATA[ [사진 = 언스플래시]]]></image_caption>
+</wms_article_image>
+<wms_article_image>
+<image_url><![CDATA[https://wimg.mk.co.kr/news/cms/202508/31/news-p.v1.20250831.4dea9c4fa4f5497ca873d111bc4ed6a3_P1.png]]></image_url>
+<image_caption><![CDATA[ 외교부 AI ‘모파이’ 구축 사업 계획 [사진 = 외교부]]]></image_caption>
+</wms_article_image>
+</wms_article_images>
+<article_url><![CDATA[https://www.mk.co.kr/article/11407180]]></article_url>
+</article>
+</saltlux>

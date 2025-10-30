@@ -1,0 +1,13 @@
+steps:
+- name: 'gcr.io/cloud-builders/docker'
+  args: [
+    'build',
+    '--no-cache',
+    '-t', 'asia-northeast3-docker.pkg.dev/$PROJECT_ID/mk-news-repo/api:latest',
+    '-f', 'Dockerfile.api',
+    '.'
+  ]
+images:
+- 'asia-northeast3-docker.pkg.dev/$PROJECT_ID/mk-news-repo/api:latest'
+
+
