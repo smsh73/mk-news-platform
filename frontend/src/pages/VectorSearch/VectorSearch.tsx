@@ -34,6 +34,7 @@ import {
   Bookmark,
   TrendingUp,
 } from '@mui/icons-material';
+import { useEffect } from 'react';
 
 interface SearchResult {
   id: string;
@@ -45,6 +46,11 @@ interface SearchResult {
   tags: string[];
 }
 
+interface SearchHistoryItem {
+  query: string;
+  timestamp: string;
+}
+
 const VectorSearch: React.FC = () => {
   const [searchQuery, setSearchQuery] = useState('');
   const [searchResults, setSearchResults] = useState<SearchResult[]>([]);
@@ -53,6 +59,32 @@ const VectorSearch: React.FC = () => {
   const [similarityThreshold, setSimilarityThreshold] = useState(0.7);
   const [maxResults, setMaxResults] = useState(20);
   const [enableReranking, setEnableReranking] = useState(true);
+  const [searchHistory, setSearchHistory] = useState<SearchHistoryItem[]>([]);
+
+  // 검색 히스토리 로드
+  useEffect(() => {
+    const fetchSearchHistory = async () => {
+      try {
+        const response = await fetch('/api/search-history?limit=5');
+        if (response.ok) {
+          const data = await response.json();
+          if (data && Array.isArray(data)) {
+            const formattedHistory = data.map((item: any) => ({
+              query: item.query || '',
+              timestamp: item.created_at 
+                ? new Date(item.created_at).toLocaleString()
+                : new Date().toLocaleString()
+            }));
+            setSearchHistory(formattedHistory);
+          }
+        }
+      } catch (error) {
+        console.error('검색 히스토리 가져오기 실패:', error);
+      }
+    };
+
+    fetchSearchHistory();
+  }, []);
 
   const handleSearch = async () => {
     if (!searchQuery.trim()) return;
@@ -86,6 +118,16 @@ const VectorSearch: React.FC = () => {
             tags: item.tags || item.metadata?.tags || [],
           }));
           setSearchResults(formattedResults);
+          
+          // 검색 히스토리 추가
+          const newHistoryItem: SearchHistoryItem = {
+            query: searchQuery,
+            timestamp: new Date().toLocaleString()
+          };
+          setSearchHistory(prev => {
+            const filtered = prev.filter(item => item.query !== searchQuery);
+            return [newHistoryItem, ...filtered].slice(0, 5);
+          });
         } else {
           setSearchResults([]);
         }
@@ -225,17 +267,23 @@ const VectorSearch: React.FC = () => {
               <Typography variant="h6" gutterBottom>
                 최근 검색
               </Typography>
-              <List dense>
-                <ListItem>
-                  <ListItemText primary="경제 성장률" secondary="2시간 전" />
-                </ListItem>
-                <ListItem>
-                  <ListItemText primary="AI 기술 발전" secondary="1일 전" />
-                </ListItem>
-                <ListItem>
-                  <ListItemText primary="반도체 투자" secondary="2일 전" />
-                </ListItem>
-              </List>
+              {searchHistory.length === 0 ? (
+                <Alert severity="info">검색 히스토리가 없습니다.</Alert>
+              ) : (
+                <List dense>
+                  {searchHistory.map((item, index) => (
+                    <ListItem key={index} button onClick={() => {
+                      setSearchQuery(item.query);
+                      handleSearch();
+                    }}>
+                      <ListItemText 
+                        primary={item.query} 
+                        secondary={item.timestamp} 
+                      />
+                    </ListItem>
+                  ))}
+                </List>
+              )}
             </CardContent>
           </Card>
         </Box>

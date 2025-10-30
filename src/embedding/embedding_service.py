@@ -27,6 +27,7 @@ from google.cloud.aiplatform import gapic as aip
 # 로컬 임베딩 모델
 from .korean_embedding_model import KoreanEmbeddingModel
 from .article_metadata_extractor import ArticleMetadataExtractor
+from .text_chunker import TextChunker, get_text_chunker
 
 class EmbeddingService:
     """벡터 임베딩 서비스"""
@@ -37,6 +38,7 @@ class EmbeddingService:
         self.korean_model = None
         self.vertex_ai_client = None
         self.metadata_extractor = ArticleMetadataExtractor()
+        self.text_chunker = get_text_chunker(chunk_size=500, chunk_overlap=50, strategy="sentence")
         self._initialize_models()
     
     def _initialize_models(self):
@@ -153,8 +155,20 @@ class EmbeddingService:
             # Vertex AI 실패 시 로컬 모델 사용
             return self._generate_multilingual_embeddings(texts)
     
-    def generate_article_embedding(self, article_data: Dict) -> Dict:
-        """기사 임베딩 생성 (메타데이터 추출 포함)"""
+    def generate_article_embedding(self, article_data: Dict, use_chunking: bool = False, 
+                                   chunk_size: int = 500, chunk_overlap: int = 50) -> Dict:
+        """
+        기사 임베딩 생성 (메타데이터 추출 포함)
+        
+        Args:
+            article_data: 기사 데이터
+            use_chunking: 청킹 사용 여부 (긴 문서의 경우)
+            chunk_size: 청크 크기
+            chunk_overlap: 청크 오버랩
+            
+        Returns:
+            Dict: 임베딩 정보 (청킹 사용 시 'chunks' 키 포함)
+        """
         try:
             # 메타데이터 추출
             metadata = self.metadata_extractor.extract_metadata(article_data)
@@ -168,28 +182,75 @@ class EmbeddingService:
                 summary = article_data.get('summary', '')
                 indexing_text = self._preprocess_text(title, body, summary)
             
-            # 임베딩 생성 (Vertex AI 사용)
-            embedding = self.generate_embeddings([indexing_text], model_type="vertex_ai")[0]
-            
-            # 임베딩 메타데이터 구성
-            embedding_metadata = {
-                'model_name': self.model_name,
-                'embedding_type': 'vertex_ai',
-                'text_length': len(indexing_text),
-                'created_at': datetime.utcnow().isoformat(),
-                'embedding_dimension': len(embedding),
-                'article_metadata': metadata
-            }
-            
-            # 메타데이터 해시
-            metadata_hash = self.metadata_extractor.generate_metadata_hash(article_data, metadata)
-            
-            return {
-                'embedding': embedding,
-                'metadata': embedding_metadata,
-                'text_hash': hashlib.md5(indexing_text.encode('utf-8')).hexdigest(),
-                'metadata_hash': metadata_hash
-            }
+            # 청킹 사용 여부 결정
+            if use_chunking and len(indexing_text) > chunk_size:
+                # 텍스트를 청크로 분할
+                chunker = get_text_chunker(chunk_size=chunk_size, chunk_overlap=chunk_overlap, strategy="sentence")
+                chunks = chunker.chunk_text(indexing_text, metadata={'article_id': article_data.get('id', '')})
+                
+                # 각 청크에 대한 임베딩 생성
+                chunk_texts = [chunk.text for chunk in chunks]
+                chunk_embeddings = self.generate_embeddings(chunk_texts, model_type="vertex_ai")
+                
+                # 청크별 임베딩 정보 구성
+                chunk_embeddings_data = []
+                for i, (chunk, embedding) in enumerate(zip(chunks, chunk_embeddings)):
+                    chunk_embeddings_data.append({
+                        'chunk_index': i,
+                        'text': chunk.text,
+                        'embedding': embedding,
+                        'start_char': chunk.start_char,
+                        'end_char': chunk.end_char,
+                        'metadata': chunk.metadata
+                    })
+                
+                # 전체 텍스트의 대표 임베딩 (첫 번째 청크 또는 평균)
+                main_embedding = chunk_embeddings[0] if chunk_embeddings else None
+                
+                embedding_metadata = {
+                    'model_name': self.model_name,
+                    'embedding_type': 'vertex_ai',
+                    'text_length': len(indexing_text),
+                    'chunk_count': len(chunks),
+                    'created_at': datetime.utcnow().isoformat(),
+                    'embedding_dimension': len(chunk_embeddings[0]) if chunk_embeddings else 0,
+                    'article_metadata': metadata,
+                    'chunking': {
+                        'enabled': True,
+                        'chunk_size': chunk_size,
+                        'chunk_overlap': chunk_overlap
+                    }
+                }
+                
+                return {
+                    'embedding': main_embedding,
+                    'chunks': chunk_embeddings_data,
+                    'metadata': embedding_metadata,
+                    'text_hash': hashlib.md5(indexing_text.encode('utf-8')).hexdigest(),
+                    'metadata_hash': self.metadata_extractor.generate_metadata_hash(article_data, metadata),
+                    'is_chunked': True
+                }
+            else:
+                # 기존 방식: 전체 텍스트 임베딩
+                embedding = self.generate_embeddings([indexing_text], model_type="vertex_ai")[0]
+                
+                embedding_metadata = {
+                    'model_name': self.model_name,
+                    'embedding_type': 'vertex_ai',
+                    'text_length': len(indexing_text),
+                    'created_at': datetime.utcnow().isoformat(),
+                    'embedding_dimension': len(embedding),
+                    'article_metadata': metadata,
+                    'chunking': {'enabled': False}
+                }
+                
+                return {
+                    'embedding': embedding,
+                    'metadata': embedding_metadata,
+                    'text_hash': hashlib.md5(indexing_text.encode('utf-8')).hexdigest(),
+                    'metadata_hash': self.metadata_extractor.generate_metadata_hash(article_data, metadata),
+                    'is_chunked': False
+                }
             
         except Exception as e:
             logger.error(f"기사 임베딩 생성 중 오류 발생: {e}")

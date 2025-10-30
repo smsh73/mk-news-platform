@@ -361,8 +361,16 @@ class QueryProcessor:
             
             # 키워드 필터
             if '키워드' in text or '주제' in text:
-                # 키워드 추출 로직 추가 가능
-                pass
+                # 키워드 추출 로직
+                import re
+                keyword_pattern = r'키워드[:\s]+([^\n]+)|주제[:\s]+([^\n]+)'
+                matches = re.findall(keyword_pattern, text, re.IGNORECASE)
+                if matches:
+                    keywords = []
+                    for match in matches:
+                        keywords.extend([k.strip() for k in (match[0] or match[1]).split(',') if k.strip()])
+                    if keywords:
+                        filters['keywords'] = keywords
             
             return filters
             

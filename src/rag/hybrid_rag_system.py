@@ -237,13 +237,22 @@ class HybridRAGSystem:
                 
                 # 카테고리 필터
                 if 'categories' in filters:
-                    # 카테고리 정보 조회 필요
-                    pass
+                    # 카테고리 정보 조회
+                    article_categories = article.get('art_org_class', '')
+                    if article_categories:
+                        categories_list = article_categories.split(',') if isinstance(article_categories, str) else article_categories
+                        filter_categories = filters['categories']
+                        if not any(cat in categories_list for cat in filter_categories):
+                            continue
                 
                 # 기자 필터
                 if 'writers' in filters:
-                    # 기자 정보 매칭 필요
-                    pass
+                    # 기자 정보 매칭
+                    article_writer = article.get('writer', '') or article.get('author', '')
+                    if article_writer:
+                        filter_writers = filters['writers']
+                        if not any(writer.lower() in article_writer.lower() for writer in filter_writers):
+                            continue
                 
                 filtered_results.append(result)
             

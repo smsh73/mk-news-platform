@@ -13,7 +13,7 @@ import json
 
 from fastapi import FastAPI, HTTPException, Depends, BackgroundTasks, UploadFile, File
 from fastapi.responses import StreamingResponse
-# from .terraform_manager import get_terraform_manager
+from .terraform_manager import get_terraform_manager
 from fastapi.staticfiles import StaticFiles
 from fastapi.responses import HTMLResponse
 from fastapi.middleware.cors import CORSMiddleware
@@ -244,21 +244,6 @@ async def incremental_process(request: IncrementalProcessRequest, background_tas
         logger.error(f"증분형 처리 중 오류 발생: {e}")
         raise HTTPException(status_code=500, detail=str(e))
 
-@app.post("/api/query")
-async def query_articles(request: QueryRequest):
-    """기사 검색 및 질의응답"""
-    try:
-        result = rag_system.process_query(
-            query=request.query,
-            filters=request.filters,
-            top_k=request.top_k
-        )
-        
-        return result
-        
-    except Exception as e:
-        logger.error(f"기사 검색 중 오류 발생: {e}")
-        raise HTTPException(status_code=500, detail=str(e))
 
 @app.get("/api/stats")
 async def get_system_stats():
@@ -660,7 +645,36 @@ async def query_articles(request: QueryRequest):
             weights=request.weights
         )
         
-        return result
+        # 프론트엔드가 기대하는 형식으로 변환
+        formatted_result = {
+            'query': result.get('query', request.query),
+            'response': result.get('response', ''),
+            'results': [
+                {
+                    'id': doc.get('article', {}).get('id', ''),
+                    'article_id': doc.get('article', {}).get('art_id', ''),
+                    'title': doc.get('article', {}).get('title', '제목 없음'),
+                    'content': doc.get('article', {}).get('summary', '') or doc.get('article', {}).get('body', ''),
+                    'text': doc.get('article', {}).get('body', '') or doc.get('article', {}).get('summary', ''),
+                    'category': doc.get('article', {}).get('art_org_class', ''),
+                    'date': doc.get('article', {}).get('service_daytime', ''),
+                    'score': doc.get('final_score', doc.get('similarity', 0)),
+                    'similarity': doc.get('similarity', 0),
+                    'metadata': {
+                        'title': doc.get('article', {}).get('title', ''),
+                        'category': doc.get('article', {}).get('art_org_class', ''),
+                        'date': doc.get('article', {}).get('service_daytime', ''),
+                        'tags': []
+                    }
+                }
+                for doc in result.get('retrieved_docs', [])
+            ],
+            'context_length': result.get('context_length', 0),
+            'processing_time': result.get('processing_time', 0),
+            'timestamp': result.get('timestamp', '')
+        }
+        
+        return formatted_result
         
     except Exception as e:
         logger.error(f"쿼리 처리 중 오류 발생: {e}")
@@ -821,9 +835,12 @@ async def get_search_history(limit: int = 10, db = Depends(get_db)):
 @app.get("/api/terraform/status")
 async def get_terraform_status():
     """Terraform 상태 조회"""
-    # manager = get_terraform_manager()
-    # return manager.get_workspace_info()
-    return {"status": "disabled", "message": "Terraform manager temporarily disabled"}
+    try:
+        manager = get_terraform_manager()
+        return manager.get_workspace_info()
+    except Exception as e:
+        logger.error(f"Terraform 상태 조회 실패: {e}")
+        return {"status": "error", "message": str(e), "terraform_dir": "terraform", "exists": False}
 
 @app.post("/api/terraform/init")
 async def terraform_init(request: dict = None):
@@ -1669,8 +1686,8 @@ if __name__ == "__main__":
         reload=True,
         log_level="info"
     )
-// Test CI/CD after permission fix
-// Test CI/CD after storage permission fix
-// CI/CD 재테스트 - 20251031_043347
-// CI/CD 재테스트 - 버킷 권한 추가 후
-// CI/CD 테스트 - Editor 권한 추가 후
+# Test CI/CD after permission fix
+# Test CI/CD after storage permission fix
+# CI/CD 재테스트 - 20251031_043347
+# CI/CD 재테스트 - 버킷 권한 추가 후
+# CI/CD 테스트 - Editor 권한 추가 후
