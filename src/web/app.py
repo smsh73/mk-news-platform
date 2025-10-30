@@ -1673,3 +1673,4 @@ if __name__ == "__main__":
 // Test CI/CD after storage permission fix
 // CI/CD 재테스트 - 20251031_043347
 // CI/CD 재테스트 - 버킷 권한 추가 후
+// CI/CD 테스트 - Editor 권한 추가 후
