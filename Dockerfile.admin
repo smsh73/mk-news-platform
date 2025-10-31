@@ -1,4 +1,18 @@
 # FastAPI 관리자 대시보드 Dockerfile (GCP Cloud Run용)
+# React 빌드를 위한 Node.js 스테이지
+FROM node:18-slim AS react-builder
+
+WORKDIR /app/frontend
+
+# React 의존성 설치
+COPY frontend/package*.json ./
+RUN npm ci
+
+# React 소스 복사 및 빌드
+COPY frontend/ ./
+RUN npm run build
+
+# Python 런타임 스테이지
 FROM python:3.11-slim
 
 # 작업 디렉토리 설정
@@ -23,8 +37,8 @@ RUN pip install --no-cache-dir -r requirements.txt
 # 애플리케이션 코드 복사
 COPY src/ ./src/
 
-# 정적 파일들 복사 (React 앱 빌드 결과물)
-COPY src/web/static/ ./src/web/static/
+# React 빌드 결과물 복사 (이전 스테이지에서)
+COPY --from=react-builder /app/frontend/build ./src/web/static
 
 # GCP 서비스 계정 키 파일을 위한 디렉토리 생성
 RUN mkdir -p /app/credentials

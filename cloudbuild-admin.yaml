@@ -1,23 +1,5 @@
 steps:
-  # React 프론트엔드 빌드
-  - name: 'node:18'
-    entrypoint: 'bash'
-    args:
-      - '-c'
-      - |
-        cd frontend
-        npm ci
-        npm run build
-        # 빌드 결과물을 src/web/static으로 복사
-        # React 빌드는 build/static/ 디렉토리에 파일을 생성하므로 전체 구조를 유지
-        mkdir -p ../src/web/static
-        rm -rf ../src/web/static/*
-        cp -r build/* ../src/web/static/
-        # 빌드 결과 확인
-        ls -la ../src/web/static/
-        ls -la ../src/web/static/static/js/ 2>/dev/null || echo "static/js directory not found"
-
-  # Docker 이미지 빌드
+  # Docker 이미지 빌드 (React 빌드 포함)
   - name: 'gcr.io/cloud-builders/docker'
     args:
       - 'build'
