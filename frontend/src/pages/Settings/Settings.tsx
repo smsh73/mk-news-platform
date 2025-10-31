@@ -35,6 +35,9 @@ import {
   Cloud,
   Storage,
   Api,
+  CheckCircle,
+  Error as ErrorIcon,
+  Login as LoginIcon,
 } from '@mui/icons-material';
 
 interface SystemConfig {
