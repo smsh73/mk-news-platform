@@ -1399,12 +1399,18 @@ async def upload_xml_file(
     """XML 파일 업로드 및 임베딩 처리"""
     try:
         # 업로드된 파일 저장
-        upload_dir = Path("uploaded_xml")
-        upload_dir.mkdir(exist_ok=True)
+        # Cloud Run은 읽기 전용 파일 시스템이므로 /tmp 사용
+        import tempfile
+        import os
+        temp_dir = os.environ.get('TMPDIR', '/tmp')
+        upload_dir = Path(temp_dir) / "uploaded_xml"
+        upload_dir.mkdir(exist_ok=True, parents=True)
         
         # 타임스탬프가 포함된 파일명 생성
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        file_path = upload_dir / f"{timestamp}_{file.filename}"
+        # 파일명의 특수문자 정리
+        safe_filename = file.filename.replace('/', '_').replace('\\', '_')
+        file_path = upload_dir / f"{timestamp}_{safe_filename}"
         
         # 파일 저장
         with open(file_path, "wb") as f:
