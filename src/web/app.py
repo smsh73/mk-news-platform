@@ -1681,6 +1681,43 @@ async def complete_gcp_login():
             "error": str(e)
         }
 
+# React Router를 위한 catch-all 라우트
+# /api로 시작하지 않는 모든 경로는 index.html을 반환
+@app.get("/{path:path}", response_class=HTMLResponse)
+async def catch_all(path: str):
+    """
+    React Router를 위한 catch-all 라우트
+    /api로 시작하지 않는 모든 경로는 React 앱의 index.html을 반환
+    """
+    # API 경로는 제외
+    if path.startswith("api/") or path == "api":
+        raise HTTPException(status_code=404, detail="Not Found")
+    
+    # 정적 파일 경로는 제외 (이미 /static으로 마운트됨)
+    if path.startswith("static/"):
+        raise HTTPException(status_code=404, detail="Not Found")
+    
+    # index.html 반환
+    static_path = os.path.join(os.path.dirname(__file__), "static")
+    index_path = os.path.join(static_path, "index.html")
+    
+    if os.path.exists(index_path):
+        with open(index_path, "r", encoding="utf-8") as f:
+            return HTMLResponse(content=f.read())
+    else:
+        return HTMLResponse(content="""
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <title>매일경제 AI 플랫폼</title>
+        </head>
+        <body>
+            <h1>매일경제 신문기사 벡터임베딩 플랫폼에 오신 것을 환영합니다!</h1>
+            <p>React 앱이 아직 빌드되지 않았습니다.</p>
+        </body>
+        </html>
+        """)
+
 # 애플리케이션 시작 시 데이터베이스 초기화
 @app.on_event("startup")
 async def startup_event():
