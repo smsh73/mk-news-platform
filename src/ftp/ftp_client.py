@@ -244,18 +244,23 @@ class FTPClient:
 
 def get_ftp_client(
     environment: str = "test",
-    download_dir: str = "ftp_downloads"
+    download_dir: str = None
 ) -> FTPClient:
     """
     환경에 따른 FTP 클라이언트 생성
     
     Args:
         environment: "test" 또는 "production"
-        download_dir: 다운로드 디렉토리
+        download_dir: 다운로드 디렉토리 (None이면 Cloud Run 환경에 맞게 자동 설정)
         
     Returns:
         FTPClient 인스턴스
     """
+    # Cloud Run은 읽기 전용 파일 시스템이므로 /tmp 사용
+    if download_dir is None:
+        temp_dir = os.environ.get('TMPDIR', '/tmp')
+        download_dir = str(Path(temp_dir) / "ftp_downloads")
+    
     if environment == "production":
         # 실제 FTP 서버
         return FTPClient(

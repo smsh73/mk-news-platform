@@ -17,8 +17,9 @@ logger = logging.getLogger(__name__)
 class FTPPipeline:
     """FTP → GCS → 임베딩 파이프라인"""
     
-    def __init__(self, environment: str = "test"):
+    def __init__(self, environment: str = "test", download_dir: str = None):
         self.environment = environment
+        self.download_dir = download_dir
         self.ftp_client = None
         self.gcs_client = GCSClient()
         self.xml_processor = XMLProcessor()
@@ -36,7 +37,7 @@ class FTPPipeline:
     def connect_ftp(self) -> bool:
         """FTP 서버에 연결"""
         try:
-            self.ftp_client = get_ftp_client(self.environment)
+            self.ftp_client = get_ftp_client(self.environment, download_dir=self.download_dir)
             return self.ftp_client.connect()
         except Exception as e:
             logger.error(f"FTP 연결 실패: {e}")

@@ -1187,7 +1187,11 @@ def execute_ftp_pipeline_background(
     db = next(get_db())
     try:
         # FTP 파이프라인 초기화
-        pipeline = FTPPipeline(environment=environment)
+        # Cloud Run은 읽기 전용 파일 시스템이므로 /tmp 사용
+        import tempfile
+        temp_dir = os.environ.get('TMPDIR', '/tmp')
+        download_dir = str(Path(temp_dir) / "ftp_downloads")
+        pipeline = FTPPipeline(environment=environment, download_dir=download_dir)
         
         # FTP 연결
         if not pipeline.connect_ftp():
