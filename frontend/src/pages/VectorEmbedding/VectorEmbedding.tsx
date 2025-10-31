@@ -103,12 +103,28 @@ const VectorEmbedding: React.FC = () => {
       const response = await fetch('/api/gcp/auth-status');
       if (response.ok) {
         const data = await response.json();
+        // Cloud Run 환경에서는 gcloud CLI가 없을 수 있으므로
+        // 에러가 없거나 authenticated가 false여도 Service Account 인증으로 간주
+        if (data.error) {
+          // gcloud CLI 관련 에러인 경우 Cloud Run 환경으로 간주
+          if ('gcloud' in data.error.toLowerCase() || 'not found' in data.error.toLowerCase()) {
+            setGcpAuthenticated(true); // Service Account 인증 사용 중으로 간주
+            setGcpAuthStatus({ ...data, is_service_account: true });
+            return;
+          }
+        }
         setGcpAuthenticated(data.authenticated || false);
         setGcpAuthStatus(data);
+      } else {
+        // Cloud Run 환경에서는 Service Account를 사용하므로 인증된 것으로 간주
+        setGcpAuthenticated(true);
+        setGcpAuthStatus({ is_service_account: true });
       }
     } catch (error) {
       console.error('GCP 인증 상태 확인 실패:', error);
-      setGcpAuthenticated(false);
+      // Cloud Run 환경에서는 Service Account를 사용하므로 인증된 것으로 간주
+      setGcpAuthenticated(true);
+      setGcpAuthStatus({ is_service_account: true });
     }
   };
 
@@ -208,7 +224,8 @@ const VectorEmbedding: React.FC = () => {
       setSelectedFiles(xmlFiles);
     }
     
-    setUploadDialogOpen(true);
+    // 다이얼로그 없이 바로 파일 선택 완료
+    // setUploadDialogOpen(true); // 제거 - 다이얼로그 없이 바로 업로드 가능
   };
 
   const handleStartEmbedding = async () => {
@@ -284,15 +301,8 @@ const VectorEmbedding: React.FC = () => {
     setUploadProgress(0);
 
     try {
-      // GCP 인증 확인 (복수 파일 처리 시 필요)
-      if (!gcpAuthenticated && filesToUpload.length > 0) {
-        const confirmLogin = window.confirm('GCP 로그인이 필요합니다. 로그인하시겠습니까?');
-        if (confirmLogin) {
-          await handleGcpLogin();
-          setIsProcessing(false);
-          return;
-        }
-      }
+      // GCP 인증 확인 (Cloud Run에서는 Service Account 사용, 로컬 개발만 체크)
+      // Cloud Run 환경에서는 체크하지 않고 진행
 
       // 복수 파일 업로드
       const uploadPromises = filesToUpload.map(async (file, index) => {
@@ -319,9 +329,14 @@ const VectorEmbedding: React.FC = () => {
 
       if (successCount > 0) {
         alert(`${successCount}개 파일 업로드 및 임베딩이 시작되었습니다.${failCount > 0 ? `\n${failCount}개 파일 업로드 실패.` : ''}`);
-        setUploadDialogOpen(false);
+        // 파일 선택 초기화
         setSelectedFile(null);
         setSelectedFiles([]);
+        // input 요소도 초기화
+        const fileInput = document.getElementById('xml-file-upload') as HTMLInputElement;
+        if (fileInput) {
+          fileInput.value = '';
+        }
         
         // 작업 목록 새로고침
         setTimeout(() => {
@@ -401,7 +416,7 @@ const VectorEmbedding: React.FC = () => {
           {gcpAuthenticated ? (
             <Chip 
               icon={<CheckCircle />} 
-              label={`GCP 로그인됨: ${gcpAuthStatus?.active_account || 'N/A'}`} 
+              label={`GCP 인증됨: ${gcpAuthStatus?.active_account || 'Service Account'}`} 
               color="success" 
               size="small"
             />
@@ -409,7 +424,7 @@ const VectorEmbedding: React.FC = () => {
             <>
               <Chip 
                 icon={<Warning />} 
-                label="GCP 로그인 필요" 
+                label="GCP 로그인 필요 (로컬 개발용)" 
                 color="warning" 
                 size="small"
               />
@@ -533,21 +548,49 @@ const VectorEmbedding: React.FC = () => {
                   multiple
                   onChange={handleFileSelect}
                 />
-                <label htmlFor="xml-file-upload">
-                  <Button
-                    variant="outlined"
-                    component="span"
-                    startIcon={<Upload />}
-                    sx={{ flex: 1 }}
-                  >
-                    XML 파일 선택 {selectedFiles.length > 0 && `(${selectedFiles.length}개 선택됨)`}
-                  </Button>
-                </label>
-                {selectedFiles.length > 1 && (
-                  <Alert severity="info" sx={{ flex: 1 }}>
-                    {selectedFiles.length}개 파일이 선택되었습니다. 모두 동시에 처리됩니다.
-                  </Alert>
-                )}
+                <Box sx={{ display: 'flex', flexDirection: 'column', flex: 1, gap: 1 }}>
+                  <label htmlFor="xml-file-upload">
+                    <Button
+                      variant="outlined"
+                      component="span"
+                      startIcon={<Upload />}
+                      fullWidth
+                    >
+                      XML 파일 선택 (복수 선택 가능) {selectedFiles.length > 0 && `(${selectedFiles.length}개 선택됨)`}
+                    </Button>
+                  </label>
+                  {selectedFiles.length > 0 && (
+                    <Box sx={{ pl: 1 }}>
+                      <Typography variant="caption" color="text.secondary">
+                        선택된 파일:
+                      </Typography>
+                      <List dense sx={{ py: 0 }}>
+                        {selectedFiles.map((file, index) => (
+                          <ListItem key={index} sx={{ py: 0, px: 1 }}>
+                            <ListItemText 
+                              primary={file.name}
+                              secondary={`${(file.size / 1024).toFixed(2)} KB`}
+                            />
+                            <IconButton
+                              size="small"
+                              onClick={() => {
+                                const newFiles = selectedFiles.filter((_, i) => i !== index);
+                                setSelectedFiles(newFiles);
+                                if (newFiles.length === 1) {
+                                  setSelectedFile(newFiles[0]);
+                                } else if (newFiles.length === 0) {
+                                  setSelectedFile(null);
+                                }
+                              }}
+                            >
+                              <Delete fontSize="small" />
+                            </IconButton>
+                          </ListItem>
+                        ))}
+                      </List>
+                    </Box>
+                  )}
+                </Box>
                 <Button
                   variant="contained"
                   onClick={handleStartEmbedding}
