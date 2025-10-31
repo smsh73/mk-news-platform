@@ -9,6 +9,7 @@ import {
   Chip,
   List,
   ListItem,
+  ListItemButton,
   ListItemText,
   ListItemSecondaryAction,
   IconButton,
@@ -272,14 +273,16 @@ const VectorSearch: React.FC = () => {
               ) : (
                 <List dense>
                   {searchHistory.map((item, index) => (
-                    <ListItem key={index} button onClick={() => {
-                      setSearchQuery(item.query);
-                      handleSearch();
-                    }}>
-                      <ListItemText 
-                        primary={item.query} 
-                        secondary={item.timestamp} 
-                      />
+                    <ListItem key={index} disablePadding>
+                      <ListItemButton onClick={() => {
+                        setSearchQuery(item.query);
+                        handleSearch();
+                      }}>
+                        <ListItemText 
+                          primary={item.query} 
+                          secondary={item.timestamp} 
+                        />
+                      </ListItemButton>
                     </ListItem>
                   ))}
                 </List>
