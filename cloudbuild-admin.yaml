@@ -1,4 +1,17 @@
 steps:
+  # React 프론트엔드 빌드
+  - name: 'node:18'
+    entrypoint: 'bash'
+    args:
+      - '-c'
+      - |
+        cd frontend
+        npm ci
+        npm run build
+        # 빌드 결과물을 src/web/static으로 복사
+        mkdir -p ../src/web/static
+        cp -r build/* ../src/web/static/
+
   # Docker 이미지 빌드
   - name: 'gcr.io/cloud-builders/docker'
     args:
