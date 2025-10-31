@@ -1452,7 +1452,10 @@ async def upload_xml_file(
         }
     except Exception as e:
         logger.error(f"파일 업로드 실패: {str(e)}")
-        return {"success": False, "error": str(e)}
+        import traceback
+        error_details = traceback.format_exc()
+        logger.error(f"상세 오류: {error_details}")
+        raise HTTPException(status_code=500, detail=f"파일 업로드 실패: {str(e)}")
 
 
 def process_xml_embeddings(file_path: str, job_id: str):

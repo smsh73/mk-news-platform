@@ -306,19 +306,29 @@ const VectorEmbedding: React.FC = () => {
 
       // 복수 파일 업로드
       const uploadPromises = filesToUpload.map(async (file, index) => {
-        const formData = new FormData();
-        formData.append('file', file);
+        try {
+          const formData = new FormData();
+          formData.append('file', file);
 
-        const response = await fetch('/api/upload-xml', {
-          method: 'POST',
-          body: formData,
-        });
+          const response = await fetch('/api/upload-xml', {
+            method: 'POST',
+            body: formData,
+          });
 
-        if (response.ok) {
-          const result = await response.json();
-          return { success: true, filename: file.name, job_id: result.job_id, ...result };
-        } else {
-          return { success: false, filename: file.name, error: 'Upload failed' };
+          if (response.ok) {
+            const result = await response.json();
+            if (result.success) {
+              return { success: true, filename: file.name, job_id: result.job_id, ...result };
+            } else {
+              return { success: false, filename: file.name, error: result.error || 'Upload failed' };
+            }
+          } else {
+            const errorData = await response.json().catch(() => ({ detail: response.statusText }));
+            return { success: false, filename: file.name, error: errorData.detail || errorData.error || `HTTP ${response.status}: ${response.statusText}` };
+          }
+        } catch (error: any) {
+          console.error(`파일 업로드 오류 (${file.name}):`, error);
+          return { success: false, filename: file.name, error: error.message || 'Network error' };
         }
       });
 
