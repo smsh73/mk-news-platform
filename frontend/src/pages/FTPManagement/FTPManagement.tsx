@@ -80,6 +80,7 @@ const FTPManagement: React.FC = () => {
   const [deleteAfterDownload, setDeleteAfterDownload] = useState(false);
   const [uploadToGCS, setUploadToGCS] = useState(true);
   const [createEmbeddings, setCreateEmbeddings] = useState(true);
+  const [ftpLogs, setFtpLogs] = useState<string[]>([]);
 
   // 컴포넌트 마운트 시 FTP 연결 상태 확인
   useEffect(() => {
@@ -117,29 +118,61 @@ const FTPManagement: React.FC = () => {
 
   const handleConnect = async () => {
     setIsProcessing(true);
+    setFtpLogs([]); // 로그 초기화
+    
+    // 로그 추가 헬퍼 함수
+    const addLog = (message: string) => {
+      const timestamp = new Date().toLocaleTimeString();
+      setFtpLogs(prev => [...prev, `[${timestamp}] ${message}`]);
+    };
+    
+    addLog('FTP 연결 시작...');
+    
     try {
       const response = await fetch('/api/ftp/connect', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
         },
+        body: JSON.stringify({
+          environment: 'test', // 환경 선택은 나중에 추가 가능
+        }),
       });
       
       if (response.ok) {
         const result = await response.json();
+        
+        // 백엔드에서 받은 로그 표시
+        if (result.logs && Array.isArray(result.logs)) {
+          result.logs.forEach((log: string) => {
+            addLog(log);
+          });
+        } else if (result.message) {
+          addLog(result.message);
+        }
+        
         setFtpConnection(prev => ({
           ...prev,
           status: result.success ? 'connected' : 'error',
           lastConnected: result.success ? new Date().toISOString() : undefined,
         }));
+        
+        if (result.success) {
+          addLog('✓ FTP 연결 완료');
+        } else {
+          addLog(`✗ FTP 연결 실패: ${result.error || 'Unknown error'}`);
+        }
       } else {
+        const errorData = await response.json().catch(() => ({ detail: response.statusText }));
+        addLog(`✗ HTTP 오류: ${response.status} ${errorData.detail || response.statusText}`);
         setFtpConnection(prev => ({
           ...prev,
           status: 'error',
         }));
       }
-    } catch (error) {
+    } catch (error: any) {
       console.error('FTP 연결 실패:', error);
+      addLog(`✗ 네트워크 오류: ${error.message || 'Unknown error'}`);
       setFtpConnection(prev => ({
         ...prev,
         status: 'error',
@@ -546,6 +579,70 @@ const FTPManagement: React.FC = () => {
               </TableBody>
             </Table>
           </TableContainer>
+        </CardContent>
+      </Card>
+
+      {/* FTP 연결 로그 */}
+      <Card>
+        <CardContent>
+          <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', mb: 2 }}>
+            <Typography variant="h6">
+              FTP 연결 로그
+            </Typography>
+            <Button
+              variant="outlined"
+              size="small"
+              onClick={() => setFtpLogs([])}
+              disabled={ftpLogs.length === 0}
+            >
+              로그 지우기
+            </Button>
+          </Box>
+          
+          <Paper
+            variant="outlined"
+            sx={{
+              p: 2,
+              maxHeight: '400px',
+              overflow: 'auto',
+              backgroundColor: '#f5f5f5',
+              fontFamily: 'monospace',
+              fontSize: '0.875rem',
+            }}
+          >
+            {ftpLogs.length === 0 ? (
+              <Typography variant="body2" color="text.secondary" sx={{ fontStyle: 'italic' }}>
+                FTP 연결을 시도하면 로그가 여기에 표시됩니다.
+              </Typography>
+            ) : (
+              <Box component="pre" sx={{ margin: 0, whiteSpace: 'pre-wrap', wordBreak: 'break-word' }}>
+                {ftpLogs.map((log, index) => {
+                  // 로그 레벨에 따라 색상 구분
+                  let color = 'text.primary';
+                  if (log.includes('[ERROR]') || log.includes('✗')) {
+                    color = 'error.main';
+                  } else if (log.includes('[SUCCESS]') || log.includes('✓')) {
+                    color = 'success.main';
+                  } else if (log.includes('[INFO]')) {
+                    color = 'info.main';
+                  }
+                  
+                  return (
+                    <Typography
+                      key={index}
+                      variant="body2"
+                      sx={{
+                        color,
+                        mb: 0.5,
+                      }}
+                    >
+                      {log}
+                    </Typography>
+                  );
+                })}
+              </Box>
+            )}
+          </Paper>
         </CardContent>
       </Card>
 

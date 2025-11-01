@@ -1024,24 +1024,61 @@ async def get_terraform_logs():
 async def ftp_connect(request: dict = None):
     """FTP 서버에 연결"""
     global ftp_client_instance
+    logs = []
     try:
-        environment = request.get('environment', 'test') if request else 'test'
-        download_dir = request.get('download_dir', 'ftp_downloads') if request else 'ftp_downloads'
+        request_data = request or {}
+        environment = request_data.get('environment', 'test')
+        download_dir = request_data.get('download_dir')
         
+        logs.append(f"[INFO] FTP 연결 시작 - 환경: {environment}")
+        
+        # Cloud Run은 읽기 전용 파일 시스템이므로 /tmp 사용
+        if download_dir is None:
+            import os
+            temp_dir = os.environ.get('TMPDIR', '/tmp')
+            download_dir = str(Path(temp_dir) / "ftp_downloads")
+            logs.append(f"[INFO] 다운로드 디렉토리 자동 설정: {download_dir}")
+        
+        logs.append(f"[INFO] FTP 클라이언트 생성 중...")
         ftp_client_instance = get_ftp_client(environment=environment, download_dir=download_dir)
         
+        logs.append(f"[INFO] FTP 서버 연결 시도 중...")
+        logs.append(f"[INFO] - 호스트: {ftp_client_instance.host}")
+        logs.append(f"[INFO] - 포트: {ftp_client_instance.port}")
+        logs.append(f"[INFO] - 사용자: {ftp_client_instance.username}")
+        
         if ftp_client_instance.connect():
+            connection_info = ftp_client_instance.get_connection_info()
+            logs.append(f"[SUCCESS] FTP 서버 연결 성공!")
+            logs.append(f"[INFO] 연결 정보: {connection_info}")
+            
             return {
                 "success": True,
-                "info": ftp_client_instance.get_connection_info()
+                "info": connection_info,
+                "logs": logs,
+                "message": f"FTP 서버({ftp_client_instance.host}:{ftp_client_instance.port})에 성공적으로 연결되었습니다."
             }
         else:
+            logs.append(f"[ERROR] FTP 서버 연결 실패")
             return {
                 "success": False,
-                "error": "FTP 서버 연결 실패"
+                "error": "FTP 서버 연결 실패",
+                "logs": logs,
+                "message": "FTP 서버에 연결할 수 없습니다. 호스트와 포트를 확인하세요."
             }
     except Exception as e:
-        return {"success": False, "error": str(e)}
+        import traceback
+        error_details = traceback.format_exc()
+        logs.append(f"[ERROR] 예외 발생: {str(e)}")
+        logs.append(f"[ERROR] 상세 오류:\n{error_details}")
+        logger.error(f"FTP 연결 오류: {error_details}")
+        
+        return {
+            "success": False,
+            "error": str(e),
+            "logs": logs,
+            "message": f"FTP 연결 중 오류가 발생했습니다: {str(e)}"
+        }
 
 @app.post("/api/ftp/disconnect")
 async def ftp_disconnect():
