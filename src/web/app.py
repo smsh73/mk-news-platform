@@ -1401,27 +1401,78 @@ async def upload_xml_file(
     background_tasks: BackgroundTasks = None
 ):
     """XML 파일 업로드 및 임베딩 처리"""
+    file_path = None
     try:
         # 업로드된 파일 저장
         # Cloud Run은 읽기 전용 파일 시스템이므로 /tmp 사용
         import tempfile
         import os
-        temp_dir = os.environ.get('TMPDIR', '/tmp')
-        upload_dir = Path(temp_dir) / "uploaded_xml"
-        upload_dir.mkdir(exist_ok=True, parents=True)
         
-        # 타임스탬프가 포함된 파일명 생성
-        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        # TMPDIR 환경 변수 확인 또는 /tmp 사용
+        temp_dir = os.environ.get('TMPDIR')
+        if not temp_dir:
+            # Cloud Run은 TMPDIR이 설정되어 있지만, 없으면 /tmp 사용
+            temp_dir = '/tmp'
+        
+        # 디렉토리 경로 확인 및 생성
+        upload_dir = Path(temp_dir) / "uploaded_xml"
+        try:
+            upload_dir.mkdir(exist_ok=True, parents=True)
+            logger.info(f"업로드 디렉토리 준비 완료: {upload_dir}")
+        except Exception as dir_error:
+            logger.error(f"디렉토리 생성 실패 ({upload_dir}): {str(dir_error)}")
+            # /tmp 직접 사용 시도
+            if upload_dir != Path(temp_dir):
+                upload_dir = Path(temp_dir)
+                try:
+                    upload_dir.mkdir(exist_ok=True, parents=True)
+                    logger.info(f"대체 디렉토리 사용: {upload_dir}")
+                except Exception as dir_error2:
+                    logger.error(f"대체 디렉토리 생성도 실패: {str(dir_error2)}")
+                    raise HTTPException(
+                        status_code=500, 
+                        detail=f"업로드 디렉토리 생성 실패: {str(dir_error2)}"
+                    )
+            else:
+                raise HTTPException(
+                    status_code=500,
+                    detail=f"업로드 디렉토리 생성 실패: {str(dir_error)}"
+                )
+        
+        # 타임스탬프가 포함된 파일명 생성 (중복 방지를 위해 마이크로초 포함)
+        import time
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S_%f")
         # 파일명의 특수문자 정리
-        safe_filename = file.filename.replace('/', '_').replace('\\', '_')
+        safe_filename = file.filename.replace('/', '_').replace('\\', '_').replace('..', '_')
         file_path = upload_dir / f"{timestamp}_{safe_filename}"
         
-        # 파일 저장
-        with open(file_path, "wb") as f:
-            content = await file.read()
-            f.write(content)
-        
-        logger.info(f"XML 파일 업로드 완료: {file_path}")
+        # 파일 저장 (권한 확인 포함)
+        try:
+            logger.info(f"파일 저장 시작: {file_path} (크기: {file.size if hasattr(file, 'size') else 'Unknown'})")
+            with open(file_path, "wb") as f:
+                content = await file.read()
+                if not content:
+                    raise HTTPException(status_code=400, detail="업로드된 파일이 비어있습니다.")
+                f.write(content)
+            
+            # 파일이 실제로 저장되었는지 확인
+            if not file_path.exists():
+                raise HTTPException(status_code=500, detail="파일 저장 후 확인 실패")
+            
+            file_size = file_path.stat().st_size
+            logger.info(f"XML 파일 업로드 완료: {file_path} (크기: {file_size} bytes)")
+        except PermissionError as perm_error:
+            logger.error(f"파일 쓰기 권한 오류: {str(perm_error)}")
+            raise HTTPException(
+                status_code=500,
+                detail=f"파일 쓰기 권한 오류: {str(perm_error)}. 디렉토리: {upload_dir}"
+            )
+        except OSError as os_error:
+            logger.error(f"파일 시스템 오류: {str(os_error)}")
+            raise HTTPException(
+                status_code=500,
+                detail=f"파일 저장 실패: {str(os_error)}"
+            )
         
         # 처리 로그 생성
         db = next(get_db())
@@ -1434,6 +1485,12 @@ async def upload_xml_file(
             db.add(log_entry)
             db.commit()
             job_id = str(log_entry.id)
+            logger.info(f"처리 로그 생성 완료: job_id={job_id}")
+        except Exception as db_error:
+            logger.error(f"DB 로그 생성 실패: {str(db_error)}")
+            # DB 실패해도 파일은 저장했으므로 계속 진행
+            import uuid
+            job_id = str(uuid.uuid4())
         finally:
             db.close()
         
@@ -1458,14 +1515,29 @@ async def upload_xml_file(
             "success": True,
             "message": "파일 업로드가 시작되었습니다.",
             "job_id": job_id,
-            "filename": file.filename
+            "filename": file.filename,
+            "file_path": str(file_path)
         }
+    except HTTPException:
+        raise
     except Exception as e:
         logger.error(f"파일 업로드 실패: {str(e)}")
         import traceback
         error_details = traceback.format_exc()
         logger.error(f"상세 오류: {error_details}")
-        raise HTTPException(status_code=500, detail=f"파일 업로드 실패: {str(e)}")
+        
+        # 실패한 파일 정리 시도
+        if file_path and file_path.exists():
+            try:
+                file_path.unlink()
+                logger.info(f"실패한 파일 삭제: {file_path}")
+            except Exception as cleanup_error:
+                logger.warning(f"파일 정리 실패: {str(cleanup_error)}")
+        
+        raise HTTPException(
+            status_code=500, 
+            detail=f"파일 업로드 실패: {str(e)}"
+        )
 
 
 def process_xml_embeddings(file_path: str, job_id: str):
